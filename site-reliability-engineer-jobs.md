@@ -206,50 +206,50 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 
-      <p>Next-gen operations at scale, with pure Python infra-as-code, from bare metal to containers and applications. Our goal is to perfect enterprise infrastructure devops.</p>
+      <p>Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.</p>
+<p>The company is founder led, profitable and growing.</p>
+<h2><strong>We are hiring a Site Reliability Engineer</strong></h2>
+<p>Next-gen operations at scale, with pure Python infra-as-code, from bare metal to containers and applications. Our goal is to perfect enterprise infrastructure devops.</p>
 <p>We run hundreds of private cloud, Kubernetes, and application clusters for customers across physical and public cloud estate, and we are raising the bar on what's possible with automation by embracing a universal operator pattern and model-driven operations.</p>
 <p>To succeed in this role you need to believe in automation as a pure software engineering problem, not a hack-it-till-it-works-for-me problem. You need to be interested in the scientific approach to operations at scale, driven by metrics and code, and you need to be able to learn the entire stack, from bare metal networking and kernel up to serverless and open source applications.</p>
-<h3>Site Reliability Engineer</h3>
-<p>Our site reliability engineers bring Python software-engineering skills and rigour to the operations domain. We practice devsecops from bare metal to application. We architect and run OpenStack, Kubernetes and software defined storage, and we enable devsecops for applications running on that infrastructure too.</p>
+<p>Location: Globally remote role</p>
+<h3><strong>The role entails</strong></h3>
+<p>Our cloud operations engineers bring Python software-engineering skills and rigour to the operations domain. We practise devsecops from bare metal to application. We architect and run OpenStack, Kubernetes and software defined storage, and we enable devsecops for applications running on that infrastructure too.</p>
 <p>To become a member of this team, you need to be a software engineer fluent in Python, you need a genuine interest in the full open source infrastructure stack from metal to containers, and you need the ability to work in a high pressure operations environment with mission-critical services for global brand name customers.</p>
 <p>As a member of the team you will gain experience in a broad range of cloud technologies. We evolve our offerings as the state of the art improves, so you get to stay current with the latest capabilities in open source infrastructure. We drive upgrades to keep our customers on the latest, best solutions.</p>
-<h4>What Canonical Offers</h4>
+<h3><strong>What we are looking for in you</strong></h3>
 <ul>
-<li>Technical management team that understands the details of what we are developing</li>
-<li>A culture of openness and inclusiveness</li>
-<li>Helpful and talented engineers who are world-class experts in many fields</li>
-<li>Teams focused on good work life balance with long average retention rates</li>
-<li>A wide range of engineering disciplines and career paths that can move between divisions</li>
-<li>Fully remote company for career growth without relocation requirements</li>
+<li>Degree in Software Engineering or Computer Science</li>
+<li>Experience with Linux and familiarity with Linux networking and storage</li>
+<li>Python software development expertise</li>
+<li>Operational experience</li>
+<li>Excellent interpersonal skills, curiosity, flexibility, and accountability</li>
+<li>Ability to travel internationally twice a year, for company events up to two weeks long</li>
 </ul>
-<h4>Requirements</h4>
-<ul>
-<li>Software Engineering or Computer Science degree</li>
-<li>Linux experience and familiarity with Linux networking and storage</li>
-<li>Python software development experience</li>
-<li>Demonstrated drive for continual learning</li>
-<li>Devops experience</li>
-</ul>
-<h4>Nice to haves</h4>
+<h3><strong>Nice-to-have skills</strong></h3>
 <ul>
 <li>Experience with OpenStack or Kubernetes deployment or operations</li>
-<li>We hope that you’ll join us in helping to shape and build the future of free software together</li>
+<li>Familiarity with public or private cloud management</li>
 </ul>
-<p>Of course we also offer...</p>
+<h2><strong>What we offer colleagues</strong></h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
 <ul>
-<li>Learning and Development</li>
-<li>Annual Compensation Review</li>
-<li>Recognition Rewards</li>
-<li>Annual Leave</li>
-<li>Priority Pass for travel</li>
-<li>Flexible working option</li>
+<li>Distributed work environment with twice-yearly team sprints in person</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues</li>
+<li>Priority Pass, and travel upgrades for long haul company events</li>
 </ul>
-<h3>About Canonical</h3>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h3>Canonical is an equal opportunity employer</h3>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.&nbsp;<a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-Remote</p><p>Requisition ID: 491</p><p></p>
+<h2><strong>About Canonical</strong></h2>
+<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
+<h3><strong>Canonical is an equal opportunity employer</strong></h3>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
+<p>&nbsp;#LI-Remote</p>
+<p><br><br></p><p>Requisition ID: 491</p><p></p>
     
                 </details>
                 </td>
