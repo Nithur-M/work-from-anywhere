@@ -96,6 +96,30 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/55028a36-609c-479c-9553-d4689ff2dd8c-1669620566663.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Airalo</h5>
+                    <h3>Senior Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/airalo/ee1044db-9052-4b68-890a-573a267e245c" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><b>About Airalo</b></div><div>Alo! Airalo is the world’s first eSIM store that helps people connect in over 200+ countries and regions across the globe. We are building the next digital service that revolutionizes the telecom industry. We are a travel-tech company and an equal-opportunity environment that values and executes diversity, inclusion, and equity. Our team is spread across 50+ countries and six continents. What glues us together is our commitment to changing the way you connect<span style="font-size: 13.3333px">. </span></div><div><br></div><div><b>About you</b></div><div>We hope that you care deeply about the quality of your work, the intrinsic worth of tasks, and the success of your team. You are self-disciplined and do not require micromanagement in terms of your skillset and work ethic. You do your best to flourish as an individual every day while working hard to foster a collaborative team environment. You believe in the importance of being — and staying — authentic, honest, positive, and kind. You are a good interlocutor with clear and concise communication. You are able to manage multiple projects, have an analytical mind, pay keen attention to detail, and love to get your hands dirty. You are cognizant, tolerant, and welcoming of vulnerabilities and cultural differences.</div><div><br></div><div><b>About the Role</b></div><div><b>Position</b>: Full-time / Employee</div><div><b>Location:</b>&nbsp;Remote-first </div><div><b>Benefits:</b>&nbsp;Health Insurance, work-from-anywhere stipend, annual wellness &amp; learning credits, annual all-expenses-paid company retreat in a gorgeous destination &amp; other benefits</div><div><br></div><div>Are you a backend engineer with a knack for building complex, scalable systems? Join our team as a Senior Backend Engineer, where you’ll craft innovative features, optimize large-scale distributed systems, and shape the future of our core product. We value expertise, creativity, and a passion for excellence. While our focus is Laravel, we’re open to seasoned Symfony developers eager to transition and make an impact.</div><h3>Responsibilities include but are not limited to:</h3><li>Design and maintain large-scale, high-performance systems.</li><li>Develop and refine services to improve scalability and efficiency.</li><li>Create RESTful APIs that power our front-end and third-party integrations.</li><li>Collaborate on our migration to a service-oriented architecture (SOA).</li><li>Write clean, maintainable, and testable code using industry best practices.</li><li>Troubleshoot, debug, and resolve technical challenges.</li><li>Actively contribute to all phases of the software development lifecycle.</li>,<h3>Does this sound like you?</h3><li>5+ years of backend development experience in PHP.</li><li>2+ years working with Laravel to build enterprise-level applications or equivalent experience with Symfony and a strong motivation to learn Laravel.</li><li>Expertise in distributed systems, scalable services, and RESTful APIs.</li><li>Familiarity with event-driven architecture and messaging systems (e.g., queues, pub/sub).</li><li>Strong SQL/NoSQL knowledge and caching strategies.</li><li>Proficiency in OOP, SOLID principles, and design patterns.</li><li>Experience with AWS services (e.g., EC2, Lambda, SQS, Aurora, DynamoDB).</li><li>Hands-on containerization skills with Docker.</li><li>Fluent English communication skills.</li>,<h3>Bonus points:</h3><li>Knowledge of PaaS/SaaS, SOA, and microservices architecture.</li><li>Prior experience in telecommunications or network infrastructure.</li><li>Familiarity with eSIM and GSMA technologies.</li><li>Experience in Traveltech</li><div>If you are interested in this position, <b>please apply via the link.</b></div><div><br></div><div><i style="font-size: 15px;">Please note that our Engineering team works in the CET timezone, so candidates will need to reside in countries with the same time zone or similar to it and will need to already have permit to work in the country where they are based.</i></div><div><br></div><div>We sincerely thank all applicants in advance for submitting their interest in this opportunity. Airalo is an equal opportunity employer and values diversity, equity &amp; inclusion. We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We are committed to providing reasonable accommodations upon request for individuals with disabilities throughout our job interview process.</div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/46490948?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
