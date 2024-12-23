@@ -1,5 +1,60 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/87750292?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Scroll</h5>
+                    <h3>UI/UX Designer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.eu.greenhouse.io/scrollio/jobs/4500637101" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Scroll is a Layer 2 scaling solution for Ethereum, specifically focusing on zkRollups. Key aspects of Scroll are zkRollup technology, Scalability, Efficiency, Security, and Developer-friendly. Overall, Scroll plays a crucial role in addressing Ethereum&#39;s scalability challenges and facilitating the growth of decentralized finance (DeFi) and other blockchain-based applications by providing a scalable and efficient Layer 2 solution.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;Position Overview&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Proficient UX/UI Designer to help us design user-friendly application and website complementary to the team’s needs. The ideal candidate shall have a strong knowledge of design principles, excellent graphic design skills, and high proficiency in Figma, and other relevant design software tools.&lt;/p&gt;
+&lt;h2&gt;Job requirement:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Build wireframes, prototypes, and user flows to visualise design of application and website.&lt;/li&gt;
+&lt;li&gt;Design interactive and engaging graphics for various platforms, including websites, and application.&lt;/li&gt;
+&lt;li&gt;Remain current with design trends, tools, and technologies.&lt;/li&gt;
+&lt;li&gt;1-2 years of experience in UX and graphic design.&lt;/li&gt;
+&lt;li&gt;Proven portfolio showcasing a range of design projects and successful outcomes&lt;/li&gt;
+&lt;li&gt;Proficiency in design software such as Figma, Adobe Creative Suite.&lt;/li&gt;
+&lt;li&gt;Able to work in a highly dynamic environment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;About You&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You are a self-starter and ability to take ownership, well organised, self-disciplined and effective when working autonomously on tasks and projects;&lt;/li&gt;
+&lt;li&gt;You are responsive, collaborative and committed person with a high work ethic;&lt;/li&gt;
+&lt;li&gt;You are a high class communicator who can articulate their views succinctly on calls or asynchronously in globally distributed, remote teams;&lt;/li&gt;
+&lt;li&gt;You relish working in an agile start-up environment;&lt;/li&gt;
+&lt;li&gt;You are a great listener who understands when to listen first and engages well with colleagues;&lt;/li&gt;
+&lt;li&gt;You are a resilient, driven individual who is willing and able to continually develop and iterate to succeed;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;What We Offer&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A mission-led, collaborative culture&lt;/li&gt;
+&lt;li&gt;Opportunity to work with cutting edge technology and like-minded people who are contributing to the progression of Ethereum&lt;/li&gt;
+&lt;li&gt;Competitive salary package / generous paid time off / annual growth budget&lt;/li&gt;
+&lt;li&gt;100% remote from any location with flexible hours&lt;/li&gt;
+&lt;li&gt;Home office set up / co-working membership allowance&lt;/li&gt;
+&lt;li&gt;Private healthcare in selected countries&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Scroll is proud to be an equal opportunity workplace. We are committed to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. If you have a disability or special need, please let us know and we&#39;ll do our best to accommodate.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1031556251782705153/l7Ht7Yer_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
