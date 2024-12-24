@@ -26,12 +26,12 @@
 &lt;li&gt;Build wireframes, prototypes, and user flows to visualise design of application and website.&lt;/li&gt;
 &lt;li&gt;Design interactive and engaging graphics for various platforms, including websites, and application.&lt;/li&gt;
 &lt;li&gt;Remain current with design trends, tools, and technologies.&lt;/li&gt;
-&lt;li&gt;1-2 years of experience in UX and graphic design.&lt;/li&gt;
+&lt;li&gt;3-5 years of experience in UX and graphic design.&lt;/li&gt;
 &lt;li&gt;Proven portfolio showcasing a range of design projects and successful outcomes&lt;/li&gt;
 &lt;li&gt;Proficiency in design software such as Figma, Adobe Creative Suite.&lt;/li&gt;
 &lt;li&gt;Able to work in a highly dynamic environment&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;About You&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;About You&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;You are a self-starter and ability to take ownership, well organised, self-disciplined and effective when working autonomously on tasks and projects;&lt;/li&gt;
 &lt;li&gt;You are responsive, collaborative and committed person with a high work ethic;&lt;/li&gt;
