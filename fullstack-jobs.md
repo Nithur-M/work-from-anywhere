@@ -1,6 +1,6 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/551c78d7-3f95-40e1-a193-87a4d0a25f04-1680908408553.png" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/43759528?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Instrumentl</h5>
