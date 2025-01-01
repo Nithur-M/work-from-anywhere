@@ -1,29 +1,5 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1177267684574208000/54eG3WmW_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>SafetyWing</h5>
-                    <h3>Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://safetywing.pinpointhq.com/en/jobs/247938" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h2>🧘 What we offer</h2> <div><!--block-->We operate in a fully remote work environment – work from anywhere globally.&nbsp;<br><br>You will receive salary and equity compensation, premium health insurance that works in most countries worldwide, travel insurance, a laptop, an office stipend, a minimum of four weeks of vacation per year, and a personal development budget.</div><div><!--block--><br>We also have fantastic annual team gatherings. The previous ones were in Ljubljana, San Francisco, Mexico, Bali, and Siglufjörður.</div><div><!--block--><br>We are looking forward to hearing from you!</div> <div><!--block--><a href="https://safetywing.com"><strong>SafetyWing</strong></a> (YC W18) is seeking an ambitious and creative <strong>Product Manager</strong> to help make our product something our customers love so much that they’ll tell their friends about it.</div><div><!--block--><br>We are on a mission to remove the role of geographical borders as a barrier to equal opportunities and freedom for everyone. We are doing that by creating simple health, insurance, and retirement products for remote workers worldwide as a replacement for national welfare systems.</div> <h2>💻 What you can help with:</h2>  <ul><li><!--block-->End-to-end product management, taking the first seeds of an idea and carrying it through to implementation and optimization.</li><li><!--block-->Executing a product vision and strategy to enhance our Remote Health B2B product, targeting startups</li><li><!--block-->Talking to users and translating their desirers, suggestions and pain points into products and features</li><li><!--block-->Leading a cross-functional team of engineers and designers, and managing stakeholders such as legal and compliance</li><li><!--block-->Building operational systems and automations as your team scales and grows</li><li><!--block-->Inspiring people across the company to believe in the impact of you and your team’s work</li><li><!--block-->Making quarterly and yearly plans for execution with a variety of stakeholders involved</li></ul> <h2>🧪 We are looking for someone who:</h2> <ul><li><!--block-->Has great judgement, meaning an intuitive understanding of what makes a product amazing</li><li><!--block-->Can use their own intuition in combination with user feedback to delight new and existing users at every step of the product interaction</li><li><!--block-->Is a strong leader who can guide and motivate a team towards project completion and iterations</li><li><!--block-->Can make well rounded product priorities while weighing product considerations, business needs and available resources</li><li><!--block-->Has extensive professional leadership experience in a product adjacent role. Experience in one or more of the following areas are particularly welcome but not required: founding a company, product management, technical background</li></ul><div><!--block--><strong>😀 We like to work with people who:</strong></div><ul><li><!--block-->Want to help build a global social safety net on the Internet.</li><li><!--block-->Think for themselves instead of copying others.</li><li><!--block-->Are willing to try new things, even with the risk of failure.</li><li><!--block-->Are intellectually curious and open to new ideas.</li><li><!--block-->Are creative and bold in the face of any problems.</li><li><!--block-->Have strong integrity and do the right thing.</li></ul>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/43759528?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
