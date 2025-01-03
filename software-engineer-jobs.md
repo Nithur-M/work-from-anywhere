@@ -244,108 +244,6 @@
                 </td>
                 <td width="300">
                     <h5>Sourcegraph</h5>
-                    <h3>Software Engineer - Cody Core [IC2]</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/5206969004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #a112ff;&quot;&gt;Who we are&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Our mission at Sourcegraph is to make it so that &lt;a href=&quot;https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4&quot;&gt;everyone can code&lt;/a&gt;, not just ~0.1% of the population.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;We are transforming how the world’s most important companies build software by industrializing development with AI. Today, most professional developers spend a disproportionate amount of time understanding code and performing repetitive, low-level tasks—leaving less time for innovation and meaningful impact.&lt;/p&gt;
-&lt;p&gt;We’re changing that. Sourcegraph brings AI-powered search and agents to the enterprise, helping teams automate the mundane and amplify what developers do best— solving hard problems and creating great products.&lt;/p&gt;
-&lt;p&gt;Here’s how we’re making a difference:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Accelerating developers &lt;/strong&gt;with AI agents that deliver insights and precision—enabling 5x faster test creation, 30% increase in merge requests, and saving 20 minutes per developer daily.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Automating repetitive tasks,&lt;/strong&gt; from remediating vulnerabilities (saving teams 1,000+ hours annually) to speeding up migrations that would take years to months.&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Enabling innovation&lt;/strong&gt; by addressing complex problems like automated bug triage, vulnerability detection, and AI-driven code reviews seamlessly integrated into workflows.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Trusted by 7/10 top software companies by market cap, 4/6 top US banks and many of the companies leading global innovation, like Stripe, Indeed, Tesla, and 1Password, and with $225M in funding from investors like &lt;a href=&quot;https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/&quot;&gt;a16z&lt;/a&gt;, &lt;a href=&quot;https://about.sourcegraph.com/blog/series-c-with-sequoia/&quot;&gt;Sequoia&lt;/a&gt;, and &lt;a href=&quot;https://www.redpoint.com/companies/sourcegraph/&quot;&gt;Redpoint&lt;/a&gt;, we are building the tools that will define the next era of enterprise software development.&lt;/p&gt;
-&lt;p&gt;If you’re passionate about solving the hardest problems in software and shaping the future of technology, join us. Let’s build something extraordinary together.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Location&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;🌎 While we hire &lt;a href=&quot;https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4&quot;&gt;almost anywhere&lt;/a&gt; in the world, we require someone to reside in San Francisco for this role.&lt;/p&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Why this job is exciting&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Imagine being part of a team where your work will redefine the coding experience for developers around the world. As a Software Engineer on the Cody Core team, you will work on Cody, an AI coding assistant that lives in your editor. You will work at the forefront of integrating advanced AI technologies into everyday coding practices. This role offers a unique opportunity to innovate and push the boundaries of what an AI coding assistant can achieve, all while working with a talented and passionate team. You&#39;ll have the chance to see your contributions directly impact developers, enhancing their productivity and transforming how they interact with their code.&lt;/p&gt;
-&lt;p&gt;📅 Within one month, you will…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Familiarize yourself with Cody, understanding the architecture and the problems it solves for our users.&lt;/li&gt;
-&lt;li&gt;Start contributing to our current focus areas by working on tasks related to the end-to-end user experience.&lt;/li&gt;
-&lt;li&gt;Engage with your team members, learning from their experiences and sharing your insights to contribute to the project&#39;s direction.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;📅 Within three months, you will…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Be contributing actively to the world’s best coding assistant.&lt;/li&gt;
-&lt;li&gt;Take ownership of smaller features and implement them, with a focus on improving user engagement and satisfaction.&lt;/li&gt;
-&lt;li&gt;Begin to influence the project&#39;s future direction by providing insights based on your work and user feedback, collaborating closely with product management and design teams.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;📅 Within six months, you will…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Be fully ramped up and able to anticipate the needs of Cody users.&lt;/li&gt;
-&lt;li&gt;Establish yourself as a key contributor to the team, known for your expertise in both the technical and product aspects of our work.&lt;/li&gt;
-&lt;li&gt;Participate in initiatives that push the boundaries of what Cody can do, making coding more accessible and enjoyable for developers everywhere.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;About you&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;You are a full-stack software engineer with at least 2 years of industry experience. You are comfortable with frontend and backend work as needed, can pick up frameworks quickly, and can deliver high-quality work.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Beyond your technical proficiency, you are a forward-thinking and adaptive contributor, ready to navigate a complex project. Your vision extends beyond code: you are passionate about the broader impact of your work on making coding accessible and enjoyable for a diverse global community. You actively seek out opportunities to challenge the status quo, drive meaningful change, and foster an inclusive, high-performing team culture. You are an experienced remote/async worker that is also willing to work out of our San Francisco office.&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;2–5 years experience as a full-stack engineer&lt;/li&gt;
-&lt;li&gt;Experience with Typescript or Go is required (both preferred)&lt;/li&gt;
-&lt;li&gt;Familiarity with code intelligence tools and AI-assisted development platforms such as Sourcegraph Cody, GitHub Copilot, or similar&lt;/li&gt;
-&lt;li&gt;Alignment with our values&lt;/li&gt;
-&lt;li&gt;Growth mindset&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Nice to haves:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Experience writing extensions for one or more of the following: Visual Studio Code, JetBrains IDEs, Visual Studio, or Eclipse&lt;/li&gt;
-&lt;li&gt;Familiarity with compilers, language server protocols, code intelligence, or related technologies&lt;/li&gt;
-&lt;li&gt;Experience working closely with Product and Design teams&lt;/li&gt;
-&lt;li&gt;Previous role in a startup environment, comfortable with rapid iteration and adaptable to shifting priorities&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;📊 This job is an IC2. You can read more about &lt;a href=&quot;https://www.notion.so/sourcegraph/Leveling-Guide-0e1b5c76ada64b9caac387f8b7c4fc66&quot;&gt;our job leveling philosophy&lt;/a&gt; in our Handbook.&lt;/p&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;💸 We pay you an above-average salary&lt;/strong&gt; because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an &lt;a href=&quot;https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d&quot;&gt;open and transparent&lt;/a&gt; company that values &lt;a href=&quot;https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4&quot;&gt;competitive compensation&lt;/a&gt;, our compensation ranges are visible to every single Sourcegraph teammate.&lt;/p&gt;
-&lt;p&gt;Your salary is determined by your pay band for the IC2 job level. For determining pay bands, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that the salaries below may be adjusted in the future.&lt;/p&gt;
-&lt;p&gt;💰The target compensation for this role is $145,000 USD base.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Please speak with a recruiter for additional information regarding zone locations.📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba&quot;&gt;perks &amp;amp; benefits&lt;/a&gt;.&lt;/p&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Interview process&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Below is the interview process you can expect for this role (you can read more about &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/Types-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7&quot;&gt;&lt;em&gt;the types of interviews&lt;/em&gt;&lt;/a&gt;&lt;em&gt; in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;We expect the interview process to take 4.25-4.75 hours in total.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;👋 Introduction Stage&lt;/strong&gt; - we have initial conversations to get to know you better…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;[30m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13&quot;&gt;Recruiter Screen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[15m] &lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#6a6deb280d374652b21d5aa3061c82d2&quot;&gt;Hiring Manager Intro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;🧑‍💻 Team Interview Stage&lt;/strong&gt; - we then schedule an all-day onsite interview to delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;[45m] &lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#da568e7854bb4aaa9b027157088e2d71&quot;&gt;Technical Screen / Resume Deep Dive&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[45m] &lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#e83edd987754460e839138a4bbfd592e&quot;&gt;Pairing Exercise&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[45m] &lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#b37f3b535e894775b9c64f53675b5549&quot;&gt;Code Walkthrough&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[60m] &lt;a href=&quot;https://sourcegraph.notion.site/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7#cb00697e95304550a146c32563c0255d&quot;&gt;Cross-functional Team Collaboration Interview&lt;/a&gt; / &lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd&quot;&gt;Values Interview&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[15-30m] &lt;a href=&quot;https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c&quot;&gt;Leadership&lt;/a&gt; with co-founder&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;We check references and conduct your background check&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #a112ff;&quot;&gt;Learn more about us&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;You can learn more about what it is like to work at Sourcegraph by reading &lt;a href=&quot;https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0&quot;&gt;our handbook&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;We are an ambitious team who are collectively working hard to build the most influential company in the world.&amp;nbsp; You can read more about our &lt;a href=&quot;https://sourcegraph.notion.site/What-it-s-like-working-at-Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115&quot;&gt;culture&lt;/a&gt;, &lt;a href=&quot;https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74&quot;&gt;competitive compensation&lt;/a&gt; and &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74&quot;&gt;benefits&lt;/a&gt; here&lt;/p&gt;
-&lt;p&gt;Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Sourcegraph participates in &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107&quot;&gt;&lt;em&gt;E-Verify&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for U.S. Employees. &lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/3979584?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sourcegraph</h5>
                     <h3>Software Engineer - Dev Infra [IC3]</h3>
                 </td>
                 <td width="300">
@@ -692,6 +590,71 @@
 <p>Beneficial experience includes PostgreSQL, Python, Rust, Linux, TypeScript, Nix, frontend/backend web development, and data mining.</p>
 <p>Please include your updated resume when applying for this role.</p>
 <p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a><a href="http://mixrank.com/" target="_blank">. Offers fr</a>om any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MixRank</h5>
+                    <h3>Software Engineer - Remote (Global)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.ycombinator.com/companies/mixrank/jobs/RXQspen-software-engineer-remote-global" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Who we are</strong></p>
+<p>MixRank processes petabytes of data every month from web crawling. We have hundreds of customers using our data products including Google, Amazon, Facebook, Intel, and Adobe, across industries Sales, Marketing, Finance, and Security.</p>
+<p>Team is 40 full-time, full-remote from 20+ countries. We're growing, profitable, employee-owned, no dependence on outside funding. Applicants from all geographies and backgrounds are welcome.</p>
+<p>We are looking for passionate individuals for whom programming is not just a job but it’s something they love to do. We're obsessed with computers, programming, big data, databases, compilers, hardware, math, data science, and the internet. Does this sound like you? Please apply to join our team.</p>
+<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, Rust, SQL, Javascript/TypeScript, and Nix. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
+<p>We operate at a larger scale than typical startups. We operate two datacenters with high performance servers we've built that are capable of dealing with the volumes of data we process. We've implemented our own distributed file system. We do full-scale web crawls. We download and perform static analysis on the entire universe of Android APKs and iOS IPAs that are published. Unlike a typical startup where you'll spend half of your time in meetings, and the other half fixing bugs from Jira tickets— at MixRank you'll get to challenge yourself with difficult technical problems that will help you to grow as an individual.</p>
+<p><strong>Who we’re looking for</strong></p>
+<p>We're hiring generalist software engineers to work on web applications, data mining, machine learning/data science, data transformation/ETL, data modeling, database scaling, infrastructure, devops, and more. We'll cater the role to whatever subset of these areas match your interests.</p>
+<p>Beneficial experience includes PostgreSQL, Python, Rust, Linux, TypeScript, Nix, frontend/backend web development, and data mining.</p>
+<p>Please include your updated resume when applying for this role.</p>
+<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a><a href="http://mixrank.com/" target="_blank">. Offers fr</a>om any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MixRank</h5>
+                    <h3>Junior Software Engineer - Remote (Global)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.ycombinator.com/companies/mixrank/jobs/WdgITmW-junior-software-engineer-remote-global" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
+<p>We're looking for remote engineers that have finished school within the last 2 years or will finish in the next 6 months. This is an open-ended entry-level role with mentorship, and diverse opportunities to work on all areas of our product: databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
+<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
+<p>Why Join MixRank? Fully-remote, no HQ office. Team of 40 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
+<p>Please include your updated resume when applying for this role.</p>
+<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
 
                 </details>
                 </td>
