@@ -10,7 +10,7 @@
                     <code>backend,go,javascript,node.js</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/node-js-developer-m-f-d-1958307" align="right" target="_blank">Apply</a>
@@ -771,7 +771,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/j/1F424DEC56" align="right" target="_blank">Apply</a>
+                <a href="https://apply.workable.com/j/F2C4D10A5A" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
