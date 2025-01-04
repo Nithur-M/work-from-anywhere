@@ -253,6 +253,105 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/5341881004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #a112ff;&quot;&gt;Who we are&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Our mission at Sourcegraph is to make it so that &lt;a href=&quot;https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4&quot;&gt;everyone can code&lt;/a&gt;, not just ~0.1% of the population.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We are transforming how the world’s most important companies build software by industrializing development with AI. Today, most professional developers spend a disproportionate amount of time understanding code and performing repetitive, low-level tasks—leaving less time for innovation and meaningful impact.&lt;/p&gt;
+&lt;p&gt;We’re changing that. Sourcegraph brings AI-powered search and agents to the enterprise, helping teams automate the mundane and amplify what developers do best— solving hard problems and creating great products.&lt;/p&gt;
+&lt;p&gt;Here’s how we’re making a difference:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Accelerating developers &lt;/strong&gt;with AI agents that deliver insights and precision—enabling 5x faster test creation, 30% increase in merge requests, and saving 20 minutes per developer daily.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automating repetitive tasks,&lt;/strong&gt; from remediating vulnerabilities (saving teams 1,000+ hours annually) to speeding up migrations that would take years to months.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enabling innovation&lt;/strong&gt; by addressing complex problems like automated bug triage, vulnerability detection, and AI-driven code reviews seamlessly integrated into workflows.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Trusted by 7/10 top software companies by market cap, 4/6 top US banks and many of the companies leading global innovation, like Stripe, Indeed, Tesla, and 1Password, and with $225M in funding from investors like &lt;a href=&quot;https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/&quot;&gt;a16z&lt;/a&gt;, &lt;a href=&quot;https://about.sourcegraph.com/blog/series-c-with-sequoia/&quot;&gt;Sequoia&lt;/a&gt;, and &lt;a href=&quot;https://www.redpoint.com/companies/sourcegraph/&quot;&gt;Redpoint&lt;/a&gt;, we are building the tools that will define the next era of enterprise software development.&lt;/p&gt;
+&lt;p&gt;If you’re passionate about solving the hardest problems in software and shaping the future of technology, join us. Let’s build something extraordinary together.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Location&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;🌎 While we hire &lt;a href=&quot;https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4&quot;&gt;almost anywhere&lt;/a&gt; in the world, we require someone to reside in San Francisco for this role.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Why this job is exciting&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Join Sourcegraph&#39;s Developer Infrastructure (Dev Infra) team and play a crucial role in empowering developers worldwide. We&#39;re responsible for building and maintaining the tools and systems that make Sourcegraph&#39;s development processes smooth, efficient, and reliable. We create and optimize tools and workflows that enhance productivity for Sourcegraph&#39;s engineering teams. This includes improving build systems, implementing code quality tools, managing CI/CD pipelines, and streamlining development environments&lt;/p&gt;
+&lt;p&gt;📅 Within one month, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand the projects your team is working on and their contribution to company goals.&lt;/li&gt;
+&lt;li&gt;Collaborate with other engineers to identify and address infrastructure challenges.&lt;/li&gt;
+&lt;li&gt;Contribute to team goals through code contributions and technical discussions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📅 Within three months, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Collaborate with other engineers to identify and address infrastructure challenges.&lt;/li&gt;
+&lt;li&gt;Contribute to efforts that make it easier for developers to build, run, and test our products.&lt;/li&gt;
+&lt;li&gt;Effectively support engineers across Sourcegraph to increase their productivity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📅 Within six months, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Demonstrate measurable improvements in build times, CI/CD stability, and developer experience.&lt;/li&gt;
+&lt;li&gt;Lead efforts to find and implement improvements in underserved parts of the stack.&lt;/li&gt;
+&lt;li&gt;Drive high levels of satisfaction from internal developers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📅 Within one year, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead efforts to scale our developer infrastructure to be more automated and reliable.&lt;/li&gt;
+&lt;li&gt;Shape our dev infrastructure practices, contributing to company-wide best practices for build and CI/CD workflows.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;About you&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;As the ideal candidate, you bring a solution-oriented mindset and a passion for developer productivity. You prioritize high-impact work. You invest in the future while unblocking developers in the present.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Build systems&lt;/strong&gt;: Strong experience with Bazel and familiarity with other hermetic build systems like Buck2 or Nix.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CI/CD&lt;/strong&gt;: Extensive exposure to various CI systems such as Buildkite, GitHub Actions, GitLab Runners, and Jenkins.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Infrastructure as code&lt;/strong&gt;: Skilled in IaC tools like Terraform (or Pulumi, Helm, Kustomize, Ansible, Salt).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Efficiency Enthusiast&lt;/strong&gt;: A&amp;nbsp; tinkerer at heart who constantly seeks to automate processes and improve efficiency. Has a history of developing small, useful tools to solve problems.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Polyglot developer&lt;/strong&gt;: Comfortable working with multiple programming languages and always eager to learn new ones. Go and Typescript familiarity preferred.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;📊 This job is an IC3. You can read more about &lt;a href=&quot;https://www.notion.so/sourcegraph/Leveling-Guide-0e1b5c76ada64b9caac387f8b7c4fc66&quot;&gt;our job leveling philosophy&lt;/a&gt; in our Handbook.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;💸 We pay you an above-average salary&lt;/strong&gt; because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an &lt;a href=&quot;https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d&quot;&gt;open and transparent&lt;/a&gt; company that values &lt;a href=&quot;https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4&quot;&gt;competitive compensation&lt;/a&gt;, our compensation ranges are visible to every single Sourcegraph teammate.&lt;/p&gt;
+&lt;p&gt;Your salary is determined by your pay band for the IC3 job level. For determining pay bands, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that the salaries below may be adjusted in the future.&lt;/p&gt;
+&lt;p&gt;💰 The target compensation for this role is based on the IC3 pay band for your zone. The start of the IC3 pay band for this zone is $170,000 USD.&lt;/p&gt;
+&lt;p&gt;📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous&amp;nbsp;&lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba&quot;&gt;perks &amp;amp; benefits&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Interview process&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Below is the interview process you can expect for this role (you can read more about &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/Types-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7&quot;&gt;&lt;em&gt;the types of interviews&lt;/em&gt;&lt;/a&gt;&lt;em&gt; in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We expect the interview process to take 5.5 hours in total.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;👋 Introduction Stage&lt;/strong&gt; - we have initial conversations to get to know you better…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[30m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13&quot;&gt;Recruiter Screen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[15m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#1919882c0cf147c487eb1df40db8a694&quot;&gt;Hiring Manager Screen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;🧑‍💻 Team Interview Stage&lt;/strong&gt; - we then schedule an all-day onsite interview to delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[60m] Technical Screen / &lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#c678a2a86e0e47e4958507e869bf7ded&quot;&gt;Resume Deep Dive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[60m] Coding Exercise&lt;/li&gt;
+&lt;li&gt;[60m] Coding Exercise&lt;/li&gt;
+&lt;li&gt;[45m] Systems Design&lt;/li&gt;
+&lt;li&gt;[45m] Cross-functional / &lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd&quot;&gt;Values&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[15m]&amp;nbsp;&lt;a href=&quot;https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c&quot;&gt;Leadership&lt;/a&gt; with co-founder&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #a112ff;&quot;&gt;Learn more about us&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;You can learn more about what it is like to work at Sourcegraph by reading &lt;a href=&quot;https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0&quot;&gt;our handbook&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are an ambitious team who are collectively working hard to build the most influential company in the world.&amp;nbsp; You can read more about our &lt;a href=&quot;https://sourcegraph.notion.site/What-it-s-like-working-at-Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115&quot;&gt;culture&lt;/a&gt;, &lt;a href=&quot;https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74&quot;&gt;competitive compensation&lt;/a&gt; and &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74&quot;&gt;benefits&lt;/a&gt; here&lt;/p&gt;
+&lt;p&gt;Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Sourcegraph participates in &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107&quot;&gt;&lt;em&gt;E-Verify&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for U.S. Employees. &lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/3979584?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sourcegraph</h5>
+                    <h3>Software Engineer - Dev Infra [IC3]</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
                 <a href="https://boards.greenhouse.io/sourcegraph91/jobs/5392066004" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
@@ -332,105 +431,6 @@
 &lt;li&gt;[15m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#1919882c0cf147c487eb1df40db8a694&quot;&gt;Hiring Manager Screen&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;🧑‍💻 Team Interview Stage&lt;/strong&gt; - we then schedule an all-day interview to delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;[60m] Technical Screen / &lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#c678a2a86e0e47e4958507e869bf7ded&quot;&gt;Resume Deep Dive&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[60m] Coding Exercise&lt;/li&gt;
-&lt;li&gt;[60m] Coding Exercise&lt;/li&gt;
-&lt;li&gt;[45m] Systems Design&lt;/li&gt;
-&lt;li&gt;[45m] Cross-functional / &lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd&quot;&gt;Values&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[15m]&amp;nbsp;&lt;a href=&quot;https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c&quot;&gt;Leadership&lt;/a&gt; with co-founder&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #a112ff;&quot;&gt;Learn more about us&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;You can learn more about what it is like to work at Sourcegraph by reading &lt;a href=&quot;https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0&quot;&gt;our handbook&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;We are an ambitious team who are collectively working hard to build the most influential company in the world.&amp;nbsp; You can read more about our &lt;a href=&quot;https://sourcegraph.notion.site/What-it-s-like-working-at-Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115&quot;&gt;culture&lt;/a&gt;, &lt;a href=&quot;https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74&quot;&gt;competitive compensation&lt;/a&gt; and &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74&quot;&gt;benefits&lt;/a&gt; here&lt;/p&gt;
-&lt;p&gt;Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Sourcegraph participates in &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107&quot;&gt;&lt;em&gt;E-Verify&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for U.S. Employees. &lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/3979584?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sourcegraph</h5>
-                    <h3>Software Engineer - Dev Infra [IC3]</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/5341881004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #a112ff;&quot;&gt;Who we are&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Our mission at Sourcegraph is to make it so that &lt;a href=&quot;https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4&quot;&gt;everyone can code&lt;/a&gt;, not just ~0.1% of the population.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;We are transforming how the world’s most important companies build software by industrializing development with AI. Today, most professional developers spend a disproportionate amount of time understanding code and performing repetitive, low-level tasks—leaving less time for innovation and meaningful impact.&lt;/p&gt;
-&lt;p&gt;We’re changing that. Sourcegraph brings AI-powered search and agents to the enterprise, helping teams automate the mundane and amplify what developers do best— solving hard problems and creating great products.&lt;/p&gt;
-&lt;p&gt;Here’s how we’re making a difference:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Accelerating developers &lt;/strong&gt;with AI agents that deliver insights and precision—enabling 5x faster test creation, 30% increase in merge requests, and saving 20 minutes per developer daily.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Automating repetitive tasks,&lt;/strong&gt; from remediating vulnerabilities (saving teams 1,000+ hours annually) to speeding up migrations that would take years to months.&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Enabling innovation&lt;/strong&gt; by addressing complex problems like automated bug triage, vulnerability detection, and AI-driven code reviews seamlessly integrated into workflows.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Trusted by 7/10 top software companies by market cap, 4/6 top US banks and many of the companies leading global innovation, like Stripe, Indeed, Tesla, and 1Password, and with $225M in funding from investors like &lt;a href=&quot;https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/&quot;&gt;a16z&lt;/a&gt;, &lt;a href=&quot;https://about.sourcegraph.com/blog/series-c-with-sequoia/&quot;&gt;Sequoia&lt;/a&gt;, and &lt;a href=&quot;https://www.redpoint.com/companies/sourcegraph/&quot;&gt;Redpoint&lt;/a&gt;, we are building the tools that will define the next era of enterprise software development.&lt;/p&gt;
-&lt;p&gt;If you’re passionate about solving the hardest problems in software and shaping the future of technology, join us. Let’s build something extraordinary together.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Location&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;🌎 While we hire &lt;a href=&quot;https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4&quot;&gt;almost anywhere&lt;/a&gt; in the world, we require someone to reside in San Francisco for this role.&lt;/p&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Why this job is exciting&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Join Sourcegraph&#39;s Developer Infrastructure (Dev Infra) team and play a crucial role in empowering developers worldwide. We&#39;re responsible for building and maintaining the tools and systems that make Sourcegraph&#39;s development processes smooth, efficient, and reliable. We create and optimize tools and workflows that enhance productivity for Sourcegraph&#39;s engineering teams. This includes improving build systems, implementing code quality tools, managing CI/CD pipelines, and streamlining development environments&lt;/p&gt;
-&lt;p&gt;📅 Within one month, you will…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Understand the projects your team is working on and their contribution to company goals.&lt;/li&gt;
-&lt;li&gt;Collaborate with other engineers to identify and address infrastructure challenges.&lt;/li&gt;
-&lt;li&gt;Contribute to team goals through code contributions and technical discussions.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;📅 Within three months, you will…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Collaborate with other engineers to identify and address infrastructure challenges.&lt;/li&gt;
-&lt;li&gt;Contribute to efforts that make it easier for developers to build, run, and test our products.&lt;/li&gt;
-&lt;li&gt;Effectively support engineers across Sourcegraph to increase their productivity.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;📅 Within six months, you will…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Demonstrate measurable improvements in build times, CI/CD stability, and developer experience.&lt;/li&gt;
-&lt;li&gt;Lead efforts to find and implement improvements in underserved parts of the stack.&lt;/li&gt;
-&lt;li&gt;Drive high levels of satisfaction from internal developers.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;📅 Within one year, you will…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Lead efforts to scale our developer infrastructure to be more automated and reliable.&lt;/li&gt;
-&lt;li&gt;Shape our dev infrastructure practices, contributing to company-wide best practices for build and CI/CD workflows.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;About you&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;As the ideal candidate, you bring a solution-oriented mindset and a passion for developer productivity. You prioritize high-impact work. You invest in the future while unblocking developers in the present.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Build systems&lt;/strong&gt;: Strong experience with Bazel and familiarity with other hermetic build systems like Buck2 or Nix.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;CI/CD&lt;/strong&gt;: Extensive exposure to various CI systems such as Buildkite, GitHub Actions, GitLab Runners, and Jenkins.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Infrastructure as code&lt;/strong&gt;: Skilled in IaC tools like Terraform (or Pulumi, Helm, Kustomize, Ansible, Salt).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Efficiency Enthusiast&lt;/strong&gt;: A&amp;nbsp; tinkerer at heart who constantly seeks to automate processes and improve efficiency. Has a history of developing small, useful tools to solve problems.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Polyglot developer&lt;/strong&gt;: Comfortable working with multiple programming languages and always eager to learn new ones. Go and Typescript familiarity preferred.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;📊 This job is an IC3. You can read more about &lt;a href=&quot;https://www.notion.so/sourcegraph/Leveling-Guide-0e1b5c76ada64b9caac387f8b7c4fc66&quot;&gt;our job leveling philosophy&lt;/a&gt; in our Handbook.&lt;/p&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;💸 We pay you an above-average salary&lt;/strong&gt; because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an &lt;a href=&quot;https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d&quot;&gt;open and transparent&lt;/a&gt; company that values &lt;a href=&quot;https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4&quot;&gt;competitive compensation&lt;/a&gt;, our compensation ranges are visible to every single Sourcegraph teammate.&lt;/p&gt;
-&lt;p&gt;Your salary is determined by your pay band for the IC3 job level. For determining pay bands, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that the salaries below may be adjusted in the future.&lt;/p&gt;
-&lt;p&gt;💰 The target compensation for this role is based on the IC3 pay band for your zone. The start of the IC3 pay band for this zone is $170,000 USD.&lt;/p&gt;
-&lt;p&gt;📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous&amp;nbsp;&lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba&quot;&gt;perks &amp;amp; benefits&lt;/a&gt;.&lt;/p&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Interview process&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Below is the interview process you can expect for this role (you can read more about &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/Types-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7&quot;&gt;&lt;em&gt;the types of interviews&lt;/em&gt;&lt;/a&gt;&lt;em&gt; in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;We expect the interview process to take 5.5 hours in total.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;👋 Introduction Stage&lt;/strong&gt; - we have initial conversations to get to know you better…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;[30m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13&quot;&gt;Recruiter Screen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[15m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#1919882c0cf147c487eb1df40db8a694&quot;&gt;Hiring Manager Screen&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;🧑‍💻 Team Interview Stage&lt;/strong&gt; - we then schedule an all-day onsite interview to delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;[60m] Technical Screen / &lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#c678a2a86e0e47e4958507e869bf7ded&quot;&gt;Resume Deep Dive&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;[60m] Coding Exercise&lt;/li&gt;
@@ -2240,7 +2240,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><b>Who is Aiwyn and what do we do?</b></div><div><br></div><div>Aiwyn is the fastest-growing software company serving the accounting profession.&nbsp;Founded in 2020, we now work with 100+ of the largest CPA firms in the world.&nbsp;Our “Job to be done”: speed up cash flow, save Partner time, &amp; deliver best-in-class client experiences. We do this by automating day-to-day firm operations with our Practice Automation solutions. Aiwyn is led by serial entrepreneurs with multiple exits and funded by a Top 10 fintech VC.</div><div><br></div><div>To learn more, visit our <a rel="noopener noreferrer" class="postings-link" href="https://aiwyn.ai/"><b>website</b></a></div><div><b>Who is Aiwyn and what do we do?</b></div><div><br></div><div>Aiwyn is the fastest-growing software company serving the accounting profession.&nbsp;Founded in 2020, we now work with 100+ of the largest CPA firms in the world.&nbsp;Our “Job to be done”: speed up cash flow, save Partner time, &amp; deliver best-in-class client experiences. We do this by automating day-to-day firm operations with our Practice Automation solutions. Aiwyn is led by serial entrepreneurs with multiple exits and funded by a Top 10 fintech VC.</div><div><br></div><div>To learn more, visit our <a href="https://aiwyn.ai/" class="postings-link" target="_blank" rel="noopener noreferrer"><b>website</b></a></div><h3>What You'll Do:</h3><li><b>Architect &amp; Build</b> - Drive architectural vision and technical direction while actively writing code. You'll balance feature delivery with code quality, tackle critical technical issues, and ensure solutions align with both short-term goals and long-term architecture.</li><li><b>Lead &amp; Execute</b> - Break down user stories into executable technical tasks, provide high-level estimates, and maintain engineering standards. You'll manage technical debt, drive effective planning, and ensure smooth delivery of features.</li><li><b>Partner &amp; Innovate</b> - Work closely with the Product Manager and Designer in the Product Trio to shape strategy, assess technical feasibility, and make critical decisions about trade-offs between business needs and technical complexity.</li><h3>What We Need:</h3><li><b>Technical Mastery</b> - Proficiency with Java/Kotlin, Spring Boot, underpinned by a strong foundation in OOP, functional programming, and software design principles. Must be able to decipher and understand the impact of code, and understand the topology and architecture of existing codebases.</li><li><b>Systems Thinking</b> - Strong capability to see the broader system's architecture and understand how changes impact various parts of the system. Ability to identify architectural pathways to improve delivery times without incurring unreasonable technical debt.</li><li><b>Engineering Standards</b> - Deep understanding of engineering standards, best practices, and code quality guidelines. Experience in maintaining and improving codebase health while delivering new features.</li><li><b>Technical Communication</b> - Excellent ability to document and communicate technical concepts, architecture decisions, and implementation plans to both technical and non-technical stakeholders.</li><li><b>Task Management</b> - Proven ability to decompose complex technical problems into smaller, manageable tasks and provide realistic timelines for feature delivery.</li><li><b>Business Acumen</b> - Understanding of business value and ability to pragmatically make decisions that optimize output while minimizing risk and technical debt.</li><li><b>Cross-functional Leadership</b> - Experience working as a technical point of contact across engineering, product, and design teams while maintaining clear communication channels.</li><h3>Preferred:</h3><li>Familiarity with Google Cloud</li><li>Experience with data pipeline technologies</li><li>Hands-on experience with ETL processes and tools</li><li>Knowledge of best practices in data integrity and validation</li><li>Track record of fostering innovation and experimentation with new tools and technologies</li><li>Background in mentoring and developing engineering team members</li><h3>Why Work at Aiwyn?</h3><li>The big-picture value proposition of this role is simple: join us, and you'll be paid competitively to have freedom in solving worthwhile, challenging problems alongside other A-players at a fast-growing SaaS startup led by an experienced and successful team with industry experience.</li><div><br></div><div>Other benefits include:</div><li><b>Adventure travel stipend</b> - you receive a $1,000 travel reimbursement on your work anniversary each year. We encourage our team to recharge and explore the world beyond their home office walls.</li><li><b>Remote, work-from-anywhere culture</b></li><li><b>Flexible PTO</b></li><li><b>World Class health benefits</b> - we believe in fostering flourishing teams by providing benefits that go beyond the usual standards - Health, vision, dental, HSA/FSA, and mental health support.</li><li><b>Stock options</b> - every Full Time Employee has ownership in Aiwyn's future and success.</li><li><b>401(k) matching</b></li><h3>Our Values:</h3><li><b>Trust</b> - We champion transparency, welcome differing perspectives, uphold accountability, and trust that others have good intentions</li><li><b>Courage</b> - We have the courage to take calculated risks and embrace change, knowing what worked in the past won’t always work in the future</li><li><b>Impact</b> - Rooted in determination and innovation, we chase extraordinary outcomes and impactful results</li><li><b>Relentlessness</b> - We approach challenges with an unwavering resolve, never settling for mediocrity, and always striving to surpass expectations</li><h3>Learn more about Aiwyn</h3><li><b><a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/about">About us</a></b></li><li><b><a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/why-aiwyn">Why Aiwyn</a></b></li><li><b><a rel="noopener noreferrer" class="postings-link" href="https://www.youtube.com/@AiwynAI">YouTube page</a></b></li><div>Aiwyn is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.</div><div><br></div><div>Candidate information will be treated in accordance with our CCPA privacy notice which can be found here: <a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/ccpa">https://www.aiwyn.ai/ccpa</a></div>
+                <div><b>Who is Aiwyn and what do we do?</b></div><div><br></div><div>Aiwyn is the fastest-growing software company serving the accounting profession.&nbsp;Founded in 2020, we now work with 100+ of the largest CPA firms in the world.&nbsp;Our “Job to be done”: speed up cash flow, save Partner time, &amp; deliver best-in-class client experiences. We do this by automating day-to-day firm operations with our Practice Automation solutions. Aiwyn is led by serial entrepreneurs with multiple exits and funded by a Top 10 fintech VC.</div><div><br></div><div>To learn more, visit our <b><a rel="noopener noreferrer" class="postings-link" href="https://aiwyn.ai/">website</a></b></div><div><b>Who is Aiwyn and what do we do?</b></div><div><br></div><div>Aiwyn is the fastest-growing software company serving the accounting profession.&nbsp;Founded in 2020, we now work with 100+ of the largest CPA firms in the world.&nbsp;Our “Job to be done”: speed up cash flow, save Partner time, &amp; deliver best-in-class client experiences. We do this by automating day-to-day firm operations with our Practice Automation solutions. Aiwyn is led by serial entrepreneurs with multiple exits and funded by a Top 10 fintech VC.</div><div><br></div><div>To learn more, visit our <b><a href="https://aiwyn.ai/" class="postings-link" target="_blank" rel="noopener noreferrer">website</a></b></div><h3>What You'll Do:</h3><li><b>Architect &amp; Build</b> - Drive architectural vision and technical direction while actively writing code. You'll balance feature delivery with code quality, tackle critical technical issues, and ensure solutions align with both short-term goals and long-term architecture.</li><li><b>Lead &amp; Execute</b> - Break down user stories into executable technical tasks, provide high-level estimates, and maintain engineering standards. You'll manage technical debt, drive effective planning, and ensure smooth delivery of features.</li><li><b>Partner &amp; Innovate</b> - Work closely with the Product Manager and Designer in the Product Trio to shape strategy, assess technical feasibility, and make critical decisions about trade-offs between business needs and technical complexity.</li><h3>What We Need:</h3><li><b>Technical Mastery</b> - Proficiency with Java/Kotlin, Spring Boot, underpinned by a strong foundation in OOP, functional programming, and software design principles. Must be able to decipher and understand the impact of code, and understand the topology and architecture of existing codebases.</li><li><b>Systems Thinking</b> - Strong capability to see the broader system's architecture and understand how changes impact various parts of the system. Ability to identify architectural pathways to improve delivery times without incurring unreasonable technical debt.</li><li><b>Engineering Standards</b> - Deep understanding of engineering standards, best practices, and code quality guidelines. Experience in maintaining and improving codebase health while delivering new features.</li><li><b>Technical Communication</b> - Excellent ability to document and communicate technical concepts, architecture decisions, and implementation plans to both technical and non-technical stakeholders.</li><li><b>Task Management</b> - Proven ability to decompose complex technical problems into smaller, manageable tasks and provide realistic timelines for feature delivery.</li><li><b>Business Acumen</b> - Understanding of business value and ability to pragmatically make decisions that optimize output while minimizing risk and technical debt.</li><li><b>Cross-functional Leadership</b> - Experience working as a technical point of contact across engineering, product, and design teams while maintaining clear communication channels.</li><li>The ability to travel occasionally for onsite Company meetings</li><h3>Preferred:</h3><li>Familiarity with Google Cloud</li><li>Experience with data pipeline technologies</li><li>Hands-on experience with ETL processes and tools</li><li>Knowledge of best practices in data integrity and validation</li><li>Track record of fostering innovation and experimentation with new tools and technologies</li><li>Background in mentoring and developing engineering team members</li><h3>Why Work at Aiwyn?</h3><li>The big-picture value proposition of this role is simple: join us, and you'll be paid competitively to have freedom in solving worthwhile, challenging problems alongside other A-players at a fast-growing SaaS startup led by an experienced and successful team with industry experience.</li><div><br></div><div>Other benefits include:</div><li><b>Adventure travel stipend</b> - you receive a $1,000 travel reimbursement on your work anniversary each year. We encourage our team to recharge and explore the world beyond their home office walls.</li><li><b>Remote, work-from-anywhere culture</b></li><li><b>Flexible PTO</b></li><li><b>World Class health benefits</b> - we believe in fostering flourishing teams by providing benefits that go beyond the usual standards - Health, vision, dental, HSA/FSA, and mental health support.</li><li><b>Stock options</b> - every Full Time Employee has ownership in Aiwyn's future and success.</li><li><b>401(k) matching</b></li><h3>Our Values:</h3><li><b>Trust</b> - We champion transparency, welcome differing perspectives, uphold accountability, and trust that others have good intentions</li><li><b>Courage</b> - We have the courage to take calculated risks and embrace change, knowing what worked in the past won’t always work in the future</li><li><b>Impact</b> - Rooted in determination and innovation, we chase extraordinary outcomes and impactful results</li><li><b>Relentlessness</b> - We approach challenges with an unwavering resolve, never settling for mediocrity, and always striving to surpass expectations</li><h3>Learn more about Aiwyn</h3><li><a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/about"><b>About us</b></a></li><li><a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/why-aiwyn"><b>Why Aiwyn</b></a></li><li><a rel="noopener noreferrer" class="postings-link" href="https://www.youtube.com/@AiwynAI"><b>YouTube page</b></a></li><div>Aiwyn is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.</div><div><br></div><div>Candidate information will be treated in accordance with our CCPA privacy notice which can be found here: <a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/ccpa">https://www.aiwyn.ai/ccpa</a></div>
                 </details>
                 </td>
             </tr>,<tr>
