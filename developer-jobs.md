@@ -1,5 +1,93 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1960406/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Growe</h5>
+                    <h3>Middle PHP Developer</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,MySQL</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/middle-php-developer-1960406" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h5"><strong>Growe welcomes those who are excited to:</strong></div>
+<ul style="">
+<li style="">
+<p>Develop integration and functional tasks;</p>
+</li>
+<li style="">
+<p>Maintain high code quality;</p>
+</li>
+<li style="">
+<p>Perform code refactoring and optimization;</p>
+</li>
+<li style="">
+<p>Conduct code reviews.</p>
+</li>
+</ul>
+<div class="h5"><strong>We need your professional experience:</strong></div>
+<ul style="">
+<li style="">
+<p>3 years experience developing in PHP 7+;</p>
+</li>
+<li style="">
+<p>Experience with MVC frameworks Yii2 (will be a plus);</p>
+</li>
+<li style="">
+<p>Experience with OOP principles;</p>
+</li>
+<li style="">
+<p>Experience with MySQL, Postgres, Redis, Git, Composer, Nginx;</p>
+</li>
+<li style="">
+<p>Knowledge and experience in client-server architecture and Rest API; </p>
+</li>
+<li style="">
+<p>English level B1 and higher (written and spoken);</p>
+</li>
+<li style="">
+<p>Experience with AWS, Doker (will be a plus); </p>
+</li>
+<li style="">
+<p>Experience with RabbitMQ, Kafka, and Gearman (will be a plus).</p>
+</li>
+</ul>
+<div class="h5">We appreciate if you have those personal features:</div>
+<ul style="">
+<li style="">
+<p>Good communication skills;</p>
+</li>
+<li style="">
+<p>Problem-solving skills, multitasking;</p>
+</li>
+<li style="">Responsibility.</li>
+</ul>
+<div class="h5"><strong>We are seeking those who align with our core values:</strong></div>
+<ul class='"Vacancy_vacancy__description__list__o_1gO"' style="">
+<li class='"Vacancy_vacancy__description__list__item__BsZ1X"' style="">
+<p>GROWE TOGETHER: Our team is our main asset. We work together and support each other to achieve our common goals;</p>
+</li>
+<li class='"Vacancy_vacancy__description__list__item__BsZ1X"' style="">
+<p>DRIVE RESULT OVER PROCESS: We set ambitious, clear, measurable goals in line with our strategy and driving Growe to success;</p>
+</li>
+<li class='"Vacancy_vacancy__description__list__item__BsZ1X"' style="">
+<p>BE READY FOR CHANGE: We see challenges as opportunities to grow and evolve. We adapt today to win tomorrow.</p>
+</li>
+</ul>
+<p> </p><img src="https://remotive.com/job/track/1960406/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1958307/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +98,7 @@
                     <code>backend,go,javascript,node.js</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/node-js-developer-m-f-d-1958307" align="right" target="_blank">Apply</a>
@@ -586,6 +674,30 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <h1><strong>About us</strong></h1><p style="min-height:1.5em">Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: <a target="_blank" rel="noopener noreferrer nofollow" href="https://rubylabs.com/about-us/">https://rubylabs.com/about-us/</a></p><p style="min-height:1.5em"></p><h1><strong>About the role</strong></h1><p style="min-height:1.5em">As a Junior Developer at Ruby Labs, you’ll have the unique opportunity to develop comparison and review websites in collaboration with our experienced developers. This role is designed to give you practical exposure to building high-performing, user-friendly web applications using <strong>Next.js</strong> and related technologies. You’ll work in a supportive environment where your learning and growth are a top priority.</p><p style="min-height:1.5em"></p><h1><strong>Key Responsibilities</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Develop and optimize websites focused on user engagement and performance.</p></li><li><p style="min-height:1.5em">Collaborate with the SEO Manager to integrate SEO best practices into web applications.</p></li><li><p style="min-height:1.5em">Gain hands-on experience with cutting-edge tools and frameworks.</p></li><li><p style="min-height:1.5em">Participate in code reviews and contribute ideas to improve functionality and user experience.</p></li></ul><h1><strong>Qualifications</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Enthusiastic final-year university students with a background in Computer Science, Software Engineering, or a related field.</p></li><li><p style="min-height:1.5em"> experience with <strong>JavaScript</strong> and <strong>Next.js</strong>.</p></li><li><p style="min-height:1.5em">Passion for creating efficient, visually appealing, and user-friendly applications.</p></li><li><p style="min-height:1.5em">Strong problem-solving skills and a collaborative mindset.</p></li></ul><h1><strong>Location</strong></h1><p style="min-height:1.5em">Ruby Labs operates within the CET (Central European Time) zone. Applicants from any country are welcome to apply for the position as long as they are located within approximately ± 4 hours of CET. This ensures optimal collaboration and communication during working hours.</p><p style="min-height:1.5em"></p><h1><strong>Benefits</strong></h1><p style="min-height:1.5em">Discover the perks of being part of our vibrant team! We offer:</p><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Remote Work Environment:</strong> Embrace the freedom to work from anywhere, anytime, promoting a healthy work-life balance. 🏡⏰</p></li><li><p style="min-height:1.5em"><strong>Unlimited PTO:</strong> Enjoy unlimited paid time off to recharge and prioritize your well-being, without counting days. 🌴💼</p></li><li><p style="min-height:1.5em"><strong>Paid National Holidays:</strong> Celebrate and relax on national holidays with paid time off to unwind and recharge. 🎉🌟</p></li><li><p style="min-height:1.5em"><strong>Company-provided MacBook:</strong> Experience seamless productivity with top-notch Apple MacBooks provided to all employees who need them. 💻🚀</p></li><li><p style="min-height:1.5em"><strong>Flexible Independent Contractor Agreement:</strong> Unlock the benefits of flexibility, autonomy, and entrepreneurial opportunities. Benefit from tax advantages, networking opportunities, reduced employment obligations, and the freedom to work from anywhere. Read more about it here: <a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.google.com/document/d/1dHF4ctKlez75whdn-ybUwP5d5Wr0BdwVrorrm_fM40Q/preview">https://docs.google.com/document/d/1dHF4ctKlez75whdn-ybUwP5d5Wr0BdwVrorrm_fM40Q/preview</a> 📈💼</p></li></ul><p style="min-height:1.5em">Be part of our fast-growing team and seize this excellent opportunity for personal and professional growth!</p><p style="min-height:1.5em"></p><h1><strong>Interview Process</strong></h1><p style="min-height:1.5em">After submitting your application, we conduct a thorough review which typically takes 3 to 5 days, but may occasionally take longer due to the volume of applications received. If we see a potential fit, we proceed with the following steps:</p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Recruiter Screening (40 minutes)</p></li><li><p style="min-height:1.5em">Technical Interview (90 minutes)</p></li></ul><p style="min-height:1.5em"></p><h1><strong>Life at Ruby Labs</strong></h1><p style="min-height:1.5em">At Ruby Labs, we are more than a team; we're a community united in pushing the boundaries of technology and innovation. Our combined passion fuels our ambition for excellence, driving impact that resonates around the globe.</p><p style="min-height:1.5em">We are an equal-opportunity employer and celebrate diversity, recognizing that a diversity of thought and backgrounds builds stronger teams. We approach diversity and inclusion seriously and thoughtfully. We do not discriminate based on race, ethnicity, religion, color, place of birth, sex, gender identity or expression, sexual orientation, age, marital status, military service status, or disability status. Join us and be part of a company that is crafting the future of technology across multiple industries.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em">#Li-Remote</p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQF7VVv61POIFw/company-logo_200_200/company-logo_200_200/0/1721937953426?e=1743033600&v=beta&t=_qAkZ_qGO7Du2NSUdHDNbUKIbz28Y1HDm1g9mwNIOnk" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Ruby Labs</h5>
+                    <h3>Node.js/NestJS Developer | WinTech</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.ashbyhq.com/ruby-labs/b82d9f02-3f19-4ef8-a8e4-46adba6dbba9" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h1><strong>About us</strong></h1><p style="min-height:1.5em">At WinTech, we are at the forefront of innovation, crafting cutting-edge consumer products that shape the future. Our diverse portfolio spans the health, education, and entertainment sectors, offering exciting opportunities to make a real impact. Our dynamic teams are the driving force behind our success, and we’re always on the lookout for passionate individuals eager to join us on this journey of transformation.</p><p style="min-height:1.5em"></p><h1><strong>About the role</strong></h1><p style="min-height:1.5em">We are seeking a skilled and motivated <strong>strong Node.js/NestJS Developer</strong> to join our dynamic team. In this role, you will be responsible for designing, building, and maintaining backend systems using cutting-edge tools and technologies. You’ll work collaboratively to deliver robust, scalable, and efficient solutions while adhering to industry best practices.</p><p style="min-height:1.5em"></p><h1><strong>Key Responsibilities</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Develop, test, and maintain backend systems using Node.js and NestJS.</p></li><li><p style="min-height:1.5em">Design and implement APIs, including GraphQL endpoints.</p></li><li><p style="min-height:1.5em">Work with PrismaORM and TypeORM for efficient database interactions.</p></li><li><p style="min-height:1.5em">Manage and optimize PostgreSQL databases.</p></li><li><p style="min-height:1.5em">Implement and maintain Monorepo architectures for project management.</p></li><li><p style="min-height:1.5em">Create containerized applications using Docker.</p></li><li><p style="min-height:1.5em">Leverage AWS services like EC2, S3, and Lambda for scalable solutions.</p></li><li><p style="min-height:1.5em">Integrate Kafka for message publishing and consumption.</p></li><li><p style="min-height:1.5em">Ensure smooth CI/CD workflows for rapid and reliable deployment.</p></li><li><p style="min-height:1.5em">Collaborate with cross-functional teams to ensure project success.</p></li><li><p style="min-height:1.5em">Deliver high-quality code with a strong focus on detail and responsibility.</p></li></ul><p style="min-height:1.5em"></p><h1><strong>Qualifications</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">At least 2 years of professional experience with Node.js and NestJS.</p></li><li><p style="min-height:1.5em">Proficiency in GraphQL.</p></li><li><p style="min-height:1.5em">Hands-on experience with PrismaORM and TypeORM.</p></li><li><p style="min-height:1.5em">Solid understanding of PostgreSQL database management.</p></li><li><p style="min-height:1.5em">Familiarity with the Monorepo concept.</p></li><li><p style="min-height:1.5em">Strong experience with Docker.</p></li><li><p style="min-height:1.5em">Working knowledge of AWS services (e.g., EC2, S3, Lambda).</p></li><li><p style="min-height:1.5em">Experience with Kafka for message-based architectures.</p></li><li><p style="min-height:1.5em">Proficiency in CI/CD processes.</p></li><li><p style="min-height:1.5em">Strong problem-solving skills and ability to work both independently and in a team.</p></li><li><p style="min-height:1.5em">Exceptional attention to detail and accountability.</p></li></ul><p style="min-height:1.5em"></p><h1><strong>Location</strong></h1><p style="min-height:1.5em">WinTech operates within the CET (Central European Time) zone. Applicants from any country are welcome to apply for the position as long as they are located within approximately ± 4 hours of CET. This ensures optimal collaboration and communication during working hours.</p><p style="min-height:1.5em"></p><h1><strong>Benefits</strong></h1><p style="min-height:1.5em">Discover the perks of being part of our vibrant team! We offer:</p><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Remote Work Environment:</strong> Embrace the freedom to work from anywhere, anytime, promoting a healthy work-life balance. 🏡⏰</p></li><li><p style="min-height:1.5em"><strong>Unlimited PTO:</strong> Enjoy unlimited paid time off to recharge and prioritize your well-being, without counting days. 🌴💼</p></li><li><p style="min-height:1.5em"><strong>Paid National Holidays:</strong> Celebrate and relax on national holidays with paid time off to unwind and recharge. 🎉🌟</p></li><li><p style="min-height:1.5em"><strong>Company-provided MacBook:</strong> Experience seamless productivity with top-notch Apple MacBooks provided to all employees who need them. 💻🚀</p></li><li><p style="min-height:1.5em"><strong>Flexible Independent Contractor Agreement:</strong> Unlock the benefits of flexibility, autonomy, and entrepreneurial opportunities. Benefit from tax advantages, networking opportunities, reduced employment obligations, and the freedom to work from anywhere. Read more about it here: <a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.google.com/document/d/1dHF4ctKlez75whdn-ybUwP5d5Wr0BdwVrorrm_fM40Q/preview">https://docs.google.com/document/d/1dHF4ctKlez75whdn-ybUwP5d5Wr0BdwVrorrm_fM40Q/preview</a> 📈💼</p></li></ul><p style="min-height:1.5em">Be part of our fast-growing team and seize this excellent opportunity for personal and professional growth!</p><p style="min-height:1.5em"></p><h1><strong>Interview Process</strong></h1><p style="min-height:1.5em">After submitting your application, we conduct a thorough review which typically takes 3 to 5 days, but may occasionally take longer due to the volume of applications received. If we see a potential fit, we proceed with the following steps:</p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Recruiter Screening (40 minutes)</p></li><li><p style="min-height:1.5em">Technical Interview (90 minutes)</p></li><li><p style="min-height:1.5em">Final Interview (60 minutes)</p></li></ul><p style="min-height:1.5em"></p><h1><strong>Life at WinTech</strong></h1><p style="min-height:1.5em">At WinTech, you'll join a supportive and collaborative team passionate about excellence and being industry leaders. Our innovative work environment drives impactful business results as we challenge ourselves and elevate each other to achieve new heights.</p><p style="min-height:1.5em">All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em">#Li-Remote</p>
                 </details>
                 </td>
             </tr>,<tr>
