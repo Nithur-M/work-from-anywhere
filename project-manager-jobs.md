@@ -236,7 +236,7 @@
                 </td>
                 <td width="300">
                     <h5>Ruby Labs</h5>
-                    <h3>Project Manager with PO skills | WinTech</h3>
+                    <h3>Project Manager with Product Owner Skills | WinTech </h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -245,7 +245,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://jobs.ashbyhq.com/ruby-labs/cdb9eb34-5998-4246-95d1-9d165872ccd2" align="right" target="_blank">Apply</a>
+                <a href="https://jobs.ashbyhq.com/ruby-labs/1dd0e8f1-ddb5-4412-b947-9c09346b5f23" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
