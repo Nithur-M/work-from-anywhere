@@ -10,7 +10,7 @@
                     <code>AWS,MySQL</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/middle-php-developer-1960406" align="right" target="_blank">Apply</a>
@@ -98,7 +98,7 @@
                     <code>backend,go,javascript,node.js</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/node-js-developer-m-f-d-1958307" align="right" target="_blank">Apply</a>
