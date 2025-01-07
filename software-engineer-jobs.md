@@ -452,6 +452,112 @@
                 </td>
                 <td width="300">
                     <h5>Sourcegraph</h5>
+                    <h3>Software Engineer - Graph [IC3]</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/5363207004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #a112ff;&quot;&gt;Who we are&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Our mission at Sourcegraph is to make it so that &lt;a href=&quot;https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4&quot;&gt;everyone can code&lt;/a&gt;, not just ~0.1% of the population.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We are transforming how the world’s most important companies build software by industrializing development with AI. Today, most professional developers spend a disproportionate amount of time understanding code and performing repetitive, low-level tasks—leaving less time for innovation and meaningful impact.&lt;/p&gt;
+&lt;p&gt;We’re changing that. Sourcegraph brings AI-powered search and agents to the enterprise, helping teams automate the mundane and amplify what developers do best— solving hard problems and creating great products.&lt;/p&gt;
+&lt;p&gt;Here’s how we’re making a difference:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Accelerating developers &lt;/strong&gt;with AI agents that deliver insights and precision—enabling 5x faster test creation, 30% increase in merge requests, and saving 20 minutes per developer daily.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automating repetitive tasks,&lt;/strong&gt; from remediating vulnerabilities (saving teams 1,000+ hours annually) to speeding up migrations that would take years to months.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enabling innovation&lt;/strong&gt; by addressing complex problems like automated bug triage, vulnerability detection, and AI-driven code reviews seamlessly integrated into workflows.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Trusted by 7/10 top software companies by market cap, 4/6 top US banks and many of the companies leading global innovation, like Stripe, Indeed, Tesla, and 1Password, and with $225M in funding from investors like &lt;a href=&quot;https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/&quot;&gt;a16z&lt;/a&gt;, &lt;a href=&quot;https://about.sourcegraph.com/blog/series-c-with-sequoia/&quot;&gt;Sequoia&lt;/a&gt;, and &lt;a href=&quot;https://www.redpoint.com/companies/sourcegraph/&quot;&gt;Redpoint&lt;/a&gt;, we are building the tools that will define the next era of enterprise software development.&lt;/p&gt;
+&lt;p&gt;If you’re passionate about solving the hardest problems in software and shaping the future of technology, join us. Let’s build something extraordinary together.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Location&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;🌎&amp;nbsp; While we are an all-remote company and hire &lt;a href=&quot;https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4&quot;&gt;almost anywhere&lt;/a&gt; in the world, we have a preference for someone to reside in the following locations for this role. However, if you feel qualified, we welcome you to apply regardless of location. No matter what, working hours must overlap with UTC +8 for at least 8 hours/week.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Preferred locations:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Remote, European timezone&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Why this job is exciting&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;As a software engineer on the Graph team at Sourcegraph, you will play a key role in improving how developers understand and navigate complex codebases. Your main contributions will include building advanced compiler-type indexers and robust backend APIs and services. This role requires a mix of skills in distributed systems, end-to-end development, database optimization and programming language specifics.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;You’ll be part of a small but impactful team that is essential to the developer experience worldwide. We value innovation, collaboration, and continuous learning. You’ll have the chance to work on cutting-edge technology challenges and make a real difference in the software development community. We seek an engineer who is passionate about advancing the industry standard for engineering productivity by helping engineers understand codebases faster and creating world-class context for AI.&lt;/p&gt;
+&lt;p&gt;📅 Within one month, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Actively drive bug fixes and small enhancements in both our code indexer and backend APIs&lt;/li&gt;
+&lt;li&gt;Embed in the teams processes and partner with team members to learn and make immediate impact&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📅 Within three months, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop and maintain compiler integrations and distributed systems primarily using Go, focusing on scalability and reliability across multiple programming languages.&lt;/li&gt;
+&lt;li&gt;Actively shape the direction and participate in the planning of the features we&#39;re going to build&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📅 Within six months, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Driving significant features such as cross-language precise navigation, dependency graph analysis or auto-inference of how to build and compile customer projects automatically.&lt;/li&gt;
+&lt;li&gt;Make a significant impact by being a key contributor and help us improve our existing engineering practices.&lt;/li&gt;
+&lt;li&gt;Feel confident working more autonomously, leaning into our values, especially customer-driven, teamwork and high agency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;About you&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Strong background in software engineering with a particular interest in compilers, databases, and distributed systems.&lt;/li&gt;
+&lt;li&gt;Experience with or willingness to learn Go, and a demonstrated ability to become proficient in new technologies.&lt;/li&gt;
+&lt;li&gt;Prior involvement with small teams that manage a wide surface area of functionality is highly desirable.&lt;/li&gt;
+&lt;li&gt;Appreciation for deep dives into specific technical silos, with the capability to contribute effectively to broad architectural discussions and decisions.&lt;/li&gt;
+&lt;li&gt;Exposure to distributed system design and a solid understanding of its challenges and intricacies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nice to haves:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Familiarity with compiler construction or integration is a significant plus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;📊 This job is an IC3.&amp;nbsp; You can read more about &lt;a href=&quot;https://www.notion.so/sourcegraph/Leveling-Guide-0e1b5c76ada64b9caac387f8b7c4fc66&quot;&gt;our job leveling philosophy&lt;/a&gt; in our Handbook.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;💸 We pay you an above-average salary&lt;/strong&gt; because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an &lt;a href=&quot;https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d&quot;&gt;open and transparent&lt;/a&gt; company that values &lt;a href=&quot;https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4&quot;&gt;competitive compensation&lt;/a&gt;, our compensation ranges are visible to every single Sourcegraph teammate.&lt;/p&gt;
+&lt;p&gt;Your salary is determined by your pay band for the IC3 &amp;nbsp;job level. For determining pay bands, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that the salaries below may be adjusted in the future.&lt;/p&gt;
+&lt;p&gt;💰 The target compensation for this role is based on the IC3 pay band for your zone. The start of the IC3 pay band for each zone is listed below:&lt;/p&gt;
+&lt;p&gt;Zone 1: $170,000 USD&lt;br&gt;Zone 2: $136,000 USD&lt;br&gt;Zone 3: $102,000 USD&lt;br&gt;Zone 4: $68,000 USD&lt;/p&gt;
+&lt;p&gt;Please speak with a recruiter for additional information regarding zone locations.&lt;/p&gt;
+&lt;p&gt;📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba&quot;&gt;perks &amp;amp; benefits&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Interview process&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Below is the interview process you can expect for this role (you can read more about &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/Types-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7&quot;&gt;&lt;em&gt;the types of interviews&lt;/em&gt;&lt;/a&gt;&lt;em&gt; in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We expect the interview process to take ~6 hours in total.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;👋 Introduction Stage&lt;/strong&gt; - we have initial conversations to get to know you better…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[30m]&lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13&quot;&gt; Recruiter Screen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[20m]&lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#6a6deb280d374652b21d5aa3061c82d2&quot;&gt; Hiring Manager Intro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[45m]&lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#da568e7854bb4aaa9b027157088e2d71&quot;&gt; Technical Screen / Resume Deep Dive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;🧑‍💻 Team Interview Stage&lt;/strong&gt; - we then schedule an all-day onsite interview to delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[60m] &lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#e83edd987754460e839138a4bbfd592e&quot;&gt;Coding Exercise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[60m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3?pvs=4#e83edd987754460e839138a4bbfd592e&quot;&gt;Coding Exercise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[60m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3?pvs=4#b37f3b535e894775b9c64f53675b5549&quot;&gt;System Design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[45m]&lt;a href=&quot;https://sourcegraph.notion.site/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7#cb00697e95304550a146c32563c0255d&quot;&gt; Cross-functional Team Collaboration Interview&lt;/a&gt; /&lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd&quot;&gt; Values Interview&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;🎉 Final Interview Stage &lt;/strong&gt;- we move you to our final round, where you gain a better understanding of our business and values holistically…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[30m]&lt;a href=&quot;https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c&quot;&gt; Leadership&lt;/a&gt; with a co-founder&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;We check references and conduct your background check&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #a112ff;&quot;&gt;Learn more about us&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;You can learn more about what it is like to work at Sourcegraph by reading &lt;a href=&quot;https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0&quot;&gt;our handbook&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are an ambitious team who are collectively working hard to build the most influential company in the world.&amp;nbsp; You can read more about our &lt;a href=&quot;https://sourcegraph.notion.site/What-it-s-like-working-at-Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115&quot;&gt;culture&lt;/a&gt;, &lt;a href=&quot;https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74&quot;&gt;competitive compensation&lt;/a&gt; and &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74&quot;&gt;benefits&lt;/a&gt; here&lt;/p&gt;
+&lt;p&gt;Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Sourcegraph participates in &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107&quot;&gt;&lt;em&gt;E-Verify&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for U.S. Employees. &lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/3979584?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sourcegraph</h5>
                     <h3>Software Engineer - Metrics and Operations [IC3]</h3>
                 </td>
                 <td width="300">
@@ -560,6 +666,113 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/3979584?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sourcegraph</h5>
+                    <h3>Software Engineer - Source [IC2]</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/5393422004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #a112ff;&quot;&gt;Who we are&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Our mission at Sourcegraph is to make it so that &lt;a href=&quot;https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4&quot;&gt;everyone can code&lt;/a&gt;, not just ~0.1% of the population.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We are transforming how the world’s most important companies build software by industrializing development with AI. Today, most professional developers spend a disproportionate amount of time understanding code and performing repetitive, low-level tasks—leaving less time for innovation and meaningful impact.&lt;/p&gt;
+&lt;p&gt;We’re changing that. Sourcegraph brings AI-powered search and agents to the enterprise, helping teams automate the mundane and amplify what developers do best— solving hard problems and creating great products.&lt;/p&gt;
+&lt;p&gt;Here’s how we’re making a difference:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Accelerating developers &lt;/strong&gt;with AI agents that deliver insights and precision—enabling 5x faster test creation, 30% increase in merge requests, and saving 20 minutes per developer daily.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automating repetitive tasks,&lt;/strong&gt; from remediating vulnerabilities (saving teams 1,000+ hours annually) to speeding up migrations that would take years to months.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enabling innovation&lt;/strong&gt; by addressing complex problems like automated bug triage, vulnerability detection, and AI-driven code reviews seamlessly integrated into workflows.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Trusted by 7/10 top software companies by market cap, 4/6 top US banks and many of the companies leading global innovation, like Stripe, Indeed, Tesla, and 1Password, and with $225M in funding from investors like &lt;a href=&quot;https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/&quot;&gt;a16z&lt;/a&gt;, &lt;a href=&quot;https://about.sourcegraph.com/blog/series-c-with-sequoia/&quot;&gt;Sequoia&lt;/a&gt;, and &lt;a href=&quot;https://www.redpoint.com/companies/sourcegraph/&quot;&gt;Redpoint&lt;/a&gt;, we are building the tools that will define the next era of enterprise software development.&lt;/p&gt;
+&lt;p&gt;If you’re passionate about solving the hardest problems in software and shaping the future of technology, join us. Let’s build something extraordinary together.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Location&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;🌎 While we are an all-remote company and hire &lt;a href=&quot;https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4&quot;&gt;almost anywhere&lt;/a&gt; in the world, we have a preference for someone to reside in the following locations for this role. However, if you feel qualified, we welcome you to apply regardless of location.&amp;nbsp; No matter what, working hours must overlap with UTC +1 for at least 10 hours/week.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Preferred locations:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Remote&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Why this job is exciting&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;As a Software Engineer on the Source team at Sourcegraph, you will be at the heart of our efforts to revolutionize code intelligence and engineer productivity by managing the ingestion, security, processing and distribution of source code at scale. This role is central to everything we do, providing the foundation upon which all our code intelligence tools and APIs are built. You will be tasked with designing and implementing robust distributed systems that handle expansive customer codebases (millions of lines of code and hundreds of thousands of repositories)&amp;nbsp; securely and efficiently, ensuring accessibility and functionality for all users.&lt;/p&gt;
+&lt;p&gt;Joining the Source team means working at the nexus of software innovation. Our work is critical to the success of the company, and our solutions impact every team within the organization, driving changes which make user more productive via code search, navigation and AI.&lt;/p&gt;
+&lt;p&gt;📅 Within one month, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Actively drive bug fixes and small enhancements&lt;/li&gt;
+&lt;li&gt;Embed in the teams processes and partner with team members to learn and make immediate impact&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📅 Within three months, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop end-to-end features using Go, with occasional opportunities to work on front-end features using JavaScript.&lt;/li&gt;
+&lt;li&gt;Continuously improve our source syncing mechanisms to ensure seamless code and data integration across various platforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📅 Within six months, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Maintain and optimize our PostgreSQL databases to enhance performance and reliability.&lt;/li&gt;
+&lt;li&gt;Enhance secure authentication protocols and source integration processes.&lt;/li&gt;
+&lt;li&gt;Collaborate with teams across the company on projects that benefit from cross-team expertise, particularly those involving connecting search and code intelligence to deliver compelling end-to-end improvements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;About you&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Proven experience in building and maintaining large-scale distributed systems, ideally with a strong background in Go and PostgreSQL.&lt;/li&gt;
+&lt;li&gt;Strong API design skills&lt;/li&gt;
+&lt;li&gt;Knowledge of front-end technologies, particularly JavaScript.&lt;/li&gt;
+&lt;li&gt;Familiarity with modern authentication protocols and experience in integrating diverse data sources.&lt;/li&gt;
+&lt;li&gt;A passion for tackling security and scalability challenges in software development and distribution.&lt;/li&gt;
+&lt;li&gt;Ability to work collaboratively across teams to solve complex technical issues.&lt;/li&gt;
+&lt;li&gt;Excellent problem-solving skills and a keen interest in developing new, innovative solutions to enhance code intelligence capabilities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nice to haves:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GraphQL experience&lt;/li&gt;
+&lt;li&gt;Deep understanding of Git internals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;📊 This job is an IC2. You can read more about &lt;a href=&quot;https://www.notion.so/sourcegraph/Leveling-Guide-0e1b5c76ada64b9caac387f8b7c4fc66&quot;&gt;our job leveling philosophy&lt;/a&gt; in our Handbook.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;💸 We pay you an above-average salary&lt;/strong&gt; because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an &lt;a href=&quot;https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d&quot;&gt;open and transparent&lt;/a&gt; company that values &lt;a href=&quot;https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4&quot;&gt;competitive compensation&lt;/a&gt;, our compensation ranges are visible to every single Sourcegraph teammate.&lt;/p&gt;
+&lt;p&gt;Your salary is determined by your pay band for the IC2 job level. For determining pay bands, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that the salaries below may be adjusted in the future.&lt;/p&gt;
+&lt;p&gt;💰 The target compensation for this role is based on the IC2 pay band for your zone. The start of the IC2 &amp;nbsp;pay band for each zone is listed below:&lt;/p&gt;
+&lt;p&gt;Zone 1: $145,000 USD&lt;br&gt;Zone 2: $116,000 USD&lt;br&gt;Zone 3: $87,000 USD&lt;br&gt;Zone 4: $58,000 USD&lt;/p&gt;
+&lt;p&gt;Please speak with a recruiter for additional information regarding zone locations.&lt;/p&gt;
+&lt;p&gt;📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba&quot;&gt;perks &amp;amp; benefits&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Interview process&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Below is the interview process you can expect for this role (you can read more about &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/Types-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7&quot;&gt;&lt;em&gt;the types of interviews&lt;/em&gt;&lt;/a&gt;&lt;em&gt; in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We expect the interview process to take ~6 hours in total.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;👋 Introduction Stage&lt;/strong&gt; - we have initial conversations to get to know you better…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[30m]&lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13&quot;&gt; Recruiter Screen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[20m]&lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#6a6deb280d374652b21d5aa3061c82d2&quot;&gt; Hiring Manager Intro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[45m]&lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#da568e7854bb4aaa9b027157088e2d71&quot;&gt; Technical Screen / Resume Deep Dive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;🧑‍💻 Team Interview Stage&lt;/strong&gt; - we then schedule an all-day onsite interview to delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[60m] &lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#e83edd987754460e839138a4bbfd592e&quot;&gt;Coding Exercise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[60m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3?pvs=4#e83edd987754460e839138a4bbfd592e&quot;&gt;Coding Exercise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[60m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3?pvs=4#b37f3b535e894775b9c64f53675b5549&quot;&gt;System Design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[45m]&lt;a href=&quot;https://sourcegraph.notion.site/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7#cb00697e95304550a146c32563c0255d&quot;&gt; Cross-functional Team Collaboration Interview&lt;/a&gt; /&lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd&quot;&gt; Values Interview&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;🎉 Final Interview Stage &lt;/strong&gt;- we move you to our final round, where you gain a better understanding of our business and values holistically…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[30m]&lt;a href=&quot;https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c&quot;&gt; Leadership&lt;/a&gt; with a co-founder&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;We check references and conduct your background check&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #a112ff;&quot;&gt;Learn more about us&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;You can learn more about what it is like to work at Sourcegraph by reading &lt;a href=&quot;https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0&quot;&gt;our handbook&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are an ambitious team who are collectively working hard to build the most influential company in the world.&amp;nbsp; You can read more about our &lt;a href=&quot;https://sourcegraph.notion.site/What-it-s-like-working-at-Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115&quot;&gt;culture&lt;/a&gt;, &lt;a href=&quot;https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74&quot;&gt;competitive compensation&lt;/a&gt; and &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74&quot;&gt;benefits&lt;/a&gt; here&lt;/p&gt;
+&lt;p&gt;Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Sourcegraph participates in &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107&quot;&gt;&lt;em&gt;E-Verify&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for U.S. Employees. &lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -590,6 +803,96 @@
 <p>Beneficial experience includes PostgreSQL, Python, Rust, Linux, TypeScript, Nix, frontend/backend web development, and data mining.</p>
 <p>Please include your updated resume when applying for this role.</p>
 <p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a><a href="http://mixrank.com/" target="_blank">. Offers fr</a>om any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MixRank</h5>
+                    <h3>Junior Software Engineer - Colombia/Remote</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.ycombinator.com/companies/mixrank/jobs/LQUXLxU-junior-software-engineer-colombia-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
+<p>We're looking for remote engineers that have finished school within the last 2 years or will finish in the next 6 months. This is an open-ended entry-level role with mentorship, and diverse opportunities to work on all areas of our product: databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
+<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
+<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
+<p>Please include your updated resume when applying for this role.</p>
+<p><strong>Important:</strong>&nbsp;Only accept job offers from emails ending in @<a href="http://mixrank.com/" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MixRank</h5>
+                    <h3>Junior Software Engineer - Argentina/Remote</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.ycombinator.com/companies/mixrank/jobs/zkkqsPc-junior-software-engineer-argentina-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
+<p>We're looking for remote engineers that have finished school within the last 2 years or will finish in the next 6 months. This is an open-ended entry-level role with mentorship, and diverse opportunities to work on all areas of our product: databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
+<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
+<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
+<p>Please include your updated resume when applying for this role.</p>
+<p><strong>Important:</strong>&nbsp;Only accept job offers from emails ending in @<a href="http://mixrank.com/" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MixRank</h5>
+                    <h3>Junior Software Engineer - Brazil/Remote</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.ycombinator.com/companies/mixrank/jobs/TxcsMYn-junior-software-engineer-brazil-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
+<p>We're looking for remote engineers that have finished school within the last 2 years or will finish in the next 6 months. This is an open-ended entry-level role with mentorship, and diverse opportunities to work on all areas of our product: databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
+<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
+<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
+<p>Please include your updated resume when applying for this role.</p>
+<p><strong>Important:</strong>&nbsp;Only accept job offers from emails ending in @<a href="http://mixrank.com/" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
 
                 </details>
                 </td>
@@ -2162,13 +2465,13 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://jobs.ashbyhq.com/empower%20finance/58a3c21c-f52b-4f87-a0b6-16077ad889b5" align="right" target="_blank">Apply</a>
+                <a href="https://jobs.ashbyhq.com/empower%20finance/a8d2c96e-ee4d-4942-963c-9aa79c1eccff" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p style="min-height:1.5em"><strong>EMPOWER OVERVIEW</strong></p><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="http://empower.me/">Empower</a> is shaking up an outdated financial system by providing real opportunity for our customers: the opportunity to get the cash they need, to access fair credit, and to change their financial story. Today, we’re helping millions of people find financial security through machine learning models that evaluate creditworthiness using a more inclusive lens and mobile-first products: Cash Advance, Thrive line of credit, and Petal credit cards. Tomorrow? Creating even more financial paths for our customers (and their wallets) to succeed.</p><p style="min-height:1.5em">This year, Empower ranked #65 on Inc. 5000’s Fastest-Growing Private Companies list — our third year in a row cracking the top 100 — and was named by Forbes as one of the 25 Next Billion-Dollar Startups for 2024. Empower was also featured by Forbes on America’s Best Startup Employers list in 2023, and our Thrive line of credit product was named by Fast Company as one of 2022’s Next Big Things in Tech.</p><p style="min-height:1.5em">Empower is backed by Sequoia Capital, Blisce, and Icon Ventures. Ready to grow your impact and accelerate your career? Take a look at our open roles — we can’t wait to meet you.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>THE EMPOWER WAY</strong></p><p style="min-height:1.5em"><strong>Great Expectations</strong>: We come up with bold, audacious goals for ourselves and go all out for impact</p><p style="min-height:1.5em"><strong>Owner Mindset</strong>: We give every employee latitude to act independently, make smart choices, and move the business forward</p><p style="min-height:1.5em"><strong>Spirited Debate</strong>: We love skeptics and seek counter opinions to challenge our personal assumptions and expand our view</p><p style="min-height:1.5em"><strong>Customer Obsession:</strong> We listen to understand, empathize, and create a memorable, rewarding experience for our community</p><p style="min-height:1.5em"><strong>Inclusive Collaboration</strong>: We believe diverse teams make the best decisions, and we strive to give diverse voices a seat at the table</p><p style="min-height:1.5em"><strong>No Jerks Allowed</strong>: We value our relationships and take the time to build trust and connection and communicate respectfully</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>WHAT EMPOWER OFFERS</strong></p><p style="min-height:1.5em">Competitive salary</p><p style="min-height:1.5em">Generous equity package</p><p style="min-height:1.5em">Full healthcare benefits</p><p style="min-height:1.5em">Technology expense reimbursement</p><p style="min-height:1.5em">Work from anywhere</p><p style="min-height:1.5em"><strong>JOB DESCRIPTION</strong></p><p style="min-height:1.5em">As a Software Engineering Manager, you’ll work on the systems and processes that enable Empower's apps and business. You’ll engage with a collaborative, high powered team to deliver solutions on projects with a reach of millions. The solutions you’ll build will be robust, secure and easy to understand both for our users and your engineering peers. You’ll take end to end ownership of new features and product lines shaping work in early stages, building, deploying and running post deployment analysis to ensure we’re hitting our goals.<br />Travel for company offsites is expected at a minimum 2 times a year.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Responsibilities</strong></p><p></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Line management of engineering (3-15 staff)</p></li><li><p style="min-height:1.5em">Hiring technical talent across backend, web and mobile</p></li><li><p style="min-height:1.5em">Delivery management of high profile initiatives</p></li><li><p style="min-height:1.5em">Develop and execute strategic investments in technical infrastructure</p></li><li><p style="min-height:1.5em">Mentoring and coaching both technical and delivery within the delivery team</p></li><li><p style="min-height:1.5em">Management of high severity operational incidents</p></li><li><p style="min-height:1.5em">Management of a platform's technology roadmap</p></li><li><p style="min-height:1.5em">Hands on technical support (as required)</p></li><li><p style="min-height:1.5em">Analysis and specification of technical initiatives as a Technical Product Owner</p></li><li><p style="min-height:1.5em">System operational performance management</p></li><li><p style="min-height:1.5em">Participate in on-call schedule and escalations</p></li><li><p style="min-height:1.5em">Reporting of operational metrics</p></li><li><p style="min-height:1.5em">Process analysis, design and execution</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Requirements</strong></p><p></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Bachelor degree or greater within Computer Science, Software Engineering or a related subject</p></li><li><p style="min-height:1.5em">6+ years developing web APIs</p></li><li><p style="min-height:1.5em">3+ years in a technical leadership role</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"></p><p></p><p style="min-height:1.5em">At Empower, we hire for people that push themselves to understand others and seek out ways to challenge their personal assumptions. Our hope is that by fostering such an environment, we strengthen our business and relationships by putting people first. We are committed to building a diverse, inclusive, and equitable workspace where everyone (regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics) feels like they belong. Even if your experience doesn’t exactly match up to our job description, you should feel empowered to apply regardless!</p>
+                <p style="min-height:1.5em"><strong>EMPOWER OVERVIEW</strong></p><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="http://empower.me/">Empower</a> is shaking up an outdated financial system by providing real opportunity for our customers: the opportunity to get the cash they need, to access fair credit, and to change their financial story. Today, we’re helping millions of people find financial security through machine learning models that evaluate creditworthiness using a more inclusive lens and mobile-first products: Cash Advance, Thrive line of credit, and Petal credit cards. Tomorrow? Creating even more financial paths for our customers (and their wallets) to succeed.</p><p style="min-height:1.5em">This year, Empower ranked #65 on Inc. 5000’s Fastest-Growing Private Companies list — our third year in a row cracking the top 100 — and was named by Forbes as one of the 25 Next Billion-Dollar Startups for 2024. Empower was also featured by Forbes on America’s Best Startup Employers list in 2023, and our Thrive line of credit product was named by Fast Company as one of 2022’s Next Big Things in Tech.</p><p style="min-height:1.5em">Empower is backed by Sequoia Capital, Blisce, and Icon Ventures. Ready to grow your impact and accelerate your career? Take a look at our open roles — we can’t wait to meet you.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>THE EMPOWER WAY</strong></p><p style="min-height:1.5em"><strong>Great Expectations</strong>: We come up with bold, audacious goals for ourselves and go all out for impact</p><p style="min-height:1.5em"><strong>Owner Mindset</strong>: We give every employee latitude to act independently, make smart choices, and move the business forward</p><p style="min-height:1.5em"><strong>Spirited Debate</strong>: We love skeptics and seek counter opinions to challenge our personal assumptions and expand our view</p><p style="min-height:1.5em"><strong>Customer Obsession:</strong> We listen to understand, empathize, and create a memorable, rewarding experience for our community</p><p style="min-height:1.5em"><strong>Inclusive Collaboration</strong>: We believe diverse teams make the best decisions, and we strive to give diverse voices a seat at the table</p><p style="min-height:1.5em"><strong>No Jerks Allowed</strong>: We value our relationships and take the time to build trust and connection and communicate respectfully</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>WHAT EMPOWER OFFERS</strong></p><p style="min-height:1.5em">Competitive salary</p><p style="min-height:1.5em">Generous equity package</p><p style="min-height:1.5em">Full healthcare benefits</p><p style="min-height:1.5em">Technology expense reimbursement</p><p style="min-height:1.5em">Work from anywhere</p><p style="min-height:1.5em"><strong>JOB DESCRIPTION</strong></p><p style="min-height:1.5em">As a Software Engineering Manager, you’ll work on the systems and processes that enable Empower's apps and business. You’ll engage with a collaborative, high powered team to deliver solutions on projects with a reach of millions. The solutions you’ll build will be robust, secure and easy to understand both for our users and your engineering peers. You’ll take end to end ownership of new features and product lines shaping work in early stages, building, deploying and running post deployment analysis to ensure we’re hitting our goals.</p><p style="min-height:1.5em"><br />Travel for company offsites is expected at a minimum 2 times a year.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Responsibilities</strong></p><p></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Line management of engineering (3-15 staff)</p></li><li><p style="min-height:1.5em">Hiring technical talent across backend, web and mobile</p></li><li><p style="min-height:1.5em">Delivery management of high profile initiatives</p></li><li><p style="min-height:1.5em">Develop and execute strategic investments in technical infrastructure</p></li><li><p style="min-height:1.5em">Mentoring and coaching both technical and delivery within the delivery team</p></li><li><p style="min-height:1.5em">Management of high severity operational incidents</p></li><li><p style="min-height:1.5em">Management of a platform's technology roadmap</p></li><li><p style="min-height:1.5em">Hands on technical support (as required)</p></li><li><p style="min-height:1.5em">Analysis and specification of technical initiatives as a Technical Product Owner</p></li><li><p style="min-height:1.5em">System operational performance management</p></li><li><p style="min-height:1.5em">Participate in on-call schedule and escalations</p></li><li><p style="min-height:1.5em">Reporting of operational metrics</p></li><li><p style="min-height:1.5em">Process analysis, design and execution</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Requirements</strong></p><p></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Bachelor degree or greater within Computer Science, Software Engineering or a related subject</p></li><li><p style="min-height:1.5em">6+ years developing web APIs</p></li><li><p style="min-height:1.5em">3+ years in a technical leadership role</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"></p><p></p><p style="min-height:1.5em">At Empower, we hire for people that push themselves to understand others and seek out ways to challenge their personal assumptions. Our hope is that by fostering such an environment, we strengthen our business and relationships by putting people first. We are committed to building a diverse, inclusive, and equitable workspace where everyone (regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics) feels like they belong. Even if your experience doesn’t exactly match up to our job description, you should feel empowered to apply regardless!</p>
                 </details>
                 </td>
             </tr>,<tr>
