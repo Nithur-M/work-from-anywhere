@@ -52,7 +52,7 @@
                 </td>
                 <td width="300">
                     <h5>Zircuit</h5>
-                    <h3>Senior Devops/SRE Engineer  (Full Time, Australia/New Zealand)</h3>
+                    <h3>Senior Devops/SRE Engineer (Australia/New Zealand)</h3>
                 </td>
                 <td width="300">
                     <code></code>
