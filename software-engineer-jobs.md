@@ -131,6 +131,253 @@
                 </td>
                 <td width="300">
                     <h5>Sourcegraph</h5>
+                    <h3>Software Engineer - Cody Prime [IC2]</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/5393421004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #a112ff;&quot;&gt;Who we are&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Our mission at Sourcegraph is to make it so that &lt;a href=&quot;https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4&quot;&gt;everyone can code&lt;/a&gt;, not just ~0.1% of the population.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We are transforming how the world’s most important companies build software by industrializing development with AI. Today, most professional developers spend a disproportionate amount of time understanding code and performing repetitive, low-level tasks—leaving less time for innovation and meaningful impact.&lt;/p&gt;
+&lt;p&gt;We’re changing that. Sourcegraph brings AI-powered search and agents to the enterprise, helping teams automate the mundane and amplify what developers do best— solving hard problems and creating great products.&lt;/p&gt;
+&lt;p&gt;Here’s how we’re making a difference:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Accelerating developers &lt;/strong&gt;with AI agents that deliver insights and precision—enabling 5x faster test creation, 30% increase in merge requests, and saving 20 minutes per developer daily.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automating repetitive tasks,&lt;/strong&gt; from remediating vulnerabilities (saving teams 1,000+ hours annually) to speeding up migrations that would take years to months.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enabling innovation&lt;/strong&gt; by addressing complex problems like automated bug triage, vulnerability detection, and AI-driven code reviews seamlessly integrated into workflows.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Trusted by 7/10 top software companies by market cap, 4/6 top US banks and many of the companies leading global innovation, like Stripe, Indeed, Tesla, and 1Password, and with $225M in funding from investors like &lt;a href=&quot;https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/&quot;&gt;a16z&lt;/a&gt;, &lt;a href=&quot;https://about.sourcegraph.com/blog/series-c-with-sequoia/&quot;&gt;Sequoia&lt;/a&gt;, and &lt;a href=&quot;https://www.redpoint.com/companies/sourcegraph/&quot;&gt;Redpoint&lt;/a&gt;, we are building the tools that will define the next era of enterprise software development.&lt;/p&gt;
+&lt;p&gt;If you’re passionate about solving the hardest problems in software and shaping the future of technology, join us. Let’s build something extraordinary together.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Location&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;🌎 While we are an all-remote company and hire&amp;nbsp;&lt;a href=&quot;https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4&quot;&gt;almost anywhere&lt;/a&gt; in the world, we have a preference for someone to reside in the following locations for this role. However, if you feel qualified, we welcome you to apply regardless of location. No matter what, working hours must overlap with the PST timezone for at least 20 hours/week.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Why this job is exciting&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Source code is at the heart of Sourcegraph. We support multiple code hosts and retrieve, store, index, and serve source code - to end users, admins, and other internal services. Our latest addition to our product catalog, Cody, reimagines how code is written and supercharges our developer customers. Sourcegraph hosts the infrastructure for our customers to manage their source code (search, insights, own, etc.) and our brand new AI Code Assistant (Cody).&lt;/p&gt;
+&lt;p&gt;The Cody Prime team is responsible for the Enterprise service layer for Cody, providing services &amp;amp; tools to help Cody succeed in secure enterprise environments, and making it easier for Cody Core team to build enterprise-friendly features. This is a new and unmapped space, building an AI product that meets high regulatory and compliance standards. As an engineer on the Cody Prime team, you will work closely with engineers on the Cody Core and Core Services teams. You will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Build and operate resilient and secure services providing authorization and authentication for Cody&lt;/li&gt;
+&lt;li&gt;Develop a roadmap and tooling for abuse detection and mitigation&lt;/li&gt;
+&lt;li&gt;Extend and operate analytics services collecting data around usage metering, license management, billing, and rate limiting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📅 Within one month, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Onboard onto the Sourcegraph architecture, tooling, and development workflow.&lt;/li&gt;
+&lt;li&gt;Build a solid understanding of the team’s areas of ownership, technical challenges, and problems the team solves for our customers, and know how all of these align with the top-level company goals.&lt;/li&gt;
+&lt;li&gt;Actively participate in team meetings, sharing ideas and insights to contribute to the overall team goals.&lt;/li&gt;
+&lt;li&gt;Start contributing to the team goals and deliverables by shipping new features, debugging issues, and fixing bugs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📅 Within three months, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Demonstrate an understanding of the Cody Prime service stack, its underlying technologies, and its integration within the Sourcegraph ecosystem.&lt;/li&gt;
+&lt;li&gt;Contribute to the implementation of new features or improvements in Go, with occasional opportunities to work on front-end features using JavaScript.&lt;/li&gt;
+&lt;li&gt;Participate in initiatives contributing to team goals on the roadmap by going through the entire product development lifecycle discovery, design, implementation, and delivery.&lt;/li&gt;
+&lt;li&gt;Participate in support of our production services.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📅 Within six months, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Demonstrate a deep understanding of the Cody Gateway and Cody Analytics products.&lt;/li&gt;
+&lt;li&gt;Contribute new features to both services with assistance from senior engineers on the team.&lt;/li&gt;
+&lt;li&gt;Collaborate with teams across the company on projects that benefit from cross-team expertise, particularly those involving monetization or analytics of the Cody product.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;About you&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;You bring a product mindset in balancing design philosophy with meeting customer demand, balancing the requirements of enterprise-grade production services with the rapid iteration requirements of the AI space.&lt;/p&gt;
+&lt;p&gt;You think in terms of building self-service platforms and APIs, which reduce manual operations and enable other developers. You balance maintaining and designing high-impact systems with a pragmatic understanding of how to make appropriate tradeoffs (e.g., cut scope, low-tech vs. custom complex solutions) to ship quickly and iterate when necessary. You’re excited to work in a new space, bringing enterprise-grade security to an AI chat product. You are strongly aligned with &lt;a href=&quot;https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d&quot;&gt;our values&lt;/a&gt;, inspired by our mission to make it so that everyone can code, and motivated to do your best work at Sourcegraph.&lt;/p&gt;
+&lt;p&gt;Qualifications:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Clear and empathetic communication skills.&lt;/li&gt;
+&lt;li&gt;Proficiency in Go (or other strongly typed languages with a desire, willingness, and ability to quickly ramp up on effective Go.)&lt;/li&gt;
+&lt;li&gt;General knowledge about deploying/managing/utilizing services in Cloud environments (GCP, Terraform, Kubernetes, CI/CD, etc. or similar)&lt;/li&gt;
+&lt;li&gt;Skilled at architecting, debugging, building, testing, and reasoning about moderately complex distributed systems which intersect APIs and Services provided by other teams &amp;amp; companies.&lt;/li&gt;
+&lt;li&gt;Comfortable reasoning about API performance, service monitoring, metrics, alerting, etc. in moderately complex distributed systems (writing such code, and general intuition skills around OS primitives like network/CPU/memory, etc.)&lt;/li&gt;
+&lt;li&gt;Eagerness to help and assist other internal (and occasionally external) engineers with the institutional knowledge you will help build on the team.&lt;/li&gt;
+&lt;li&gt;Experience working on small high-performing teams, preferably tech startups, or a strong desire to join a fast-paced async team environment.&lt;/li&gt;
+&lt;li&gt;Your working hours overlap with 9am-5pm &lt;a href=&quot;https://time.is/PT&quot;&gt;PT&lt;/a&gt; for at least 15 hours per week so we have time to collaborate synchronously when necessary.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nice to haves:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Familiarity with monitoring/alerting technologies such as: Prometheus, Grafana, OpenTelemetry, OpsGenie, etc.&lt;/li&gt;
+&lt;li&gt;Familiarity with API technologies such as: HTTP text streams, WebSockets, REST, gRPC, etc.&lt;/li&gt;
+&lt;li&gt;Comfortable developing services that fit broader organizational preferences (neither micro-services nor monoliths, balancing and reasoning about such tradeoffs.)&lt;/li&gt;
+&lt;li&gt;General familiarity with payment processing, authentication, etc. technologies or a desire to learn their usage.&lt;/li&gt;
+&lt;li&gt;Familiarity with, or an eagerness to learn about, interacting with most AI/LLM APIs in the world, their nuances and intricacies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;📊 This job is an IC2 position.&amp;nbsp; You can read more about &lt;a href=&quot;https://www.notion.so/sourcegraph/Leveling-Guide-0e1b5c76ada64b9caac387f8b7c4fc66&quot;&gt;our job leveling philosophy&lt;/a&gt; in our Handbook.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;💸 We pay you an above-average salary&lt;/strong&gt; because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an &lt;a href=&quot;https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d&quot;&gt;open and transparent&lt;/a&gt; company that values &lt;a href=&quot;https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4&quot;&gt;competitive compensation&lt;/a&gt;, our compensation ranges are visible to every single Sourcegraph teammate.&lt;/p&gt;
+&lt;p&gt;Your salary is determined by your pay band for the IC2 job level. For determining pay bands, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that the salaries below may be adjusted in the future.&lt;/p&gt;
+&lt;p&gt;💰 The target compensation for this role is based on the IC2 pay band for your zone. The start of the IC2 pay band for each zone is listed below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zone 1: $145,000 USD&lt;/li&gt;
+&lt;li&gt;Zone 2: $116,000 USD&lt;/li&gt;
+&lt;li&gt;Zone 3: $87,000 USD&lt;/li&gt;
+&lt;li&gt;Zone 4: $58,000 USD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please speak with a recruiter for additional information regarding zone locations.&lt;/p&gt;
+&lt;p&gt;📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba&quot;&gt;perks &amp;amp; benefits&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Interview process&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Below is the interview process you can expect for this role (you can read more about &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/Types-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7&quot;&gt;&lt;em&gt;the types of interviews&lt;/em&gt;&lt;/a&gt;&lt;em&gt; in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We expect the interview process to take 5.75 hours in total.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;👋 Introduction Stage&lt;/strong&gt;&amp;nbsp;- we have initial conversations to get to know you better…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[30m]&amp;nbsp;&lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13&quot;&gt;Recruiter Screen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[15m]&amp;nbsp;&lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#6a6deb280d374652b21d5aa3061c82d2&quot;&gt;Hiring Manager Intro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;🧑‍💻 Team Interview Stage&lt;/strong&gt; - we then schedule team interviews to delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[45m]&amp;nbsp;&lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#da568e7854bb4aaa9b027157088e2d71&quot;&gt;Technical Screen / Resume Deep Dive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[60m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3?pvs=4#e83edd987754460e839138a4bbfd592e&quot;&gt;Coding exercise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[60m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3?pvs=4#e83edd987754460e839138a4bbfd592e&quot;&gt;Coding exercise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[60m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3?pvs=4#b37f3b535e894775b9c64f53675b5549&quot;&gt;System design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[45m] &lt;a href=&quot;https://sourcegraph.notion.site/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7#cb00697e95304550a146c32563c0255d&quot;&gt;Cross-functional Team Collaboration Interview&lt;/a&gt;&amp;nbsp;/&amp;nbsp;&lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd&quot;&gt;Values Interview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[30m] &lt;a href=&quot;https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c&quot;&gt;Leadership&lt;/a&gt;&amp;nbsp;with co-founder&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;We check references and conduct your background check&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #a112ff;&quot;&gt;Learn more about us&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;You can learn more about what it is like to work at Sourcegraph by reading &lt;a href=&quot;https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0&quot;&gt;our handbook&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are an ambitious team who are collectively working hard to build the most influential company in the world.&amp;nbsp; You can read more about our &lt;a href=&quot;https://sourcegraph.notion.site/What-it-s-like-working-at-Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115&quot;&gt;culture&lt;/a&gt;, &lt;a href=&quot;https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74&quot;&gt;competitive compensation&lt;/a&gt; and &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74&quot;&gt;benefits&lt;/a&gt; here&lt;/p&gt;
+&lt;p&gt;Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Sourcegraph participates in &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107&quot;&gt;&lt;em&gt;E-Verify&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for U.S. Employees. &lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/3979584?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sourcegraph</h5>
+                    <h3>Software Engineer - Cody Prime [IC4]</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/5363209004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #a112ff;&quot;&gt;Who we are&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Our mission at Sourcegraph is to make it so that &lt;a href=&quot;https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4&quot;&gt;everyone can code&lt;/a&gt;, not just ~0.1% of the population.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We are transforming how the world’s most important companies build software by industrializing development with AI. Today, most professional developers spend a disproportionate amount of time understanding code and performing repetitive, low-level tasks—leaving less time for innovation and meaningful impact.&lt;/p&gt;
+&lt;p&gt;We’re changing that. Sourcegraph brings AI-powered search and agents to the enterprise, helping teams automate the mundane and amplify what developers do best— solving hard problems and creating great products.&lt;/p&gt;
+&lt;p&gt;Here’s how we’re making a difference:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Accelerating developers &lt;/strong&gt;with AI agents that deliver insights and precision—enabling 5x faster test creation, 30% increase in merge requests, and saving 20 minutes per developer daily.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automating repetitive tasks,&lt;/strong&gt; from remediating vulnerabilities (saving teams 1,000+ hours annually) to speeding up migrations that would take years to months.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enabling innovation&lt;/strong&gt; by addressing complex problems like automated bug triage, vulnerability detection, and AI-driven code reviews seamlessly integrated into workflows.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Trusted by 7/10 top software companies by market cap, 4/6 top US banks and many of the companies leading global innovation, like Stripe, Indeed, Tesla, and 1Password, and with $225M in funding from investors like &lt;a href=&quot;https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/&quot;&gt;a16z&lt;/a&gt;, &lt;a href=&quot;https://about.sourcegraph.com/blog/series-c-with-sequoia/&quot;&gt;Sequoia&lt;/a&gt;, and &lt;a href=&quot;https://www.redpoint.com/companies/sourcegraph/&quot;&gt;Redpoint&lt;/a&gt;, we are building the tools that will define the next era of enterprise software development.&lt;/p&gt;
+&lt;p&gt;If you’re passionate about solving the hardest problems in software and shaping the future of technology, join us. Let’s build something extraordinary together.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Location&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;🌎 While we are an all-remote company and hire&amp;nbsp;&lt;a href=&quot;https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4&quot;&gt;almost anywhere&lt;/a&gt; in the world, we have a preference for someone to reside in the following locations for this role. However, if you feel qualified, we welcome you to apply regardless of location. No matter what, working hours must overlap with the PST timezone for at least 20 hours/week.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Why this job is exciting&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Source code is at the heart of Sourcegraph. We support multiple code hosts and retrieve, store, index, and serve source code - to end users, admins, and other internal services. Our latest addition to our product catalog, Cody, reimagines how code is written and supercharges our developer customers. Sourcegraph hosts the infrastructure for our customers to manage their source code (search, insights, own, etc.) and our brand new AI Code Assistant (Cody).&lt;/p&gt;
+&lt;p&gt;The Cody Prime team is responsible for the Enterprise service layer for Cody, providing services &amp;amp; tools to help Cody succeed in secure enterprise environments, and making it easier for Cody Core team to build enterprise-friendly features. This is a new and unmapped space, building an AI product that meets high regulatory and compliance standards. As an engineer on the Cody Prime team, you will work closely with engineers on the Cody Core and Core Services teams. You will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Build and operate resilient and secure services providing authorization and authentication for Cody&lt;/li&gt;
+&lt;li&gt;Develop a roadmap and tooling for abuse detection and mitigation&lt;/li&gt;
+&lt;li&gt;Extend and operate analytics services collecting data around usage metering, license management, billing, and rate limiting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📅 Within one month, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Onboard onto the Sourcegraph architecture, tooling, and development workflow.&lt;/li&gt;
+&lt;li&gt;Build a solid understanding of the team’s areas of ownership, technical challenges, and problems the team solves for our customers, and know how all of these align with the top-level company goals.&lt;/li&gt;
+&lt;li&gt;Actively participate in team meetings, sharing ideas and insights to contribute to the overall team goals.&lt;/li&gt;
+&lt;li&gt;Start contributing to the team goals and deliverables by shipping new features, debugging issues, and fixing bugs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📅 Within three months, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Demonstrate a comprehensive understanding of the Cody Prime service stack, its underlying technologies, and its integration within the Sourcegraph ecosystem.&lt;/li&gt;
+&lt;li&gt;Lead initiatives contributing to team goals through both discovery and delivery phases, collaborating directly with product and design partners, other engineering teams, and non-technical stakeholders from different departments.&lt;/li&gt;
+&lt;li&gt;Contribute to the architectural design and implementation of new features or improvements, actively shaping the future direction of Cody Prime services and tools based on customer needs.&lt;/li&gt;
+&lt;li&gt;Lead initiatives contributing to team goals on the roadmap by going through the entire product development lifecycle discovery, design, implementation, and delivery.&lt;/li&gt;
+&lt;li&gt;Participate in support of our production services.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📅 Within six months, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Be defining long-term technical vision and strategies for new product development, scaling existing services, and managing technical debt. These plans will consist of multiple smaller milestones, which you will deliver with the team iteratively.&lt;/li&gt;
+&lt;li&gt;Collaborate with the Technical Lead and Engineering Manager on defining the team’s growth strategy based on the long-term product vision, the technical vision, and the team’s needs.&lt;/li&gt;
+&lt;li&gt;Seek feedback from customers and stakeholders to identify opportunities for further improvements or new features, actively iterating on Cody Prime services to ensure they continues to meet our high bar.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;About you&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;You bring a product mindset in balancing design philosophy with meeting customer demand, balancing the requirements of enterprise-grade production services with the rapid iteration requirements of the AI space.&lt;/p&gt;
+&lt;p&gt;You think in terms of building self-service platforms and APIs, which reduce manual operations and enable other developers. You balance maintaining and designing high-impact systems with a pragmatic understanding of how to make appropriate tradeoffs (e.g., cut scope, low-tech vs. custom complex solutions) to ship quickly and iterate when necessary. You’re excited to work in a new space, bringing enterprise-grade security to an AI chat product. You are strongly aligned with &lt;a href=&quot;https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d&quot;&gt;our values&lt;/a&gt;, inspired by our mission to make it so that everyone can code, and motivated to do your best work at Sourcegraph.&lt;/p&gt;
+&lt;p&gt;Qualifications:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Clear and empathetic communication skills.&lt;/li&gt;
+&lt;li&gt;Proficiency in Go (or other strongly typed languages with a desire, willingness, and ability to quickly ramp up on effective Go.)&lt;/li&gt;
+&lt;li&gt;General knowledge about deploying/managing/utilizing services in Cloud environments (GCP, Terraform, Kubernetes, CI/CD, etc. or similar)&lt;/li&gt;
+&lt;li&gt;Skilled at debugging, building, testing, and reasoning about moderately complex distributed systems which intersect APIs and Services provided by other teams &amp;amp; companies.&lt;/li&gt;
+&lt;li&gt;Comfortable reasoning about API performance, service monitoring, metrics, alerting, etc. in moderately complex distributed systems (writing such code, and general intuition skills around OS primitives like network/CPU/memory, etc.)&lt;/li&gt;
+&lt;li&gt;Familiarity with, or an eagerness to learn about, interacting with most AI/LLM APIs in the world, their nuances and intricacies.&lt;/li&gt;
+&lt;li&gt;Eagerness to help and assist other internal (and occasionally external) engineers with the institutional knowledge you will help build on the team.&lt;/li&gt;
+&lt;li&gt;Your working hours overlap with 9am-5pm &lt;a href=&quot;https://time.is/PT&quot;&gt;PT&lt;/a&gt; for at least 15 hours per week so we have time to collaborate synchronously when necessary.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nice to haves:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience working on small high-performing teams, preferably tech startups, or a strong desire to join a fast-paced async team environment.&lt;/li&gt;
+&lt;li&gt;Familiarity with monitoring/alerting technologies such as: Prometheus, Grafana, OpenTelemetry, OpsGenie, etc.&lt;/li&gt;
+&lt;li&gt;Familiarity with API technologies such as: HTTP text streams, WebSockets, REST, gRPC, etc.&lt;/li&gt;
+&lt;li&gt;Comfortable developing services that fit broader organizational preferences (neither micro-services nor monoliths, balancing and reasoning about such tradeoffs.)&lt;/li&gt;
+&lt;li&gt;General familiarity with payment processing, authentication, etc. technologies or a desire to learn their usage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;📊 This job is an IC4 position.&amp;nbsp; You can read more about &lt;a href=&quot;https://www.notion.so/sourcegraph/Leveling-Guide-0e1b5c76ada64b9caac387f8b7c4fc66&quot;&gt;our job leveling philosophy&lt;/a&gt; in our Handbook.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;💸 We pay you an above-average salary&lt;/strong&gt; because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an &lt;a href=&quot;https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d&quot;&gt;open and transparent&lt;/a&gt; company that values &lt;a href=&quot;https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4&quot;&gt;competitive compensation&lt;/a&gt;, our compensation ranges are visible to every single Sourcegraph teammate.&lt;/p&gt;
+&lt;p&gt;Your salary is determined by your pay band for the IC4 job level. For determining pay bands, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that the salaries below may be adjusted in the future.&lt;/p&gt;
+&lt;p&gt;💰 The target compensation for this role is based on the IC4 pay band for your zone. The start of the IC4 pay band for each zone is listed below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zone 1: $200,000 USD&lt;/li&gt;
+&lt;li&gt;Zone 2: $160,000 USD&lt;/li&gt;
+&lt;li&gt;Zone 3: $120,000 USD&lt;/li&gt;
+&lt;li&gt;Zone 4: $80,000 USD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please speak with a recruiter for additional information regarding zone locations.&lt;/p&gt;
+&lt;p&gt;📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba&quot;&gt;perks &amp;amp; benefits&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Interview process&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Below is the interview process you can expect for this role (you can read more about &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/Types-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7&quot;&gt;&lt;em&gt;the types of interviews&lt;/em&gt;&lt;/a&gt;&lt;em&gt; in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We expect the interview process to take 5.75 hours in total.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;👋 Introduction Stage&lt;/strong&gt;&amp;nbsp;- we have initial conversations to get to know you better…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[30m]&amp;nbsp;&lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13&quot;&gt;Recruiter Screen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[15m]&amp;nbsp;&lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#6a6deb280d374652b21d5aa3061c82d2&quot;&gt;Hiring Manager Intro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;🧑‍💻 Team Interview Stage&lt;/strong&gt; - we then schedule team interviews to delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[45m]&amp;nbsp;&lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#da568e7854bb4aaa9b027157088e2d71&quot;&gt;Technical Screen / Resume Deep Dive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[60m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3?pvs=4#e83edd987754460e839138a4bbfd592e&quot;&gt;Coding exercise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[60m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3?pvs=4#e83edd987754460e839138a4bbfd592e&quot;&gt;Coding exercise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[60m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3?pvs=4#b37f3b535e894775b9c64f53675b5549&quot;&gt;System design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[45m] &lt;a href=&quot;https://sourcegraph.notion.site/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7#cb00697e95304550a146c32563c0255d&quot;&gt;Cross-functional Team Collaboration Interview&lt;/a&gt;&amp;nbsp;/&amp;nbsp;&lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd&quot;&gt;Values Interview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[30m] &lt;a href=&quot;https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c&quot;&gt;Leadership&lt;/a&gt;&amp;nbsp;with co-founder&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;We check references and conduct your background check&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #a112ff;&quot;&gt;Learn more about us&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;You can learn more about what it is like to work at Sourcegraph by reading &lt;a href=&quot;https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0&quot;&gt;our handbook&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are an ambitious team who are collectively working hard to build the most influential company in the world.&amp;nbsp; You can read more about our &lt;a href=&quot;https://sourcegraph.notion.site/What-it-s-like-working-at-Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115&quot;&gt;culture&lt;/a&gt;, &lt;a href=&quot;https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74&quot;&gt;competitive compensation&lt;/a&gt; and &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74&quot;&gt;benefits&lt;/a&gt; here&lt;/p&gt;
+&lt;p&gt;Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Sourcegraph participates in &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107&quot;&gt;&lt;em&gt;E-Verify&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for U.S. Employees. &lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/3979584?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sourcegraph</h5>
                     <h3>Software Engineer - Dev Infra [IC3]</h3>
                 </td>
                 <td width="300">
@@ -627,7 +874,12 @@
 &lt;p&gt;&lt;strong&gt;💸 We pay you an above-average salary&lt;/strong&gt; because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an &lt;a href=&quot;https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d&quot;&gt;open and transparent&lt;/a&gt; company that values &lt;a href=&quot;https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4&quot;&gt;competitive compensation&lt;/a&gt;, our compensation ranges are visible to every single Sourcegraph teammate.&lt;/p&gt;
 &lt;p&gt;Your salary is determined by your pay band for the IC2 job level. For determining pay bands, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that the salaries below may be adjusted in the future.&lt;/p&gt;
 &lt;p&gt;💰 The target compensation for this role is based on the IC2 pay band for your zone. The start of the IC2 &amp;nbsp;pay band for each zone is listed below:&lt;/p&gt;
-&lt;p&gt;Zone 1: $145,000 USD&lt;br&gt;Zone 2: $116,000 USD&lt;br&gt;Zone 3: $87,000 USD&lt;br&gt;Zone 4: $58,000 USD&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zone 1: $145,000 USD&lt;/li&gt;
+&lt;li&gt;Zone 2: $116,000 USD&lt;/li&gt;
+&lt;li&gt;Zone 3: $87,000 USD&lt;/li&gt;
+&lt;li&gt;Zone 4: $58,000 USD&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Please speak with a recruiter for additional information regarding zone locations.&lt;/p&gt;
 &lt;p&gt;📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba&quot;&gt;perks &amp;amp; benefits&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Interview process&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
