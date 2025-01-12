@@ -1,5 +1,265 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1961861/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Neon.tech</h5>
+                    <h3>Software Engineer, Storage</h3>
+                </td>
+                <td width="300">
+                    <code>C++,rust,distributed systems</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-storage-1961861" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height: 1.5em;">Neon is an open-source company on a mission to create a cloud-native Postgres database service for every developer.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">We are seeking a skilled <strong>Systems Software Engineer</strong> to join our Storage Engineering team. You will work on the Neon storage services, written in Rust:</p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Scaling our services to support millions of databases, each of which can grow to terabytes in size.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Optimizing throughput and latency for PostgreSQL clients</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Operating a global fleet of storage servers at a high level of reliability.</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;">For example, recent projects in our team included:</p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Implementing scale-out sharding of our storage for higher capacity</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">A fast vectored read path for coalescing reads of adjacent blocks</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">A joint consensus mechanism for reconfiguring Paxos replication groups</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;">Our core storage services are open source at <a href="https://github.com/neondatabase/neon/" rel="nofollow" target="_blank">https://github.com/neondatabase/neon/</a></p>
+<p style="min-height: 1.5em;"> </p>
+<div class="h2"><strong>You will also</strong></div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Participate in the design and implementation of features</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Drive continuous improvement in code quality and robustness.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Write highly efficient systems code with a focus on testability &amp; correctness</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Participate in on-call rotation and drive operational excellence</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<div class="h2"><strong>We're looking for a senior-level engineer who has</strong></div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">At least 4 years of production experience as a software engineer</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience building high-scale systems where correctness is critical</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience with maintaining and developing large codebases</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Passion for building systems software. Performance engineering and distributed systems are topics that excite you!</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Passion for joining a fast-paced, early-stage startup</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Strong sense of ownership, accountability, and pride</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<div class="h2"><strong>It would be great if you have:</strong></div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Experience with Rust or modern C++ with an interest in learning Rust</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience with open-source projects and developing publicly</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<div class="h2"><strong>About Neon</strong></div>
+<p style="min-height: 1.5em;">Neon is building open-source cloud-native PostgreSQL. Our architecture separates storage from compute, allowing for serverless Postgres. We're a well-funded startup with deep knowledge of Postgres internals and decades of experience building databases. We are a systems company; we work on low-level code with strict performance and correctness requirements.</p>
+<p style="min-height: 1.5em;">Neon was created by a team of Postgres hackers and led by CEO Nikita Shamgunov (co-founder of SingleStore). Neon is built on open-source principles and is focused on giving back to the Postgres and developer communities.</p>
+<p style="min-height: 1.5em;"> </p>
+<div class="h2"><strong>Our Team</strong></div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">We are a distributed team of 100+ people working from 25+ countries (concentrating around North American and European time zones)</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">We are a team built on open-source cultural principles (transparency, contribution, accountability, and proactivity)</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Team with decades of experience building databases and deep knowledge of Postgres internals. We are deeply technical</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">We have experienced Postgres committers and hackers on the team (check <a href="https://github.com/hlinnaka" rel="nofollow" target="_blank">Heikki</a>, <a href="https://github.com/lubennikovaav" rel="nofollow" target="_blank">Anastasia</a>, <a href="https://github.com/arssher" rel="nofollow" target="_blank">Arseny</a>, <a href="https://github.com/MMeent" rel="nofollow" target="_blank">Matthias</a> profiles)</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">We believe in the efficacy of collaborative open-source</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">We aim for a diversity of thoughts and backgrounds</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">We are keen to be a fast-moving, flat org and avoid hierarchical structures</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<div class="h2"><strong>Our Investors</strong></div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Top-tier investors backed up Neon's vision:</p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">We raised $104 million in funding from Menlo Ventures, Notable Capital, Khosla Ventures, General Catalyst, and Founders Fund.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Venture vehicles of Snowflake and Databricks invested in Neon.</p>
+</li>
+</ul>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Our angel investors are prominent technologists and ecosystem players. More than 20 awesome angels supported Neon, including Nat Friedman, Elad Gil, Mike Ovitz, Ajeet Singh, Guillermo Rauch, Søren Brammer Schmidt, and Wes McKinney.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Our Board includes Quentin Clark, Glenn Solomon, Joe Morrissey, and Tim Tully.</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<div class="h2"><strong>Our Offer</strong></div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">You have an opportunity to be an early employee in the fast-scaling, ambitious team</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">You can work 100% remote: we'll handle all formalities to arrange work from your home</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">We grant equity (stock options) to all full-time hires</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">We offer a competitive benefits package in line with all tech companies (top-notch equipment, unlimited vacations, paid parental leaves, and much more)</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">We are distributed, yet make our bonds during regular offsites (the last one was in Portugal)</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<img src="https://remotive.com/job/track/1961861/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1962166/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Wikimedia</h5>
+                    <h3>Software Engineer III, Release Engineering</h3>
+                </td>
+                <td width="300">
+                    <code>docker,go,kubernetes,python</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-iii-release-engineering-1962166" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Software Engineer III, Release Engineering</strong></p>
+<p><strong>Summary</strong></p>
+<p>The Wikimedia Foundation is looking for a mid-level software engineer to join the Release Engineering Team.</p>
+<p>Software engineers on the Release Engineering team build development environments, maintain CI/CD infrastructure, and design tools and processes to support our developer community.</p>
+<p>Release Engineering is a geographically distributed remote team of seven people in three time zones.</p>
+<p><strong>You are responsible for:</strong></p>
+<ul style="">
+<li style="">Deploying Wikipedia and our other wikis</li>
+<li style="">Maintaining and adding features to our continuous delivery system</li>
+<li style="">Using Docker, BuildKit, and Kubernetes to enhance our deployment pipeline</li>
+<li style="">Upgrading and maintaining Release Engineering tools for our large developer community:</li>
+<ul style="">
+<li style="">CI/CD infrastructure: Jenkins, Zuul-CI, Docker, GitLab</li>
+<li style="">Code review: GitLab, Gerrit</li>
+<li style="">Issue tracking: Phabricator/Phorge</li>
+<li style="">Deployment tooling: Kubernetes, Helm, and custom tooling written in Python and Go</li>
+</ul>
+</ul>
+<p><strong>Skills and Experience:</strong></p>
+<ul style="">
+<li style="">Bachelor's degree or equivalent in related work experience</li>
+<li style="">Written and verbal English communication skills sufficient for a remote work environment</li>
+<li style="">Collaboration and consensus-making skills</li>
+<li style="">Professional experience with systems/DevOps engineering</li>
+<li style="">Experience with complex software development</li>
+<li style="">Experience with continuous integration/delivery (CI/CD) systems</li>
+<li style="">Experience with Kubernetes and containerization</li>
+<li style="">Familiarity with server configuration management software (e.g., Ansible, SaltStack, Chef, or Puppet)</li>
+<li style="">Familiarity with infrastructure as code tools (e.g., Terraform/OpenTofu)</li>
+</ul>
+<p><strong>Qualities that are important to us:</strong></p>
+<ul style="">
+<li style="">Professional experience with one or more of the following: Python, Go, PHP</li>
+<li style="">Experience with Puppet</li>
+</ul>
+<p><strong>Being a role model for <a href="%22https:/wikimediafoundation.org/about/values/%22" rel="nofollow">Wikimedia's values</a></strong></p>
+<p><strong>Additionally, we’d love it if you have:</strong></p>
+<ul style="">
+<li style=""><a href="%22https:/meta.wikimedia.org/wiki/Wikimedia_Foundation_Guiding_Principles#Freedom_and_open_source%22" rel="nofollow">Free culture/Free software experience</a></li>
+<li style="">Remote work experience</li>
+<li style="">You are inspired by our <a href="%22https:/meta.wikimedia.org/wiki/Wikimedia_Foundation_Guiding_Principles%22" rel="nofollow">guiding principles</a> and our <a href="%22https:/wikimediafoundation.org/about/mission/%22" rel="nofollow">mission</a></li>
+<li style="">Familiarity with/involvement in the Wikimedia community</li>
+<li style="">Experience maintaining other specific software systems we use: Phabricator/Phorge, Jenkins, GitLab, and Gerrit</li>
+<li style=""><strong>Located within UTC+3–UTC-8 time zones</strong></li>
+</ul>
+<div class="h4">About the Wikimedia Foundation</div>
+<p>The Wikimedia Foundation is the nonprofit organization that operates Wikipedia and the other Wikimedia free knowledge projects. Our vision is a world in which every single human can freely share in the sum of all knowledge. We believe that everyone has the potential to contribute something to our shared knowledge, and that everyone should be able to access that knowledge freely. We host Wikipedia and the Wikimedia projects, build software experiences for reading, contributing, and sharing Wikimedia content, support the volunteer communities and partners who make Wikimedia possible, and advocate for policies that enable Wikimedia and free knowledge to thrive. </p>
+<p>The Wikimedia Foundation is a charitable, not-for-profit organization that relies on donations. We receive donations from millions of individuals around the world, with an average donation of about $15. We also receive donations through institutional grants and gifts. The Wikimedia Foundation is a United States 501(c)(3) tax-exempt organization with offices in San Francisco, California, USA.</p>
+<p><em><strong>As an equal opportunity employer, the Wikimedia Foundation values having a diverse workforce and continuously strives to maintain an inclusive and equitable workplace. We encourage people with a diverse range of backgrounds to apply. We do not discriminate against any person based upon their race, traits historically associated with race, religion, color, national origin, sex, pregnancy or related medical conditions, parental status, sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, or any other legally protected characteristics.</strong></em></p>
+<p>The Wikimedia Foundation is a remote-first organization with staff members including contractors based 40+ countries<strong>*</strong>. Salaries at the Wikimedia Foundation are set in a way that is competitive, equitable, and consistent with our values and culture. The anticipated annual pay range of this position for applicants based within the United States is US$ 88,975 o US$ 139,056 with multiple individualized factors, including cost of living in the location, being the determinants of the offered pay. For applicants located outside of the US, the pay range will be adjusted to the country of hire. We neither ask for nor take into consideration the salary history of applicants. The compensation for a successful applicant will be based on their skills, experience and location. </p>
+<p><strong>*Please note that we are currently able to hire in the following countries: </strong>Australia, Austria, Bangladesh, Belgium, Brazil, Canada, Colombia, Costa Rica, Croatia, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Germany, Ghana, Greece, India, Indonesia, Ireland, Israel, Italy, Kenya, Mexico, Netherlands, Nigeria, Peru, Poland, Singapore, South Africa, Spain, Sweden, Switzerland, Uganda, United Arab Emirates, United Kingdom, United States of America and Uruguay.  Our non-US employees are hired through a local third party Employer of Record (EOR). </p>
+<p>We periodically review this list to streamline to ensure alignment with our hiring requirements. </p>
+<p>All applicants can reach out to their recruiter to understand more about the specific pay range for their location during the interview process.</p>
+<p><em><strong>If you are a qualified applicant requiring assistance or an accommodation to complete any step of the application process due to a disability, you may contact us at recruiting@wikimedia.org or +1 (415) 839-6885.</strong></em></p>
+<p><strong>More information</strong></p>
+<p><a href="%22https:/wikimediafoundation.org/about/jobs/#section-12%22" rel="nofollow"><strong>U.S. Benefits &amp; Perks</strong></a></p>
+<p><a href="%22https:/foundation.wikimedia.org/wiki/Applicant_privacy_policy%22" rel="nofollow"><strong>Applicant Privacy Policy</strong></a></p>
+<p><a href="%22https:/wikimediafoundation.org/%22" rel="nofollow"><strong>Wikimedia Foundation</strong></a></p>
+<p><a href="%22https:/www.youtube.com/watch?v=8mvPYF_erNA&amp;list=PLVx9pX-VnGVh9Akb-O-SAKZ-GDTVTHZqS&amp;index=8%22" rel="nofollow"><strong>What does the Wikimedia Foundation do?</strong></a></p>
+<p><a href="%22https:/www.youtube.com/watch?v=7gATwhhGrPk&amp;list=PLVx9pX-VnGVh9Akb-O-SAKZ-GDTVTHZqS&amp;index=1%22" rel="nofollow"><strong>What makes Wikipedia different from social media platforms?</strong></a></p>
+<p><a href="%22https:/wikimediafoundation.org/wiki/Our_projects%22" rel="nofollow"><strong>Our Projects</strong></a></p>
+<p><a href="%22https:/techblog.wikimedia.org/%22" rel="nofollow"><strong>Our Tech Stack</strong></a></p>
+<p><a href="%22https:/wikimediafoundation.org/news/%22" rel="nofollow"><strong>News from across the Wikimedia movement</strong></a></p>
+<p><a href="%22https:/diff.wikimedia.org/%22" rel="nofollow"><strong>Wikimedia Blog</strong></a></p>
+<p><a href="%22https:/meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017%22" rel="nofollow"><strong>Wikimedia 2030</strong></a></p>
+<p> </p>
+<div id='"l-content"'> </div>
+<img src="https://remotive.com/job/track/1962166/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/3979584?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
