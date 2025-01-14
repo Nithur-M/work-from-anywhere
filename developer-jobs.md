@@ -10,7 +10,7 @@
                     <code>backend,go,javascript,node.js</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/node-js-developer-m-f-d-1958307" align="right" target="_blank">Apply</a>
@@ -50,6 +50,109 @@
 </ul>
 <p><br>Feel free to contact us, even if this job posting could be a better fit for you. We review every application and respond promptly. Take the next step in your career and join OMNIPEAK - where innovation and collaboration drive success.</p>
 <img src="https://remotive.com/job/track/1958307/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/3979584?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sourcegraph</h5>
+                    <h3>Developer Advocate - based in San Francisco, CA [IC2 - IC3]</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/5417734004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #a112ff;&quot;&gt;Who we are&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Our mission at Sourcegraph is to make it so that &lt;a href=&quot;https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4&quot;&gt;everyone can code&lt;/a&gt;, not just ~0.1% of the population.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We are transforming how the world’s most important companies build software by industrializing development with AI. Today, most professional developers spend a disproportionate amount of time understanding code and performing repetitive, low-level tasks—leaving less time for innovation and meaningful impact.&lt;/p&gt;
+&lt;p&gt;We’re changing that. Sourcegraph brings AI-powered search and agents to the enterprise, helping teams automate the mundane and amplify what developers do best— solving hard problems and creating great products.&lt;/p&gt;
+&lt;p&gt;Here’s how we’re making a difference:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Accelerating developers &lt;/strong&gt;with AI agents that deliver insights and precision—enabling 5x faster test creation, 30% increase in merge requests, and saving 20 minutes per developer daily.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automating repetitive tasks,&lt;/strong&gt; from remediating vulnerabilities (saving teams 1,000+ hours annually) to speeding up migrations that would take years to months.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enabling innovation&lt;/strong&gt; by addressing complex problems like automated bug triage, vulnerability detection, and AI-driven code reviews seamlessly integrated into workflows.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Trusted by 7/10 top software companies by market cap, 4/6 top US banks and many of the companies leading global innovation, like Stripe, Indeed, Tesla, and 1Password, and with $225M in funding from investors like &lt;a href=&quot;https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/&quot;&gt;a16z&lt;/a&gt;, &lt;a href=&quot;https://about.sourcegraph.com/blog/series-c-with-sequoia/&quot;&gt;Sequoia&lt;/a&gt;, and &lt;a href=&quot;https://www.redpoint.com/companies/sourcegraph/&quot;&gt;Redpoint&lt;/a&gt;, we are building the tools that will define the next era of enterprise software development.&lt;/p&gt;
+&lt;p&gt;If you’re passionate about solving the hardest problems in software and shaping the future of technology, join us. Let’s build something extraordinary together.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Working hours&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;🌎 The ideal candidate for this role will reside in San Francisco, California. Regular attendance at weekly Developer and AI events in the city is an essential aspect of this position.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Required locations:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;nbsp;San Francisco, California&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Why this job is exciting&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;As a Developer Advocate at Sourcegraph, you will be a champion for how developers understand and navigate complex codebases using our platform. You&#39;ll be connecting with the developer community and sharing the value of our AI Code Assistant and Code Search platform through written, video, and live engagements. You&#39;ll be part of a small but impactful team, representing Sourcegraph and its commitment to improving the developer experience. You&#39;ll have the opportunity to help developers at the most successful and sophisticated companies in the world (our customers) implement and scale code AI capabilities. We&#39;re looking for someone passionate about driving adoption and empowering engineers through creative story telling and genuine community building.&lt;/p&gt;
+&lt;p&gt;As a Developer Advocate, you will spend 25% of your time engaging with Developers at events in-person and 75% of your time creating content and recording videos.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Job responsibilities&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Attend and host 2-5 meet-ups and events in San Francisco monthly&lt;/li&gt;
+&lt;li&gt;Represent our user community within Sourcegraph&lt;/li&gt;
+&lt;li&gt;Build apps with Sourcegraph in public&lt;/li&gt;
+&lt;li&gt;Build integrations on top of Sourcegraph (such as teaching Sourcegraph how to use and gather information from other dev tools, including logging, perf, etc., tools)&lt;/li&gt;
+&lt;li&gt;Livestream and record demos of what you build, for Twitter, YouTube, Twitch, etc.&lt;/li&gt;
+&lt;li&gt;Be an incredibly helpful and inspirational member of our dev community yourself and help grow it&lt;/li&gt;
+&lt;li&gt;Write awesome technical blog posts&lt;/li&gt;
+&lt;li&gt;Promote Sourcegraph on social media&lt;/li&gt;
+&lt;li&gt;Help connect our user community growth to our product-led growth engine&lt;/li&gt;
+&lt;li&gt;Overall, help define what dev advocacy means at Sourcegrapp&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Skills and experience&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Your skill-set:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You are intrinsically motivated by Sourcegraph’s mission.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Experience as a software engineer or prolific coding&lt;/li&gt;
+&lt;li&gt;TypeScript, JavaScript, and/or Go skills Able to communicate technical concepts in a simple and engaging way&lt;/li&gt;
+&lt;li&gt;Experience creating high-quality technical writing and videos&lt;/li&gt;
+&lt;li&gt;Experience working in a high-agency environment that requires ownership&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;Bonus Points:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You’ve established a strong following on social media platforms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;This job is an IC2-IC3.&amp;nbsp; You can read more about &lt;a href=&quot;https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/&quot;&gt;our job leveling philosophy&lt;/a&gt; in our Handbook.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;💸 We pay you an above-average salary&lt;/strong&gt; because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an &lt;a href=&quot;https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent&quot;&gt;open and transparent&lt;/a&gt; company that values competitive compensation, our &lt;a href=&quot;https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/&quot;&gt;compensation ranges are visible&lt;/a&gt; to every single Sourcegraph teammate. To determine your salary, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;💰 The target compensation for this role is $130,300 - $159,000 USD (depending on level &amp;amp; location).&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous &lt;a href=&quot;https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/&quot;&gt;perks &amp;amp; benefits&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #8c33ec;&quot;&gt;Interview process&lt;/span&gt;&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Below is the interview process you can expect for this role (you can read more about &lt;/span&gt;&lt;/em&gt;&lt;a href=&quot;https://handbook.sourcegraph.com/talent/types_of_interviews&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;the types of interviews&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&amp;nbsp;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We expect the interview process to take 4.5&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;hours in total.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;👋 Introduction Stage&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; - we have initial conversations to get to know you better…&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;[30m] &lt;/span&gt;&lt;a href=&quot;https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#recruiter-screen&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recruiter Screen&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; with Kelsey Nagel&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;[60m] &lt;/span&gt;&lt;a href=&quot;https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Hiring Manager Screen&lt;/span&gt;&lt;/a&gt; / &lt;a href=&quot;https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Resume Deep Dive&lt;/span&gt;&lt;/a&gt;&amp;nbsp;with Ado Kukic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;🧑‍💻 Team Interview Stage&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; - we then delve into your experience in more depth and introduce you to members of the team…&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[45m]&amp;nbsp;&lt;a href=&quot;https://about.sourcegraph.com/handbook/talent/types_of_interviews#cross-functional-team-collaboration-interview&quot;&gt;Cross-functional team collaboration&lt;/a&gt;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;[60m]&amp;nbsp;&lt;a href=&quot;https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#developer-relations-working-session&quot;&gt;Working Session&lt;/a&gt;&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;🎉 Final Interview Stage &lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;[30m] &lt;/span&gt;&lt;a href=&quot;https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#values-interview&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Values Interview&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;[30m] &lt;/span&gt;&lt;a href=&quot;https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Leadership Interview&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; with Quinn Slack or Beyang Liu&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We check references and conduct your background check&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process. You can learn more about the team&amp;nbsp;&lt;a href=&quot;https://handbook.sourcegraph.com/team/&quot;&gt;here&lt;/a&gt;.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #a112ff;&quot;&gt;Learn more about us&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;You can learn more about what it is like to work at Sourcegraph by reading &lt;a href=&quot;https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0&quot;&gt;our handbook&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are an ambitious team who are collectively working hard to build the most influential company in the world.&amp;nbsp; You can read more about our &lt;a href=&quot;https://sourcegraph.notion.site/What-it-s-like-working-at-Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115&quot;&gt;culture&lt;/a&gt;, &lt;a href=&quot;https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74&quot;&gt;competitive compensation&lt;/a&gt; and &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74&quot;&gt;benefits&lt;/a&gt; here&lt;/p&gt;
+&lt;p&gt;Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Sourcegraph participates in &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107&quot;&gt;&lt;em&gt;E-Verify&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for U.S. Employees. &lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
