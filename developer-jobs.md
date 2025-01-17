@@ -10,7 +10,7 @@
                     <code>backend,go,javascript,node.js</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/node-js-developer-m-f-d-1958307" align="right" target="_blank">Apply</a>
@@ -108,7 +108,7 @@
 &lt;li&gt;Write awesome technical blog posts&lt;/li&gt;
 &lt;li&gt;Promote Sourcegraph on social media&lt;/li&gt;
 &lt;li&gt;Help connect our user community growth to our product-led growth engine&lt;/li&gt;
-&lt;li&gt;Overall, help define what dev advocacy means at Sourcegrapp&lt;/li&gt;
+&lt;li&gt;Overall, help define what dev advocacy means at Sourcegraph&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Skills and experience&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
 &lt;p&gt;Your skill-set:&lt;/p&gt;
