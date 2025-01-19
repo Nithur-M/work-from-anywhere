@@ -1,59 +1,5 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1958307/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>OMNIPEAK GmbH</h5>
-                    <h3>NODE.JS DEVELOPER (m/f/d)</h3>
-                </td>
-                <td width="300">
-                    <code>backend,go,javascript,node.js</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/node-js-developer-m-f-d-1958307" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Become a key player at OMNIPEAK, where innovation and team spirit go hand in hand. In our agile, young B2B SaaS company, it's passion and ideas that count - and yours especially. With cutting-edge, AI-powered products, we are revolutionizing the way marketing and sales teams work in the future to generate sustainable growth and more sales. Our innovative company, headquartered in the vibrant heart of Frankfurt am Main, pursues a remote-first philosophy that creates flexibility and freedom for creative solutions.<br><br></p>
-<p><strong>Our Culture</strong></p>
-<p>At OMNIPEAK, we foster a culture of ambition, courage, and teamwork. We are passionate about our cutting-edge AI products, our world-class team, and our beloved customers. We thrive on tackling challenges and appreciate a good sense of humor. Our corporate culture is rooted in transparency, clarity, and openness. We reject hierarchical structures and things like unnecessary meetings. We are always looking for talented individuals who share our commitment to making OMNIPEAK better every single day.<br><br></p>
-<div class="h2">Tasks<br><br></div>
-<p><strong>Your Mission</strong></p>
-<p>We are looking for a highly motivated, self-driven Node.js Developer to join OMNIPEAKs Product Engineering team. As a Node.js Developer, you will take a central role in designing, developing, and maintaining high-performance, scalable web applications. With your expertise in Node.js, and ideally Node-RED, you will collaborate closely with our talented team to deliver innovative and impactful solutions tailored to our clients' needs. The ideal candidate is passionate about shaping the future of AI in the industry and brings high energy and a strong sense of ownership to help accelerate OMNIPEAK’s growth.</p>
-<p>This role is fully remote. As a fast-growing company and team, we value collaboration and connection, which we foster through virtual tools and regular online interactions. Please apply if you're comfortable working remotely and thrive in a remote-first environment.<br><br></p>
-<p><strong>Your Responsibility</strong></p>
-<p>Design and build innovative, scalable solutions that push the boundaries of technology. As a Node.js Developer at OMNIPEAK, you will take on unprecedented challenges, refining systems that unlock transformative possibilities for the future of AI.</p>
-<div class="h2"><br>Requirements</div>
-<p><strong><br>Your Talent &amp; Profile</strong></p>
-<ul style="">
-<li style="">Proven experience in backend development with Node.js, delivering scalable and high-performance applications.</li>
-<li style="">Preferably hands-on experience with Node-RED, including designing and managing workflows.</li>
-<li style="">Solid knowledge of JavaScript and related frameworks (e.g., Express, NestJS).</li>
-<li style="">Familiarity with SQL and NoSQL databases and a strong understanding of database optimization.</li>
-<li style="">Experience working in agile development environments, with a focus on iterative, collaborative development.</li>
-<li style="">Strong problem-solving skills and the ability to think analytically and strategically to overcome technical challenges.</li>
-<li style="">Confident communication skills in both German and English (spoken and written).</li>
-</ul>
-<div class="h2"><br>Benefits</div>
-<p><strong><br>What we offer</strong></p>
-<ul style="">
-<li style="">To become part of our Product Engineering team of a company that has tremendous potential.</li>
-<li style="">The freedom to work 100% remotely.</li>
-<li style="">A permanent, full-time position at the forefront of AI technology.</li>
-<li style="">An engaging, professional work environment with highly motivated colleagues.</li>
-<li style="">An attractive compensation.</li>
-</ul>
-<p><br>Feel free to contact us, even if this job posting could be a better fit for you. We review every application and respond promptly. Take the next step in your career and join OMNIPEAK - where innovation and collaboration drive success.</p>
-<img src="https://remotive.com/job/track/1958307/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/3979584?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
