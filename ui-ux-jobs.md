@@ -103,30 +103,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://yt3.googleusercontent.com/d1EZViC7xXJl3O7DDUguF5UgjjvGXpqeKMhl-ivOftHbUeIFJDURN3TR8MnKewBKI44oO3n5HA=s160-c-k-c0x00ffffff-no-rj" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Synthflow</h5>
-                    <h3>Senior UI Designer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.ashbyhq.com/synthflow/43841e1b-2eb0-4701-ad85-4317513a2eea" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="min-height:1.5em">This is a fully remote role, allowing you to work from anywhere in the world.</p><p style="min-height:1.5em"></p><h1><strong>About Synthflow</strong></h1><p style="min-height:1.5em">At <a target="_blank" rel="noopener noreferrer nofollow" href="http://synthflow.ai/"><u>Synthflow</u></a> we’re building the easiest way for businesses to create AI-powered phone agents. No coding, no fuss—just smarter automation. We’re passionate about delivering the future of voice technology with lightning-fast, scalable solutions. It’s an exciting time at Synthflow: we’re early, fast-growing, and laser-focused on impact. Join us to do the best work of your career while helping businesses thrive.</p><p style="min-height:1.5em"></p><h1>About the role</h1><p style="min-height:1.5em">We are now seeking a talented and passionate Senior UI Designer to work on our product and web presence.</p><p style="min-height:1.5em"></p><h2>Your responsibilities will include:</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>User Research:</strong> Deeply understand user behaviors, preferences, and pain points. Transform insights into actionable design strategies that enhance the user experience.</p></li><li><p style="min-height:1.5em"><strong>Design Excellence:</strong> Craft intuitive, visually compelling, and polished interfaces using Figma and other design tools.</p></li><li><p style="min-height:1.5em"><strong>Collaboration:</strong> Partner with cross-functional teams, effectively communicate design rationale, and iterate based on feedback.</p></li><li><p style="min-height:1.5em"><strong>Agility:</strong> Experiment, adapt, and iterate in a fast-moving startup environment to ensure our AI products are user-centric and ahead of the curve.</p></li></ul><p style="min-height:1.5em"></p><h1><strong>Who you are</strong></h1><p style="min-height:1.5em"></p><h3><strong>Must-Haves:</strong></h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Proficiency in Design Tools:</strong> Expertise in Figma is required.</p></li><li><p style="min-height:1.5em"><strong>Experience with No-Code Tools:</strong> Hands-on experience with platforms like <strong>Webflow</strong>, <strong>Bubble</strong>, and <strong>Lottie Files</strong>.</p></li><li><p style="min-height:1.5em"><strong>User-Centric Approach:</strong> A track record of translating user research into tangible design improvements.</p></li><li><p style="min-height:1.5em"><strong>Portfolio:</strong> A strong portfolio showcasing your design process, creative problem-solving, and the impact of your work.</p></li><li><p style="min-height:1.5em"><strong>Communication Skills:</strong> Ability to clearly articulate ideas and actively listen to feedback.</p></li><li><p style="min-height:1.5em"><strong>Experience:</strong> 5+ years in UX/UI design, ideally within innovative or fast-paced environments.</p></li></ul><h3><strong>Nice-to-Haves:</strong></h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Familiarity with additional no-code platforms (e.g., Zapier).</p></li><li><p style="min-height:1.5em">Experience designing for GenAI, B2B products, or tools in the ML/AI/Data space.</p></li><li><p style="min-height:1.5em">Previous experience in a startup environment, where agility and collaboration are key.</p></li></ul><p style="min-height:1.5em"></p><h1><strong>Why Join Synthflow AI?</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Competitive Compensation:</strong> Enjoy a comprehensive package, including stock options, to share in our success.</p></li><li><p style="min-height:1.5em"><strong>Direct Impact:</strong> Shape the future of AI no-code solutions and see your designs make a real difference.</p></li><li><p style="min-height:1.5em"><strong>Cutting-Edge Tech:</strong> Work at the forefront of generative AI and no-code innovation, contributing to projects that redefine how users interact with AI.</p></li><li><p style="min-height:1.5em"><strong>Collaborative Culture:</strong> Join a supportive team that values creativity, mutual respect, and diverse perspectives.</p></li><li><p style="min-height:1.5em"><strong>Remote Flexibility:</strong> Work from anywhere in the world, with our headquarters in Berlin, Germany.</p></li></ul>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/100294047?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
