@@ -344,54 +344,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Senior Python/Go Developer for Imunify (worldwide remote, work anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/B5F53071E1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>CloudLinux OS, our flagship product, runs on more than 50,000 production servers today, powering over 40 million websites, and is recognized as the best OS for security and efficiency in a shared hosting environment. CloudLinux OS increases server density and enhances security, thus reducing operating costs, decreasing churn rates, and increasing profitability.</p><p>Check out our website for more information about our CLOS Product: <a href="https://www.cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">https://www.cloudlinux.com/</a></p><p></p><p><strong>We are looking for a Senior Python/Go Developer to join our dynamic team at Imunify360.</strong></p><p>Imunify360 Security Suite is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. Imunify is an innovative security solution designed specifically for shared and VPS/Dedicated servers. The automated, easy-to-use solution with the six-layer approach to security delivers comprehensive and complete attack prevention.</p><p>More details about the project can be found on the product website: <a href="https://www.imunify360.com/" rel="nofollow noreferrer noopener" class="external">https://www.imunify360.com/</a></p><p></p><p><strong>As the Senior Python/Go Developer, your responsibilities will include:</strong></p><ul> <li>Contributing to the development of Imunify360 products using Python.</li> <li>Writing unit and functional tests to ensure code quality and reliability.</li> <li>Reviewing code submitted by colleagues.</li> <li>Designing architecture and creating technical documentation for new features.</li> <li>Investigating and resolving issues reported by clients, partners, or the support team.</li> </ul><h3>Requirements: </h3><ul> <li>5+ years of Python programming experience.</li> <li>Experience in GoLang.</li> <li>Strong Linux knowledge.</li> <li>Experience in system programming: sockets, filesystem, process management.</li> <li>Experience with automated testing and CI/CD systems.</li> <li>Upper-intermediate or higher proficiency in English.</li> </ul><p></p><p><strong>Would be a plus:</strong></p><ul> <li>Experience with network security.</li> <li>Experience with Linux server administration.</li> <li>Familiarity with RPM and DEB package management.</li> </ul><p></p><p><strong>Personal skills:</strong></p><ul> <li>Fast learner with a proactive approach.</li> <li>Strong self-motivation, driven to achieve committed milestones.</li> <li>Strong prioritization skills and a flexible mindset.</li> <li>Ability to independently analyze tasks and find the right solutions.</li> <li>Ability to work with vague requirements and make independent decisions.</li> <li>Ability to work effectively in a team.</li> </ul><h3>Benefits: </h3><p>What's in it for you?</p><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p><br>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (<a href="https://cloudlinux.com/candidate-privacy-notice" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/candidate-privacy-notice</a>), which provides detailed information on how we maintain and handle your data.</p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Lead Software Developer for Imunify360 (worldwide remote, work anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/BFF72A38D3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful.&nbsp;</p><p>We are looking for a Senior C Developer to join our dynamic team at Imunify360.</p><p>Imunify360 Security Suite is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. Imunify is an innovative security solution designed specifically for shared and VPS/Dedicated servers. The automated, easy-to-use solution with the six-layer approach to security delivers comprehensive and complete attack prevention. </p><p>Check out our website for more information about our Imunify360 Product <a href="https://www.imunify360.com/" target="_blank" rel="nofollow noreferrer noopener" class="external">https://www.imunify360.com/</a></p><p></p><p><strong>As the Senior C Developer, your responsibilities will include:</strong></p><ul> <li>Designing and implementing&nbsp; security modules for various Linux software (apache, nginx, PHP, dovecot, pam).</li> <li>Optimizing algorithms used in existing code to reduce overhead.</li> <li>Cover your code with unit and functional tests.</li> </ul><h3>Requirements: </h3><ul><li>5+ years of C programming experience.</li></ul><ul> <li>Experience with GNU/Linux operating system administration and shell scripting.</li> <li>Proficiency with various build systems, such as autotools, make, and cmake.</li> <li>Familiarity with git-based development workflows.</li> <li>Strong debugging skills, particularly with gdb and command-line tools.</li> </ul><p></p><p><strong>Would be a plus:</strong></p><ul> <li>Manage and optimize PHP applications on Linux-based systems using Nginx, Apache, and php-fpm, with a solid grasp of the web technology stack.</li> <li>Write and optimize basic SQL queries for databases such as MySQL and Postgres (experience with ClickHouse is a plus).</li> <li>Demonstrate hands-on proficiency with Linux, including package management, performance tuning, firewall configuration, and more.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p><br><br><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://yt3.googleusercontent.com/godmUZWusLdpmQ_8MgednMJQy7ZInLrCJ0KkUxuHnx3jeZubp774PPTdp_8MAWcWlbjYx9SX=s160-c-k-c0x00ffffff-no-rj" width="38px" height="auto">
                 </td>
                 <td width="300">
