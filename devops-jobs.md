@@ -1,82 +1,25 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1965258/logo" width="38px" height="auto">
+                    <img src="https://media.licdn.com/dms/image/C4D0BAQHlK67hgnhzQw/company-logo_200_200/0/1631346154820?e=2147483647&v=beta&t=_R2Ssj7L_f4xqmSCcq0nOLCyCz0QN2lFnHssxxhj3YY" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Gr8tech</h5>
-                    <h3>Senior DevOps Engineer</h3>
+                    <h5>Blue Coding</h5>
+                    <h3>Senior DevOps Engineer (VM)</h3>
                 </td>
                 <td width="300">
-                    <code>kubernetes,python,terraform</code>
+                    <code></code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1965258" align="right" target="_blank">Apply</a>
+                <a href="https://jobs.lever.co/bluecoding/674b25d7-efbf-4877-affc-a7d27556528d" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class='"content-intro"'><p><strong>GR8 Tech is a global product company that provides innovative, scalable platforms and business solutions for the iGaming industry.</strong></p>
-<p>We have а great experience: GR8 Tech platform successfully handles millions of active players and offers best practices to develop and grow in the gambling industry. We are here to provide great gaming tech to satisfy even greater ambition!</p>
-<p>We develop complete tech coverage for gambling businesses worldwide, including iGaming platform solutions, consulting, integration, and long-lasting operation services.</p>
-<p><strong>We are driven by our ambition to make a great product with great people! Together we move the world of iGaming forward — join!</strong></p></div><div class="h2"><strong>About your key responsibilities and impact:</strong></div>
-<ul style="">
-<li style="">Leading the design and maintenance of high-load and high-availability infrastructure within Cloud;</li>
-<li style="">Conducting in-depth analysis of service infrastructure needs and justifying proposed solutions;</li>
-<li style="">Designing and implementing Infrastructure as Code;</li>
-<li style="">Implementing, maintaining, and enhancing performance monitoring systems;</li>
-<li style="">Optimizing performance through advanced autoscaling and other optimization strategies;</li>
-<li style="">Writing, updating, and optimizing scripts for automation and infrastructure management;</li>
-<li style="">Maintaining Kubernetes clusters to ensure high availability and reliability;</li>
-<li style="">Collaborating with cross-functional teams for smooth deployment and operation of applications;</li>
-<li style="">Handling complex ad-hoc project tasks based on business needs.</li>
-</ul>
-<div class="h2"><strong>Essential professional experience:</strong></div>
-<ul style="">
-<li style="">A minimum of 5 years of experience in a similar senior engineering role, with a strong track record of leadership, advanced technical skills, and successful project delivery;</li>
-<li style="">Proficiency in AWS cloud infrastructure and services (EC2, VPC, EKS, RDS, S3, CloudWatch, SNS, CloudTrail, etc.); </li>
-<li style="">Proficiency in Terraform for Infrastructure as Code (IaC); </li>
-<li style="">Proficiency in Ansible for configuration management; </li>
-<li style="">Strong knowledge of Kubernetes and containerization technologies;</li>
-<li style="">Proficiency in Sql and NoSql: Cassandra, Scylla, Redis, Neo4j, PostgreSQL, MySQL;</li>
-<li style="">Proficiency in Bash scripting, Python languages; </li>
-<li style="">Strong understanding of monitoring and observability tools, such as Victoriametrics, Prometheus, Grafana, and ELK stack; </li>
-<li style="">Knowledge of version control systems like Git for code management;</li>
-<li style="">Strong knowledge of best practices of scalable applications cloud architecture: partitioning, scaling, clustering, load balancing; </li>
-<li style="">Desirable skills and personal features: Ability to work collaboratively in a team environment and communicate effectively; </li>
-<li style="">Strong problem-solving skills and attention to detail; </li>
-<li style="">Experience with agile development methodologies;</li>
-<li style="">At least Intermediate+ English level.</li>
-</ul><div class='"content-conclusion"'><p> </p>
-<div class="h2"><strong>What we offer:</strong></div>
-<p><strong>Benefits Cafeteria:</strong></p>
-<ul style="">
-<li style="">Sports compensation;</li>
-<li style="">Medical coverage;</li>
-<li style="">Psychological support;</li>
-<li style="">Home-office coverage.</li>
-</ul>
-<p><strong>Work-life:</strong></p>
-<ul style="">
-<li style="">Remote work, Coworking compensation;</li>
-<li style="">Childcare budget;</li>
-<li style="">Maternity leave;</li>
-<li style="">Paternity leave;</li>
-<li style="">Additional 2 days for family events.</li>
-</ul>
-<p><strong>Our GR8 Culture:</strong></p>
-<ul style="">
-<li style="">Open feedback and transparent direct communications;</li>
-<li style="">Growth and development: better every day;</li>
-<li style="">High tolerance to experiment and mistakes;</li>
-<li style="">Supportive friendly environment.</li>
-</ul>
-<p> </p>
-<p> </p>
-<p>Data Protection Information regarding the processing of your personal data in connection with the recruitment and selection process can be found in the Candidate Privacy Notice at <a class='"c-link"' href="%22https://gr8.tech/candidate-privacy-notice/%22" rel="nofollow" target='"_blank"'>https://gr8.tech/candidate-privacy-notice/</a>.</p></div><img src="https://remotive.com/job/track/1965258/blank.gif?source=public_api" alt=""/>
+                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 24px;">What are we looking for?</b></div><div><br></div><div>In this opportunity, we are looking for a Senior DevOps Engineer to work with one of our foreign clients, who is a market leader in the consultation, design, procurement, implementation, and ongoing managed services for technology services for mid to large global enterprises. As a Telecom Managed Service company, they partner with over 300 service providers globally to help customers with technology design and find the best solutions to meet their needs.</div><div><br></div><div>You'll be the first hire in the DevOps team and will help the client with the new infrastructure they recently migrated to. They are looking for someone who can provide input and guidance into what they can improve and also implement new tools and ideas for their workflows to work smoothly. </div><div><br></div><div>If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</div><div><br></div><div>If you have the skills and can get the job done, join us and work from anywhere you want!</div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Work closely and own all of the client's DevOps infrastructure and pipeline, ensuring it works smoothly.</li><li>Provide insights and guidance with architectural design.</li><li>Make improvements and modifications.</li><li>Review their infrastructure and see what can be improved.</li><li>Extend pipelines.</li><li>Maintain server infrastructure and develop best practices.</li><li>Build and maintain automated CI/CD deployment plans.</li><li>Implement tools for automation, monitoring, and logging of applications.</li><li>Collaborate with other internal stakeholders to provide technical support to staff.</li><li>&nbsp;Write and maintain Infrastructure and CI/CD documentation.</li>,<h3>You will shine if you have:</h3><li>Strong experience as a DevOps developer or similar role.</li><li>Strong hands-on experience with AWS products such as IAM, S3, ECR, ECS, EC2, RDS, and Cloudwatch.</li><li>Experience with Docker</li><li>Experience with CI/CD</li><li>Experience with GitHub and GitHub action</li><li>Experience with Infrastructure as Code - Terraform</li>,<h3>It doesn't hurt if you also have:</h3><li>Familiarity with Ruby on Rails.</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
                 </details>
                 </td>
             </tr>,<tr>
