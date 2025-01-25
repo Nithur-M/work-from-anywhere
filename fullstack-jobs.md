@@ -102,6 +102,79 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>10up</h5>
+                    <h3>Full Stack Web Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/10up/jobs/4506540008" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Location: Remote - Anywhere&lt;/strong&gt; (Open to applicants located anywhere aligned with the Americas time zones.)&lt;/p&gt;
+&lt;p&gt;As a SiteWatch Web Engineer at 10up, you are taking the driver&#39;s seat in helping support a number of clients across multiple verticals. You will provide consultation to clients and internal teams on complicated full-stack issues while being a “jack of all trades” who can speak to all parts of a project and provide strategic value from the minutia to the big picture. You will be an authority on either JS or PHP.&lt;/p&gt;
+&lt;p&gt;As a leading digital agency, 10up&#39;s client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee. 10uppers have been pushing the boundaries of web experiences for over 12 years—become an engineer that innovates the internet by building exciting projects alongside a top-in-the-field team.&lt;/p&gt;
+&lt;p&gt;As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.&lt;/p&gt;
+&lt;div&gt;&lt;strong&gt;What you will do:&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;Engage with Clients: Participate actively in client meetings, respond to tickets, clarify requirements, and maintain strong live communication skills.&lt;/li&gt;
+&lt;li&gt;Develop Enterprise-Level WordPress Solutions: Build and maintain complex WordPress plugins, themes, and custom Gutenberg blocks using PHP and React.js.&lt;/li&gt;
+&lt;li&gt;Support &amp;amp; shape our product offerings: Help support and enhance our public product offerings like ElasticPress.io and SiteWatch.&lt;/li&gt;
+&lt;li&gt;Handle Legacy Code and Databases: Debug and improve legacy systems, ensuring seamless functionality and integration with existing architectures.&lt;/li&gt;
+&lt;li&gt;Manage Diverse, High-Volume Projects: Work on multiple concurrent client projects, often switching contexts daily while maintaining quality and efficiency.&lt;/li&gt;
+&lt;li&gt;Lead Technical Strategy: Define technical visions for complex builds, create accurate estimates, and guide technical direction in collaboration with cross-disciplinary teams.&lt;/li&gt;
+&lt;li&gt;Advance Engineering Standards: Contribute to reusable tools, process improvements, and best practices while exploring new technologies to enhance client success&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;About you:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Effective Communicator: You excel at explaining technical concepts in client-friendly terms and thrive in real-time, live client interactions.&lt;/li&gt;
+&lt;li&gt;WordPress Pro: Experienced with PHP, Gutenberg block development, and React.js. You can confidently build solutions by leveraging documentation and learning new techniques independently.&lt;/li&gt;
+&lt;li&gt;Problem-Solver: Skilled at debugging, optimizing legacy codebases, and navigating complex database structures.&lt;/li&gt;
+&lt;li&gt;Adaptable and Organized: Comfortable managing a high workload, switching between 5–10 clients in a day, and delivering high-quality work under varying demands.&lt;/li&gt;
+&lt;li&gt;Self-Starter and Learner: Eager to tackle emerging technologies like Elasticsearch and AI while applying knowledge to solve practical client challenges.&lt;/li&gt;
+&lt;li&gt;Remote Work Advocate: Thrives in distributed teams, engaging effectively while working from a location of your choice.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Benefits of interest:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Multiple paid time off programs, including PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day&lt;/li&gt;
+&lt;li&gt;Health, dental, and life insurance programs (available for United States and UK team members)&lt;/li&gt;
+&lt;li&gt;Retirement contribution programs (currently available in the U.S. and U.K.)&lt;/li&gt;
+&lt;li&gt;Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations&lt;/li&gt;
+&lt;li&gt;$1,000 accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study&lt;/li&gt;
+&lt;li&gt;Global Company summits – opportunities to meet, socialize, and learn with fellow team members in person at remarkable destinations&lt;/li&gt;
+&lt;li&gt;An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The expected annual salary range for this position is between &lt;strong&gt;$90,000 and $110,000 USD&lt;/strong&gt;. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.&lt;/p&gt;
+&lt;div&gt;&lt;strong&gt;Join our team!&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;If you are passionate about 10up&#39;s mission and think you have what it takes to be successful in this role, please apply. If you consider yourself a Full-Stack Engineer, please choose the discipline and job title that most closely aligns with your focus/primary area of expertise. We personally review each application and can always pivot roles after you enter the hiring process.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;Read more about &lt;a class=&quot;postings-link&quot; href=&quot;https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view&quot;&gt;What to Expect &lt;/a&gt;through our Recruiting process.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;We don&#39;t want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://media.licdn.com/dms/image/D560BAQH1_SFy5Vwlhg/company-logo_200_200/0/1686838667749?e=2147483647&v=beta&t=vjEnSv9MgRj3-PLOfPnBySXxJkFKZF1SkMxzVFcxr8c" width="38px" height="auto">
                 </td>
                 <td width="300">
