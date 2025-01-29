@@ -4,7 +4,7 @@
                 </td>
                 <td width="300">
                     <h5>10up</h5>
-                    <h3>Freelance | Contract Senior Digital Project Manager</h3>
+                    <h3>Freelance | Contract Senior Project Manager</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -67,7 +67,7 @@
                 </td>
                 <td width="300">
                     <h5>10up</h5>
-                    <h3>Senior Digital Project Manager</h3>
+                    <h3>Senior Project Manager</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -139,7 +139,7 @@
                 </td>
                 <td width="300">
                     <h5>10up</h5>
-                    <h3>Senior Digital Project Manager</h3>
+                    <h3>Senior Project Manager</h3>
                 </td>
                 <td width="300">
                     <code></code>
