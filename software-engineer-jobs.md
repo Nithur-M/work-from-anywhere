@@ -10,7 +10,7 @@
                     <code>python</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineering-team-lead-architect-1965025" align="right" target="_blank">Apply</a>
@@ -86,133 +86,6 @@
 <p> </p>
 <p>BforeAI is an innovative and rapidly expanding scale-up dedicated to deterring cybercrime through cutting-edge predictive and pre-emptive technologies. We harness the power of prescriptive AI to revolutionize the way we tackle cyber threats, particularly in the realm of brand protection!</p>
 <img src="https://remotive.com/job/track/1965025/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/3979584?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sourcegraph</h5>
-                    <h3>Software Engineer - Cloud Ops [IC3]</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/5201427004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #a112ff;&quot;&gt;Who we are&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Our mission at Sourcegraph is to make it so that &lt;a href=&quot;https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4&quot;&gt;everyone can code&lt;/a&gt;, not just ~0.1% of the population.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;We are transforming how the world’s most important companies build software by industrializing development with AI. Today, most professional developers spend a disproportionate amount of time understanding code and performing repetitive, low-level tasks—leaving less time for innovation and meaningful impact.&lt;/p&gt;
-&lt;p&gt;We’re changing that. Sourcegraph brings AI-powered search and agents to the enterprise, helping teams automate the mundane and amplify what developers do best— solving hard problems and creating great products.&lt;/p&gt;
-&lt;p&gt;Here’s how we’re making a difference:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Accelerating developers &lt;/strong&gt;with AI agents that deliver insights and precision—enabling 5x faster test creation, 30% increase in merge requests, and saving 20 minutes per developer daily.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Automating repetitive tasks,&lt;/strong&gt; from remediating vulnerabilities (saving teams 1,000+ hours annually) to speeding up migrations that would take years to months.&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Enabling innovation&lt;/strong&gt; by addressing complex problems like automated bug triage, vulnerability detection, and AI-driven code reviews seamlessly integrated into workflows.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Trusted by 7/10 top software companies by market cap, 4/6 top US banks and many of the companies leading global innovation, like Stripe, Indeed, Tesla, and 1Password, and with $225M in funding from investors like &lt;a href=&quot;https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/&quot;&gt;a16z&lt;/a&gt;, &lt;a href=&quot;https://about.sourcegraph.com/blog/series-c-with-sequoia/&quot;&gt;Sequoia&lt;/a&gt;, and &lt;a href=&quot;https://www.redpoint.com/companies/sourcegraph/&quot;&gt;Redpoint&lt;/a&gt;, we are building the tools that will define the next era of enterprise software development.&lt;/p&gt;
-&lt;p&gt;If you’re passionate about solving the hardest problems in software and shaping the future of technology, join us. Let’s build something extraordinary together.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Location&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;🌎 While we are an all-remote company and hire &lt;a href=&quot;https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4&quot;&gt;almost anywhere&lt;/a&gt; in the world, we have a preference for someone to reside in the following locations for this role. However, if you feel qualified, we welcome you to apply regardless of location. No matter what, working hours must overlap with PST for at least 20 hours/week.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Preferred locations:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Remote, PST Timezone&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Why this job is exciting&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Source code is at the heart of Sourcegraph. We support multiple code hosts and retrieve, store, index, and serve source code - to end users, admins, and other internal services. Our latest addition to our product catalog, Cody, reimagines how code is written and supercharges our developer customers. Sourcegraph hosts the infrastructure for our customers to manage their source code (search, insights, own, etc.) and our brand new AI Code Assistant (Cody).&lt;/p&gt;
-&lt;p&gt;This role gives you the opportunity to solve complex, challenging, and highly technical problems for our customers, both internally and externally, help unleash the potential and productivity of our Engineering teams, and delight our customers with industry-leading quality software.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;The Cloud Operation team primarily focuses on building a fully managed platform for using Sourcegraph, Sourcegraph Cloud, our SaaS offering. As a member of the Cloud Ops team, you will work closely with both external customers and internal stakeholders to meet their needs. You will:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Develop inter-cloud connectivity solutions to support enterprise customers from highly regulated industries to use Sourcegraph Cloud.&lt;/li&gt;
-&lt;li&gt;Build a control plane to orchestrate a fleet of single-tenant Sourcegraph Cloud instances.&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Expose complex infrastructure as API to support internal customers to iterate faster.&lt;/li&gt;
-&lt;li&gt;Dive into upstream dependencies (e.g., CDK for Terraform, Terraform providers for GCP)&amp;nbsp; to debug and patch non-trivial problems.&lt;/li&gt;
-&lt;li&gt;Be an advocate for building reliable services and work with leadership to help product teams achieve operational excellence.&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Participate in on-call rotation to uphold our contractual SLA commitments.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;📅 Within one month, you will…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Onboard onto the Sourcegraph architecture, tooling, and development workflow.&lt;/li&gt;
-&lt;li&gt;Build a solid understanding of the team’s areas of ownership, technical challenges, and problems the team solves for our customers, and know how all of these align with the top-level company goals.&lt;/li&gt;
-&lt;li&gt;Actively participate in team meetings, sharing ideas and insights to contribute to the overall team goals.&lt;/li&gt;
-&lt;li&gt;Start contributing to the team goals and deliverables by shipping new features, debugging issues, and fixing bugs.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;📅 Within three months, you will…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Demonstrate a comprehensive understanding of the Cloud infrastructure, its underlying technologies, and its integration within the Sourcegraph ecosystem.&lt;/li&gt;
-&lt;li&gt;Lead initiatives contributing to team goals through both discovery and delivery phases, collaborating directly with product and design partners, other engineering teams, and non-technical stakeholders from different departments.&lt;/li&gt;
-&lt;li&gt;Contribute to the architectural design and implementation of new features or improvements, actively shaping the future direction of Cloud infrastructure based on customer needs.&lt;/li&gt;
-&lt;li&gt;Lead initiatives contributing to team goals on the roadmap by going through the entire product development lifecycle discovery, design, implementation, and delivery.&lt;/li&gt;
-&lt;li&gt;Participate in our on-call rotation.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;📅 Within six months, you will…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Be defining long-term technical vision and strategies for new product development, scaling existing services, and managing technical debt. These plans will consist of multiple smaller milestones, which you will deliver with the team iteratively.&lt;/li&gt;
-&lt;li&gt;Collaborate with the Engineering Manager on defining the team’s growth strategy based on the long-term product vision, the technical vision, and the team’s needs.&lt;/li&gt;
-&lt;li&gt;Seek feedback from customers and stakeholders to identify opportunities for further improvements or new features, actively iterating on the Cloud infrastructure to ensure it continues to meet our high bar.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;About you&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;You bring a product mindset in balancing architectural flexibility and philosophy with meeting immediate customer demand. You are an experienced software engineer who looks to solve problems through writing code rather than one-off operations. You are passionate about user experience and self-service. You balance maintaining and designing high-impact systems with a pragmatic understanding of how to make appropriate tradeoffs (e.g., cut scope, low-tech vs. custom complex solutions) to ship quickly and iterate when necessary.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Qualifications:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Proficiency in Go, or other strongly typed languages.&lt;/li&gt;
-&lt;li&gt;Knowledge in one of the public cloud platform providers (GCP, AWS, Azure)&lt;/li&gt;
-&lt;li&gt;Experience with Terraform (or similar IaC solutions) and Kubernetes to build tooling and automation.&lt;/li&gt;
-&lt;li&gt;Skilled at debugging distributed systems followed by designing and implementing solutions to those problems. This means you should know your way around various OS-level primitives, e.g., network, CPU, and memory.&lt;/li&gt;
-&lt;li&gt;Ability to communicate clearly and empathetically, especially in writing and documentation.&lt;/li&gt;
-&lt;li&gt;Preferred time zone between UTC-8 and UTC+2&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Nice to haves:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Built services and exposed them as API for external consumption&amp;nbsp; (e.g., gRPC).&lt;/li&gt;
-&lt;li&gt;Comfortable implementing system-level software&amp;nbsp; (e.g., custom transport protocol) if needed or has contributed to Kubernetes controllers/operators.&lt;/li&gt;
-&lt;li&gt;Published blog posts and/or tech talks about your work.&lt;/li&gt;
-&lt;li&gt;Experience working on small high-performing teams, preferably tech startups.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;📊 This job is an IC3. You can read more about &lt;a href=&quot;https://www.notion.so/sourcegraph/Leveling-Guide-0e1b5c76ada64b9caac387f8b7c4fc66&quot;&gt;our job leveling philosophy&lt;/a&gt; in our Handbook.&lt;/p&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;💸 We pay you an above-average salary&lt;/strong&gt; because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an &lt;a href=&quot;https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d&quot;&gt;open and transparent&lt;/a&gt; company that values &lt;a href=&quot;https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4&quot;&gt;competitive compensation&lt;/a&gt;, our compensation ranges are visible to every single Sourcegraph teammate.&lt;/p&gt;
-&lt;p&gt;Your salary is determined by your pay band for the IC3 job level. For determining pay bands, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that the salaries below may be adjusted in the future.&lt;/p&gt;
-&lt;p&gt;💰The target compensation for this role is based on the IC3 pay band for your zone. The start of the IC3 pay band for each zone is listed below:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Zone 2: $136,000 USD&lt;/li&gt;
-&lt;li&gt;Zone 3: $102,000 USD&lt;/li&gt;
-&lt;li&gt;Zone 4: $68,000 USD&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Please speak with a recruiter for additional information regarding zone locations.&lt;/p&gt;
-&lt;p&gt;📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous&amp;nbsp;&lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba&quot;&gt;perks &amp;amp; benefits&lt;/a&gt;.&lt;/p&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(161, 18, 255);&quot;&gt;&lt;strong&gt;Interview process&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Below is the interview process you can expect for this role (you can read more about &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/Types-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7&quot;&gt;&lt;em&gt;the types of interviews&lt;/em&gt;&lt;/a&gt;&lt;em&gt; in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;We expect the interview process to take 4.5 hours in total.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;👋 Introduction Stage&lt;/strong&gt;&amp;nbsp;- we have initial conversations to get to know you better…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;[30m]&amp;nbsp;&lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13&quot;&gt;Recruiter Screen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[15m]&amp;nbsp;&lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#6a6deb280d374652b21d5aa3061c82d2&quot;&gt;Hiring Manager Intro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;🧑‍💻 Team Interview Stage&lt;/strong&gt; - we then schedule an all-day &quot;onsite&quot; interview to delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;[Async] Take home exercise&lt;/li&gt;
-&lt;li&gt;[60m] Exercise walkthrough (10-15m) &amp;amp; System Design (45m)&lt;/li&gt;
-&lt;li&gt;[45m] &lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#da568e7854bb4aaa9b027157088e2d71&quot;&gt;Technical Screen / Resume Deep Dive&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[45m]&amp;nbsp;&lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#e83edd987754460e839138a4bbfd592e&quot;&gt;Pairing Exercise&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[60m] &lt;a href=&quot;https://sourcegraph.notion.site/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7#cb00697e95304550a146c32563c0255d&quot;&gt;Cross-functional Team Collaboration Interview&lt;/a&gt;&amp;nbsp;/&amp;nbsp;&lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd&quot;&gt;Values Interview&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[15m]&amp;nbsp;&lt;a href=&quot;https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c&quot;&gt;Leadership&lt;/a&gt; with co-founder&lt;/li&gt;
-&lt;li&gt;We check references and conduct your background check&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #a112ff;&quot;&gt;Learn more about us&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;You can learn more about what it is like to work at Sourcegraph by reading &lt;a href=&quot;https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0&quot;&gt;our handbook&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;We are an ambitious team who are collectively working hard to build the most influential company in the world.&amp;nbsp; You can read more about our &lt;a href=&quot;https://sourcegraph.notion.site/What-it-s-like-working-at-Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115&quot;&gt;culture&lt;/a&gt;, &lt;a href=&quot;https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74&quot;&gt;competitive compensation&lt;/a&gt; and &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74&quot;&gt;benefits&lt;/a&gt; here&lt;/p&gt;
-&lt;p&gt;Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Sourcegraph participates in &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107&quot;&gt;&lt;em&gt;E-Verify&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for U.S. Employees. &lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
@@ -568,36 +441,6 @@
                 </td>
                 <td width="300">
                     <h5>MixRank</h5>
-                    <h3>Junior Software Engineers — No Degree Required, Self-Taught & Hobbyists Welcome!</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/cHh6Nc0-junior-software-engineers-no-degree-required-self-taught-hobbyists-welcome" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We’re looking for remote engineers—no degree required, self-taught &amp; hobbyists welcome! If you’re passionate about programming and love it as a hobby, this is the place for you. This is an open-ended, entry-level role with mentorship and diverse opportunities to work on all areas of our product—databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
                     <h3>Software Engineer - BRAZIL / Remote</h3>
                 </td>
                 <td width="300">
@@ -624,6 +467,36 @@
 <p>Beneficial experience includes PostgreSQL, Python, Rust, Linux, TypeScript, Nix, frontend/backend web development, and data mining.</p>
 <p>Please include your updated resume when applying for this role.</p>
 <p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a><a href="http://mixrank.com/" target="_blank">. Offers fr</a>om any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MixRank</h5>
+                    <h3>Junior Software Engineer - Argentina/Remote</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.ycombinator.com/companies/mixrank/jobs/zkkqsPc-junior-software-engineer-argentina-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
+<p>We're looking for remote engineers that have finished school within the last 2 years or will finish in the next 6 months. This is an open-ended entry-level role with mentorship, and diverse opportunities to work on all areas of our product: databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
+<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
+<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
+<p>Please include your updated resume when applying for this role.</p>
+<p><strong>Important:</strong>&nbsp;Only accept job offers from emails ending in @<a href="http://mixrank.com/" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
 
                 </details>
                 </td>
@@ -885,75 +758,6 @@
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
-                    <h3>Linux Server Software Engineering Manager</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/4279483" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>The Partner Engineering team works with the leading silicon companies to optimise Ubuntu to get the most from each new chip. Our goal is to collaborate with specialist engineers from our partners to integrate next-generation features and performance enhancements for upcoming hardware, while also ensure a common operating experience for their users.</p>
-<p>This role is a fast-paced, problem-solving role that’s challenging yet very exciting. The right candidate must be resourceful, articulate, and able to deliver on a wide variety of solutions across server and data center technologies.&nbsp;</p>
-<p>As a Partner Engineering Manager at Canonical you will lead an engineering team that works across the full Linux server stack from kernel to AI workloads, to optimise Ubuntu for the latest silicon. You will manage relationships with our key technology partners by ensuring timely delivery on agreed project milestones.&nbsp;</p>
-<p>As a lead for strong engineers, technical leadership and a solid background in software engineering is a must, so that you’re able to challenge and grow your team members. Code reviews and architectural leadership are part of the job. As manager, the commitment to healthy engineering practices, documentation, quality and performance optimisation are equally important technical responsibilities, as is the requirement for fair and clear management, and the obligation to ensure a high performing team. You will have the opportunity to influence the culture, facilitate technical delivery, and work with your team on strategy and execution.</p>
-<p><strong>Location:</strong> <em>This is a Globally remote role</em></p>
-<h2>What your day will look like</h2>
-<ul>
-<li>Lead a team of distributed engineers to design and implement the best Ubuntu integration for the latest server-class hardware platforms and software stacks</li>
-<li>Engage with commercial partners to deliver a delightful, optimised, first class Ubuntu experience on their platforms</li>
-<li>Develop your team through coaching, mentoring, leading by example, and feedback</li>
-<li>Oversee commercial engagements and support timely delivery on agreed project milestones</li>
-<li>Ensure an ongoing commitment to strict quality and reliability standards</li>
-<li>Engage with other teams at Canonical to ensure alignment on product architecture and roadmaps</li>
-<li>Work from home with global travel up to twice a year for up to two weeks</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<ul>
-<li>Proven track record in technical roles with Linux, preferably Ubuntu or Debian</li>
-<li>High quality software engineering with in-depth knowledge of C/C++ and Python</li>
-<li>Experience with one or more of: Ubuntu - kernel and userspace, deb/snap packaging, embedded linux, QEMU/KVM and/or OVS/OVN</li>
-<li>Experience working directly with customers, going beyond resolving their technical issues, to interpreting their business challenges and effectively communicating how your solution will meet their needs</li>
-<li>Experience managing software engineers with a track record of planning, delivery and quality</li>
-<li>Effective collaboration across multiple internal teams, building trust and delivering results</li>
-</ul>
-<h2>What we offer you</h2>
-<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
-<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.</p>
-<ul>
-<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of 2,000USD per annum</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Parental Leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>&nbsp;#LI-remote</p><p>Requisition ID: 805</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
                     <h3>Linux Software Engineer - Embedded Systems</h3>
                 </td>
                 <td width="300">
@@ -1055,93 +859,6 @@
 <p>#LI-remote</p>
 
 <p>Requisition ID: 1079</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Linux Software Engineering Manager - Ubuntu Platform Optimisation</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/6066380" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>The Partner Engineering team works across the full Linux stack from kernel and system libraries to middleware, to integrate new features and optimise Ubuntu for the latest silicon platforms and software stacks. Our goal is to ensure Ubuntu is the premier platform for small iot and edge devices, networking, automotive, server and hyperconverged systems.</p>
-<p>As a Partner Engineering Manager you will lead an engineering team focused on some of these platforms. You will manage technical relationships with our key silicon partners to ensure timely delivery of agreed project goals, and collaborate with internal teams to deliver targeted results. Technical leadership experience and a background in software engineering, with a hands-on approach, are necessary prerequisites for this role.</p>
-<p>In this role, you will be expected to lead, challenge, and develop talented engineers, positively influence the culture, facilitate technical delivery, and work with your team on strategy and execution.</p>
-<h2>What you’ll do</h2>
-<ul>
-<li>Lead and develop a team of engineers, ranging from graduate to senior</li>
-<li>Represent your team to partners, product stakeholders and customers&nbsp;</li>
-<li>Collaborate proactively with a globally distributed organisation</li>
-<li>Develop and evangelise great engineering and organisational practices</li>
-<li>Coach, mentor, and offer career development feedback</li>
-<li>Implement disciplined engineering processes</li>
-<li>Plan and manage progress on agreed goals and projects</li>
-<li>Be an active part of the leadership team, collaborating with other leaders</li>
-<li>Collaborate with other teams at Canonical to ensure alignment on product architecture and roadmaps</li>
-<li>Design and integrate new features and platform optimisations <br><br></li>
-</ul>
-<h2>What we’re looking for in you</h2>
-<ul>
-<li>Experience with Linux packaging (Debian, RPM, Yocto)</li>
-<li>Experience working with Python, C, C++</li>
-<li>Experience managing software engineers with a track record of planning, delivery and quality</li>
-<li>Excellent verbal and written communication skills in English</li>
-<li>A love of developing and growing people and a track record of it</li>
-<li>Organised and able to ensure your team delivers timely, high quality results</li>
-<li>Well-organised, self-starting and able to ensure your team delivers to schedule</li>
-<li>Professional manner interacting with colleagues, partners, and community</li>
-<li>Experience working with customers, going beyond resolving their technical issues, to interpreting their business challenges and effectively communicating how your solution will meet their needs</li>
-<li>High-quality, well-designed and well-documented software experience</li>
-<li>Builds trust, relationships and confidence</li>
-<li>Solid experience working in an agile development environment</li>
-<li>Ability to travel twice a year, for company events up to two weeks each</li>
-</ul>
-<h2>Additional skills we value</h2>
-<ul>
-<li>Experience working with open source communities and licenses</li>
-<li>Experience with server technologies, including UEFI firmware, GPU computing, RDMA/Infiniband and virtualization stacks (kvm, qemu, libvirt)</li>
-<li>Experience with IoT / Embedded devices from firmware, boot loaders and BSP enablement including hardware accelerators</li>
-<li>Experience with graphics stacks</li>
-<li>Experience with open source networking technologies (eBPF, OVS, OVN, SoNIC, DPDK, SPDK, etc)</li>
-<li>Experience with container technologies such as LXD, Docker and Kubernetes&nbsp;</li>
-<li>Understanding of security best practices and Secure Software Development Lifecycles</li>
-<li>Experience designing and implementing CI/CD automation platforms such as GitHub Actions</li>
-<li>Experience with performance benchmarking and profiling</li>
-</ul>
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues</li>
-<li>Priority Pass, and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote</p><p>Requisition ID: 805</p><p></p>
     
                 </details>
                 </td>
@@ -1622,65 +1339,6 @@
 <h2>Canonical is an equal opportunity employer</h2>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p><p>Requisition ID: 1104</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Software Engineering Manager - Desktop and Embedded Linux Optimisation</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/4263171" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>We work closely with major silicon companies to optimise Ubuntu for their latest hardware.&nbsp;</p>
-<p>As a software engineering manager you need to bring both technical and management skills to the leadership of your team. You will be leading an engineering team that works across the full Linux stack from kernel to GUI, to optimise Ubuntu, the world’s most widely used Linux desktop and server, for the latest silicon.&nbsp;</p>
-<p>You will also represent the team in direct partner engagement as well as ensuring timely delivery on agreed project milestones.&nbsp;</p>
-<p>As an engineering manager at Canonical your primary responsibility is to the people you support: ensuring that they are growing as engineers, doing valuable work, and generally having a great time at Canonical. As a lead for strong engineers, technical leadership and a solid background in software development is a must, so that you’re able to challenge and grow your team members. You will have the opportunity to influence the culture, facilitate technical delivery, and work with your team on strategy and execution.</p>
-<h3>What you’ll do</h3>
-<ul>
-<li>Lead a team of distributed engineers to design and implement the best Ubuntu integration for the latest IoT and server-class hardware platforms and software stacks</li>
-<li>Engage with commercial partners to deliver a delightful, optimised, first class Ubuntu experience on their platforms</li>
-<li>Develop your team through coaching, mentoring, leading by example, and feedback</li>
-<li>Oversee commercial engagements and support timely delivery on agreed project milestones</li>
-<li>Ensure an ongoing commitment to strict quality and reliability standards</li>
-<li>Engage with other teams at Canonical to ensure alignment on product architecture and roadmaps</li>
-<li>Work from home with global travel up to twice a year for up to two weeks</li>
-</ul>
-<h3>Who you are</h3>
-<ul>
-<li>You have worked with Linux distributions, debian packaging and high performance, server-class hardware</li>
-<li>You have experience working directly with customers, resolving their technical issues, interpreting their business challenges and effectively communicating how your solution will meet their needs</li>
-<li>You have demonstrated experience managing or leading a team of software engineers</li>
-<li>You have understanding of agile software development methodologies</li>
-<li>You collaborate effectively across multiple internal teams, building trust and delivering results</li>
-<li>You have effective communications skills in English, both written and oral</li>
-<li>You have a bachelor’s (or equivalent university level) degree, preferably in a technology field</li>
-</ul>
-<h3>What Canonical offers</h3>
-<ul>
-<li>Learning and Development opportunities</li>
-<li>Annual Compensation Review</li>
-<li>Recognition Rewards</li>
-<li>Annual Leave</li>
-<li>Priority Pass for travel</li>
-</ul>
-<p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity</a> we will give your application fair consideration</em></p>
-<p><em>&nbsp;</em>#LI-remote</p><p>Requisition ID: 805</p><p></p>
     
                 </details>
                 </td>
@@ -2178,7 +1836,7 @@
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
-                    <h3>Senior Software Engineer - C#/.NET (Windows Ecosystem) (worldwide remote)</h3>
+                    <h3>Senior Software Engineer - C#/.NET & C/C++ (Windows Ecosystem) (fully remote)</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -2193,7 +1851,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful.&nbsp;</p><p>TuxCare is a subsidiary of CloudLinux. It offers a portfolio of security solutions for Linux and open-source software aimed at enterprise organizations. With TuxCare, enterprises can automate live vulnerability patching, minimize downtime, keep their applications secure and compliant, and get support from a team that knows Linux security best – covering the most popular Linux distributions, end-of-life systems, programming languages, and much more.</p><p>Endless Lifecycle Support (ELS) enables organizations to continue securely using Linux distributions and software languages that have reached the end of life or no longer receive standard security support – delivering vulnerability patches for unsupported versions of CentOS, CentOS Stream, Ubuntu, Debian, Oracle Linux, PHP, Python, and Spring software development framework.</p><p>We are looking for a <strong>Senior Software Engineer</strong> to join our team and contribute to the development and maintenance of our Windows-based projects. In this role, you will be responsible for building, modifying, and maintaining .NET (C#/.NET) applications on Windows, ensuring their stability and performance. You will also have the opportunity to work with and support various open-source C/C++ projects, adapting them for the Windows environment and enhancing their compatibility.<br> </p><p>For more information, visit our website: <a href="https://tuxcare.com/extended-lifecycle-support/" target="_blank" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/extended-lifecycle-support/</a> </p><p></p><p><strong>Key Responsibilities:</strong></p><p>In this role, you will be responsible for a variety of tasks critical to ensuring the stability, performance, and adaptability of our projects within the Windows environment. Your primary responsibilities will include:</p><p>1. <strong>Build, modify, and maintain .NET on Windows</strong></p><ul> <li>Make changes and extensions, maintain .NET (C#/.NET) on Windows. Modify .NET and C/C++ codebases to ensure stable operation on Windows.</li> <li>Possess a deep understanding of the Windows infrastructure (especially system components and the build process).</li> <li>Be able to work with various build approaches: MSBuild/Visual Studio as well as alternative tools (MinGW, Cygwin). Set up build automation (CI/CD) for various Windows environments (including MSBuild, MinGW, Cygwin, etc.).</li> </ul><p><strong>2. Build and support various open-source C/C++ projects on Windows</strong></p><ul> <li>Maintain, fix bugs, and adapt them for Windows.</li> <li>Handle project builds with an awareness of dependencies and environment differences (especially when Windows support is limited).</li> </ul><ul> <li>Maintain and develop or port existing build scripts (PowerShell/Bash/Batch, etc.).</li> <li>Investigate, fix, and track issues encountered during building or running open-source projects.</li> <li>Work with version control systems (Git), participate in code reviews, and handle pull/merge requests.</li> </ul><h3>Requirements: </h3><p><strong>To thrive in this role, we are looking for a specialist who has:</strong></p><ul> <li>Solid knowledge of C# and the .NET infrastructure (especially on Windows).</li> <li>Good C/C++ skills with experience building under Windows (Visual Studio, MinGW, Cygwin).</li> <li>Strong understanding of the Windows environment: system libraries, compilers, loaders, and compatibility nuances.</li> <li>Experience with version control systems (Git).</li> <li>Ability to handle dependencies, adjust build scripts, and resolve compatibility issues.</li> <li>Skills in reading and analyzing open-source code.</li> <li>Familiarity with PowerShell and automation of build/deployment processes. <br> </li> </ul><p><strong>It would be great if you also have:</strong></p><ul> <li>Experience in setting up and running CI/CD (GitLab, Jenkins, or similar) for Windows projects.</li> <li>Understanding cross-platform builds (Linux/Windows) and experience working with package managers (vcpkg, NuGet, Conan, etc.).</li> <li>Experience interacting with open-source communities, contributing pull requests, and engaging in discussions.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p><br><br><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
+                <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful.&nbsp;</p><p>TuxCare is a subsidiary of CloudLinux. It offers a portfolio of security solutions for Linux and open-source software aimed at enterprise organizations. With TuxCare, enterprises can automate live vulnerability patching, minimize downtime, keep their applications secure and compliant, and get support from a team that knows Linux security best – covering the most popular Linux distributions, end-of-life systems, programming languages, and much more.</p><p>Endless Lifecycle Support (ELS) enables organizations to continue securely using Linux distributions and software languages that have reached the end of life or no longer receive standard security support – delivering vulnerability patches for unsupported versions of CentOS, CentOS Stream, Ubuntu, Debian, Oracle Linux, PHP, Python, and Spring software development framework.</p><p>We are looking for a <strong>Senior Software Engineer</strong> to join our team and contribute to the development and maintenance of our Windows-based projects. In this role, you will be responsible for building, modifying, and maintaining .NET (C#/.NET) applications on Windows, ensuring their stability and performance. You will also have the opportunity to work with and support various open-source C/C++ projects, adapting them for the Windows environment and enhancing their compatibility.<br> </p><p>For more information, visit our website: <a href="https://tuxcare.com/extended-lifecycle-support/" target="_blank" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/extended-lifecycle-support/</a> </p><p></p><p><strong>Key Responsibilities:</strong></p><p>In this role, you will be responsible for a variety of tasks critical to ensuring the stability, performance, and adaptability of our projects within the Windows environment. Your primary responsibilities will include:</p><p>1. <strong>Build, modify, and maintain .NET on Windows</strong></p><ul> <li>Make changes and extensions, maintain .NET (C#/.NET) on Windows. Modify .NET and C/C++ codebases to ensure stable operation on Windows.</li> <li>Possess a deep understanding of the Windows infrastructure (especially system components and the build process).</li> <li>Be able to work with various build approaches: MSBuild/Visual Studio as well as alternative tools (MinGW, Cygwin). Set up build automation (CI/CD) for various Windows environments (including MSBuild, MinGW, Cygwin, etc.).</li> </ul><p><strong>2. Build and support various open-source C/C++ projects on Windows</strong></p><ul> <li>Maintain, fix bugs, and adapt them for Windows.</li> <li>Handle project builds with an awareness of dependencies and environment differences (especially when Windows support is limited).</li> <li>Maintain and develop or port existing build scripts (PowerShell/Bash/Batch, etc.).</li> <li>Investigate, fix, and track issues encountered during building or running open-source projects.</li> <li>Work with version control systems (Git), participate in code reviews, and handle pull/merge requests.</li> </ul><h3>Requirements: </h3><p><strong>To thrive in this role, we are looking for a specialist who has:</strong></p><ul> <li>Solid knowledge of C# and the .NET infrastructure (especially on Windows).</li> <li>Good C/C++ skills with experience building under Windows (Visual Studio, MinGW, Cygwin).</li> <li>Strong understanding of the Windows environment: system libraries, compilers, loaders, and compatibility nuances.</li> <li>Experience with version control systems (Git).</li> <li>Ability to handle dependencies, adjust build scripts, and resolve compatibility issues.</li> <li>Skills in reading and analyzing open-source code.</li> <li>Familiarity with PowerShell and automation of build/deployment processes. <br> </li> </ul><p><strong>It would be great if you also have:</strong></p><ul> <li>Experience in setting up and running CI/CD (GitLab, Jenkins, or similar) for Windows projects.</li> <li>Understanding cross-platform builds (Linux/Windows) and experience working with package managers (vcpkg, NuGet, Conan, etc.).</li> <li>Experience interacting with open-source communities, contributing pull requests, and engaging in discussions.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p><br><br><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
