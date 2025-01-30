@@ -1,5 +1,205 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1964769/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Mozaiq</h5>
+                    <h3>Project Manager</h3>
+                </td>
+                <td width="300">
+                    <code>team management</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/project-management/project-manager-1964769" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p dir="ltr"><strong>🚀 Join Our Team: Project Manager at Mozaiq</strong></p>
+<p dir="ltr">Hey, we’re Mozaiq, a fast-growing team with roots in the US and Europe. We specialize in building amazing and incredible global teams that work cohesively together to provide support for some of the most sophisticated marketing organizations, typically in the tech industry. By joining our team, you’ll become part of an exceptional group of professionals, have the opportunity for professional growth, and play a key role in creating incredible things.</p>
+<p dir="ltr">We seek an innovative and dedicated <strong>Project Manager</strong> to join our vibrant and international team. As a Project Manager, you will be at the forefront of crafting outstanding digital experiences that drive results for our diverse range of high-profile clients.<br><br><strong>Why Mozaiq?</strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr"><strong>Global Family</strong>: We’re a tight-knit and diverse group, representing multiple nationalities and cultures. Working with us means joining a global family that supports and learns from each other.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr"><strong>Passionate Work</strong>: We’re passionate about what we do, and we’re committed to delivering exceptional work that makes our clients shine.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr"><strong>Inclusive Culture</strong>: Our culture is inclusive, diverse, and always evolving. We believe in fostering an environment where everyone can thrive, learn, and grow.</p>
+</li>
+</ul>
+<p> </p>
+<p dir="ltr"><strong>About the role:</strong><br>As a Project Manager at Mozaiq, your role will be both strategic and hands-on. You will be responsible for designing and implementing high-quality PM solutions. We are looking for someone who is passionate about managing projects and aspires to take on a leadership role within the team.<br><br><strong>Responsibilities:</strong></p>
+<p dir="ltr">Asana Import and Setup</p>
+<ul style="">
+<li dir="ltr" style="">Build a production schedule incorporating all stages of the process and corresponding stakeholders/assignees:
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr">Content deadlines</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Web deadlines</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Design deadlines</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">MOPs deadlines</p>
+</li>
+</ul>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Manage approvals</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Import the finalized schedules into Asana.</p>
+</li>
+<li dir="ltr" style="">QA the campaign board to ensure accuracy in:
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr">Assignees</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Automations</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Dates<br><br></p>
+</li>
+</ul>
+</li>
+</ul>
+<p dir="ltr">Oversee Asset Production</p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr">Manage and update tasks on the campaign board for anchor assets.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Adjust tasks and deadlines as necessary to address changes.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Ensure all deadlines are met and proactively flag any potential slowdowns.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Confirm automations are in place and functioning properly.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Coordinate between stakeholders and assignees to ensure asset delivery.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Provide support to external users, especially across different time zones.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Track progress and keep team members on schedule.<br><br></p>
+</li>
+</ul>
+<p dir="ltr">Oversee Supporting Asset Production</p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr">Manage and update tasks on the campaign board for supporting assets.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Adjust tasks and deadlines as necessary to address changes.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Ensure all deadlines are met and proactively flag any potential slowdowns.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Confirm automations are in place and functioning properly.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Coordinate between stakeholders and assignees to ensure smooth delivery of assets.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Provide support to external users, especially across different time zones.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Track progress and ensure team members remain aligned with timelines.</p>
+</li>
+</ul>
+<p dir="ltr"><br>Managing the backend process of uploading, scheduling, and reviewing published blog content with a focus on design consistency and quality assurance.<br><br></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr">Conduct thorough QA to minimize post-publishing corrections</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Create new UTMs with every new asset and update editor manual with them</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Ensure article CTAs have the correct asset UTM (text vs inpost)</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Maintain CTA library</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Update the homepage experience for main Intake site</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Upload CTA blocks</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Provide general content support as needed, including troubleshooting formatting issues and implementing updates + QA-ing published content</p>
+</li>
+</ul>
+<p dir="ltr"><strong>Requirements:</strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr">At least 4 years of professional experience as a Web Project Manager/Digital Project Manager.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Proven experience in team management and web project delivery.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Solid understanding of web technologies, especially WordPress.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Strong leadership skills and ambition to progress into a team leader role.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Fluent in English, both written and spoken.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Excellent communication skills, as all internal communications are in English.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Ability to work both independently and as part of a global team.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Excellent problem-solving skills with a keen attention to detail.</p>
+</li>
+</ul>
+<p dir="ltr"><br><strong>Benefits (dependent on your country):</strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr">Work from anywhere culture</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Flexible time off policy</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Ample paid leave</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">In-person team-building vacations</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Supplemental healthcare insurance coverage</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Subsidized Sports and fitness membership</p>
+</li>
+</ul>
+<p><br>The work is remote as our team is spread across the continents. We are open to flexible hours, however we may need you to be online between 18:00 and 20:30 CET (as part of the marketing team is US based, 6-9 hours behind).</p>
+<p><br><br></p>
+<img src="https://remotive.com/job/track/1964769/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -204,6 +404,30 @@
 &lt;div&gt;We don&#39;t want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote&lt;/div&gt;
 &lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CoverGo</h5>
+                    <h3>Digital Insurance Project Manager (Fully Remote)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/covergo/j/8F609C7217" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Top 3 Reasons To Join Us</strong></p><ul> <li>Competitive Salary</li> <li>100% Remote</li> <li>Working on the latest tech for the Insurtech Market Leader</li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more</li> <li>We're an international, diverse team of over 120 people with 30 nationalities and team members working remotely from all over the world</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors</li> <li>We have a global presence in Asia, EMEA and the Americas</li> <li>We’ve grown our annualized revenue by over 30x since January 2021</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world and a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world</li> </ul><p><strong>About the Role</strong></p><p>As a Digital Insurance Project Manager, your core responsibility will be to oversee and manage the implementation of new and/or existing projects within CoverGo's operations. This role presents an exciting opportunity for an individual with a strong drive to lead transformative projects in the insurtech industry. </p><p><strong>What You Will Do</strong></p><ul> <li>Engage and manage relationships with clients and stakeholders</li> <li>Lead project planning sessions with the internal team and client's staff</li> <li>Support solution proposals for client pursuits, proposals, and PoCs</li> <li>Participate in proposal and POC processes (i.e. design, submission, and review)</li> <li>Support the creation of contracts and related communication with clients</li> <li>Identify and help secure growth opportunities for existing clients</li> <li>Manage project progress and adapt work as required</li> <li>Ensure projects meet deadlines</li> <li>Manage relationships with clients and stakeholders</li> <li>Host regular/weekly project review and create reports with key metrics about team and project status using company standard metrics</li> <li>Oversee all incoming and outgoing project documentation</li> <li>Identify and manage issues, risks, assumptions, and dependencies</li> <li>Continuously optimize and improve processes and the overall approach where necessary</li> </ul><p><strong>What We Need</strong></p><ul> <li>Bachelor's degree in computer science or a related technical field is a plus</li> <li>5+ years experience as a Project Manager</li> <li>Insurance domain knowledge is a must</li> <li>Strong client facing experience is a must</li> <li>Technical skills are a plus</li> <li>Has experience seeing projects through the full life cycle</li> <li>Excellent analytical skills and problem-solving skills</li> <li>Strong interpersonal skills and extremely resourceful</li> <li>Proven ability to complete projects according to outlined scope, budget, and timeline</li> <li>Self-motivated and able to work independently</li> <li>Able, willing, and excited to work in a fast-paced collaborative startup environment</li> <li>Must be based in the Philippines</li> </ul><p><strong>Why You'll Love Working Here</strong></p><ul> <li>Fully Remote</li> <li>Flexible Leave</li> <li>International Environment</li> <li>Competitive renumeration package</li> <li>Performance Bonus</li> <li>Stock Options after 6 months</li> <li>Company activities and events</li> <li>Learning and development plan</li> <li>Remote work allowance</li> </ul><p><strong>CoverGo Company </strong><a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"><strong>Video</strong></a></p><p>By submitting your application, you confirm that you have read, understood, and accepted the content of CoverGo’s <a href="https://apply.workable.com/covergo/gdpr_policy?lng=en" target="_blank" rel="nofollow noreferrer noopener" class="external">Privacy Notice</a> and you consent to the processing of your data as part of this application.</p><p><a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"></a></p><h3>Requirements: </h3><h3>Benefits: </h3>
                 </details>
                 </td>
             </tr>,<tr>
