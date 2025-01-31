@@ -1,205 +1,5 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1964769/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Mozaiq</h5>
-                    <h3>Project Manager</h3>
-                </td>
-                <td width="300">
-                    <code>team management</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/project-management/project-manager-1964769" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p dir="ltr"><strong>🚀 Join Our Team: Project Manager at Mozaiq</strong></p>
-<p dir="ltr">Hey, we’re Mozaiq, a fast-growing team with roots in the US and Europe. We specialize in building amazing and incredible global teams that work cohesively together to provide support for some of the most sophisticated marketing organizations, typically in the tech industry. By joining our team, you’ll become part of an exceptional group of professionals, have the opportunity for professional growth, and play a key role in creating incredible things.</p>
-<p dir="ltr">We seek an innovative and dedicated <strong>Project Manager</strong> to join our vibrant and international team. As a Project Manager, you will be at the forefront of crafting outstanding digital experiences that drive results for our diverse range of high-profile clients.<br><br><strong>Why Mozaiq?</strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr"><strong>Global Family</strong>: We’re a tight-knit and diverse group, representing multiple nationalities and cultures. Working with us means joining a global family that supports and learns from each other.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr"><strong>Passionate Work</strong>: We’re passionate about what we do, and we’re committed to delivering exceptional work that makes our clients shine.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr"><strong>Inclusive Culture</strong>: Our culture is inclusive, diverse, and always evolving. We believe in fostering an environment where everyone can thrive, learn, and grow.</p>
-</li>
-</ul>
-<p> </p>
-<p dir="ltr"><strong>About the role:</strong><br>As a Project Manager at Mozaiq, your role will be both strategic and hands-on. You will be responsible for designing and implementing high-quality PM solutions. We are looking for someone who is passionate about managing projects and aspires to take on a leadership role within the team.<br><br><strong>Responsibilities:</strong></p>
-<p dir="ltr">Asana Import and Setup</p>
-<ul style="">
-<li dir="ltr" style="">Build a production schedule incorporating all stages of the process and corresponding stakeholders/assignees:
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">Content deadlines</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Web deadlines</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Design deadlines</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">MOPs deadlines</p>
-</li>
-</ul>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Manage approvals</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Import the finalized schedules into Asana.</p>
-</li>
-<li dir="ltr" style="">QA the campaign board to ensure accuracy in:
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">Assignees</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Automations</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Dates<br><br></p>
-</li>
-</ul>
-</li>
-</ul>
-<p dir="ltr">Oversee Asset Production</p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">Manage and update tasks on the campaign board for anchor assets.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Adjust tasks and deadlines as necessary to address changes.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Ensure all deadlines are met and proactively flag any potential slowdowns.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Confirm automations are in place and functioning properly.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Coordinate between stakeholders and assignees to ensure asset delivery.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Provide support to external users, especially across different time zones.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Track progress and keep team members on schedule.<br><br></p>
-</li>
-</ul>
-<p dir="ltr">Oversee Supporting Asset Production</p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">Manage and update tasks on the campaign board for supporting assets.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Adjust tasks and deadlines as necessary to address changes.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Ensure all deadlines are met and proactively flag any potential slowdowns.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Confirm automations are in place and functioning properly.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Coordinate between stakeholders and assignees to ensure smooth delivery of assets.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Provide support to external users, especially across different time zones.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Track progress and ensure team members remain aligned with timelines.</p>
-</li>
-</ul>
-<p dir="ltr"><br>Managing the backend process of uploading, scheduling, and reviewing published blog content with a focus on design consistency and quality assurance.<br><br></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">Conduct thorough QA to minimize post-publishing corrections</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Create new UTMs with every new asset and update editor manual with them</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Ensure article CTAs have the correct asset UTM (text vs inpost)</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Maintain CTA library</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Update the homepage experience for main Intake site</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Upload CTA blocks</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Provide general content support as needed, including troubleshooting formatting issues and implementing updates + QA-ing published content</p>
-</li>
-</ul>
-<p dir="ltr"><strong>Requirements:</strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">At least 4 years of professional experience as a Web Project Manager/Digital Project Manager.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Proven experience in team management and web project delivery.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Solid understanding of web technologies, especially WordPress.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Strong leadership skills and ambition to progress into a team leader role.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Fluent in English, both written and spoken.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Excellent communication skills, as all internal communications are in English.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Ability to work both independently and as part of a global team.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Excellent problem-solving skills with a keen attention to detail.</p>
-</li>
-</ul>
-<p dir="ltr"><br><strong>Benefits (dependent on your country):</strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">Work from anywhere culture</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Flexible time off policy</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Ample paid leave</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">In-person team-building vacations</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Supplemental healthcare insurance coverage</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Subsidized Sports and fitness membership</p>
-</li>
-</ul>
-<p><br>The work is remote as our team is spread across the continents. We are open to flexible hours, however we may need you to be online between 18:00 and 20:30 CET (as part of the marketing team is US based, 6-9 hours behind).</p>
-<p><br><br></p>
-<img src="https://remotive.com/job/track/1964769/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -412,6 +212,78 @@
                 </td>
                 <td width="300">
                     <h5>CoverGo</h5>
+                    <h3>Digital Insurance Project Manager - French Speaker (Fully Remote)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/covergo/j/850BC4C294" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Top 3 Reasons To Join Us</strong></p><ul> <li>Competitive Salary</li> <li>100% Remote</li> <li>Working on the latest tech for the Insurtech Market Leader</li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more</li> <li>We're an international, diverse team of over 120 people with 30 nationalities and team members working remotely from all over the world</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors</li> <li>We have a global presence in Asia, EMEA and the Americas</li> <li>We’ve grown our annualized revenue by over 30x since January 2021</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world and a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world</li> </ul><p><strong>About the Role</strong></p><p>As a Digital Insurance Project Manager, your core responsibility will be to oversee and manage the implementation of new and/or existing projects within CoverGo's operations. This role presents an exciting opportunity for an individual with a strong drive to lead transformative projects in the insurtech industry. </p><p><strong>What You Will Do</strong></p><ul> <li>Engage and manage relationships with clients and stakeholders</li> <li>Lead project planning sessions with the internal team and client's staff</li> <li>Support solution proposals for client pursuits, proposals, and PoCs</li> <li>Participate in proposal and POC processes (i.e. design, submission, and review)</li> <li>Support the creation of contracts and related communication with clients</li> <li>Identify and help secure growth opportunities for existing clients</li> <li>Manage project progress and adapt work as required</li> <li>Ensure projects meet deadlines</li> <li>Manage relationships with clients and stakeholders</li> <li>Host regular/weekly project review and create reports with key metrics about team and project status using company standard metrics</li> <li>Oversee all incoming and outgoing project documentation</li> <li>Identify and manage issues, risks, assumptions, and dependencies</li> <li>Continuously optimize and improve processes and the overall approach where necessary</li> </ul><p><strong>What We Need</strong></p><ul> <li>Bachelor's degree in computer science or a related technical field is a plus</li> <li>5+ years experience as a Project Manager</li> <li>Insurance domain knowledge is a must</li> <li>Strong client facing experience is a must</li> <li>Technical skills are a plus</li> <li>Has experience seeing projects through the full life cycle</li> <li>Excellent analytical skills and problem-solving skills</li> <li>Strong interpersonal skills and extremely resourceful</li> <li>Proven ability to complete projects according to outlined scope, budget, and timeline</li> <li>Self-motivated and able to work independently</li> <li>Able, willing, and excited to work in a fast-paced collaborative startup environment</li> <li>Must be able to speak French</li> </ul><p><strong>Why You'll Love Working Here</strong></p><ul> <li>Fully Remote</li> <li>Flexible Leave</li> <li>International Environment</li> <li>Competitive renumeration package</li> <li>Performance Bonus</li> <li>Company activities and events</li> <li>Learning and development plan</li> <li>Remote work allowance</li> </ul><p><strong>CoverGo Company </strong><a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"><strong>Video</strong></a></p><p>By submitting your application, you confirm that you have read, understood, and accepted the content of CoverGo’s <a href="https://apply.workable.com/covergo/gdpr_policy?lng=en" target="_blank" rel="nofollow noreferrer noopener" class="external">Privacy Notice</a> and you consent to the processing of your data as part of this application.</p><p><a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"></a></p><h3>Requirements: </h3><h3>Benefits: </h3>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CoverGo</h5>
+                    <h3>Digital Insurance Project Manager - French Speaker (Fully Remote)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/covergo/j/3E07573DD2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Top 3 Reasons To Join Us</strong></p><ul> <li>Competitive Salary</li> <li>100% Remote</li> <li>Working on the latest tech for the Insurtech Market Leader</li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more</li> <li>We're an international, diverse team of over 120 people with 30 nationalities and team members working remotely from all over the world</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors</li> <li>We have a global presence in Asia, EMEA and the Americas</li> <li>We’ve grown our annualized revenue by over 30x since January 2021</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world and a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world</li> </ul><p><strong>About the Role</strong></p><p>As a Digital Insurance Project Manager, your core responsibility will be to oversee and manage the implementation of new and/or existing projects within CoverGo's operations. This role presents an exciting opportunity for an individual with a strong drive to lead transformative projects in the insurtech industry. </p><p><strong>What You Will Do</strong></p><ul> <li>Engage and manage relationships with clients and stakeholders</li> <li>Lead project planning sessions with the internal team and client's staff</li> <li>Support solution proposals for client pursuits, proposals, and PoCs</li> <li>Participate in proposal and POC processes (i.e. design, submission, and review)</li> <li>Support the creation of contracts and related communication with clients</li> <li>Identify and help secure growth opportunities for existing clients</li> <li>Manage project progress and adapt work as required</li> <li>Ensure projects meet deadlines</li> <li>Manage relationships with clients and stakeholders</li> <li>Host regular/weekly project review and create reports with key metrics about team and project status using company standard metrics</li> <li>Oversee all incoming and outgoing project documentation</li> <li>Identify and manage issues, risks, assumptions, and dependencies</li> <li>Continuously optimize and improve processes and the overall approach where necessary</li> </ul><p><strong>What We Need</strong></p><ul> <li>Bachelor's degree in computer science or a related technical field is a plus</li> <li>5+ years experience as a Project Manager</li> <li>Insurance domain knowledge is a must</li> <li>Strong client facing experience is a must</li> <li>Technical skills are a plus</li> <li>Has experience seeing projects through the full life cycle</li> <li>Excellent analytical skills and problem-solving skills</li> <li>Strong interpersonal skills and extremely resourceful</li> <li>Proven ability to complete projects according to outlined scope, budget, and timeline</li> <li>Self-motivated and able to work independently</li> <li>Able, willing, and excited to work in a fast-paced collaborative startup environment</li> <li>Must be able to speak in French fluently</li> </ul><p><strong>Why You'll Love Working Here</strong></p><ul> <li>Fully Remote</li> <li>Flexible Leave</li> <li>International Environment</li> <li>Competitive renumeration package</li> <li>Performance Bonus</li> <li>Company activities and events</li> <li>Learning and development plan</li> <li>Remote work allowance</li> </ul><p><strong>CoverGo Company </strong><a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"><strong>Video</strong></a></p><p>By submitting your application, you confirm that you have read, understood, and accepted the content of CoverGo’s <a href="https://apply.workable.com/covergo/gdpr_policy?lng=en" target="_blank" rel="nofollow noreferrer noopener" class="external">Privacy Notice</a> and you consent to the processing of your data as part of this application.</p><p><a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"></a></p><h3>Requirements: </h3><h3>Benefits: </h3>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CoverGo</h5>
+                    <h3>Digital Insurance Project Manager - French Speaker (Fully Remote)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/covergo/j/DFFC26101C" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Top 3 Reasons To Join Us</strong></p><ul> <li>Competitive Salary</li> <li>100% Remote</li> <li>Working on the latest tech for the Insurtech Market Leader</li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more</li> <li>We're an international, diverse team of over 120 people with 30 nationalities and team members working remotely from all over the world</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors</li> <li>We have a global presence in Asia, EMEA and the Americas</li> <li>We’ve grown our annualized revenue by over 30x since January 2021</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world and a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world</li> </ul><p><strong>About the Role</strong></p><p>As a Digital Insurance Project Manager, your core responsibility will be to oversee and manage the implementation of new and/or existing projects within CoverGo's operations. This role presents an exciting opportunity for an individual with a strong drive to lead transformative projects in the insurtech industry. </p><p><strong>What You Will Do</strong></p><ul> <li>Engage and manage relationships with clients and stakeholders</li> <li>Lead project planning sessions with the internal team and client's staff</li> <li>Support solution proposals for client pursuits, proposals, and PoCs</li> <li>Participate in proposal and POC processes (i.e. design, submission, and review)</li> <li>Support the creation of contracts and related communication with clients</li> <li>Identify and help secure growth opportunities for existing clients</li> <li>Manage project progress and adapt work as required</li> <li>Ensure projects meet deadlines</li> <li>Manage relationships with clients and stakeholders</li> <li>Host regular/weekly project review and create reports with key metrics about team and project status using company standard metrics</li> <li>Oversee all incoming and outgoing project documentation</li> <li>Identify and manage issues, risks, assumptions, and dependencies</li> <li>Continuously optimize and improve processes and the overall approach where necessary</li> </ul><p><strong>What We Need</strong></p><ul> <li>Bachelor's degree in computer science or a related technical field is a plus</li> <li>5+ years experience as a Project Manager</li> <li>Insurance domain knowledge is a must</li> <li>Strong client facing experience is a must</li> <li>Technical skills are a plus</li> <li>Has experience seeing projects through the full life cycle</li> <li>Excellent analytical skills and problem-solving skills</li> <li>Strong interpersonal skills and extremely resourceful</li> <li>Proven ability to complete projects according to outlined scope, budget, and timeline</li> <li>Self-motivated and able to work independently</li> <li>Able, willing, and excited to work in a fast-paced collaborative startup environment</li> <li>Must be able to speak in French fluently</li> </ul><p><strong>Why You'll Love Working Here</strong></p><ul> <li>Fully Remote</li> <li>Flexible Leave</li> <li>International Environment</li> <li>Competitive renumeration package</li> <li>Performance Bonus</li> <li>Company activities and events</li> <li>Learning and development plan</li> <li>Remote work allowance</li> </ul><p><strong>CoverGo Company </strong><a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"><strong>Video</strong></a></p><p>By submitting your application, you confirm that you have read, understood, and accepted the content of CoverGo’s <a href="https://apply.workable.com/covergo/gdpr_policy?lng=en" target="_blank" rel="nofollow noreferrer noopener" class="external">Privacy Notice</a> and you consent to the processing of your data as part of this application.</p><p><a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"></a></p><h3>Requirements: </h3><h3>Benefits: </h3>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CoverGo</h5>
                     <h3>Digital Insurance Project Manager (Fully Remote)</h3>
                 </td>
                 <td width="300">
@@ -476,6 +348,30 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <h1><strong>About us</strong></h1><p style="min-height:1.5em">At WinTech, we are at the forefront of innovation, crafting cutting-edge consumer products that shape the future. Our diverse portfolio spans the health, education, and entertainment sectors, offering exciting opportunities to make a real impact. Our dynamic teams are the driving force behind our success, and we’re always on the lookout for passionate individuals eager to join us on this journey of transformation.</p><p style="min-height:1.5em"></p><h1><strong>About the Role</strong></h1><p style="min-height:1.5em">We are seeking an experienced Project Manager with Product Owner skills to lead multiple projects in our rapidly expanding portfolio. By Q1 2025, you'll be managing three active projects, taking full end-to-end ownership from conception to delivery.</p><p style="min-height:1.5em">The role combines project management and product ownership responsibilities, including detailed task creation, quality assurance, and swift execution across all projects. You'll focus on new product development while maintaining oversight of existing products.</p><p style="min-height:1.5em">We operate in a results-oriented environment where outcomes matter more than hours invested. Our ideal candidate takes full ownership, achieves measurable results, and is driven by excellence rather than timesheets.</p><p style="min-height:1.5em"></p><h1><strong>Key Responsibilities</strong></h1><h3>Team Leadership &amp; Process Management:</h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Build and optimize development teams.</p></li><li><p style="min-height:1.5em">Establish efficient project management processes.</p></li><li><p style="min-height:1.5em">Resolve issues independently.</p></li><li><p style="min-height:1.5em">Foster a culture of high performance and continuous improvement.</p></li></ul><h3>Product Development:</h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Lead cross-functional teams through product lifecycles.</p></li><li><p style="min-height:1.5em">Manage backlog, sprints, and KPIs.</p></li><li><p style="min-height:1.5em">Create and manage Jira tasks.</p></li><li><p style="min-height:1.5em">Run Agile ceremonies.</p></li><li><p style="min-height:1.5em">Ensure rapid, quality execution.</p></li></ul><h3>Strategic Planning:</h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Maintain 2+ week planning horizon.</p></li><li><p style="min-height:1.5em">Set clear priorities and objectives.</p></li><li><p style="min-height:1.5em">Lead team planning sessions.</p></li><li><p style="min-height:1.5em">Document upcoming work.</p></li><li><p style="min-height:1.5em">Identify and address potential blockers.</p></li><li><p style="min-height:1.5em">Apply learnings across products.</p><p style="min-height:1.5em"></p></li></ul><h1><strong>Requirements</strong></h1><h3>Must-Have Hard Skills:</h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Proven track record of building and scaling teams from scratch.</p></li><li><p style="min-height:1.5em">Experience in establishing and optimizing development processes.</p></li><li><p style="min-height:1.5em">Strong problem-solving abilities with evidence of independent decision-making.</p></li><li><p style="min-height:1.5em">Expertise in full lifecycle tech product development.</p></li><li><p style="min-height:1.5em">Proficiency in Agile methodologies.</p></li><li><p style="min-height:1.5em">Strong analytical capabilities.</p></li></ul><h3>Must-Have Soft Skills:</h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Results-driven mindset.</p></li><li><p style="min-height:1.5em">Exceptional leadership and problem-solving abilities.</p></li><li><p style="min-height:1.5em">Strong decision-making capabilities.</p></li><li><p style="min-height:1.5em">Excellent communication and organizational skills.</p></li><li><p style="min-height:1.5em">Ability to work autonomously.</p></li><li><p style="min-height:1.5em">Adaptability in fast-paced environments.</p><p style="min-height:1.5em"></p></li></ul><h1><strong>Nice to Have</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Experience with subscription-based business model.</p></li><li><p style="min-height:1.5em">Experience in ed-tech or cognitive training industries.</p></li><li><p style="min-height:1.5em">Experience with multiple product launches.</p></li></ul><p style="min-height:1.5em"></p><h1><strong>Location</strong></h1><p style="min-height:1.5em">WinTech operates within the CET (Central European Time) zone. Applicants from any country are welcome to apply for the position as long as they are located within approximately ± 4 hours of CET. This ensures optimal collaboration and communication during working hours.</p><p style="min-height:1.5em"></p><h1><strong>Benefits</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Discover the perks of being part of our vibrant team! We offer:</p></li><li><p style="min-height:1.5em">Remote Work Environment: Embrace the freedom to work from anywhere, anytime, promoting a healthy work-life balance. 🏡⏰</p></li><li><p style="min-height:1.5em">Unlimited PTO: Enjoy unlimited paid time off to recharge and prioritize your well-being, without counting days. 🌴💼</p></li><li><p style="min-height:1.5em">Paid National Holidays: Celebrate and relax on national holidays with paid time off to unwind and recharge. 🎉🌟</p></li><li><p style="min-height:1.5em">Company-provided MacBook: Experience seamless productivity with top-notch Apple MacBooks provided to all employees who need them. 💻🚀</p></li><li><p style="min-height:1.5em">Flexible Independent Contractor Agreement: Unlock the benefits of flexibility, autonomy, and entrepreneurial opportunities. Benefit from tax advantages, networking opportunities, reduced employment obligations, and the freedom to work from anywhere. Read more about it here: <a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.google.com/document/d/1dHF4ctKlez75whdn-ybUwP5d5Wr0BdwVrorrm_fM40Q/preview">https://docs.google.com/document/d/1dHF4ctKlez75whdn-ybUwP5d5Wr0BdwVrorrm_fM40Q/preview</a> 📈💼</p></li></ul><p style="min-height:1.5em">Be part of our fast-growing team and seize this excellent opportunity for personal and professional growth!</p><p style="min-height:1.5em"></p><h1><strong>Interview Process</strong></h1><p style="min-height:1.5em">After submitting your application, we conduct a thorough review which typically takes 3 to 5 days, but may occasionally take longer due to the volume of applications received. If we see a potential fit, we proceed with the following steps:</p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Recruiter Screening (40 minutes)</p></li><li><p style="min-height:1.5em">Technical Interview (90 minutes)</p></li><li><p style="min-height:1.5em">Final Interview (60 minutes)</p></li></ul><p style="min-height:1.5em"></p><h1><strong>Life at WinTech</strong></h1><p style="min-height:1.5em">At WinTech, you'll join a supportive and collaborative team passionate about excellence and being industry leaders. Our innovative work environment drives impactful business results as we challenge ourselves and elevate each other to achieve new heights.</p><p style="min-height:1.5em">All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em">#Li-Remote</p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://app.ashbyhq.com/api/images/org-theme-logo/87f6e542-ae68-4ff1-ab48-f05e9dab1964/e24aecd5-3955-404a-8728-c08806c78730.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Clutch</h5>
+                    <h3>Project Manager</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.ashbyhq.com/withclutch/51556766-b421-483b-8071-a056e8a2ca08" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h1><strong>About the Role</strong></h1><p style="min-height:1.5em">Engagement Managers are Project Managers on our Implementation Team with a bias towards customer engagement and success. They’ll handle about 8 customers at a time and lead their Implementation Projects through to success while holding others on the Project Team, both internally and externally, accountable for milestones, action items, and deliverables.</p><p style="min-height:1.5em"></p><h1><strong>About the Team</strong></h1><p style="min-height:1.5em">Our Implementation Team helps to get new Customers (Credit Unions) successfully onboarded to the Clutch Platform. Project teams consist of an Implementation Engineer and an Engagement Manager who work together to ensure the onboarding is successful.</p><p style="min-height:1.5em"></p><h1><strong>What You’ll Do</strong></h1><p style="min-height:1.5em"></p><h2>Within 3 months, you will:</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Drive the Onboarding efforts of new and existing customers by understanding business objectives and partnering with the project team to prescribe best practice recommendations in order to achieve those goals</p></li><li><p style="min-height:1.5em">Develop detailed project plan schedules and work breakdown structures to ensure project team accountability for milestone dates and work quality</p></li><li><p style="min-height:1.5em">Create comprehensive weekly status reports and communication plans to executive sponsors and internal/external project teams</p></li><li><p style="min-height:1.5em">Proactively identify implementation risks and mitigate them effectively and efficiently</p></li><li><p style="min-height:1.5em">Quickly establish/nurture rapport and a positive relationship with customer stakeholders</p></li></ul><h2>Within 6 months, you will:</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Execute implementation projects while partnering closely with our clients’ Executive-level project sponsors</p></li><li><p style="min-height:1.5em">Deliver on these engagements which includes driving milestone meetings (onsite and virtual), customizing and developing new project artifacts and ensuring high levels of impact and client satisfaction with the services rendered</p></li><li><p style="min-height:1.5em">Track detailed scope of engagement and when applicable work with the customer to estimate scope change/additions and execute change order(s)</p></li><li><p style="min-height:1.5em">Develop and maintain a deep understanding of Credit Unions to be a trusted thought leader and advisor with your customers</p></li><li><p style="min-height:1.5em">Coach and mentor project team members to facilitate improved teamwork both internally and with the client</p></li></ul><h2>Within 9 months, you will:</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Participate in establishing practices, templates, policies, tools, and partnerships to expand and mature the capabilities of the team</p></li><li><p style="min-height:1.5em">Help us design methodologies, templates, and collateral to deliver new Clutch products effectively</p></li></ul><p style="min-height:1.5em"></p><h1><strong>What You’ll Bring</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Excellent communication skills; both written and verbal. Comfortable leading meetings with customers</p></li><li><p style="min-height:1.5em">Ability to identify and clearly communicate pragmatic solutions to complex integration problems.</p></li><li><p style="min-height:1.5em">Superior time management skills to manage multiple external customers simultaneously</p></li><li><p style="min-height:1.5em">A passion for working with people, paired with excellent communication skills; you can explain a complex technical issue in such a way that most people could understand</p></li><li><p style="min-height:1.5em">In-depth knowledge and experience with successfully managing enterprise software application implementations with waterfall and agile methodologies</p></li><li><p style="min-height:1.5em">Skill set to understand and document business requirements as well provide prescriptive recommendations by actively listening and asking probing questions</p></li><li><p style="min-height:1.5em">Experience with spearheading initiatives with cross-functional teams on a number of concurrent engagements</p></li><li><p style="min-height:1.5em">Record of professional achievements with a track record of delighted, successful, and satisfied customers</p></li><li><p style="min-height:1.5em">Executive presence and confidence in communicating with technical, business, and VP &amp; C-level stakeholders</p></li><li><p style="min-height:1.5em">Strong communication, presentation, consultative and leadership skills</p></li><li><p style="min-height:1.5em">Ability to create structure in ambiguous situations and design effective processes</p></li><li><p style="min-height:1.5em">Capability to be dynamic and adapt quickly in a fast-paced environment</p></li><li><p style="min-height:1.5em">Passion to be an expert on the product and for being part of a fast-growing company</p></li></ul><p style="min-height:1.5em"><em>Please note that this role may evolve as our business needs change, so we appreciate your flexibility and adaptability.</em></p><p style="min-height:1.5em"><strong>What’s In It For You?</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Remote Flexibility:</strong> Enjoy the freedom of remote work from anywhere, balancing life and career seamlessly.</p></li><li><p style="min-height:1.5em"><strong>Unforgettable Off-Sites:</strong> Twice a year, bond with colleagues in exciting destinations, fostering teamwork and fresh ideas.</p></li><li><p style="min-height:1.5em"><strong>Paid Time Off and National Holidays:</strong> Enjoy 20 PTO days yearly and the National Holidays for relaxation and rejuvenation.</p></li><li><p style="min-height:1.5em"><strong>Stock Options:</strong> Joining us means having a stake in our success, so you'll receive stock options as part of your compensation package.</p></li><li><p style="min-height:1.5em"><strong>Home Office Setup:</strong> Create your ideal workspace with a dedicated budget for home office essentials.</p></li><li><p style="min-height:1.5em"><strong>Work Trip Budget:</strong> Grow personally and professionally with a budget for work-related trips and co-working.</p></li></ul><p style="min-height:1.5em"><strong>About Us</strong></p><p style="min-height:1.5em"><strong>Clutch</strong> is a revolutionary vertical SaaS company, proudly backed by Andreessen Horowitz (A16z), aimed at revolutionizing the way Credit Unions engage and change the lives of their members. As a champion of financial well-being, we address the urgent need for affordable lending solutions in an era where the average American grapples with over $155,000 in household debt.  Unlike traditional financial institutions, Clutch develops software to turn Credit Unions into FinTech lenders and leverage their balance sheets to responsibly lend to over 130M Americans. Our mission extends beyond mere financial transactions; we strive to fundamentally enhance the way credit unions interact with their members. By integrating cutting-edge technologies and user-centric designs, we help credit unions provide seamless digital experiences that are on par with leading tech companies. This approach not only preserves but revitalizes the longstanding tradition of community and member-focused service inherent to credit unions.</p><p style="min-height:1.5em"><strong>Please note:</strong> This position is offered on a contractor basis. Applicants must have the necessary documentation and authorization to work in the country where the job is located. Clutch cannot provide sponsorship or assist with obtaining work permits for this role.</p>
                 </details>
                 </td>
             </tr></table>
