@@ -1,5 +1,85 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1965989/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>10up</h5>
+                    <h3>Lead Front End Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>CSS,html,javascript,react</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/lead-front-end-engineer-1965989" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>
+<div>
+<div>
+<div>
+<div><strong>Location: Remote - Anywhere </strong>(Open to applicants located anywhere around the globe.)</div>
+<div> </div>
+<div>At 10up, we call developers like you <em>engineers</em> because you aren’t just a “coder”: you’re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges. As a Lead Front End Engineer at 10up, you are taking the driving seat in building custom-crafted UIs utilized by millions of people daily. 10uppers have been pushing the boundaries of premium UI/UX for over 12 years—become a lead engineer that innovates the internet by building state-of-the-art web fronts alongside a top-in-the-field team.</div>
+<div> </div>
+<div>You’ll work on a combination of unique builds and ongoing support engagements that help season your technical leading skills. As a leading digital agency, 10up’s client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee.</div>
+<div> </div>
+<div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div>
+<div> </div>
+</div>
+</div>
+</div>
+</div>
+<div><strong>What you will do: </strong></div>
+<div>
+<ul style="">
+<li style="">Develop enterprise-level websites and digital experiences primarily utilizing your expertise in JavaScript, HTML, CSS, React, and WordPress (including Gutenberg blocks).</li>
+<li style="">Drive strategy in collaboration with experts across multiple disciplines, and lead overall technical vision and delivery on large-scale projects.</li>
+<li style="">Engage meaningfully with clients; leading demos and driving discussions.</li>
+<li style="">Contribute to the improvement of the Front End Engineering discipline by leading and mentoring other fellow Front End Engineers</li>
+<li style="">Ultimately you will make the web better by finely crafting websites, apps, and tools that reach millions of online visitors every day.</li>
+</ul>
+</div>
+<div>
+<p><strong>About you: </strong></p>
+<ul style="">
+<li style="">You’re at your best leading a team of engineers to solve a complex problem while providing code reviews, coaching, and mentorship.</li>
+<li style="">You have a code portfolio of real-world samples to showcase your skills. Link us to your best custom work on GitHub and you’ll never have to do any live coding or whiteboard testing! </li>
+<li style="">You have the ability to clearly present your thoughts to clients and team members. </li>
+<li style="">You are an advocate for coded style guides and creating highly componentized systems.</li>
+<li style="">You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.</li>
+</ul>
+<p><strong>Benefits of interest:</strong></p>
+<ul style="">
+<li style="">Multiple paid time off programs, including PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day</li>
+<li style="">Health, dental, and life insurance programs (available for United States and UK team members)</li>
+<li style="">Retirement contribution programs (currently available in the U.S. and U.K.)</li>
+<li style="">Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations</li>
+<li style="">$1,000 accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study</li>
+<li style="">Global Company summits – opportunities to meet, socialize, and learn with fellow team members in person at remarkable destinations</li>
+<li style="">An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year</li>
+<li style="">A Director of Engineering that supports your career growth and development</li>
+</ul>
+<p>The expected annual salary range for this position is between <strong>$90,000 and $150,000 USD</strong>. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.</p>
+<div><strong>Join our team! </strong></div>
+<div> </div>
+<div>If you are passionate about 10up's mission and think you have what it takes to be successful in this role, please apply. If you consider yourself a Full-Stack Engineer, please choose the discipline and job title that most closely aligns with your focus/primary area of expertise. We personally review each application and can always pivot roles after you enter the hiring process.</div>
+<div> </div>
+<div>Read more about <a class='"postings-link"' href="%22https:/drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view%22" rel="nofollow">What to Expect </a>through our Recruiting process.</div>
+<div> </div>
+<div>We don't want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote #LI-DNI</div>
+</div>
+<div> </div>
+<img src="https://remotive.com/job/track/1965989/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
