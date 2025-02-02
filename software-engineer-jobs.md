@@ -1,5 +1,140 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1967435/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Synthflow</h5>
+                    <h3>Senior Go Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>go,python,CI/CD,TDD</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-go-software-engineer-1967435" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h1"><strong>About Synthflow</strong></div>
+<p style="min-height: 1.5em;">At <a href="http://synthflow.ai/" rel="nofollow" target="_blank">Synthflow</a> we’re building the easiest way for businesses to create AI-powered phone agents. No coding, no fuss—just smarter automation. We’re passionate about delivering the future of voice technology with lightning-fast, scalable solutions. It’s an exciting time at Synthflow: we’re early, fast-growing, and laser-focused on impact. Join us to do the best work of your career while helping businesses thrive.</p>
+<p style="min-height: 1.5em;"> </p>
+<div class="h1"><strong>About the role</strong></div>
+<p style="min-height: 1.5em;">We’re looking for a Senior Go Software Engineer to build real-time voice AI systems that set the standard.</p>
+<p style="min-height: 1.5em;"> </p>
+<div class="h2"><strong>Your responsibilities will include:</strong></div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;"><strong>Design and enhance backend infrastructure</strong> focusing on scalability, performance, and reliability. Implement features and maintain the systems that power our next-generation products.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Expertly manage concurrency and parallelism</strong> in Go using goroutines, channels, and synchronization primitives like mutexes and wait groups.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Develop robust networking and streaming capabilities</strong>, including experience with network programming, sockets, and protocols like WebSockets and WebRTC.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Lead performance optimization initiatives</strong> by profiling Go code, reducing latency, and efficiently managing memory and garbage collection.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Build fault-tolerant systems</strong> with strong recovery mechanisms and failover strategies to maintain service continuity.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Implement comprehensive logging and tracing</strong> using tools such as zap, klog, OpenTelemetry, and Jaeger to enhance monitoring and troubleshooting.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Apply Test-Driven Development (TDD) and engage in Pair Programming</strong> to ensure high code quality and promote team collaboration.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Participate actively in code reviews</strong>, offering constructive feedback to uphold code quality and adhere to best practices.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Stay informed on the latest in software development</strong> and contribute to the team's continuous learning and improvement.</p>
+</li>
+</ul>
+<div class="h1"><strong>You have:</strong></div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;"><strong>At least 5 years of professional experience</strong> with Go, along with a track record of developing scalable and extensible systems.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Additional proficiency in Python and familiarity with infrastructure containerization, DevOps &amp; MLOps tools (preferably GCP or AWS).</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Extensive experience in <strong>creating and maintaining robust APIs</strong> and implementing advanced CI/CD pipelines.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">A strong foundation in software engineering principles and a commitment to leading-edge practices including TDD, pair programming, and continuous integration.</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<div class="h1"><strong>Beyond the basics: </strong></div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Exposure to <strong>voice technologies</strong> like WebRTC and Twilio.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">A background in <strong>AI</strong>, particularly around Large Language Models, Speech to Text, and Voice Synthesis applications.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience in <strong>AI-related fields</strong>, such as low-latency audio stream processing or leveraging LLMs in product environments.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Knowledge of <strong>distributed computing and cloud infrastructure</strong> at scale.</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<div class="h1"><strong>What We Offer:</strong></div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;"><strong>Autonomy at speed: </strong>High-ownership roles in a fast-moving startup.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Remote-first flexibility: </strong>Contribute from anywhere, on your schedule.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Cutting-edge technology:</strong> Work on what interests you most.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Career growth: </strong>Scale your impact as the company grows.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Rewarding package: </strong>Competitive pay, equity options, and comprehensive benefits that reflect your skills and experience. </p>
+</li>
+</ul>
+<div class="h2"> </div>
+<img src="https://remotive.com/job/track/1967435/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1964718/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Coursedog</h5>
+                    <h3>Senior Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>python,JSON</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1964718" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><!--block-->We are looking for an innovative, self-starting, and critical-thinking team member to join our Integrations Engineering team.</div><div><!--block--><br>You will be fully immersed in the ongoing development, maintenance, and troubleshooting along with the expansion and roll-out of our multi-faceted Integrations Hub product.<br><br></div><div><!--block-->This individual will be the de facto owner of the Integrations Hub. They will become an expert in Coursedog’s integrations across different Student Information Systems (SISs) and will drive expansion and maintenance of the admin tool [Integrations Hub] that data engineers, support experts, and customers leverage to manage Coursedog’s unique, bi-directional integrations. Further, this individual will collaborate closely with integrations and product engineers to implement changes that are compatible with existing product/integration components, ensuring that issues with the core Integrations Hub are resolved quickly and effectively to unblock implementations.</div><br><br><div class="h3">Key Responsibilities</div><ul style=""><li style=""><!--block-->You will learn our end-to-end data integrations, owning the Integrations Hub product that internal and external stakeholders leverage to manage Coursedog’s unique, bi-directional integrations.</li><li style=""><!--block-->You will own the engineering on specific projects that involve executing technical integration activities, including designing and developing (Node JS) integration brokers, formatters and extensions, as well as frontend admin screens using VueJs.</li><li style=""><!--block-->You will work closely with product on gaps and technical needs for client integrations, informing the overall product roadmap and direction. This includes driving needed bug fixes, and technical enhancements and providing expert guidance on the specification for new integrations with SISs.</li><li style=""><!--block-->You will work as a part of a cross-functional team and collaborate with teams across Coursedog to drive innovation and best practices in our SIS integrations.</li></ul><br><br><div class="h3">Skills Knowledge and Expertise</div><ul style=""><li style=""><!--block-->You exhibit deep technical knowledge and expertise in REST APIs, scripting, JSON, data manipulation, and transformation.</li><li style=""><!--block-->You have a strong problem-solving and troubleshooting mind and the ability to read and process JSON data.</li><li style=""><!--block-->You have the technical ability to write complex and extensible integrations with Node JS, Python, or similar.</li><li style=""><!--block-->You know how to use data to make smart decisions about tool usage, new tool adoption, and tool retirement.</li><li style=""><!--block-->You communicate technically with ease to the non-technical audience and deeply technically to the engineers; you can speak to database tables and fields fluently.</li><li style=""><!--block-->Intuition and sense to identify downstream implications to data configuration decisions</li><li style=""><!--block-->You have experience with using tools to process large data payloads and to identify trends in data.</li><li style=""><!--block-->You can work in an unstructured environment to prioritize accordingly.</li><li style=""><!--block-->You document everything — every design decision, every bit of technical knowledge, the status of client configuration at project go-live, and more.</li><li style=""><!--block-->You are a team player and readily express gratitude for the accomplishments and successes of the other team members.</li></ul><br><br><div class="h3">Working at Coursedog</div><div><!--block--><strong>Benefits</strong></div><ul style=""><li style=""><!--block--><strong>Healthcare:</strong> We pay 99% of your medical, dental, and vision coverage and 75% of the premium for your spouse and/or dependents</li><li style=""><!--block--><strong>Retirement: </strong>We offer a 401k plan on day one of your employment.</li><li style=""><!--block--><strong>Paid Time Off:</strong> We value work-life balance and provide a high amount of autonomy. In service to this, our Paid Time Off policy has no annual limit.</li><li style=""><!--block--><strong>Remote-First: </strong>We value flexible working hours over set hours, results over number of hours, and asynchronous communication focused on transparency over need-to-know access.</li><li style=""><!--block--><strong>Equity: </strong>You’ll be contributing to the team's success, so you deserve to share in it. Every employee on our team gets a meaningful equity allocation.</li><li style=""><!--block--><strong>Parental Leave</strong>: To help support new parents in the workplace, we offer up to 12 weeks of paid parental leave.</li></ul><div><!--block--><strong>Diversity, Equity, and Inclusion<br></strong><br></div><div><!--block-->Coursedog is an equal-opportunity employer committed to hiring a diverse workforce at all levels of the organization and creating an inclusive environment for all.</div><div><!--block--><br>We value and encourage the contributions of our employees and strive to create an environment where everyone can reach their full potential and drive outstanding results.  We draw strength from our range of interests, backgrounds, and perspectives<br><br></div><div><!--block-->We strongly encourage applicants from <strong>all</strong> backgrounds to apply.<br><br></div><div><!--block-->All qualified applicants will receive consideration for employment without regard to race, national origin, age, sex, religion, disability, sexual orientation, marital status, veteran status, gender identity or expression, or any other basis protected by local, state, or federal law.<br><br></div><div><!--block--><strong>Accommodations<br></strong><br></div><div><!--block-->Accommodations are available for applicants with disabilities in all phases of the application and employment process. On your application, you will be prompted to inform us If you need any accommodation during this process.</div><img src="https://remotive.com/job/track/1964718/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/3979584?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -1903,6 +2038,787 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div>Are you ready to embark on an exciting adventure? Are you looking for an opportunity that breaks the mold and lets you unleash your creativity and talent? You’ve come to the right place!</div><div><br></div><div>🚀 About Us 🚀</div><div>We’re a team of innovators, ambitious and mission-driven people who are always striving to do better. We value diversity, embrace quirks and celebrate uniqueness. Together, we’re on a mission to revolutionize the global real estate capital markets.  At Altrio, we are building real estate investment software designed to help our clients invest faster, smarter, and more confidently for some of the biggest global real estate investors, including Brookfield Properties, QuadReal Property Group and Hines.</div><div><br></div><div>🏢 The Opportunity 🏢 </div><div><span style="font-size: 11pt;">We are currently looking for an Intermediate Software Engineer (Ruby on Rails) to join the team. The ideal candidate will have a strong understanding of Ruby on Rails, as well as experience building and maintaining web applications. In this role, you will be responsible for working on a variety of projects, including new feature development, bug fixing, and performance optimization.</span></div><div><span style="font-size: 11pt;">We’re using both client and server-side technologies; Javascript, React and Tailwind CSS along with modern Rails; Stimulus and Hotwire to deliver experiences our customers love. We’re strong proponents of </span><a rel="noopener noreferrer" class="postings-link" style="font-size: 11pt;" href="https://dev.37signals.com/vanilla-rails-is-plenty/">vanilla rails</a><span style="font-size: 11pt;"> and endeavour to really lean into the framework.</span></div><div><br></div><div>Are you ready to embark on an exciting adventure? Are you looking for an opportunity that breaks the mold and lets you unleash your creativity and talent? You’ve come to the right place!</div><div><br></div><div>🚀 About Us 🚀</div><div>We’re a team of innovators, ambitious and mission-driven people who are always striving to do better. We value diversity, embrace quirks and celebrate uniqueness. Together, we’re on a mission to revolutionize the global real estate capital markets.  At Altrio, we are building real estate investment software designed to help our clients invest faster, smarter, and more confidently for some of the biggest global real estate investors, including Brookfield Properties, QuadReal Property Group and Hines.</div><div><br></div><div>🏢 The Opportunity 🏢 </div><div><span style="font-size: 11pt;">We are currently looking for an Intermediate Software Engineer (Ruby on Rails) to join the team. The ideal candidate will have a strong understanding of Ruby on Rails, as well as experience building and maintaining web applications. In this role, you will be responsible for working on a variety of projects, including new feature development, bug fixing, and performance optimization.</span></div><div><span style="font-size: 11pt;">We’re using both client and server-side technologies; Javascript, React and Tailwind CSS along with modern Rails; Stimulus and Hotwire to deliver experiences our customers love. We’re strong proponents of </span><a href="https://dev.37signals.com/vanilla-rails-is-plenty/" style="font-size: 11pt;" class="postings-link" target="_blank" rel="noopener noreferrer">vanilla rails</a><span style="font-size: 11pt;"> and endeavour to really lean into the framework.</span></div><div><br></div><h3>🔥 What You'll Do 🔥</h3><li>Design, develop and ship major features for existing and new products using Ruby on Rails</li><li>Write clean, maintainable, and efficient code</li><li>Collaborate with other developers, designers, and stakeholders to deliver high-quality products</li><li>Troubleshoot and debug issues as they arise</li><li>Stay up-to-date with the latest industry trends and technologies</li><li>Mentor junior developers and lead best practices across the team</li><li>Deeply understand the needs of our business and its clients</li><li>Have the opportunity to work full stack</li><li>Help shape our engineering culture, tooling and processes </li><h3>💡 What You Bring to the Team 💡</h3><li>2+ years of professional software engineering experience</li><li>Have delivered impactful projects from design to production with Ruby on Rails</li><li>Familiarity with Git and other version control tools</li><li>Strong problem-solving, analytical, debugging and troubleshooting skills</li><li>Practitioner of best practices in code health, testability, maintainability, scalability</li><li>Effective communicator who is comfortable seeking and receiving feedback</li><li>Highly collaborative with low ego</li><li>Results-oriented developer who takes pride in their craft</li><h3>🌟 Perks and Benefits 🌟</h3><li><b>Stake in the Company:</b> Empowering and amplifying the voices and work of our employees is important to us, and that’s why we provide employee stock options. We want the whole team to share in our successes and victories, and have hard work pay off in more ways than a paycheque.</li><li><b>Continuous Learning:</b> We believe that investing in our employees’ growth and development is essential to our long-term success as a company. By providing financial support for continuing education and skill-building opportunities, we empower our employees to stay up-to-date with the latest trends and best practices in their field, and develop new skills.</li><li><b>Health Coverage:</b> Ensuring our employees feel valued, supported and empowered to prioritize their health and well-being is our top priority. We offer comprehensive healthcare coverage to provide the support and resources our employees need to take care of themselves and their families, so they can come to work healthy, focused, and ready to take on the day.</li><li><b>Work from Anywhere:</b> We give our team the flexibility and ownership to choose to work from wherever they’re most productive, whether that be at home, the Toronto HQ, or anywhere else. We want our team to feel productive, and balance their lives however works best for them.</li><li><b>Rest &amp; Recharge:</b> We provide ample vacation days, personal days and other forms of paid leave, our employees should feel free prioritize their well-being, spend time with their loved ones, and experience new places and activities</li><div><span style="font-size: 16px;">We are committed to creating an inclusive and accessible work environment for all candidates. If you require accommodations to participate in the application process or have any specific needs throughout the hiring process, please contact us at people@altrio.com. </span></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/33687898?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Pitch</h5>
+                    <h3>Senior Software Engineer (m/f/d)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/pitch/jobs/7813886002" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Pitch is the collaborative presentation platform for modern teams.&lt;/strong&gt; With a focus on real-time collaboration, smart workflows, and intuitive design features, we make it fast and delightful for teams to create and deliver beautiful presentations. Our presentation and template galleries give everyone the ability to publish their own standout work, learn from one another, and find the creative spark for their next presentation. Tens of thousands of teams have made the switch to Pitch, including top brands like Intercom, Superhuman, and Notion.&amp;nbsp;And we’re just getting started.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;As a Senior Software Engineer at Pitch, you’ll play a critical role in shaping the user experience of a platform used by thousands of creative professionals worldwide. Collaborating with designers, product managers, and back-end engineers, you will ensure our application is fast, intuitive, and delightful to use. If you&#39;re interested in pushing the boundaries of browser-based interfaces to solve tangible problems, love functional programming, and want to be part of a diverse, remote-first team of visionaries, we&#39;d love to hear from you!&amp;nbsp;&lt;/p&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;What you’ll get to do&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;You will join a team of experienced developers building high impact features for our users driven by design, user research, and metrics. Your work will be mostly be frontend focussed but you will be expected to occasionally work on backend services, tooling, and infrastructure.&lt;/li&gt;
+&lt;li&gt;You will collaborate with peers to define architecture, quality standards, and best practices.&lt;/li&gt;
+&lt;li&gt;You will work closely with our designers, teaming up in small cross-functional teams to bring features from idea to prototype to final implementation with a high degree of autonomy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;Who we are looking for&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;You love shipping Single Page Applications and bringing delightful user interactions to life.&lt;/li&gt;
+&lt;li&gt;You ensure code quality and system security through automation, unit testing and structured code reviews.&lt;/li&gt;
+&lt;li&gt;You are product oriented, combining thoughtfulness with pragmatism and a will to get stuff done. You are calm and focused under pressure, and consider work-life balance essential for long-term happiness and productivity.&lt;/li&gt;
+&lt;li&gt;You have some experience with Clojure/script.&lt;/li&gt;
+&lt;li&gt;You have extensive experience with React.js and other Javascript libraries. &lt;/li&gt;
+&lt;li&gt;You enjoy breaking complex tasks down into small deliverables and iterating with a focus on a delightful user experience&lt;/li&gt;
+&lt;li&gt;You believe effective and successful work is made possible by clear and honest communication, with a shared understanding of the long-term vision and immediate next actions. When you don&#39;t fully understand something, you ask lots of questions and use the opportunity to learn and grow.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Curious what it&#39;s like to work at Pitch?&lt;/strong&gt; Find out more about how Pitch operates as a remote-first company through using &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;https://pitch.com/blog/3-ways-we-use-pitch-notion-to-work-better-as-a-remote-team&quot;&gt;powerful collaboration tools&lt;/a&gt;&lt;/span&gt; and &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;https://pitch.com/blog/running-remote-offsites-and-onboardings&quot;&gt;dogfooding our own products&lt;/a&gt;&lt;/span&gt;!&lt;/p&gt;
+&lt;p&gt;Pitch was founded in Berlin, but as &lt;strong data-stringify-type=&quot;bold&quot;&gt;a remote-first company&lt;/strong&gt;, our team works together from all over the world. With that mindset, we&#39;re building an inclusive workplace that invites diverse perspectives, and values talent from diverse personal and professional backgrounds. For more specifics on how we honour our commitment to diversity in our&amp;nbsp;&lt;span class=&quot;c-mrkdwn__highlight&quot;&gt;hiring&lt;/span&gt; process, check out our &lt;a href=&quot;https://www.notion.so/pitch/Our-Recruiting-D-I-Pledge-fc35d4598aba4f26ac69628977656302&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Recruiting D&amp;amp;I Pledge&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sounds like a good fit? &lt;/strong&gt;Join us on our mission to enable every team&#39;s best thinking - we look forward to hearing from you!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Not quite sure whether that&#39;s a role for you?&lt;/strong&gt; No problem! If you can&#39;t find any open role that caught your eye, but are interested in working at Pitch, you can always &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;https://boards.greenhouse.io/pitch/jobs/5548320002&quot;&gt;submit your resume here&lt;/a&gt;&lt;/span&gt;. We will follow up as soon as we open up a position that matches your skillset and aspirations!&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/30398729?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Alpaca</h5>
+                    <h3>Senior Software Engineer - Crypto</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/alpaca/jobs/5319640004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;
+&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;
+&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;
+&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;
+&lt;div class=&quot;p-rich_text_block&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Who We Are:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alpaca is a US California headquartered brokerage infrastructure technology company and self-clearing broker-dealer, delivering execution and custody solutions for Stocks, ETFs, Options, Cryptocurrencies, and more, and has raised over $170 million in funding. Amongst our subsidiaries, Alpaca is a licensed financial services company in multiple countries, and we serve hundreds of financial institutions globally such as broker-dealers, investment advisors, hedge funds, and crypto exchanges.&lt;/p&gt;
+&lt;p&gt;Alpaca’s globally distributed team members bring in diverse experiences such as engineers, traders, and brokerage professionals to achieve our Mission of opening financial services to everyone on the planet. We are also deeply committed to open-source contributions and fostering a vibrant community. We will continue to enhance and improve our award-winning developer-friendly API and the infrastructure behind it.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Our Team Members:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We’re a team of 150+ globally distributed members who love working from our favorite places worldwide. Our team spans the USA, Canada, Japan, Hungary, Nigeria, Brazil, the United Kingdom, and more!&lt;/p&gt;
+&lt;p&gt;We’re looking for candidates eager to join Alpaca’s growing organization, who are excited about our Mission of “Open financial services to everyone on the planet and share our Values of “Stay Curious,” “Have Empathy,” and “Be Accountable.”&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;p&gt;As a Senior Engineer, you will be responsible for architecting, implementing, and maintaining the systems and services that form the foundation of Alpaca Crypto and empower millions of users who are trading billions of dollars worth of assets.&lt;/p&gt;
+&lt;p&gt;For this role, we are seeking an experienced engineer who is obsessed with delivering defect-free solutions, has proven experience architecting and building at scale, and who is not afraid of challenging conventions or voicing their opinions. In this role, you will have the autonomy to design and implement solutions to achieve defined goals while actively participating in defining those goals in cooperation with a cross-functional team.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Your Role:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This role is to lead all Crypto related engineering including our spot and derivatives exchanges licensed in the US and Bahamas.&lt;/p&gt;
+&lt;p&gt;Architect, spec and build the perpetual futures exchange including high-performance matching engine, collateral/liquidation/risk engine, public API, kyc/aml, regulatory reporting, settlement clearing and custody, banking, order management, accounting, analytics and compliance integrations.&lt;/p&gt;
+&lt;p&gt;Our vision for a regulated, centralized multi-asset exchange is designed with modern custody and risk management measures in mind as we prepare for how regulations will change in a post-FTX world. This is a blank canvas opportunity to design a state-of-the-art crypto exchange with the many synergies arising from our renowned securities brokerage with its unimpeachable track record in safeguarding customer assets. We are uniquely positioned to become the pre-eminent brand in global financial investment infrastructure for both crypto and tradfi combined.&lt;/p&gt;
+&lt;p&gt;Alpaca is 100% distributed and remote. &amp;nbsp;This role will be reporting directly to the Head of Crypto for the initial phase and then to the CTO once the product is more mature.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Things You Get To Do:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design highly scalable, mission-critical crypto spot and derivatives exchange trading millions of dollars from day one&lt;/li&gt;
+&lt;li&gt;Implement backend services and web applications&lt;/li&gt;
+&lt;li&gt;Maintain good software quality and test coverage&lt;/li&gt;
+&lt;li&gt;Participate in code reviews&lt;/li&gt;
+&lt;li&gt;Troubleshoot incidents and reported bugs&lt;/li&gt;
+&lt;li&gt;You may be asked to be on-call to assist with engineering projects that are timely in nature&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Who You Are (Must-Haves):&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience building a CLOB exchange, HFT, market-making, high performance matching engines, margin/liquidation engines or other high-throughput &amp;amp; low-latency, regulated, fault-tolerant financial system&lt;/li&gt;
+&lt;li&gt;Experience in building crypto&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;BSc/MSc or equivalent experience in Computer Science or related field&lt;/li&gt;
+&lt;li&gt;*Minimum 4 years of experience of backend software development&lt;/li&gt;
+&lt;li&gt;Experience with at least one modern programming language like GoLang, Python, C/C++, NodeJS, Java, etc. Our platform is based in Golang&lt;/li&gt;
+&lt;li&gt;SQL or relational database skills&lt;/li&gt;
+&lt;li&gt;Hands-on knowledge with Bash, Linux &amp;amp; Docker. Kubernetes experience is a plus&lt;/li&gt;
+&lt;li&gt;Excited about what we are building at Alpaca&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;*The position level and title will vary according to candidate&#39;s experience and skills&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;strong&gt;Who You Might Be (Nice-to-Haves): &amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with Kubernetes, CKA, CKAD certification&lt;/li&gt;
+&lt;li&gt;DevOps mindset is an asset&lt;/li&gt;
+&lt;li&gt;Experience with NoSQL&lt;/li&gt;
+&lt;li&gt;Experience with CI/CD&lt;/li&gt;
+&lt;li&gt;Good understanding of the financial market&lt;/li&gt;
+&lt;li&gt;Experience with major cloud platforms (AWS/GCP/Azure)&lt;/li&gt;
+&lt;li&gt;Knowledge of Agile/Scrum methodologies&lt;/li&gt;
+&lt;li&gt;Knowledge of microservice architectures&lt;/li&gt;
+&lt;li&gt;Knowledge of clean code principles&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;How We Take Care of You:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive Salary &amp;amp; Stock Options&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Benefits: Health benefits start on day 1. In the US this includes Medical, Dental, Vision. In Canada, this includes supplemental health care. In Japan, you are offered local benefits. Internationally, this includes a stipend value to offset medical costs.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;New Hire Home-Office Setup: One-time USD $500&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Monthly Stipend: USD $150 per month via a Brex Card&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with awesome hard working people, super smart and cool clients and innovative partners from around the world&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Alpaca is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;a href=&quot;https://files.alpaca.markets/disclosures/AlpacaRecruitmentPrivacyPolicy.pdf&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recruitment Privacy Policy&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/30398729?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Alpaca</h5>
+                    <h3>Senior Software Engineer - Ledger </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/alpaca/jobs/5389088004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;
+&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;
+&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;
+&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;
+&lt;div class=&quot;p-rich_text_block&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Who We Are:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alpaca is a US California headquartered brokerage infrastructure technology company and self-clearing broker-dealer, delivering execution and custody solutions for Stocks, ETFs, Options, Cryptocurrencies, and more, and has raised over $170 million in funding. Amongst our subsidiaries, Alpaca is a licensed financial services company in multiple countries, and we serve hundreds of financial institutions globally such as broker-dealers, investment advisors, hedge funds, and crypto exchanges.&lt;/p&gt;
+&lt;p&gt;Alpaca’s globally distributed team members bring in diverse experiences such as engineers, traders, and brokerage professionals to achieve our Mission of opening financial services to everyone on the planet. We are also deeply committed to open-source contributions and fostering a vibrant community. We will continue to enhance and improve our award-winning developer-friendly API and the infrastructure behind it.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Our Team Members:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We’re a team of 150+ globally distributed members who love working from our favorite places worldwide. Our team spans the USA, Canada, Japan, Hungary, Nigeria, Brazil, the United Kingdom, and more!&lt;/p&gt;
+&lt;p&gt;We’re looking for candidates eager to join Alpaca’s growing organization, who are excited about our Mission of “Open financial services to everyone on the planet and share our Values of “Stay Curious,” “Have Empathy,” and “Be Accountable.”&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;Your Role:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;As a Senior Engineer, you will be responsible for designing, implementing, and maintaining the systems and services that form the foundation of Alpaca and empower millions of users who are trading billions of dollars worth of assets.&lt;/p&gt;
+&lt;p&gt;The Ledger Team is responsible for building a modern ledger system, whose purpose is to maintain a complete and correct view of everything that has ever happened in every account. From a business perspective, the ledger provides a structured and organized system for recording and aggregating transactional data. It plays a crucial role in supporting financial reporting, decision-making, and compliance. From an engineering perspective, the ledger serves as the source of truth for many services in the Alpaca ecosystem.&lt;/p&gt;
+&lt;p&gt;For this role, we are seeking an experienced engineer who is obsessed with delivering defect-free solutions, has proven experience architecting and building at scale, and who is not afraid of challenging conventions or voicing their opinions. In this role, you will have the autonomy to design and implement solutions to achieve defined goals while actively participating in defining those goals in cooperation with a cross-functional team.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Things You Get To Do:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Collaborate with internal stakeholders–including finance, operations, and product teams–to deliver high-impact features/projects&lt;/li&gt;
+&lt;li&gt;Build backend systems/components with integrity, maintainability, scalability, and stability in mind&lt;/li&gt;
+&lt;li&gt;Own the delivery of high-visibility features/projects, from design to deployment&lt;/li&gt;
+&lt;li&gt;Collaborate with engineering teams to improve the health of Alpaca’s systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Who You Are (Must-Haves):&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A seasoned engineer with 5+ years of experience working on systems at scale&lt;/li&gt;
+&lt;li&gt;Obsessed with performant, defect-free, maintainable code&lt;/li&gt;
+&lt;li&gt;A strong problem solver with a proactive mindset&lt;/li&gt;
+&lt;li&gt;A collaborator who is capable of creating alignment with technical and non-technical stakeholders alike&lt;/li&gt;
+&lt;li&gt;Comfortable working heads-down or tag-teaming problems&lt;/li&gt;
+&lt;li&gt;Strong coding skills, preferably in Go&lt;/li&gt;
+&lt;li&gt;Ability to debug issues or, better yet, foresee problems and avoid them entirely&lt;/li&gt;
+&lt;li&gt;Experience with IDLs (e.g., protobuf), RPC frameworks (e.g., gRPC), cloud platforms (e.g., GCP), and relational databases (e.g., PostgreSQL)&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Who You Might Be&lt;/strong&gt; (&lt;strong&gt;Nice-to-Haves):&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience in the financial services or accounting industry&lt;/li&gt;
+&lt;li&gt;Experience with distributed systems/databases&lt;/li&gt;
+&lt;li&gt;Experience with event-driven systems and messaging brokers (e.g., Redpanda)&lt;/li&gt;
+&lt;li&gt;Experience working remotely&lt;/li&gt;
+&lt;li&gt;Experience working at a startup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;How We Take Care of You:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive Salary &amp;amp; Stock Options&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Benefits: Health benefits start on day 1. In the US this includes Medical, Dental, Vision. In Canada, this includes supplemental health care. In Japan, you are offered local benefits. Internationally, this includes a stipend value to offset medical costs.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;New Hire Home-Office Setup: One-time USD $500&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Monthly Stipend: USD $150 per month via a Brex Card&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with awesome hard working people, super smart and cool clients and innovative partners from around the world&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Alpaca is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;a href=&quot;https://files.alpaca.markets/disclosures/AlpacaRecruitmentPrivacyPolicy.pdf&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recruitment Privacy Policy&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/30398729?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Alpaca</h5>
+                    <h3>Senior Software Engineer - Market Data</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/alpaca/jobs/5389092004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;
+&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;
+&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;
+&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;
+&lt;div class=&quot;p-rich_text_block&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Who We Are:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alpaca is a US California headquartered brokerage infrastructure technology company and self-clearing broker-dealer, delivering execution and custody solutions for Stocks, ETFs, Options, Cryptocurrencies, and more, and has raised over $170 million in funding. Amongst our subsidiaries, Alpaca is a licensed financial services company in multiple countries, and we serve hundreds of financial institutions globally such as broker-dealers, investment advisors, hedge funds, and crypto exchanges.&lt;/p&gt;
+&lt;p&gt;Alpaca’s globally distributed team members bring in diverse experiences such as engineers, traders, and brokerage professionals to achieve our Mission of opening financial services to everyone on the planet. We are also deeply committed to open-source contributions and fostering a vibrant community. We will continue to enhance and improve our award-winning developer-friendly API and the infrastructure behind it.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Our Team Members:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We’re a team of 150+ globally distributed members who love working from our favorite places worldwide. Our team spans the USA, Canada, Japan, Hungary, Nigeria, Brazil, the United Kingdom, and more!&lt;/p&gt;
+&lt;p&gt;We’re looking for candidates eager to join Alpaca’s growing organization, who are excited about our Mission of “Open financial services to everyone on the planet and share our Values of “Stay Curious,” “Have Empathy,” and “Be Accountable.”&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;p&gt;As a senior software engineer, you will help build and scale the systems and services that form the foundation of Alpaca and empower millions of users who are trading billions of dollars worth of assets.&lt;/p&gt;
+&lt;p&gt;The market data team is responsible for improving the overall architecture of Alpaca connected to data products such as stocks, options, crypto, and foreign exchange markets. Oversee their public API structure and documentation on both streaming and historical endpoints. The team is responsible for building a cohesive developer-first API and is tasked with planning, ideating, experimenting, and putting into production the new services, and libraries that overcome some of our greatest technical challenges as we continue to scale rapidly.&lt;/p&gt;
+&lt;p&gt;We are looking for senior or staff engineers who are keen on providing quality solutions, have great fundamentals, have proven experience building and architecting at scale, and are not afraid of challenging conventions. This demanding team also requires a deep understanding of POSIX-like operating systems, modern infrastructure, and orchestration practices.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Things You Get To Do:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Influence the overall architecture of Alpaca’s market data systems&lt;/li&gt;
+&lt;li&gt;Design highly scalable, mission-critical systems&lt;/li&gt;
+&lt;li&gt;Obsess over latency (every nanosecond counts)&lt;/li&gt;
+&lt;li&gt;Implement backend services and lead architecture where scalability and resilience matters&lt;/li&gt;
+&lt;li&gt;Maintain good software quality and test coverage&lt;/li&gt;
+&lt;li&gt;Participate in code reviews&lt;/li&gt;
+&lt;li&gt;Troubleshooting on incidents and reported bugs&lt;/li&gt;
+&lt;li&gt;You may be asked to be on-call to assist with engineering projects that are timely in nature&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Who You Are (Must-Haves):&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;At least 4 years of experience working on systems at scale&lt;/li&gt;
+&lt;li&gt;Experience with at least compiled imperative languages (e.g. Go, C, C++, Rust, etc.). Most of our critical services are written in Go&lt;/li&gt;
+&lt;li&gt;SQL or relational database skills&lt;/li&gt;
+&lt;li&gt;Familiarity with TCP/IP, and UDP networking&lt;/li&gt;
+&lt;li&gt;Proficient with Linux/BSD, and shell scripting&lt;/li&gt;
+&lt;li&gt;Excited about what we are building at Alpaca&lt;/li&gt;
+&lt;li&gt;Proven track record of architecting and leading medium-scale projects involving multiple teams&lt;/li&gt;
+&lt;li&gt;Experience with Kubernetes or other workload orchestration and scheduling systems (we primarily use Kubernetes via GKE)&lt;/li&gt;
+&lt;li&gt;Experience with major cloud platforms (we primarily use GCP)&lt;/li&gt;
+&lt;li&gt;A passion for financial markets&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Who You Might Be&lt;/strong&gt; (&lt;strong&gt;Nice-to-Haves):&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Knowledge of microservice architectures&lt;/li&gt;
+&lt;li&gt;Knowledge of clean code principles&lt;/li&gt;
+&lt;li&gt;DevOps mindset is an asset&lt;/li&gt;
+&lt;li&gt;Cloud Networking experience (BGP, VPC peering)&lt;/li&gt;
+&lt;li&gt;Experience in building low-latency applications&lt;/li&gt;
+&lt;li&gt;Experience with distributed key-value stores&lt;/li&gt;
+&lt;li&gt;Experience with CI/CD&lt;/li&gt;
+&lt;li&gt;A passion for financial markets or the desire to learn&lt;/li&gt;
+&lt;li&gt;Knowledge of Agile/Scrum methodologies&lt;/li&gt;
+&lt;li&gt;Experience with observability, tracing, continuous profiling&lt;/li&gt;
+&lt;li&gt;Experience with capacity planning and benchmarking&lt;/li&gt;
+&lt;li&gt;Knowledge of eBPF&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;How We Take Care of You:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive Salary &amp;amp; Stock Options&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Benefits: Health benefits start on day 1. In the US this includes Medical, Dental, Vision. In Canada, this includes supplemental health care. In Japan, you are offered local benefits. Internationally, this includes a stipend value to offset medical costs.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;New Hire Home-Office Setup: One-time USD $500&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Monthly Stipend: USD $150 per month via a Brex Card&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with awesome hard working people, super smart and cool clients and innovative partners from around the world&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Alpaca is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;a href=&quot;https://files.alpaca.markets/disclosures/AlpacaRecruitmentPrivacyPolicy.pdf&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recruitment Privacy Policy&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/30398729?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Alpaca</h5>
+                    <h3>Senior Software Engineer - Platform </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/alpaca/jobs/5389091004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;
+&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;
+&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;
+&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;
+&lt;div class=&quot;p-rich_text_block&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Who We Are:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alpaca is a US California headquartered brokerage infrastructure technology company and self-clearing broker-dealer, delivering execution and custody solutions for Stocks, ETFs, Options, Cryptocurrencies, and more, and has raised over $170 million in funding. Amongst our subsidiaries, Alpaca is a licensed financial services company in multiple countries, and we serve hundreds of financial institutions globally such as broker-dealers, investment advisors, hedge funds, and crypto exchanges.&lt;/p&gt;
+&lt;p&gt;Alpaca’s globally distributed team members bring in diverse experiences such as engineers, traders, and brokerage professionals to achieve our Mission of opening financial services to everyone on the planet. We are also deeply committed to open-source contributions and fostering a vibrant community. We will continue to enhance and improve our award-winning developer-friendly API and the infrastructure behind it.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Our Team Members:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We’re a team of 150+ globally distributed members who love working from our favorite places worldwide. Our team spans the USA, Canada, Japan, Hungary, Nigeria, Brazil, the United Kingdom, and more!&lt;/p&gt;
+&lt;p&gt;We’re looking for candidates eager to join Alpaca’s growing organization, who are excited about our Mission of “Open financial services to everyone on the planet and share our Values of “Stay Curious,” “Have Empathy,” and “Be Accountable.”&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Your Role:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As a senior software engineer, you will help build and scale the systems and services that form Alpaca&#39;s foundation and empower millions of users who trade billions of dollars worth of assets.&lt;/p&gt;
+&lt;p&gt;The platform team is responsible for improving Alpaca&#39;s overall internal architecture and overseeing the public API’s structure. The team is responsible for building a cohesive developer-first API and tasked with building, ideating, experimenting, and productionize new services, internal tooling and libraries that overcome some of our greatest technical challenges as we continue to scale rapidly,&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We are looking for senior or staff+ engineers who are keen on providing quality solutions, have great fundamentals, have proven experience building and architecting at scale, and are not afraid of challenging conventions. This demanding team also requires a deep understanding of POSIX, such as operating systems, modern infrastructure, and orchestration practices.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Things You Get To Do:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Influence the overall architecture of Alpaca’s systems&lt;/li&gt;
+&lt;li&gt;Design a highly scalable, mission-critical brokerage system.&lt;/li&gt;
+&lt;li&gt;Obsess over latency (every nanosecond counts)&lt;/li&gt;
+&lt;li&gt;Implement backend services and lead architecture where scalability and resilience matter.&lt;/li&gt;
+&lt;li&gt;Maintain good software quality and test coverage&lt;/li&gt;
+&lt;li&gt;Participate in code reviews&lt;/li&gt;
+&lt;li&gt;Troubleshooting on incidents and reported bugs&lt;/li&gt;
+&lt;li&gt;You may be asked to be on-call to assist with engineering projects that are timely in nature&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;strong&gt;Who You Are (Must-Haves):&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;At least 4 years of experience working on systems at scale&lt;/li&gt;
+&lt;li&gt;Experience with at least compiled imperative languages (ex: Go, C, C++, Rust, Zig) or functional languages (Haskell, Clojure, Erlang, Elixir, Scala). Most of our critical services are written in Go&lt;/li&gt;
+&lt;li&gt;SQL or relational database skills&lt;/li&gt;
+&lt;li&gt;Familiarity with message brokers and message queues&lt;/li&gt;
+&lt;li&gt;Proficient with Linux/BSD, shell scripting.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Excited about what we are building at Alpaca&lt;/li&gt;
+&lt;li&gt;Proven track record of architecting and leading medium-scale projects involving multiple teams&lt;/li&gt;
+&lt;li&gt;Experience with Kubernetes or other workload orchestration and scheduling systems (we primarily use Kubernetes via GKE)&lt;/li&gt;
+&lt;li&gt;Experience with major cloud platforms (we primarily use GCP)&lt;/li&gt;
+&lt;li&gt;A passion for financial markets&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Who You Might Be&lt;/strong&gt; (&lt;strong&gt;Nice-to-Haves):&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Knowledge of microservice architectures&lt;/li&gt;
+&lt;li&gt;Knowledge of clean code principles&lt;/li&gt;
+&lt;li&gt;DevOps mindset is an asset&lt;/li&gt;
+&lt;li&gt;Networking experience (BGP, VPC peering, TCP/UDP)&lt;/li&gt;
+&lt;li&gt;Experience with distributed Key Value stores&lt;/li&gt;
+&lt;li&gt;Experience with CI/CD&lt;/li&gt;
+&lt;li&gt;A passion for financial markets or the desire to learn&lt;/li&gt;
+&lt;li&gt;Knowledge of Agile/Scrum methodologies&lt;/li&gt;
+&lt;li&gt;Experience with observability, tracing, continuous profiling&lt;/li&gt;
+&lt;li&gt;Experience with capacity planning and benchmarking&lt;/li&gt;
+&lt;li&gt;Knowledge of eBPF&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;How We Take Care of You:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive Salary &amp;amp; Stock Options&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Benefits: Health benefits start on day 1. In the US this includes Medical, Dental, Vision. In Canada, this includes supplemental health care. In Japan, you are offered local benefits. Internationally, this includes a stipend value to offset medical costs.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;New Hire Home-Office Setup: One-time USD $500&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Monthly Stipend: USD $150 per month via a Brex Card&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with awesome hard working people, super smart and cool clients and innovative partners from around the world&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Alpaca is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;a href=&quot;https://files.alpaca.markets/disclosures/AlpacaRecruitmentPrivacyPolicy.pdf&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recruitment Privacy Policy&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/116062758?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Orderly</h5>
+                    <h3>Software Engineer, Java</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/orderlynetwork/jobs/5427335003" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Work with the best&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We are Orderly, the ultimate destination for decentralized trading platforms. We are not satisfied with the limitations of centralized exchanges or the complexities of building decentralized order books. We aim to make trading easy, fast, and secure for everyone. How? By fusing the simplicity of CeFi with the power of DeFi.&lt;br&gt;&lt;br&gt;At the heart of the issue lies “liquidity”. Builders often grapple with a paradox; traders need liquidity, but liquidity demands traders. Our solution is simple as is bold –&lt;span class=&quot;text-primary-100 font-semibold&quot;&gt;concentrate all liquidity into one order book. One order book that connects all the liquidity in the crypto space.&lt;/span&gt;&lt;br&gt;&lt;br&gt;Our ambition doesn&#39;t stop there. We&#39;re omnichain, championing chain abstraction. We envision seamless transactions, where the underlying blockchain is merely a detail. By concentrating liquidity, we aim to redefine the crypto landscape, making bridging and wrapped assets a thing of the past.&lt;br&gt;&lt;br&gt;We are Orderly, and we are here to revolutionize DeFi, democratizing access to financial opportunities and fostering a fair, equitable paradigm for all.&lt;/p&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;A Glimpse into Your Future at Orderly Network&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What will you be working on?&lt;/em&gt;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop the core functions of the Internet financial platform, and build the technology infrastructure that supports digital asset trading on the internet.&lt;/li&gt;
+&lt;li&gt;Implement RestFul and WebSocket API interfaces to support customers to receive market data and execute orders.&lt;/li&gt;
+&lt;li&gt;Establish a robust, efficient and concurrent trading system to ensure 7x24 hours uninterrupted operation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;Who will you be working with?&lt;/em&gt;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;Actively conduct efficient communication with product team and business development team to collect requirements and participate in product planning and system design.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What challenges will you face?&lt;/em&gt;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;Fast-paced working environment.&lt;/li&gt;
+&lt;li&gt;Propose practical and feasible solutions and produce technical documents independently.&lt;/li&gt;
+&lt;li&gt;System analyzing, abstract thinking, and system designing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What tech stacks/skills will you be using?&lt;/em&gt;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;Java programming - frequently&lt;/li&gt;
+&lt;li&gt;Large-scale, multithreading, and high-performance distributed system - frequently&lt;/li&gt;
+&lt;li&gt;Data structures, design patterns, multi-threaded programming, and JVM principles - frequently&lt;/li&gt;
+&lt;li&gt;Java Web, microservice development, and frameworks like SpringBoot, Spring Cloud, and MyBatis - frequently&lt;/li&gt;
+&lt;li&gt;Caching, message queuing, and searching tools like Redis, Kafka, and Elasticsearch - frequently&lt;/li&gt;
+&lt;li&gt;Linux - frequently&lt;/li&gt;
+&lt;li&gt;Performance tuning, jmetrics, and grafana - sometimes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Interested in Learning More?&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Our hiring process begins by meeting with our People Team, who help facilitate the process of placing you in your new role. You can expect to share your experience and ideas in online video interviews with our hiring team, made up of management and potential new colleagues.&lt;/li&gt;
+&lt;li&gt;If you have experience in developing trading systems or financial-related products is a&amp;nbsp;plus.&lt;/li&gt;
+&lt;li&gt;You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Share this! Don’t be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our &lt;a href=&quot;https://boards.greenhouse.io/orderlynetwork/jobs/5170520003&quot; target=&quot;_blank&quot;&gt;External Referral Incentives Program&lt;/a&gt; as well.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/116062758?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Orderly</h5>
+                    <h3>Software Engineer, Solidity</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/orderlynetwork/jobs/5640109003" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Work with the best&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We are Orderly, the ultimate destination for decentralized trading platforms. We are not satisfied with the limitations of centralized exchanges or the complexities of building decentralized order books. We aim to make trading easy, fast, and secure for everyone. How? By fusing the simplicity of CeFi with the power of DeFi.&lt;br&gt;&lt;br&gt;At the heart of the issue lies “liquidity”. Builders often grapple with a paradox; traders need liquidity, but liquidity demands traders. Our solution is simple as is bold –&lt;span class=&quot;text-primary-100 font-semibold&quot;&gt;concentrate all liquidity into one order book. One order book that connects all the liquidity in the crypto space.&lt;/span&gt;&lt;br&gt;&lt;br&gt;Our ambition doesn&#39;t stop there. We&#39;re omnichain, championing chain abstraction. We envision seamless transactions, where the underlying blockchain is merely a detail. By concentrating liquidity, we aim to redefine the crypto landscape, making bridging and wrapped assets a thing of the past.&lt;br&gt;&lt;br&gt;We are Orderly, and we are here to revolutionize DeFi, democratizing access to financial opportunities and fostering a fair, equitable paradigm for all.&lt;/p&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;A Glimpse into Your Future at Orderly Network&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What will you be working on?&lt;/em&gt;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;Architect complex technical solutions involving smart contracts based needs from product team and users.&lt;/li&gt;
+&lt;li&gt;Analyze business logic in addition to designing and implementing smart contracts.&lt;/li&gt;
+&lt;li&gt;Up to date with the latest trends and developments in the DeFi space and familiar with the codebase of common DeFi applications.&lt;/li&gt;
+&lt;li&gt;Responsible for full-stack technical work such as operation, maintenance and upgrades of smart contracts.&lt;/li&gt;
+&lt;li&gt;Follow up the development of open source technology, based on which blockchain smart contracts are built and optimized.&lt;/li&gt;
+&lt;li&gt;Participate in the overall structure design of the decentralized application platform and the optimization and improvement of security, performance, and incentive algorithms.&lt;/li&gt;
+&lt;li&gt;Responsible for the daily operation and maintenance of decentralized applications to ensure the stable operation of the production system 24/7 hours.&lt;/li&gt;
+&lt;li&gt;Participate in security audits of external smart contracts that interact with WOO Network.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;Who will you be working with?&lt;/em&gt;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;DeFi engineering developers, technical lead, product team, BD and Investment Analyst. As an employee, there is no greater perk than having a top supporting cast to help you achieve your personal and professional goals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What challenges will you face?&lt;/em&gt;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;Fast-paced working environment.&lt;/li&gt;
+&lt;li&gt;Propose practical and feasible solutions and produce technical documents independently.&lt;/li&gt;
+&lt;li&gt;System analyzing, abstract thinking, and system designing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What tech stacks/skills will you be using?&lt;/em&gt;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;You&#39;re fluent in Mandarin and English.&lt;/li&gt;
+&lt;li&gt;You&#39;re in Asian timezone.&lt;/li&gt;
+&lt;li&gt;Solid in writing high-quality, well-tested Solidity (or Rust, Vyper).&lt;/li&gt;
+&lt;li&gt;Experienced in smart contract development, especially in complex decentralized exchange and yield product smart contracts on EVM chains.&lt;/li&gt;
+&lt;li&gt;Familiar with the technical architecture of complex DeFi protocols and able to design tech solutions to solve complex problems.&lt;/li&gt;
+&lt;li&gt;Capable of reading and understanding advanced open source system code (Contributors who participated in open source code or open source frameworks are preferred).&lt;/li&gt;
+&lt;li&gt;Familiar with blockchain encryption algorithms, consensus mechanisms, security protocols, distributed computing, smart contracts as well as other underlying protocols and operating mechanisms.&lt;/li&gt;
+&lt;li&gt;You have good communication, expression skills, teamwork spirit and execution ability.&lt;/li&gt;
+&lt;li&gt;You have good self-directed learning skills.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Interested in Learning More?&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Our hiring process begins by meeting with our People Team, who help facilitate the process of placing you in your new role. You can expect to share your experience and ideas in online video interviews with our hiring team, made up of management and potential new colleagues.&lt;/li&gt;
+&lt;li&gt;If you have experience in developing trading systems or financial-related products is a&amp;nbsp;plus.&lt;/li&gt;
+&lt;li&gt;You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Share this! Don’t be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our &lt;a href=&quot;https://boards.greenhouse.io/orderlynetwork/jobs/5170520003&quot; target=&quot;_blank&quot;&gt;External Referral Incentives Program&lt;/a&gt; as well.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/32529485?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Speechify</h5>
+                    <h3>Senior Software Engineer, AI Studio</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/speechify/jobs/5058947004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speechify is the easiest way to listen to the world’s information.&lt;/strong&gt; Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.&lt;/p&gt;
+&lt;p&gt;What streaming services have done for audio entertainment, we’re doing for audio information. And whatever we’re doing seems to be working. We’re #1 in our category, and experiencing exponential growth.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;As Speechify expands, our AI Studio team seeks a Senior Software Engineer. This role is central to ensuring our Studio team as it continues to push the boundaries when it comes to AI and the Audio space.&amp;nbsp; If you are passionate about strategizing, enjoy high-paced environments, and are eager to take ownership of product decisions, we’d love to hear from you.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What Yo&lt;/strong&gt;&lt;strong&gt;u’&lt;/strong&gt;&lt;strong&gt;ll Do&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;State of the art voice cloning&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Low latency and cost effective text to speech&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;An Ideal Candidate Should Have&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with AWS/GCS and be able to build service architectures leveraging these services.&lt;/li&gt;
+&lt;li&gt;Experience building scalable architectures using micro services.&lt;/li&gt;
+&lt;li&gt;Experience writing testable code and pushing the bar higher on testing infrastructure.&lt;/li&gt;
+&lt;li&gt;Proficiency with React and modern React stack, or NodeJS, or both.&lt;/li&gt;
+&lt;li&gt;Understanding low-level JS and be able to profile and optimize SPA FE/backend performance.&lt;/li&gt;
+&lt;li&gt;Preferred: video and audio processing experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;&lt;strong&gt;What We Offer &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A dynamic environment where your contributions shape the company and its products.&lt;/li&gt;
+&lt;li&gt;A team that values innovation, intuition, and drive.&lt;/li&gt;
+&lt;li&gt;Autonomy, fostering focus and creativity.&lt;/li&gt;
+&lt;li&gt;The opportunity to have a significant impact in a revolutionary industry.&lt;/li&gt;
+&lt;li&gt;Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture.&lt;/li&gt;
+&lt;li&gt;The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more.&lt;/li&gt;
+&lt;li&gt;An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Think you’re a good fit for this job?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tell us more about yourself and why you&#39;re interested in the role when you apply. &lt;br&gt;And don’t forget to include links to your portfolio and LinkedIn.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Not looking but know someone who would make a great fit?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Refer them!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.&lt;/p&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/32529485?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Speechify</h5>
+                    <h3>Senior Software Engineer, ML Platform & Data Acquisition (Python)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/speechify/jobs/5032760004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Speechify is the easiest way to listen to the world’s information. Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.&lt;/p&gt;
+&lt;p&gt;What streaming services have done for audio entertainment, we’re doing for audio information. And whatever we’re doing seems to be working. We’re #1 in our category, and experiencing exponential growth.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We&#39;re looking to hire for our Data Acquisition side of our AI team at Speechify. This role is responsible for all aspects of data collection to support our model training operations. We are able to build high-quality datasets at petabyte-scale and low cost through a tight integration of infrastructure, engineering, and research work. We are looking for a skilled Senior Software Engineer to join us.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What You’ll Do&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Be scrappy to find new sources of audio data and bring it into our ingestion pipeline&lt;/li&gt;
+&lt;li&gt;Operate and extend the cloud infrastructure for our ingestion pipeline, currently running on GCP and managed with Terraform.&lt;/li&gt;
+&lt;li&gt;Collaborate closely with our Scientists to shift the cost/throughput/quality frontier, delivering richer data at bigger scale and lower cost to power our next-generation models.&lt;/li&gt;
+&lt;li&gt;Collaborate with others on the AI Team and Speechify Leadership to craft the AI Team’s dataset roadmap to power Speechify’s next-generation consumer and enterprise products.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;An Ideal Candidate Should Have&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BS/MS/PhD in Computer Science or a related field.&lt;/li&gt;
+&lt;li&gt;5+ years of industry experience in software development.&lt;/li&gt;
+&lt;li&gt;Proficiency with bash/Python scripting in Linux environments&lt;/li&gt;
+&lt;li&gt;Proficiency in Docker and Infrastructure-as-Code concepts and professional experience with at least one major Cloud Provider (we use GCP)&lt;/li&gt;
+&lt;li&gt;Experience with web crawlers, large-scale data processing workflows is a plus&lt;/li&gt;
+&lt;li&gt;Ability to handle multiple tasks and adapt to changing priorities.&lt;/li&gt;
+&lt;li&gt;Strong communication skills, both written and verbal.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What we offer&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A fast-growing environment where you can help shape the company and product.&lt;/li&gt;
+&lt;li&gt;An entrepreneurial-minded team that supports risk, intuition, and hustle.&lt;/li&gt;
+&lt;li&gt;A hands-off management approach so you can focus and do your best work.&lt;/li&gt;
+&lt;li&gt;An opportunity to make a big impact in a transformative industry.&lt;/li&gt;
+&lt;li&gt;Competitive salaries, a friendly and laid-back atmosphere, and a commitment to building a great asynchronous culture.&lt;/li&gt;
+&lt;li&gt;Opportunity to work on a life-changing product that millions of people use.&lt;/li&gt;
+&lt;li&gt;Build products that directly impact and support people with learning differences like dyslexia, ADD, low vision, concussions, autism, and more.&lt;/li&gt;
+&lt;li&gt;Work in one of the fastest-growing sectors of tech, the intersection of artificial intelligence and audio.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;&lt;strong&gt;What We Offer&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A dynamic environment where your contributions shape the company and its products.&lt;/li&gt;
+&lt;li&gt;A team that values innovation, intuition, and drive.&lt;/li&gt;
+&lt;li&gt;Autonomy, fostering focus and creativity.&lt;/li&gt;
+&lt;li&gt;The opportunity to have a significant impact in a revolutionary industry.&lt;/li&gt;
+&lt;li&gt;Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture.&lt;/li&gt;
+&lt;li&gt;The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more.&lt;/li&gt;
+&lt;li&gt;An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Think you’re a good fit for this job?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tell us more about yourself and why you&#39;re interested in the role when you apply. &lt;br&gt;And don’t forget to include links to your portfolio and LinkedIn.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Not looking but know someone who would make a great fit?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Refer them!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.&lt;/p&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/32529485?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Speechify</h5>
+                    <h3>Senior Software Engineer, Platform</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/speechify/jobs/5058944004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speechify is the easiest way to listen to the world’s information.&lt;/strong&gt; Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.&lt;/p&gt;
+&lt;p&gt;What streaming services have done for audio entertainment, we’re doing for audio information. And whatever we’re doing seems to be working. We’re #1 in our category, and experiencing exponential growth.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;As Speechify expands, our Platform team seeks a Senior Software Engineer. This role is central to ensuring our success at Speechify by working on key features like: Payments, Analytics, Subscriptions and our API. If you are passionate about strategizing, enjoy high-paced environments, and are eager to take ownership of product decisions, we’d love to hear from you.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What Yo&lt;/strong&gt;&lt;strong&gt;u’&lt;/strong&gt;&lt;strong&gt;ll Do&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Design, develop, and maintain robust APIs including Public TTS API, Internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements.&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability.&amp;nbsp;&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients.&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;An Ideal Candidate Should Have&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Proven experience in backend development: TS/Node (required), Go (nice to have)&lt;/li&gt;
+&lt;li&gt;Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers.&lt;/li&gt;
+&lt;li&gt;Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact.&lt;/li&gt;
+&lt;li&gt;Preferred: Experience with Docker and containerized deployments.&lt;/li&gt;
+&lt;li&gt;Preferred: Proficiency in deploying high availability applications on Kubernetes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;&lt;strong&gt;What We Offer &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A dynamic environment where your contributions shape the company and its products.&lt;/li&gt;
+&lt;li&gt;A team that values innovation, intuition, and drive.&lt;/li&gt;
+&lt;li&gt;Autonomy, fostering focus and creativity.&lt;/li&gt;
+&lt;li&gt;The opportunity to have a significant impact in a revolutionary industry.&lt;/li&gt;
+&lt;li&gt;Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture.&lt;/li&gt;
+&lt;li&gt;The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more.&lt;/li&gt;
+&lt;li&gt;An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Think you’re a good fit for this job?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tell us more about yourself and why you&#39;re interested in the role when you apply. &lt;br&gt;And don’t forget to include links to your portfolio and LinkedIn.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Not looking but know someone who would make a great fit?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Refer them!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.&lt;/p&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/32529485?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Speechify</h5>
+                    <h3>Staff Software Engineer, AI Inference</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/speechify/jobs/5287658004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speechify is the easiest way to listen to the world’s information.&lt;/strong&gt; Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.&lt;/p&gt;
+&lt;p&gt;What streaming services have done for audio entertainment, we’re doing for audio information. And whatever we’re doing seems to be working. We’re #1 in our category, and experiencing exponential growth.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;As Speechify expands, our AI team seeks a Staff Backend Engineer. This role is central to ensuring our infrastructure scales efficiently, optimizing key product flows, and constructing resilient end-to-end systems. If you are passionate about strategizing, enjoy high-paced environments, and are eager to take ownership of product decisions, we’d love to hear from you.&lt;/p&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;What You’ll Do&lt;/strong&gt;&lt;/div&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Work alongside machine learning researchers, engineers, and product managers to bring our AI Voices to their customers for a diverse range of use cases.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Deploy and operate the core ML inference workloads for our AI Voices serving pipeline.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Introduce new techniques, tools, and architecture that improve the performance, latency, throughput, and efficiency of our deployed models.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Build tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;An Ideal Candidate Should Have&lt;/strong&gt;&lt;/div&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experience shipping Python-based services&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experience being responsible for the successful operation of a critical production service&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experience with public cloud environments, GCP preferred&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experience with Infrastructure such as Code, Docker, and containerized deployments.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Preferred: Experience deploying high-availability applications on Kubernetes.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Preferred: Experience deploying ML models to production&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;&lt;strong&gt;What We Offer &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A dynamic environment where your contributions shape the company and its products.&lt;/li&gt;
+&lt;li&gt;A team that values innovation, intuition, and drive.&lt;/li&gt;
+&lt;li&gt;Autonomy, fostering focus and creativity.&lt;/li&gt;
+&lt;li&gt;The opportunity to have a significant impact in a revolutionary industry.&lt;/li&gt;
+&lt;li&gt;Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture.&lt;/li&gt;
+&lt;li&gt;The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more.&lt;/li&gt;
+&lt;li&gt;An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Think you’re a good fit for this job?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tell us more about yourself and why you&#39;re interested in the role when you apply. &lt;br&gt;And don’t forget to include links to your portfolio and LinkedIn.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Not looking but know someone who would make a great fit?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Refer them!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.&lt;/p&gt;
                 </details>
                 </td>
             </tr></table>
