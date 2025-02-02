@@ -175,4 +175,123 @@
 &lt;p&gt;We are an Equal Opportunity Employer. We do not discriminate against qualified applicants or employees on the basis of race, color, religion, gender identity, sex, sexual preference, sexual identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, military status, or any other characteristic protected by federal, state, or local law, rule, or regulation.&lt;/p&gt;
                 </details>
                 </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://photos.wellfound.com/startups/i/257661-3abe9f68928f2e0407dca967aca86e67-medium_jpg.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OneLocal</h5>
+                    <h3>Senior DevOps</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/onelocal/jobs/5346874004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;OneLocal is transforming the B2B sector with its innovative white-label marketing platform. Drawing on years of proven success in accelerating local business growth, we&#39;ve fine-tuned our expertise in developing unparalleled digital presences for thousands of merchants. Now, we&#39;re strategically partnering with leading software providers and franchisors to deliver a comprehensive, in-house marketing powerhouse for their SMB clients. Our sophisticated, AI-driven agency-in-a-box equips merchants with the competitive advantage essential for achieving market dominance and driving business expansion.&lt;/p&gt;
+&lt;p&gt;We are looking for talented and passionate individuals to embed the latest AI technology into our platform. We pride ourselves in our open and dynamic culture, our diversity, and being committed to a workplace where we all feel that we can be ourselves.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Job Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are on the hunt for a seasoned Senior DevOps Engineer with a strong background in cloud observability, container orchestration, cloud operations, and incident response. The ideal candidate will have experience working with FinOps, CICD, developer tools, repository and source control architecture, developer build environments, and ensuring data storage efficiency.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Essential Duties and Responsibilities:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;nbsp;Cloud Observability: Implement and manage advanced cloud observability tools to monitor and optimize system performance, ensuring high availability and reliability for our service offerings.&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Cloud Expertise: Demonstrate proficiency in one of the major cloud platforms (AWS, Azure, or Google Cloud) to architect, manage, and optimize scalable cloud infrastructures.&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Operations &amp;amp; Incident Response: Lead the incident response process utilizing tools like PagerDuty or equivalent to ensure swift identification, management, and resolution of critical issues, maintaining service continuity.&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;FinOps: Analyze and manage cloud costs effectively using FinOps principles, employing various tools and aggregators to ensure cost efficiency and resource optimization.&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;CICD: Design, implement, and maintain continuous integration and continuous deployment (CICD) pipelines to enhance development workflows and delivery cycles.&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Developer Tools: Advance the use of modern developer tools, including AI-powered assistants like GitHub Copilot, to streamline coding practices and enhance overall productivity.&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Repository and Source Control Architecture: Architect and manage repository structures and source control processes to support development teams in effectively collaborating and maintaining code quality.&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Developer Build Environments: Create and optimize developer build environments to facilitate smooth and efficient development, testing, and deployment processes.&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Data Storage Efficiency: Design strategies and systems for efficient data storage, ensuring optimal performance, cost management, and scalability of storage solutions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Minimum of 5 years of relevant experience in a DevOps role, with a focus on cloud observability, container orchestration, and cloud operations.&lt;/li&gt;
+&lt;li&gt;Cloud Expertise: In-depth knowledge and hands-on experience with one of the major cloud platforms (AWS, Azure, Google Cloud).&lt;/li&gt;
+&lt;li&gt;Incident Response: Familiarity with incident management tools like PagerDuty or equivalent, with a track record of handling and resolving critical incidents.&lt;/li&gt;
+&lt;li&gt;FinOps: Strong understanding of Financial Operations (FinOps) principles and experience with tools and techniques for managing cloud costs.&lt;/li&gt;
+&lt;li&gt;CICD Pipelines: Demonstrable experience in designing and maintaining CICD pipelines using tools such as Jenkins, GitLab CI, or similar.&lt;/li&gt;
+&lt;li&gt;Source Control: Expertise in repository management and source control systems, particularly with Git, GitHub, GitLab, or similar platforms.&lt;/li&gt;
+&lt;li&gt;Build Environments: Experience in creating and optimizing developer build environments, ensuring they are efficient and conducive to high-quality code production.&lt;/li&gt;
+&lt;li&gt;Data Storage: Proficiency in designing and managing data storage solutions that balance performance with cost-efficiency, considering scalability requirements.&lt;/li&gt;
+&lt;li&gt;Problem-Solving Skills: Strong analytical and troubleshooting skills to resolve complex technical issues and optimize system performance.&lt;/li&gt;
+&lt;li&gt;Collaboration: Excellent communication and collaboration skills to work effectively with cross-functional teams, fostering a culture of continuous improvement.&lt;/li&gt;
+&lt;li&gt;Experience in implementing and managing Infrastructure as Code (IaC) tools such as Terraform and Pulumi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Plus&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AWS specialization and certification&lt;/li&gt;
+&lt;li&gt;Familiarity with security best practices and compliance standards in cloud environments.&lt;/li&gt;
+&lt;li&gt;Developer Tools: Proficiency with modern developer tools, including AI-powered assistants like GitHub Copilot, and a solid understanding of their impact on the development lifecycle.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Why You’ll Love Working Here:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Remote first: We have committed to a remote-first work environment. This means our roles are open to candidates who can work between the core hours of 9am - 5pm EST&lt;/li&gt;
+&lt;li&gt;3 weeks paid vacation + 5 paid personal days&lt;/li&gt;
+&lt;li&gt;Stock options in a YC backed start-up&lt;/li&gt;
+&lt;li&gt;Virtual social events: coffee chats with your colleagues and weekly happy hours!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At OneLocal, we are committed to building and fostering an environment where our employees feel included, valued, and heard. Our belief is that a strong commitment to diversity and inclusion enables us to truly create the best company culture possible. We strongly encourage applications from candidates of all backgrounds, experience, and perspectives regardless of race, gender, sexual orientation, marital status, age, citizenship, disability, and national origin.&lt;/p&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/24393677?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Crowdbotics</h5>
+                    <h3>DevOps Engineer </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/crowdbotics/jobs/4632726007" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Crowdbotics is on a mission to radically transform the software development lifecycle by unlocking the code you’ve already built, so you can focus on the code that makes a difference. Our software development platform uses generative AI to help systematically reuse plans, specs and code so you can focus on the code that makes a difference – just the new, differentiated capabilities. The Crowdbotics platform helps enterprises build applications with unprecedented speed, efficiency and less risk.&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;We&#39;re seeking a Senior DevOps Engineer who believes in our mission and shares our vision of a world where anyone can build software - at scale.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;:&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Expertise with Kubernetes, deployments, Helm charts, knative.&lt;/li&gt;
+&lt;li&gt;Experience configuring and using various monitoring tools and dashboards: Grafana, Sentry, or similar.&lt;/li&gt;
+&lt;li&gt;Provisioning and managing multi-cloud infrastructure on Azure, AWS, and GCP using IaC tools like Terraform.&lt;/li&gt;
+&lt;li&gt;Setup and configuration of metric pipelines and databases.&lt;/li&gt;
+&lt;li&gt;Monitoring and alerting for critical system metrics&lt;/li&gt;
+&lt;li&gt;Improving the uptime and reliability of core services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;5+ years experience as a DevOps Engineer, preferably with a SaaS or B2B organization&lt;/li&gt;
+&lt;li&gt;3+ years experience with Azure or similar.&lt;/li&gt;
+&lt;li&gt;Experience with container orchestration systems for automating software deployment, scaling, and management.&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Experience with setting up and managing CI/CD pipelines&lt;/li&gt;
+&lt;li&gt;Experience with GitHub Actions.&lt;/li&gt;
+&lt;li&gt;Knowledge of Python&amp;nbsp;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Experience working on agile teams&lt;/li&gt;
+&lt;li&gt;Experience with Kubernetes is a must&lt;/li&gt;
+&lt;li&gt;Empathic and good communicator&lt;/li&gt;
+&lt;li&gt;Excellent proficiency in English, with strong written and verbal communication skills.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Bonus attributes:&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Previous remote work experience&lt;/li&gt;
+&lt;li&gt;Previous experience with application development or no-code/low-code platforms&lt;/li&gt;
+&lt;li&gt;Previous experience in an SRE role&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;This position is open to candidates globally; however, you must be available to work during U.S. hours and follow a U.S. schedule.&lt;/strong&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;For US based candidates only, &lt;/strong&gt;Crowdbotics is an E-Verify Employer and this organization participates in E-Verify.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
             </tr></table>
