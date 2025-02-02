@@ -707,4 +707,304 @@
 &lt;p&gt;We are an Equal Opportunity Employer. We do not discriminate against qualified applicants or employees on the basis of race, color, religion, gender identity, sex, sexual preference, sexual identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, military status, or any other characteristic protected by federal, state, or local law, rule, or regulation.&lt;/p&gt;
                 </details>
                 </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/67208791?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Fingerprint</h5>
+                    <h3>Sr. Product Manager, Device Reputation Network</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://fingerprint.com/careers/jobs/apply/?gh_jid=5231930004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Fingerprint&lt;/strong&gt;&amp;nbsp;empowers developers to stop online fraud at the source.&lt;/p&gt;
+&lt;p&gt;We work on turning radical new ideas in the fraud detection space into reality. Our products are developer-focused and our clients range from solo developers to publicly traded companies.&amp;nbsp;&lt;strong&gt;We are a globally dispersed, 100% remote company&lt;/strong&gt; with a strong open-source focus. Our flagship open-source project is &lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://github.com/fingerprintjs/fingerprintjs&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://github.com/fingerprintjs/fingerprintjs&quot; data-sk=&quot;tooltip_parent&quot;&gt;FingerprintJS&lt;/a&gt; (20K stars on GitHub).&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot; data-sk=&quot;tooltip_parent&quot;&gt;We have raised $77M&amp;nbsp;&lt;/a&gt;and are backed by Craft Ventures (previously invested in&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.tesla.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.tesla.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Tesla,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://facebook.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://facebook.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Facebook,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.airbnb.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.airbnb.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Airbnb&amp;nbsp;&lt;/a&gt;), Nexus Venture Partners (previously invested in &lt;a href=&quot;https://www.postman.com/&quot;&gt;Postman&lt;/a&gt;, &lt;a href=&quot;https://www.apollo.io/&quot;&gt;Apollo.io,&lt;/a&gt; &lt;a href=&quot;https://min.io/&quot;&gt;MinIO&lt;/a&gt;, Druva)&amp;nbsp;and Uncorrelated Ventures (previously invested in&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://redis.io/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://redis.io/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Redis,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://rollbar.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://rollbar.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Rollbar&amp;nbsp;&lt;/a&gt;&amp;amp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://gradle.org/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://gradle.org/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&amp;nbsp;Gradle&lt;/a&gt;).&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Overview:&lt;/h2&gt;
+&lt;p&gt;We are seeking a talented and experienced Senior Product Manager or Group Product Manager to join our team. In this role, you will be responsible for the growth and evolution of our new data consortium-based product. We value diversity and encourage candidates from all backgrounds to apply.&lt;/p&gt;
+&lt;h2&gt;Responsibilities:&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Product Growth:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead the growth and development of our data consortium-based product, ensuring it meets the needs of our diverse customer base.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Consortium Development:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Drive the development and nurturing of a data-sharing consortium, fostering collaboration among various stakeholders.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Data Sharing and Security:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop and enforce requirements for secure data sharing of sensitive, high-value data, staying up-to-date with data-related regulations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Product Roadmap:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Own and manage the product roadmap and opportunity backlogs, utilizing prioritization frameworks such as RICE.&lt;/li&gt;
+&lt;li&gt;Consider the needs and feedback of engineering, customer success, marketing, and sales teams.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Documentation:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create and maintain Market Requirement Documents (MRDs), Product Requirement Documents (PRDs), release notes, and other product documentation, focusing on user needs and benefits.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Task Management:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ensure Jira Epics, Tasks, and acceptance criteria are reviewed and understood by the team lead.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Product Marketing Support:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Assist the Product Marketing team in product launches and the development of marketing content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Product Analytics:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use product analytics tools, such as Amplitude, to guide product decisions and measure success.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Customer and Market Research:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conduct customer interviews and participate in competitive landscape analysis, market research, and persona development to inform product direction.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;API and Data Development:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Demonstrate a deep understanding of API and data-centric product development methodologies, processes, and best practices.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Requirements:&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Experience:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;4-6 years in product management.&lt;/li&gt;
+&lt;li&gt;Proven track record in building data consortiums or platforms for data collaboration and sharing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Data Governance:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience in establishing data governance review processes.&lt;/li&gt;
+&lt;li&gt;Familiar with pricing strategies and go-to-market frameworks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Privacy Frameworks:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Knowledge of best practices for information privacy and data security.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Skills:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Strong analytical and problem-solving skills.&lt;/li&gt;
+&lt;li&gt;Excellent communication and collaboration abilities.&lt;/li&gt;
+&lt;li&gt;Ability to work effectively with cross-functional teams.&lt;/li&gt;
+&lt;li&gt;Proficiency with product management tools (e.g., Jira, Amplitude).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;$200,000+ &lt;/em&gt;&lt;em&gt;For cash compensation, we set standard ranges for all&amp;nbsp;&lt;/em&gt;&lt;strong&gt;&lt;em&gt;US based roles based&lt;/em&gt;&lt;/strong&gt;&lt;em&gt; on function, level and geographic location, benchmarked against similar stage growth companies. In order to be compliant with local legislation, as well as to provide greater transparency to candidates, we share salary ranges on all job postings regardless of desired hiring location.&lt;/em&gt;&lt;strong&gt;&lt;em&gt; Final offer amounts are determined by multiple factors including geographic location as well as candidate experience and expertise, and may vary from the amounts listed above. &lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Offers vary depending on, but not limited to, relevant experience, education, certifications/licenses, skills, training, and market conditions.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Due to regulatory and security reasons, there’s a small number of countries where we cannot have Fingerprint teammates based.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Additionally, because Fingerprint is an all-remote company and people can join our workforce from almost any country, we do not sponsor visas. Fingerprint teammates need to be authorized to work from their home location&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We are dedicated to creating an inclusive work environment for everyone. We embrace and celebrate the unique experiences, perspectives and cultural backgrounds that each employee brings to our workplace. Fingerprint strives to foster an environment where our employees feel respected, valued and empowered, and our team members are at the forefront in helping us promote and sustain an inclusive workplace. We highly encourage people from underrepresented groups in tech to apply.&lt;/p&gt;
+&lt;p&gt;If you are applying as a resident of California, please read our CCPA notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-ccpa&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you are applying as a resident of the EU, please read our GDPR notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-gdpr&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/67208791?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Fingerprint</h5>
+                    <h3>Sr. Technical Product Manager, Mobile Device Intelligence</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://fingerprint.com/careers/jobs/apply/?gh_jid=5400732004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Fingerprint&lt;/strong&gt;&amp;nbsp;empowers developers to stop online fraud at the source.&lt;/p&gt;
+&lt;p&gt;We work on turning radical new ideas in the fraud detection space into reality. Our products are developer-focused and our clients range from solo developers to publicly traded companies.&amp;nbsp;&lt;strong&gt;We are a globally dispersed, 100% remote company&lt;/strong&gt; with a strong open-source focus. Our flagship open-source project is &lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://github.com/fingerprintjs/fingerprintjs&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://github.com/fingerprintjs/fingerprintjs&quot; data-sk=&quot;tooltip_parent&quot;&gt;FingerprintJS&lt;/a&gt; (20K stars on GitHub).&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot; data-sk=&quot;tooltip_parent&quot;&gt;We have raised $77M&amp;nbsp;&lt;/a&gt;and are backed by Craft Ventures (previously invested in&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.tesla.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.tesla.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Tesla,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://facebook.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://facebook.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Facebook,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.airbnb.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.airbnb.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Airbnb&amp;nbsp;&lt;/a&gt;), Nexus Venture Partners (previously invested in &lt;a href=&quot;https://www.postman.com/&quot;&gt;Postman&lt;/a&gt;, &lt;a href=&quot;https://www.apollo.io/&quot;&gt;Apollo.io,&lt;/a&gt; &lt;a href=&quot;https://min.io/&quot;&gt;MinIO&lt;/a&gt;, Druva)&amp;nbsp;and Uncorrelated Ventures (previously invested in&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://redis.io/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://redis.io/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Redis,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://rollbar.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://rollbar.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Rollbar&amp;nbsp;&lt;/a&gt;&amp;amp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://gradle.org/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://gradle.org/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&amp;nbsp;Gradle&lt;/a&gt;).&lt;/p&gt;&lt;/div&gt;&lt;p&gt;As a Senior Technical Product Manager, you will be responsible for scaling and building our Android and iOS mobile SDKs, developer apps, and device intelligence.&lt;/p&gt;
+&lt;p&gt;You have a passion for building and enabling safe and secure mobile app experiences for users, with experience working with various stakeholders to achieve this mission. You are able to move from the big picture to technical details easily as you work through user problems with engineering partners and stakeholders and communicate value to all internal constituents. You understand how high-velocity software development teams work and how engineers think.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What You’ll Be Doing:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Drive strategy and roadmap to make Fingerprint’s mobile SDKs the standard for mobile device intelligence, enabling leading organizations to build safe and seamless mobile app experiences.&lt;/li&gt;
+&lt;li&gt;Communicate roadmap and product updates effectively to internal and external stakeholders and cross-functional partners&lt;/li&gt;
+&lt;li&gt;Set success metrics for Android and iOS mobile SDKs. Lead the planning, scoping, and prioritization of projects to achieve those metric-based goals.&lt;/li&gt;
+&lt;li&gt;Capture and vividly convey customer needs and their jobs to be done.&lt;/li&gt;
+&lt;li&gt;Gather requirements, determine and prioritize features via RICE framework, write product specs, refine feedback, help write test plans, manage the backlog, and drive engineering to ship quality mobile SDKs quickly.&lt;/li&gt;
+&lt;li&gt;Help our research team prioritize their roadmap to fulfill your goals.&lt;/li&gt;
+&lt;li&gt;Write compelling, easy-to-understand documentation&lt;/li&gt;
+&lt;li&gt;Serve as an evangelist for Fingerprint’s mobile SDK offerings, including supporting app store marketing and evangelism for our Android Device Reputation Network.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A Bachelor&#39;s Degree in a technical discipline or equivalent work experience&lt;/li&gt;
+&lt;li&gt;5+ years of experience in engineering and product management&lt;/li&gt;
+&lt;li&gt;Software Engineering with API management experience required (public facing API&#39;s)&lt;/li&gt;
+&lt;li&gt;Understanding of mobile architectures and design principles for iOS and Android&lt;/li&gt;
+&lt;li&gt;Deep knowledge of modern Engineering processes&lt;/li&gt;
+&lt;li&gt;Understanding of mobile app security &amp;amp; privacy practices&lt;/li&gt;
+&lt;li&gt;Experience navigating difficult situations with competing partner needs and across multiple audiences (individual contributors, managers, executives)&lt;/li&gt;
+&lt;li&gt;Experience with customer empathy and experience shaping product direction and execution based on customer needs&lt;/li&gt;
+&lt;li&gt;You will figure out solutions to hard problems with constraints, using sound judgment to assess risks; strong communication skills are required&lt;/li&gt;
+&lt;li&gt;Bonus Points:
+&lt;ul&gt;
+&lt;li&gt;You have experience product managing mobile SDKs, libraries or other products that help build security and/or identity management into mobile apps (such as Auth0, BioID, AppDome, ThreatMetrix, Zimperium, &lt;a href=&quot;http://Protectt.ai&quot;&gt;Protectt.ai&lt;/a&gt;, etc)&lt;/li&gt;
+&lt;li&gt;You have experience in programming languages like Swift, Objective - C, and/or Kotlin&lt;/li&gt;
+&lt;li&gt;You’ve created and published at least one mobile app to Google Play or App store&lt;/li&gt;
+&lt;li&gt;You have strong familiarity with Android Studio and/or iOS development tools (Xcode, CocoaPods, Swift Package Manager, CI/CD, Fastlane etc.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Compensation Range&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;$150,000 - $200,000 &lt;/em&gt;&lt;em&gt;For cash compensation, we set standard ranges for all&amp;nbsp;&lt;/em&gt;&lt;strong&gt;&lt;em&gt;US based roles based&lt;/em&gt;&lt;/strong&gt;&lt;em&gt; on function, level and geographic location, benchmarked against similar stage growth companies. In order to be compliant with local legislation, as well as to provide greater transparency to candidates, we share salary ranges on all job postings regardless of desired hiring location.&lt;/em&gt;&lt;strong&gt;&lt;em&gt; Final offer amounts are determined by multiple factors including geographic location as well as candidate experience and expertise, and may vary from the amounts listed above. &lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Offers vary depending on, but not limited to, relevant experience, education, certifications/licenses, skills, training, and market conditions.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Due to regulatory and security reasons, there’s a small number of countries where we cannot have Fingerprint teammates based.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Additionally, because Fingerprint is an all-remote company and people can join our workforce from almost any country, we do not sponsor visas. Fingerprint teammates need to be authorized to work from their home location&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We are dedicated to creating an inclusive work environment for everyone. We embrace and celebrate the unique experiences, perspectives and cultural backgrounds that each employee brings to our workplace. Fingerprint strives to foster an environment where our employees feel respected, valued and empowered, and our team members are at the forefront in helping us promote and sustain an inclusive workplace. We highly encourage people from underrepresented groups in tech to apply.&lt;/p&gt;
+&lt;p&gt;If you are applying as a resident of California, please read our CCPA notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-ccpa&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you are applying as a resident of the EU, please read our GDPR notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-gdpr&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/116062758?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Orderly</h5>
+                    <h3>Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/orderlynetwork/jobs/5576224003" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Work with the best&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We are Orderly, the ultimate destination for decentralized trading platforms. We are not satisfied with the limitations of centralized exchanges or the complexities of building decentralized order books. We aim to make trading easy, fast, and secure for everyone. How? By fusing the simplicity of CeFi with the power of DeFi.&lt;br&gt;&lt;br&gt;At the heart of the issue lies “liquidity”. Builders often grapple with a paradox; traders need liquidity, but liquidity demands traders. Our solution is simple as is bold –&lt;span class=&quot;text-primary-100 font-semibold&quot;&gt;concentrate all liquidity into one order book. One order book that connects all the liquidity in the crypto space.&lt;/span&gt;&lt;br&gt;&lt;br&gt;Our ambition doesn&#39;t stop there. We&#39;re omnichain, championing chain abstraction. We envision seamless transactions, where the underlying blockchain is merely a detail. By concentrating liquidity, we aim to redefine the crypto landscape, making bridging and wrapped assets a thing of the past.&lt;br&gt;&lt;br&gt;We are Orderly, and we are here to revolutionize DeFi, democratizing access to financial opportunities and fostering a fair, equitable paradigm for all.&lt;/p&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;A Glimpse into Your Future at Orderly Network&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;What will you achieve?&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;You&#39;ll own and lead product initiatives and work closely with cross-functional teams to explore and validate user needs to build best-in-class trading and developer experiences.&lt;/li&gt;
+&lt;li&gt;You&#39;ll collaborate with development teams to identify technical bottlenecks and feasible approaches to drive the creation of new features and products within time constraints.&lt;/li&gt;
+&lt;li&gt;You&#39;ll develop concise product specifications that set clear expectations, scoping, and requirements.&lt;/li&gt;
+&lt;li&gt;You&#39;ll utilize data to develop actionable insights, robust product strategy, and inform decision-making.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;You&#39;ll guide the prioritization of work, and risk analysis, help make resourcing and decide on tradeoffs.&lt;/li&gt;
+&lt;li&gt;You&#39;ll develop strategies and tactics to create public awareness and attraction for the vision we&#39;re building.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;What challenges will you face?&lt;/em&gt;&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Fast-paced working environment.&lt;/li&gt;
+&lt;li&gt;Learning ability and communication skills in both English and Chinese.&lt;/li&gt;
+&lt;li&gt;Self-management ability and a team working with people from different countries.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Interested in Learning More?&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Our hiring process begins by meeting with our People Team, who help facilitate the process of placing you in your new role. You can expect to share your experience and ideas in online video interviews with our hiring team of management and potential new colleagues.&lt;/li&gt;
+&lt;li&gt;If you have experience in developing trading systems or financial-related products is a&amp;nbsp;plus.&lt;/li&gt;
+&lt;li&gt;You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Share this! Don’t be afraid of friends or co-workers stealing this job! We will find a place for you if you are unique and intelligent. Check out our &lt;a href=&quot;https://boards.greenhouse.io/orderlynetwork/jobs/5170520003&quot; target=&quot;_blank&quot;&gt;External Referral Incentives Program&lt;/a&gt; as well.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/959059?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Modus</h5>
+                    <h3>AHA! Expert (Product Manager)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://moduscreate.com/careers/6326832003?gh_jid=6326832003" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;h3&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;[In order to requisition&amp;nbsp; 1942]&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;Join Our Product Team!&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;We are looking for an &lt;strong&gt;Aha! Expert - Product Manager&lt;/strong&gt; to join our team to partner with different cross-functional teams across the company and provide to our clients the best solutions.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;About you&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Experience Level&lt;/strong&gt;: Senior Level.&lt;/li&gt;
+&lt;li&gt;6+ years of experience in product management or related roles.&lt;/li&gt;
+&lt;li&gt;Proficient with Aha!, including customizations, setting up epics/features/releases, and configuring reports/roadmaps.&lt;/li&gt;
+&lt;li&gt;Experience with integrations between Aha! and external tools (e.g., Jira, Salesforce).&lt;/li&gt;
+&lt;li&gt;Strong understanding of product management principles and practices, such as backlog grooming and prioritization.&lt;/li&gt;
+&lt;li&gt;Comfortable working with executive-level stakeholders and clients.&lt;/li&gt;
+&lt;li&gt;Identify external apps (e.g., Jira, Salesforce) that can integrate with Aha!.&lt;/li&gt;
+&lt;li&gt;Engage with executives and key stakeholders to understand and discuss meaningful reports and roadmaps.&lt;/li&gt;
+&lt;li&gt;Perform customizations, setup, and configuration in Aha!.&lt;/li&gt;
+&lt;li&gt;Organize epics and features, set releases, and customize roadmaps and reports in Aha!.&lt;/li&gt;
+&lt;li&gt;Ensure issue tracking integrations work correctly and live roadmaps reflect the true status of work.&lt;/li&gt;
+&lt;li&gt;Manage the ideas portal and its setup and configuration.&lt;/li&gt;
+&lt;li&gt;Lead product management tasks and guide others by example.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Bonus Points For:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Consulting experience.&lt;/li&gt;
+&lt;li&gt;Aha! Certifications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;You’ll Love:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Leading, mentoring, and coaching both clients and Modus teammates from the comfort of home.&lt;/li&gt;
+&lt;li&gt;Deep diving into customer needs and translating them into actionable requirements.&lt;/li&gt;
+&lt;li&gt;Exploring new tech and continuously learning—because software is always evolving!&lt;/li&gt;
+&lt;li&gt;Sharing your knowledge and participating actively in the community.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Team Collaboration:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Overlap with some EST hours daily is expected.&lt;/li&gt;
+&lt;li&gt;Reliable high-speed internet is a must!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Team Culture:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;At Modus, a fast-growing, remote-first company, you’ll experience various exciting projects! Here’s a taste of what you might do:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Giving back&lt;/strong&gt;: Be an active participant through opportunities such as blog posts, open source contributions, and event speaking.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Travel &amp;amp; connections&lt;/strong&gt;: Meet fantastic people during our remote meet-ups! It’s all about collaboration and fun! Global environment and diversity at its best.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching and learning&lt;/strong&gt;: Work in active teams on internal and external projects, staying up-to-date with the latest technologies.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Being a self starter:&amp;nbsp; &lt;/strong&gt;Autonomy and proactivity are the key to succeed at Modus.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Client interaction: &lt;/strong&gt;Represent Modus and our values while connecting directly with our clients, some of the world’s biggest brands.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Growth&lt;/strong&gt;: Enjoy comprehensive learning benefits, with access to over 12,000 courses. Your growth is our priority!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;About us:&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Founded in 2011, Modus is a global, fully remote team of world-class technologists who thrive in a collaborative, innovative environment. We were fully remote before it was cool! We support organizations on their digital transformation journey through strategic consulting and full lifecycle product development, partnering with industry leaders including Atlassian, GitHub and AWS. Recognized as one of the Inc. 5000 Fastest Growing Private Companies for nine years and a top remote work company by FlexJobs, we have helped some of the world’s largest brands deliver powerful digital experiences.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We combine boutique expertise with enterprise-scale capabilities.&lt;/strong&gt; &lt;strong&gt;As an award-winning Atlassian partner with a world-class team, we help organizations innovate and solve complex challenges for Fortune 500 companies and beyond, we want to hear from you.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Perks of working with us:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Remote work with flexible working hours and remote.&lt;/li&gt;
+&lt;li&gt;Modus Global Office Program: for when you want to get out of your home, we offer on-demand access to private offices, meeting rooms, co-working spaces and business lounges in locations in over 120 countries.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Employee Referral Program.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Client Referral Program.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Travel according to client or team needs.&lt;/li&gt;
+&lt;li&gt;The chance to work side-by-side with thought leaders in emerging tech.&lt;/li&gt;
+&lt;li&gt;Access to more than 12,000 courses with a licensed Coursera account.&lt;/li&gt;
+&lt;li&gt;Possibility to obtain paid certification/courses if they align with company goals and are relevant to the employee&#39;s role.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Additional benefits might apply contingent on&amp;nbsp;your location.&lt;/p&gt;
+&lt;p&gt;By joining our team, you’ll be part of a winning squad that plays to each other’s strengths and celebrates every success together. Apply now and show us you’ve got what it takes to take your consulting skills to the next level with Modus Create!&lt;/p&gt;
+                </details>
+                </td>
             </tr></table>
