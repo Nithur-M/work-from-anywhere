@@ -344,30 +344,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Senior Java Developer (worldwide remote, work anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/EE2288A331" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful.&nbsp;</p><p>We are seeking a Senior Java Developer to join our CLN team.&nbsp;</p><p>CLN is an integral SaaS platform tasked with licensing all CloudLinux products. It manages server operations and oversees the billing process for customers. This is a unique self-provisioning system created by CloudLinux for internal needs. The automated, easy-to-use, robust solution delivers a comprehensive and complete user experience. We will give you a place to strive and grow, where you can work on interesting yet challenging product. Applying your thinking to build a better system founded on intelligent technologies.</p><p>We are truly a great place to work!</p><p>Check out our website for more information<a href="https://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external"> https://cloudlinux.com/</a></p><p></p><p><strong>What you will do:</strong></p><ul> <li>Design and implement backend services, APIs, and scalable solutions using Kotlin|Java and modern frameworks.</li> <li>Work closely with cross-functional teams, including product managers, and other developers, to translate business requirements into technical specifications.</li> <li>Analyze and improve application performance, scalability, and reliability while adhering to best practices in code quality and system design.</li> <li>Ensure adherence to clean code principles, design patterns, and established development standards.</li> <li>Identify and resolve complex technical issues and bugs promptly and efficiently.</li> <li>Keep up-to-date metrics and key indicators of working applications.</li> <li>Suggest improvements to the development process, CI/CD pipelines, and the overall software architecture.</li> <li>Participate in the software testing process.</li> </ul><p></p><p><strong>Our tech stack: </strong>80% Kotlin / 20% Java, Spring Boot, PostgreSQL, Redis, Kafka, Docker, GitLab.</p><h3>Requirements: </h3><ul> <li>5+ years of experience with Java</li> <li>Kotlin experience</li> <li>Proficiency in a microservices architecture.</li> <li>Expertise in Spring Boot (including Data/JPA, MVC, and Security).</li> <li>Hands-on experience with Spring Cloud, PostgreSQL, Redis, Kafka, Docker, and Gradle.</li> <li>Strong experience in writing and maintaining unit tests using frameworks like JUnit or TestNG.</li> <li>Knowledge of integration testing and experience with tools like Mockito, WireMock, or similar.</li> <li>Familiarity with test automation frameworks (e.g., Selenium, RestAssured, or similar) for UI and API testing.</li> </ul><p></p><p><strong>Nice to have:</strong></p><ul> <li>Experience with Docker.</li> <li>Experience with Testcontainers.</li> <li>Experience with performance and load testing tools like JMeter or Gatling is a plus.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p><br><br><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://media.licdn.com/dms/image/C4D0BAQHlK67hgnhzQw/company-logo_200_200/0/1631346154820?e=2147483647&v=beta&t=_R2Ssj7L_f4xqmSCcq0nOLCyCz0QN2lFnHssxxhj3YY" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -796,6 +772,279 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p style="min-height:1.5em"><strong>Location:</strong> Fully Remote | <strong>Type:</strong> Full-time or Contract</p><p style="min-height:1.5em">Salary: $100 - $180k (DOE) + Stock</p><h2></h2><h1><strong>About Synthflow</strong></h1><p style="min-height:1.5em">At <a target="_blank" rel="noopener noreferrer nofollow" href="http://synthflow.ai/">Synthflow</a> we’re building the easiest way for businesses to create AI-powered phone agents. No coding, no fuss—just smarter automation. We’re passionate about delivering the future of voice technology with lightning-fast, scalable solutions. It’s an exciting time at Synthflow: we’re early, fast-growing, and laser-focused on impact. Join us to do the best work of your career while helping businesses thrive.</p><p style="min-height:1.5em"></p><h1><strong>About the role</strong></h1><p style="min-height:1.5em">We’re looking for a Senior Go Developer to build real-time voice AI systems that set the standard.</p><p style="min-height:1.5em"></p><h2><strong>Your responsibilities will include:</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Building &amp; Optimising</strong>: Develop and fine-tune our Go-based real-time, low-latency voice telephony AI service, ensuring it runs smoothly and efficiently. ⚙️</p></li><li><p style="min-height:1.5em"><strong>Scalable Solutions</strong>: Leverage Go’s powerful concurrency features—like goroutines and channels—to build scalable systems that can handle heavy traffic with ease. 📈</p></li><li><p style="min-height:1.5em"><strong>Cloud Infrastructure</strong>: Design and implement cloud infrastructure that supports flexible and reliable deployment models, ensuring our services are always available when our users need them. ☁️</p></li><li><p style="min-height:1.5em"><strong>Cross-Language Collaboration</strong>: Work closely with our backend teams to integrate Go services with Python components, creating a seamless experience across our platform. 🤝</p></li><li><p style="min-height:1.5em"><strong>Infrastructure-as-Code</strong>: Use Terraform to manage cloud deployments, ensuring that our infrastructure is scalable, consistent, and easy to maintain. 🛠️</p></li></ul><p style="min-height:1.5em"></p><h1><strong>What you bring:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Go Expertise</strong>: <strong>You have a strong proficiency in Go</strong>, with a deep understanding of concurrency, goroutines, and channels. You know how to use these tools to build efficient, scalable, and maintainable systems. 💪</p></li><li><p style="min-height:1.5em"><strong>Cloud Savvy</strong>: Extensive experience in cloud infrastructure, preferably across multiple providers like AWS, GCP, or Azure. 🌍</p></li><li><p style="min-height:1.5em"><strong>Terraform Pro</strong>: Skilled in using Terraform for infrastructure-as-code, making cloud deployments straightforward and reliable. 📜</p></li><li><p style="min-height:1.5em"><strong>Real-Time Systems Experience</strong>: Experience in developing and optimising real-time, low-latency systems, with a focus on performance and scalability. ⏱️</p></li><li><p style="min-height:1.5em"><strong>Python Knowledge</strong>: While Go is your primary tool, you’re also comfortable with Python and can contribute to cross-language integrations. 🐍</p></li><li><p style="min-height:1.5em"><strong>Voice Telephony or Audio Processing</strong>: Experience with voice telephony systems or audio processing is a big plus! 🎧</p></li></ul><p style="min-height:1.5em"></p><h1><strong>Who you are:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Problem Solver</strong>: You love tackling complex technical challenges and coming up with innovative solutions. 🧠</p></li><li><p style="min-height:1.5em"><strong>Team Player</strong>: You thrive in a collaborative environment and are excited to share ideas and learn from others. 🤗</p></li><li><p style="min-height:1.5em"><strong>Performance-Oriented</strong>: Always looking for ways to optimise systems and improve performance. 🚀</p></li><li><p style="min-height:1.5em"><strong>Communicator</strong>: Excellent communication skills, able to explain technical concepts clearly to both technical and non-technical team members. 💬</p></li></ul><p style="min-height:1.5em"></p><h1><strong>What We Offer:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Autonomy at speed: </strong>High-ownership roles in a fast-moving startup.</p></li><li><p style="min-height:1.5em"><strong>Remote-first flexibility: </strong>Contribute from anywhere, on your schedule.</p></li><li><p style="min-height:1.5em"><strong>Cutting-edge technology:</strong> Work on what interests you most.</p></li><li><p style="min-height:1.5em"><strong>Career growth: </strong>Scale your impact as the company grows.</p></li><li><p style="min-height:1.5em"><strong>Rewarding package: </strong>Competitive pay, equity options, and comprehensive benefits that reflect your skills and experience. </p></li></ul><h2></h2>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/35933823?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ília</h5>
+                    <h3>SR Front-end Developer (React.js) </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/ilia/jobs/5424103004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;Aqui na ília nossas vagas estão sempre abertas para todas as pessoas e não se restringem quanto a gênero, etnia, orientação sexual, fatores sociais, condições físicas ou intelectuais (PCD) etc. Incentivamos a candidatura de integrantes de todos os grupos minoritários!&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Sobre a ília&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Somos especialistas em tecnologia, dados e design, impulsionando a transformação digital de grandes players do mercado há mais de 10 anos, nos setores financeiro, seguros e mobilidade. Com mais de 450 profissionais, estamos presentes no Brasil e Europa, atendendo aos mercados da América Latina, Europa e América do Norte, desenvolvendo produtos digitais de alta qualidade e com foco em resultados de negócios. Somos uma equipe inovadora, criativa e apaixonada por tecnologia.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Certificada pelo 5° ano consecutivo como Great Place to work aqui na ília acreditamos que pessoas mudam o mundo, e investimos nelas. Nossas awesome deliveries são feitas de pessoas para pessoas, afinal awesome people make awesome deliveries!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;#Vempraília!&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Requisitos:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experiência com React.js;&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Inglês Avançado para Conversação (B2 + ou C1);&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Disponibilidade para viagens nacionais e internacionais esporádicas;&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Disponibilidade para atuar em diferentes frentes do Frontend;&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experiência com TypeScript;&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experiência com Microfrontends;&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experiência com Tailwind CSS;&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experiência com Shadcn/ui;&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experiência com Vitest;&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experiência com Storybook;&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experiência com Playwrigth para testes end-to-end;&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experiência com Figma;&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experiência anterior ou atual o UI/UX.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Benefícios e Incentivos:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Nossa contratação é CLT- 40h semanais com jornada flexível, sendo executada 100% de forma remota. Os benefícios da ília são pensados para proporcionar uma experiência AWESOME para cada ílian, abaixo você encontra os benefícios de forma resumida. #vempraília&lt;/p&gt;
+&lt;p&gt;Para Saúde e bem-estar:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plano de Saúde e Odontológico SulAmérica extensivo a dependentes;&lt;/li&gt;
+&lt;li&gt;Vale Alimentação/Refeição em cartão fléxivel Picpay benefícios&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Seguro de Vida;&lt;/li&gt;
+&lt;li&gt;Auxílio Home-Office em cartão fléxivel Picpay benefícios;&lt;/li&gt;
+&lt;li&gt;Wellhub (Gympass)&lt;/li&gt;
+&lt;li&gt;TotalPass&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Para o seu Desenvolvimento:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ília University: Universidade Corporativa com mais de 20 mil cursos disponíveis para desenvolvimento pessoal e profissional;&lt;/li&gt;
+&lt;li&gt;Language Academy: Escola de idiomas para ílians;&lt;/li&gt;
+&lt;li&gt;í-talks e Chapter: Momentos e cerimônias em que o time compartilha práticas, estudos, projetos e ideias. Nas chapters ainda se reúnem pessoas com skills similares para compartilhamento de ideias, práticas e experiências;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Gostamos de ir além no cuidado com as nossas pessoas, então dispomos também de alguns benefícios não convencionais:&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plano de Saúde PET- Guapeco&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;BYOD- Alugamos o seu notebook pessoal te pagando um valor mensal para que você o use, mas disponibilizamos também máquinas de trabalho para ílians. Você quem decide!&lt;/li&gt;
+&lt;li&gt;Seu Niver, seu bolo!&lt;/li&gt;
+&lt;li&gt;Seu Networking Vale Prêmio- Programa de premiação a indicação de novos funcionários.&lt;/li&gt;
+&lt;/ul&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/116062758?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Orderly</h5>
+                    <h3>Developer Relations Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/orderlynetwork/jobs/5938969003" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Work with the Best&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We are Orderly, the ultimate destination for decentralized trading platforms. We are not satisfied with the limitations of centralized exchanges or the complexities of building decentralized order books. We aim to make trading easy, fast, and secure for everyone. How? By fusing the simplicity of CeFi with the power of DeFi.&lt;br&gt;&lt;br&gt;At the heart of the issue lies “liquidity”. Builders often grapple with a paradox; traders need liquidity, but liquidity demands traders. Our solution is simple as is bold –&lt;span class=&quot;text-primary-100 font-semibold&quot;&gt;concentrate all liquidity into one order book. One order book that connects all the liquidity in the crypto space.&lt;/span&gt;&lt;br&gt;&lt;br&gt;Our ambition doesn&#39;t stop there. We&#39;re omnichain, championing chain abstraction. We envision seamless transactions, where the underlying blockchain is merely a detail. By concentrating liquidity, we aim to redefine the crypto landscape, making bridging and wrapped assets a thing of the past.&lt;br&gt;&lt;br&gt;We are Orderly, and we are here to revolutionize DeFi, democratizing access to financial opportunities and fostering a fair, equitable paradigm for all.&lt;/p&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;A Glimpse into Your Future at Orderly Network&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What we&#39;re looking for&lt;/em&gt;&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;padding-left: 40px;&quot;&gt;We are seeking a passionate and dynamic Developer Relations Specialist at Orderly Network. As a Developer Relations Specialist, you will build and maintain relationships with developers, fostering a thriving developer community around our products and services. You will act as a liaison between Orderly and external developers, advocating for their needs while representing Orderly&#39;s interests.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What will you be working on?&lt;/em&gt;&lt;/span&gt;
+&lt;ul style=&quot;color: rgb(0, 0, 0); font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; white-space: normal; word-spacing: 0px; text-decoration: none;&quot;&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Developer Advocacy:&lt;/strong&gt; Champion our products and services within the developer community through presentations, workshops, webinars, and other events. Provide technical guidance and support to developers using our APIs, SDKs, and other tools.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Community Building:&lt;/strong&gt; Build and nurture a vibrant developer community around our products. Engage with developers through online forums, social media, and developer meetups. Encourage collaboration and knowledge sharing among community members.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Feedback Gathering:&lt;/strong&gt; Gather feedback from developers regarding their experiences with our products and services. Act as the voice of the developer community within our organization, advocating for improvements and new features based on developer needs and pain points.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Content Creation:&lt;/strong&gt; Create technical content such as blog posts, tutorials, and sample code to help developers understand and utilize our products effectively. Collaborate with marketing and product teams to ensure that developer-facing content aligns with our overall messaging and product roadmap.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Technical Support:&lt;/strong&gt; Provide technical support to developers facing challenges or issues with our products. Troubleshoot and resolve technical issues, escalate complex problems to appropriate teams, and ensure timely resolution.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Event Participation:&lt;/strong&gt; Represent our company at developer conferences, hackathons, and other industry events. Build relationships with developers, gather feedback, and promote our products and services.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;What skills will you need?&lt;/em&gt;
+&lt;ul style=&quot;color: rgb(0, 0, 0); font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; white-space: normal; word-spacing: 0px; text-decoration: none;&quot;&gt;
+&lt;li&gt;Bachelor&#39;s degree in Computer Science, Engineering, or related field.&lt;/li&gt;
+&lt;li&gt;Proven experience in developer relations, developer advocacy, or a related technical role.&lt;/li&gt;
+&lt;li&gt;Strong understanding of software development concepts and technologies, including APIs, SDKs, and programming languages.&lt;/li&gt;
+&lt;li&gt;Excellent communication and presentation skills, with the ability to effectively convey technical information to diverse audiences.&lt;/li&gt;
+&lt;li&gt;Passion for building and nurturing developer communities, with a track record of community engagement and advocacy.&lt;/li&gt;
+&lt;li&gt;Self-motivated and proactive, with the ability to work independently and as part of a team in a fast-paced environment.&lt;/li&gt;
+&lt;li&gt;Experience with open-source software development and contributions is a plus.&lt;/li&gt;
+&lt;li&gt;Willingness to travel occasionally for conferences and events.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Interested in Learning More?&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Our hiring process begins by meeting with our People Team, who help facilitate the process of placing you in your new role. You can expect to share your experience and ideas in online video interviews with our hiring team, made up of management and potential new colleagues.&lt;/li&gt;
+&lt;li&gt;You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed.&lt;/li&gt;
+&lt;li&gt;Share this! Don’t be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our &lt;a href=&quot;https://boards.greenhouse.io/orderlynetwork/jobs/5170520003&quot; target=&quot;_blank&quot;&gt;External Referral Incentives Program&lt;/a&gt; as well.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/116062758?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Orderly</h5>
+                    <h3>Mobile Developer (Andriod/iOS)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/orderlynetwork/jobs/6246504003" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Work with the best&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We are Orderly, the ultimate destination for decentralized trading platforms. We are not satisfied with the limitations of centralized exchanges or the complexities of building decentralized order books. We aim to make trading easy, fast, and secure for everyone. How? By fusing the simplicity of CeFi with the power of DeFi.&lt;br&gt;&lt;br&gt;At the heart of the issue lies “liquidity”. Builders often grapple with a paradox; traders need liquidity, but liquidity demands traders. Our solution is simple as is bold –&lt;span class=&quot;text-primary-100 font-semibold&quot;&gt;concentrate all liquidity into one order book. One order book that connects all the liquidity in the crypto space.&lt;/span&gt;&lt;br&gt;&lt;br&gt;Our ambition doesn&#39;t stop there. We&#39;re omnichain, championing chain abstraction. We envision seamless transactions, where the underlying blockchain is merely a detail. By concentrating liquidity, we aim to redefine the crypto landscape, making bridging and wrapped assets a thing of the past.&lt;br&gt;&lt;br&gt;We are Orderly, and we are here to revolutionize DeFi, democratizing access to financial opportunities and fostering a fair, equitable paradigm for all.&lt;/p&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;A Glimpse into Your Future at Orderly Network&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What will you be working on?&lt;/em&gt;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;Designing and developing mobile applications to ensure high performance and availability on Android and iOS platforms.&lt;/li&gt;
+&lt;li&gt;Building user interfaces using the React tech stack, ensuring code reusability and efficiency.&lt;/li&gt;
+&lt;li&gt;Developing cross-platform applications using the Flutter framework to enhance development speed and user experience.&lt;/li&gt;
+&lt;li&gt;Continuously optimizing application performance and user experience, troubleshooting issues and bugs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;Who will you be working with?&lt;/em&gt;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;Collaborating closely with the product team to ensure consistency in functionality and design.&lt;/li&gt;
+&lt;li&gt;Working with backend development teams to ensure effective integration and data transmission between front and back ends.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What challenges will you face?&lt;/em&gt;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;Fast-paced working environment.&lt;/li&gt;
+&lt;li&gt;Ensuring high performance and availability of applications across different platforms.&lt;/li&gt;
+&lt;li&gt;Solving complex technical issues and bugs to enhance user experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What tech stacks/skills will you be using?&lt;/em&gt;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with iOS or Android mobile app development.&lt;/li&gt;
+&lt;li&gt;Proven experience in Flutter and Dart development.&lt;/li&gt;
+&lt;li&gt;Knowledge of state management solutions in Flutter (e.g., Provider, Riverpod).&lt;/li&gt;
+&lt;li&gt;Strong understanding of Clean Architecture principles and application to Flutter projects.&lt;/li&gt;
+&lt;li&gt;Prefer candidates with experience in the crypto or trading&lt;/li&gt;
+&lt;li&gt;Fluent in Chinese; English proficiency is a plus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Interested in Learning More?&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Our hiring process begins by meeting with our People Team, who help facilitate the process of placing you in your new role. You can expect to share your experience and ideas in online video interviews with our hiring team, made up of management and potential new colleagues.&lt;/li&gt;
+&lt;li&gt;If you have experience in developing trading systems or financial-related products is a&amp;nbsp;plus.&lt;/li&gt;
+&lt;li&gt;You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Share this! Don’t be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our &lt;a href=&quot;https://boards.greenhouse.io/orderlynetwork/jobs/5170520003&quot; target=&quot;_blank&quot;&gt;External Referral Incentives Program&lt;/a&gt; as well.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/116062758?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Orderly</h5>
+                    <h3>Web Frontend Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/orderlynetwork/jobs/6246503003" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Work with the best&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We are Orderly, the ultimate destination for decentralized trading platforms. We are not satisfied with the limitations of centralized exchanges or the complexities of building decentralized order books. We aim to make trading easy, fast, and secure for everyone. How? By fusing the simplicity of CeFi with the power of DeFi.&lt;br&gt;&lt;br&gt;At the heart of the issue lies “liquidity”. Builders often grapple with a paradox; traders need liquidity, but liquidity demands traders. Our solution is simple as is bold –&lt;span class=&quot;text-primary-100 font-semibold&quot;&gt;concentrate all liquidity into one order book. One order book that connects all the liquidity in the crypto space.&lt;/span&gt;&lt;br&gt;&lt;br&gt;Our ambition doesn&#39;t stop there. We&#39;re omnichain, championing chain abstraction. We envision seamless transactions, where the underlying blockchain is merely a detail. By concentrating liquidity, we aim to redefine the crypto landscape, making bridging and wrapped assets a thing of the past.&lt;br&gt;&lt;br&gt;We are Orderly, and we are here to revolutionize DeFi, democratizing access to financial opportunities and fostering a fair, equitable paradigm for all.&lt;/p&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;A Glimpse into Your Future at Orderly Network&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What will you be working on?&lt;/em&gt;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;Design, develop, and maintain responsive web applications with a focus on user experience.&lt;/li&gt;
+&lt;li&gt;Implement new features and improve existing infrastructure.&lt;/li&gt;
+&lt;li&gt;Ensure best practices in web development and contribute to code reviews.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;Who will you be working with?&lt;/em&gt;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;Collaborate closely with the product and backend teams to ensure seamless integration and feature development.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What challenges will you face?&lt;/em&gt;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;Fast-paced working environment.&lt;/li&gt;
+&lt;li&gt;Attention to detail and high-performance optimizations.&lt;/li&gt;
+&lt;li&gt;Balancing new feature implementation with maintaining code quality and scalability.&lt;/li&gt;
+&lt;li&gt;Keeping up-to-date with best practices in frontend development and modern JavaScript frameworks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What tech stacks/skills will you be using?&lt;/em&gt;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;In-depth understanding of JavaScript, TypeScript, and modern ES6+ features.&lt;/li&gt;
+&lt;li&gt;Deep understanding of React’s lifecycle methods, hooks, and performance optimization techniques.&lt;/li&gt;
+&lt;li&gt;Strong experience with state management libraries (e.g., Redux, Zustand, or Context API).&lt;/li&gt;
+&lt;li&gt;Experience with testing frameworks like Jest, React Testing Library, Cypress, or Enzyme.&lt;/li&gt;
+&lt;li&gt;Knowledge of component-driven development, storybook, and design systems.&lt;/li&gt;
+&lt;li&gt;Solid understanding of software design patterns and their application in front-end development.&lt;/li&gt;
+&lt;li&gt;Prefer candidates with experience in the crypto or trading.&lt;/li&gt;
+&lt;li&gt;Fluent in Chinese; English proficiency is a plus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Interested in Learning More?&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Our hiring process begins by meeting with our People Team, who help facilitate the process of placing you in your new role. You can expect to share your experience and ideas in online video interviews with our hiring team, made up of management and potential new colleagues.&lt;/li&gt;
+&lt;li&gt;If you have experience in developing trading systems or financial-related products is a&amp;nbsp;plus.&lt;/li&gt;
+&lt;li&gt;You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Share this! Don’t be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our &lt;a href=&quot;https://boards.greenhouse.io/orderlynetwork/jobs/5170520003&quot; target=&quot;_blank&quot;&gt;External Referral Incentives Program&lt;/a&gt; as well.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
                 </details>
                 </td>
             </tr></table>
