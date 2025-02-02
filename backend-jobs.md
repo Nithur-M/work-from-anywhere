@@ -168,7 +168,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://instagram.fcmb2-2.fna.fbcdn.net/v/t51.2885-19/278488600_362609942591349_5608095197475222823_n.jpg?_nc_ht=instagram.fcmb2-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2AGpE9ghK6FVW-SUB3AI4p7-QXdLJ2cyAQzC5L8eRJDQ4hPTFMD5v99r3e08B8ISLJU&_nc_ohc=10EvF-gTgGEQ7kNvgH-nAe-&_nc_gid=24073162fb2e4f89ba6e1396958855ee&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYDpVQxFijM0gWMzp6mC80WuwFFKSztyKYeZhcngAbZEXw&oe=67708C4E&_nc_sid=7a9f4b" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1515067066750885890/jAQEhnud_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Kindred</h5>
@@ -308,6 +308,227 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p style="min-height:1.5em"><strong>Who we are:</strong></p><p style="min-height:1.5em">We are a leader in fraud prevention and AML compliance. Our platform uses device intelligence, behavior biometrics, machine learning, and AI to stop fraud before it happens. Today, over 300 banks, retailers, and fintechs worldwide use Sardine to stop identity fraud, payment fraud, account takeovers, and social engineering scams. We have raised $75M from world-class investors including Andreessen Horowitz, Visa, Experian, FIS, and Google Ventures.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Our culture:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">We have hubs in the Bay Area, NYC, Austin, and Toronto. However, we maintain a remote-first work culture. #WorkFromAnywhere</p></li><li><p style="min-height:1.5em">We hire talented, self-motivated individuals with extreme ownership and high growth orientation. </p></li><li><p style="min-height:1.5em">We value performance and not hours worked. We believe you shouldn't have to miss your family dinner, your kid's school play, friends get-together, or doctor's appointments for the sake of adhering to an arbitrary work schedule.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Location:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Remote - São Paulo, Brazil</p></li><li><p style="min-height:1.5em">From Home / Beach / Mountain / Cafe / Anywhere!</p></li><li><p style="min-height:1.5em">We are a remote-first company with a globally distributed team. You can find your productive zone and work from there.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>About the Role:</strong></p><p style="min-height:1.5em">As a backend-focused Software Engineer, you will play a pivotal role in designing, constructing, and maintaining APIs, services, and systems across our engineering team. This multifaceted position involves developing new features on a large scale, refining internal tooling and processes, contributing to product and technical roadmaps, and assuming diverse responsibilities within the organization. The ideal candidate for the backend role will have a proven track record in building highly available APIs, with additional proficiency in data pipelines and the relevant domain.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>You will:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Design, create, and maintain robust, efficient, and reliable backend services to meet our platform's evolving needs.</p></li><li><p style="min-height:1.5em">Collaborate closely with business stakeholders to architect and implement new services from inception to delivery.</p></li><li><p style="min-height:1.5em">Contribute to developing new features and capabilities that deliver substantial value to our customers.</p></li><li><p style="min-height:1.5em">Work with various engineering and product teams to synchronize efforts and deliver cutting-edge solutions.</p></li><li><p style="min-height:1.5em">Craft and maintain user-facing technical documentation, enhancing user understanding and facilitating seamless adoption of our services.</p></li><li><p style="min-height:1.5em">Play a pivotal role in shaping our company's engineering culture, ensuring the maintenance of high engineering standards across the organization.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>An ideal candidate has:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">A minimum of 5 years of proven experience as a Software Engineer specializing in web backend development.</p></li><li><p style="min-height:1.5em">Proficiency in Golang is a significant advantage.</p></li><li><p style="min-height:1.5em">Additional experience in data engineering is highly desirable.</p></li><li><p style="min-height:1.5em">A track record of successfully delivering high-quality production services and systems.</p></li><li><p style="min-height:1.5em">Customer-centric approach with a strong emphasis on empathy towards users.</p></li><li><p style="min-height:1.5em">Relevant industry experience, particularly in banking or fintech, and domain knowledge in fraud prevention or compliance.</p></li><li><p style="min-height:1.5em">Proficient in English - from casual chats to formal reports.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Compensation:</strong> Base pay range of $50,000 - $70,000 + Series B equity with tremendous upside potential + Attractive benefits</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Technologies we use:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">TypeScript (React + node)</p></li><li><p style="min-height:1.5em">Golang</p></li><li><p style="min-height:1.5em">Ruby</p></li><li><p style="min-height:1.5em">Bigtable</p></li><li><p style="min-height:1.5em">Postgres / PostgreSQL</p></li><li><p style="min-height:1.5em">GCP dataflow (apache beam)</p></li><li><p style="min-height:1.5em">BigQuery</p></li><li><p style="min-height:1.5em">Python</p></li><li><p style="min-height:1.5em">Java</p></li><li><p style="min-height:1.5em">Terraform</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Benefits we offer:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Generous compensation in cash and equity</p></li><li><p style="min-height:1.5em">Early exercise for all options, including pre-vested</p></li><li><p style="min-height:1.5em">Work from anywhere: Remote-first Culture</p></li><li><p style="min-height:1.5em">Flexible paid time off, Year-end break, Self care days off</p></li><li><p style="min-height:1.5em">Health insurance, dental, and vision coverage for employees and dependents - <em>US and Canada specific</em></p></li><li><p style="min-height:1.5em">4% matching in 401k / RRSP - <em>US and Canada specific</em></p></li><li><p style="min-height:1.5em">MacBook Pro delivered to your door</p></li><li><p style="min-height:1.5em">One-time stipend to set up a home office — desk, chair, screen, etc.</p></li><li><p style="min-height:1.5em">Monthly meal stipend</p></li><li><p style="min-height:1.5em">Monthly social meet-up stipend</p></li><li><p style="min-height:1.5em">Annual health and wellness stipend</p></li><li><p style="min-height:1.5em">Annual Learning stipend</p></li><li><p style="min-height:1.5em">Unlimited access to an expert financial advisory</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em">Join a fast-growing company with world-class professionals from around the world. If you are seeking a meaningful career, you found the right place, and we would love to hear from you.</p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/67208791?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Fingerprint</h5>
+                    <h3>Senior Golang Backend Engineer - Platform Team</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://fingerprint.com/careers/jobs/apply/?gh_jid=5336862004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Fingerprint&lt;/strong&gt;&amp;nbsp;empowers developers to stop online fraud at the source.&lt;/p&gt;
+&lt;p&gt;We work on turning radical new ideas in the fraud detection space into reality. Our products are developer-focused and our clients range from solo developers to publicly traded companies.&amp;nbsp;&lt;strong&gt;We are a globally dispersed, 100% remote company&lt;/strong&gt; with a strong open-source focus. Our flagship open-source project is &lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://github.com/fingerprintjs/fingerprintjs&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://github.com/fingerprintjs/fingerprintjs&quot; data-sk=&quot;tooltip_parent&quot;&gt;FingerprintJS&lt;/a&gt; (20K stars on GitHub).&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot; data-sk=&quot;tooltip_parent&quot;&gt;We have raised $77M&amp;nbsp;&lt;/a&gt;and are backed by Craft Ventures (previously invested in&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.tesla.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.tesla.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Tesla,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://facebook.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://facebook.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Facebook,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.airbnb.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.airbnb.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Airbnb&amp;nbsp;&lt;/a&gt;), Nexus Venture Partners (previously invested in &lt;a href=&quot;https://www.postman.com/&quot;&gt;Postman&lt;/a&gt;, &lt;a href=&quot;https://www.apollo.io/&quot;&gt;Apollo.io,&lt;/a&gt; &lt;a href=&quot;https://min.io/&quot;&gt;MinIO&lt;/a&gt;, Druva)&amp;nbsp;and Uncorrelated Ventures (previously invested in&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://redis.io/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://redis.io/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Redis,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://rollbar.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://rollbar.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Rollbar&amp;nbsp;&lt;/a&gt;&amp;amp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://gradle.org/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://gradle.org/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&amp;nbsp;Gradle&lt;/a&gt;).&lt;/p&gt;&lt;/div&gt;&lt;p&gt;We are seeking a &lt;strong&gt;Senior Backend Engineer&lt;/strong&gt; to join our innovative team. In this role, you will focus on developing, maintaining, and scaling backend services that power our fraud detection solutions. Your primary responsibility will be building highly performant backend systems and infrastructure that handle large-scale real-time data processing.&lt;/p&gt;
+&lt;p&gt;As a Senior Backend Engineer, you will collaborate closely with cross-functional teams to architect end-to-end solutions that are reliable, scalable, and efficient. You will own features from concept to deployment and ensure seamless integration with other components in our platform.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Types of Projects and Impact:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design, develop, and optimize backend systems for real-time data processing and web services.&lt;/li&gt;
+&lt;li&gt;Build scalable APIs and backend infrastructure that support millions of requests per day.&lt;/li&gt;
+&lt;li&gt;Work with cross-functional teams to integrate backend components with other services, ensuring performance and scalability.&lt;/li&gt;
+&lt;li&gt;Collaborate with the product and engineering teams to improve fraud detection signals such as browser bot detection, VPN detection, and VM detection.&lt;/li&gt;
+&lt;li&gt;Conduct performance tuning, debugging, and testing of backend systems to ensure reliability and efficiency.&lt;/li&gt;
+&lt;li&gt;Drive best practices for backend development and architecture, fostering a culture of continuous improvement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Required Skills:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;5+ years of experience in backend development with a focus on building scalable, high-performance systems.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Backend Engineering Expertise:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Strong experience in designing, developing, and maintaining distributed backend systems.&lt;/li&gt;
+&lt;li&gt;Proficiency in &lt;strong&gt;Golang&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Experience with building and optimizing APIs, real-time data processing systems, and microservices architectures.&lt;/li&gt;
+&lt;li&gt;Strong knowledge of databases, preferably &lt;strong&gt;DynamoDB, Redis&lt;/strong&gt;, and &lt;strong&gt;Elasticsearch&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Experience working with &lt;strong&gt;cloud infrastructure&lt;/strong&gt;, preferably AWS.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Proficiency with general software engineering tools: &lt;strong&gt;Git, CI/CD pipelines, shell scripting, IDEs&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Proficient in English for clear communication in a global, remote team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Nice to Have:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with infrastructure-as-code tools like Terraform or AWS CloudFormation.&lt;/li&gt;
+&lt;li&gt;Practical experience with analytical storage systems like &lt;strong&gt;ClickHouse&lt;/strong&gt;, Snowflake, or Redshift.&lt;/li&gt;
+&lt;li&gt;Familiarity with data transformation frameworks such as &lt;strong&gt;dbt&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Understanding of modern containerization and orchestration technologies such as Docker and Kubernetes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Technologies You Will Work With:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Backend development:&lt;/strong&gt; Golang, DynamoDB, Redis, Elasticsearch.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data processing/analytics:&lt;/strong&gt; ClickHouse, dbt.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Infrastructure:&lt;/strong&gt; AWS.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Offers vary depending on, but not limited to, relevant experience, education, certifications/licenses, skills, training, and market conditions.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Due to regulatory and security reasons, there’s a small number of countries where we cannot have Fingerprint teammates based.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Additionally, because Fingerprint is an all-remote company and people can join our workforce from almost any country, we do not sponsor visas. Fingerprint teammates need to be authorized to work from their home location&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We are dedicated to creating an inclusive work environment for everyone. We embrace and celebrate the unique experiences, perspectives and cultural backgrounds that each employee brings to our workplace. Fingerprint strives to foster an environment where our employees feel respected, valued and empowered, and our team members are at the forefront in helping us promote and sustain an inclusive workplace. We highly encourage people from underrepresented groups in tech to apply.&lt;/p&gt;
+&lt;p&gt;If you are applying as a resident of California, please read our CCPA notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-ccpa&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you are applying as a resident of the EU, please read our GDPR notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-gdpr&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/33687898?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Pitch</h5>
+                    <h3>Senior Backend Clojure Engineer (m/f/d)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/pitch/jobs/7807116002" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Pitch is the collaborative presentation platform for modern teams.&lt;/strong&gt; With a focus on real-time collaboration, smart workflows, and intuitive design features, we make it fast and delightful for teams to create and deliver beautiful presentations. Our presentation and template galleries give everyone the ability to publish their own standout work, learn from one another, and find the creative spark for their next presentation. Tens of thousands of teams have made the switch to Pitch, including top brands like Intercom, Superhuman, and Notion.&amp;nbsp;And we’re just getting started.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;At Pitch, our backend is built on a diverse range of systems, and we&#39;re looking for a skilled Clojure engineer to help us enhance and expand these systems. We&#39;re seeking individuals who are passionate about thoughtful system design and adept at striking the right balance between achieving excellence and delivering results efficiently. Join us to make a meaningful impact on our evolving technology landscape. If you&#39;re interested in solving tangible problems and want to be part of a diverse, remote-first team of visionaries, we&#39;d love to hear from you!&amp;nbsp;&lt;/p&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;What you’ll get to do&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Design and build - you&#39;ll be part of a team who will implement features all the way from architecture, to database schemas and data structures, code, testing and deployment.&lt;/li&gt;
+&lt;li&gt;Iterate on your work - you&#39;ll keep working on refining features that already exist in the application by checking the results of experiments, via user feedback or thanks to system monitoring.&lt;/li&gt;
+&lt;li&gt;Help us evolve - we are always looking for ways to improve. You&#39;ll have opportunities to present your ideas and work to the company where they will have a chance to become part of our culture.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;Who we are looking for&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;You are an experienced backend developer with hard-earned production skills.&lt;/li&gt;
+&lt;li&gt;You know Clojure and its ecosystem. You&#39;re passionate about the language and functional programming.&lt;/li&gt;
+&lt;li&gt;You have designed and implemented robust realtime systems with high availability.&lt;/li&gt;
+&lt;li&gt;You ensure code quality and system security through automation, unit testing and structured code reviews.&lt;/li&gt;
+&lt;li&gt;You are product oriented, combining thoughtfulness with pragmatism and a will to get stuff done. You are calm and focused under pressure, and consider work-life balance essential for long-term happiness and productivity.&lt;/li&gt;
+&lt;li&gt;You believe effective and successful work is made possible by clear and honest communication, with a shared understanding of the long-term vision and immediate next actions. When you don&#39;t fully understand something, you ask lots of questions and use the opportunity to learn and grow.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Curious what it&#39;s like to work at Pitch?&lt;/strong&gt; Find out more about how Pitch operates as a remote-first company through using &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;https://pitch.com/blog/3-ways-we-use-pitch-notion-to-work-better-as-a-remote-team&quot;&gt;powerful collaboration tools&lt;/a&gt;&lt;/span&gt; and &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;https://pitch.com/blog/running-remote-offsites-and-onboardings&quot;&gt;dogfooding our own products&lt;/a&gt;&lt;/span&gt;!&lt;/p&gt;
+&lt;p&gt;Pitch was founded in Berlin, but as &lt;strong data-stringify-type=&quot;bold&quot;&gt;a remote-first company&lt;/strong&gt;, our team works together from all over the world. With that mindset, we&#39;re building an inclusive workplace that invites diverse perspectives, and values talent from diverse personal and professional backgrounds. For more specifics on how we honour our commitment to diversity in our&amp;nbsp;&lt;span class=&quot;c-mrkdwn__highlight&quot;&gt;hiring&lt;/span&gt; process, check out our &lt;a href=&quot;https://www.notion.so/pitch/Our-Recruiting-D-I-Pledge-fc35d4598aba4f26ac69628977656302&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Recruiting D&amp;amp;I Pledge&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sounds like a good fit? &lt;/strong&gt;Join us on our mission to enable every team&#39;s best thinking - we look forward to hearing from you!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Not quite sure whether that&#39;s a role for you?&lt;/strong&gt; No problem! If you can&#39;t find any open role that caught your eye, but are interested in working at Pitch, you can always &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;https://boards.greenhouse.io/pitch/jobs/5548320002&quot;&gt;submit your resume here&lt;/a&gt;&lt;/span&gt;. We will follow up as soon as we open up a position that matches your skillset and aspirations!&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/33687898?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Pitch</h5>
+                    <h3>Senior Backend Engineer, IAM (m/f/d)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/pitch/jobs/7804628002" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Pitch is the collaborative presentation platform for modern teams.&lt;/strong&gt; With a focus on real-time collaboration, smart workflows, and intuitive design features, we make it fast and delightful for teams to create and deliver beautiful presentations. Our presentation and template galleries give everyone the ability to publish their own standout work, learn from one another, and find the creative spark for their next presentation. Tens of thousands of teams have made the switch to Pitch, including top brands like Intercom, Superhuman, and Notion.&amp;nbsp;And we’re just getting started.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Pitch has grown fast and as a result we’d like to improve the way our users and organisations interact with the product as groups or teams. As such, we would like to hire a backend developer with strong Identity and Access Management (IAM) experience to join our Engineering team. If you&#39;re interested in solving tangible problems and want to be part of a diverse, remote-first team of visionaries, we&#39;d love to hear from you!&amp;nbsp;&lt;/p&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;What you’ll get to do&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Architect and evolve IAM systems - Design and implement robust, scalable systems for managing users, teams, and organisations, as well as their interrelationships. Maintain and enhance existing systems to ensure optimal performance and reliability.&lt;/li&gt;
+&lt;li&gt;Be a trusted IAM advisor - Serve as a go-to expert across the company, providing guidance and actionable recommendations on identity and access management best practices.&lt;/li&gt;
+&lt;li&gt;Proactively address access challenges - Diagnose and resolve access-related issues swiftly, ensuring the reliability and security of identity and access management systems.&lt;/li&gt;
+&lt;li&gt;Collaborate across teams - Partner with non-technical teams to debug issues, maintain accurate and up-to-date documentation, and identify opportunities for new tools or improved workflows to support their needs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;Who we are looking for&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;You are an experienced backend developer with hard-earned production skills, preferably in Clojure, but we’re happy to help you learn if you have experience in other languages such as Python, Go, etc. If you have experience with a functional language - even better.&lt;/li&gt;
+&lt;li&gt;You have designed and implemented robust realtime systems with high availability.&lt;/li&gt;
+&lt;li&gt;You ensure code quality and system security through automation, unit testing and structured code reviews.&lt;/li&gt;
+&lt;li&gt;You are product oriented, combining thoughtfulness with pragmatism and a will to get stuff done. You are calm and focused under pressure - for example when fixing production-affecting bugs - and consider work-life balance essential for long-term happiness and productivity.&lt;/li&gt;
+&lt;li&gt;You believe effective and successful work is made possible by clear and honest communication, with a shared understanding of the long-term vision and immediate next actions. When you don&#39;t fully understand something, you ask lots of questions and use the opportunity to learn and grow.&lt;/li&gt;
+&lt;li&gt;Experience with Auth0 would be a huge plus, if you&#39;ve worked with other systems like AWS IAM then that&#39;s also a plus.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Curious what it&#39;s like to work at Pitch?&lt;/strong&gt; Find out more about how Pitch operates as a remote-first company through using &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;https://pitch.com/blog/3-ways-we-use-pitch-notion-to-work-better-as-a-remote-team&quot;&gt;powerful collaboration tools&lt;/a&gt;&lt;/span&gt; and &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;https://pitch.com/blog/running-remote-offsites-and-onboardings&quot;&gt;dogfooding our own products&lt;/a&gt;&lt;/span&gt;!&lt;/p&gt;
+&lt;p&gt;Pitch was founded in Berlin, but as &lt;strong data-stringify-type=&quot;bold&quot;&gt;a remote-first company&lt;/strong&gt;, our team works together from all over the world. With that mindset, we&#39;re building an inclusive workplace that invites diverse perspectives, and values talent from diverse personal and professional backgrounds. For more specifics on how we honour our commitment to diversity in our&amp;nbsp;&lt;span class=&quot;c-mrkdwn__highlight&quot;&gt;hiring&lt;/span&gt; process, check out our &lt;a href=&quot;https://www.notion.so/pitch/Our-Recruiting-D-I-Pledge-fc35d4598aba4f26ac69628977656302&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Recruiting D&amp;amp;I Pledge&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sounds like a good fit? &lt;/strong&gt;Join us on our mission to enable every team&#39;s best thinking - we look forward to hearing from you!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Not quite sure whether that&#39;s a role for you?&lt;/strong&gt; No problem! If you can&#39;t find any open role that caught your eye, but are interested in working at Pitch, you can always &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;https://boards.greenhouse.io/pitch/jobs/5548320002&quot;&gt;submit your resume here&lt;/a&gt;&lt;/span&gt;. We will follow up as soon as we open up a position that matches your skillset and aspirations!&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/33687898?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Pitch</h5>
+                    <h3>Senior Backend Engineer, PostgreSQL (m/f/d)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/pitch/jobs/7807089002" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Pitch is the collaborative presentation platform for modern teams.&lt;/strong&gt; With a focus on real-time collaboration, smart workflows, and intuitive design features, we make it fast and delightful for teams to create and deliver beautiful presentations. Our presentation and template galleries give everyone the ability to publish their own standout work, learn from one another, and find the creative spark for their next presentation. Tens of thousands of teams have made the switch to Pitch, including top brands like Intercom, Superhuman, and Notion.&amp;nbsp;And we’re just getting started.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;As Pitch continues to grow, so too do the complexity and scale of our data models and database usage. We are seeking a Senior Backend Developer with strong expertise in database systems, particularly PostgreSQL, which serves as the backbone of our data storage. This role is an exciting opportunity to shape and optimise how we manage and scale our data infrastructure. If you&#39;re interested in solving tangible problems and want to be part of a diverse, remote-first team of visionaries, we&#39;d love to hear from you!&amp;nbsp;&lt;/p&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;What you’ll get to do&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Design and build - you&#39;ll be part of a team who will implement features all the way from architecture, to database schemas and data structures, code, testing and deployment. Your expertise in database design will be vital to the success of the features.&lt;/li&gt;
+&lt;li&gt;Iterate on your work - you&#39;ll keep working on refining schemas and designs that you&#39;ve produced/implemented by checking the results of experiments, via user feedback or thanks to system monitoring.&lt;/li&gt;
+&lt;li&gt;Improve existing systems - you&#39;ll take on modernising and optimising our existing database systems, leveraging your expertise to enhance their performance, reliability, and scalability.&lt;/li&gt;
+&lt;li&gt;Help us evolve - we are always looking for ways to improve. You&#39;ll have opportunities to present your ideas and work to the company where they will have a chance to become part of our culture.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;Who we are looking for&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;You have an expert-level understanding of the high level features of Postgres - index optimisation, advanced queries, stored procedures/views etc. as well as some knowledge of tuning the DB at lower levels.&lt;/li&gt;
+&lt;li&gt;You are an experienced backend developer with hard-earned production skills, preferably in Clojure, but we’re happy to help you learn if you have experience in other languages such as Python, Go, etc. If you have experience with a functional language - even better.&lt;/li&gt;
+&lt;li&gt;You have designed and implemented robust realtime systems with high availability.&lt;/li&gt;
+&lt;li&gt;You ensure code quality and system security through automation, unit testing and structured code reviews.&lt;/li&gt;
+&lt;li&gt;You are product oriented, combining thoughtfulness with pragmatism and a will to get stuff done. You are calm and focused under pressure, and consider work-life balance essential for long-term happiness and productivity.&lt;/li&gt;
+&lt;li&gt;You believe effective and successful work is made possible by clear and honest communication, with a shared understanding of the long-term vision and immediate next actions. When you don&#39;t fully understand something, you ask lots of questions and use the opportunity to learn and grow.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Curious what it&#39;s like to work at Pitch?&lt;/strong&gt; Find out more about how Pitch operates as a remote-first company through using &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;https://pitch.com/blog/3-ways-we-use-pitch-notion-to-work-better-as-a-remote-team&quot;&gt;powerful collaboration tools&lt;/a&gt;&lt;/span&gt; and &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;https://pitch.com/blog/running-remote-offsites-and-onboardings&quot;&gt;dogfooding our own products&lt;/a&gt;&lt;/span&gt;!&lt;/p&gt;
+&lt;p&gt;Pitch was founded in Berlin, but as &lt;strong data-stringify-type=&quot;bold&quot;&gt;a remote-first company&lt;/strong&gt;, our team works together from all over the world. With that mindset, we&#39;re building an inclusive workplace that invites diverse perspectives, and values talent from diverse personal and professional backgrounds. For more specifics on how we honour our commitment to diversity in our&amp;nbsp;&lt;span class=&quot;c-mrkdwn__highlight&quot;&gt;hiring&lt;/span&gt; process, check out our &lt;a href=&quot;https://www.notion.so/pitch/Our-Recruiting-D-I-Pledge-fc35d4598aba4f26ac69628977656302&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Recruiting D&amp;amp;I Pledge&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sounds like a good fit? &lt;/strong&gt;Join us on our mission to enable every team&#39;s best thinking - we look forward to hearing from you!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Not quite sure whether that&#39;s a role for you?&lt;/strong&gt; No problem! If you can&#39;t find any open role that caught your eye, but are interested in working at Pitch, you can always &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;https://boards.greenhouse.io/pitch/jobs/5548320002&quot;&gt;submit your resume here&lt;/a&gt;&lt;/span&gt;. We will follow up as soon as we open up a position that matches your skillset and aspirations!&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1533245276764372993/AtyqkzHz_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Primer</h5>
+                    <h3>Backend Engineer -  Acceptance</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.ashbyhq.com/primer.io/612494bc-04ec-4130-b1f7-b599c4a7233b" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h2><strong>An Introduction to Primer</strong></h2><p style="min-height:1.5em">The 21st century has witnessed remarkable expansion within the payments ecosystem with the introduction of new payment services, growth in cross-border commerce, and the development of multi-payment processor payment strategies.</p><p style="min-height:1.5em">The bottom line is that payment is no longer just another step in the purchasing funnel but a strategic asset that can drive business growth and innovation.</p><p style="min-height:1.5em">Enter Primer - the world's first unified payment infrastructure, empowering businesses worldwide to unleash their payment potential. By choosing our platform, merchants can take control over their payment stack, create unique commerce experiences, accelerate their roadmap and increase payment success.</p><p style="min-height:1.5em">Primer's enterprise-grade infrastructure, frameworks, and tooling allow merchants to unify their disparate payment solutions and services to build optimised payment flows tailored to their unique business needs with no code or additional complexity. We strive to make something complex incredibly simple and intuitive.</p><p style="min-height:1.5em">Our success so far has been reflected in the trust placed in us by category leaders such as Printify, NewLook, Voi, and Dabble, who are using Primer to transform their payments into a growth lever. Moreover, the world's top investors, including Accel, Balderton, Iconiq, and Tencent, have also invested in Primer's vision to rebuild payments and commerce from the ground up.</p><p style="min-height:1.5em">Join us in shaping the future of payments and commerce. Let's pave the way for a world where businesses can fully realise their payment potential.</p><p style="min-height:1.5em"></p><h2><strong>What will the role involve?</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Designing and implementing highly secure, fault tolerant APIs and core backend services in Python</p></li><li><p style="min-height:1.5em">Creating our next generation developer framework and workflows, allowing both merchants and third-parties to integrate as seamlessly as possible</p></li><li><p style="min-height:1.5em">Working in close collaboration with infrastructure and frontend teams</p></li><li><p style="min-height:1.5em">Taking ownership of key technology decisions, building for scale and optimising for output</p></li><li><p style="min-height:1.5em">Conducting code reviews and continuously look at ways of improving our ways of working</p></li><li><p style="min-height:1.5em">Developing deep payments expertise, always looking for ways to optimise our merchant developer experience</p></li><li><p style="min-height:1.5em">Creating detailed internal documentation for the projects you work on</p><p style="min-height:1.5em"></p></li></ul><h2><strong>What are we looking for?</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Experience building high performance, complex distributed systems</p></li><li><p style="min-height:1.5em">Experience of driving and using modern development practices such as BDD and TDD would be highly beneficial</p></li><li><p style="min-height:1.5em">Experience in Python is advantageous (it's what we use!) but we have had success hiring engineers of any technical background understanding that people can adapt</p></li><li><p style="min-height:1.5em">Be willing to set goals, success metrics, driving and setting up sprints and driving refinement sessions of the tickets and driving delivery side on a day to day basis.</p></li><li><p style="min-height:1.5em">Passion for beautiful, well tested code</p></li><li><p style="min-height:1.5em">In-depth understanding of the entire development process (design, development and deployment)</p></li><li><p style="min-height:1.5em">Highly motivated self-starter who values autonomy and getting things done</p></li><li><p style="min-height:1.5em">Excellent verbal and written communication skills</p></li><li><p style="min-height:1.5em">Experience working in a fast-paced environment</p><p style="min-height:1.5em"></p><p style="min-height:1.5em">Our engineering teams work fully remotely across Europe and operate within local timezones - if you are not based in the above countries listed but would still like to apply please let us know in your application</p><p style="min-height:1.5em">Unfortunately we are unable to offer VISA sponsorships or relocation packages at this time<br /><br /><strong>Our interview process</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">30 minute call with a Talent Partner</p></li><li><p style="min-height:1.5em">45 minute interview with an Engineering Manager</p></li><li><p style="min-height:1.5em">90 minute pair programming interview</p></li><li><p style="min-height:1.5em">60 minute systems design interview</p></li><li><p style="min-height:1.5em">60 minute final stage culture interview</p></li></ul></li></ul><p style="min-height:1.5em"></p><h2><strong>What’s the culture like at Primer?</strong></h2><p style="min-height:1.5em">We’re building a culture where people can come and do their best work and enjoy it. We want our people to be proud of the impact that they have at Primer, and of the work that they are doing. You will be working with a team of people who are mission-driven, smart, and reflective, and who are invested in building exceptional products and delivering success for our merchants <em>(and we also know how to have fun along the way).</em></p><p style="min-height:1.5em">We work remotely. We believe that building a successful, profitable company goes beyond proximity. We invest in our relationships with each other through great remote working practices and thoughtfully designed face-to-face time together. Our heads-together time comes in the form of workstations, our annual company retreat, and co-working space access worldwide.</p><p style="min-height:1.5em">Finally, let’s go ahead and say it. The work that we do is challenging. Startups are a challenge, building category defining products is a challenge. You should be prepared for a challenge at Primer. But, there’s a big difference between a challenge and a struggle. The key difference is that the right challenge comes with the right support structures, an acceptance that not everything always goes to plan, a collaborative environment, and a great team around you. It’s never a challenge that you will face alone.</p><p style="min-height:1.5em"></p><h2><strong>Our benefits:</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">We are fully remote</p></li><li><p style="min-height:1.5em">Competitive share options</p></li><li><p style="min-height:1.5em">Uncapped holiday, with 25 days minimum to be taken</p></li><li><p style="min-height:1.5em">Co-working space access</p></li><li><p style="min-height:1.5em">Workations &amp; company retreat</p></li><li><p style="min-height:1.5em">The best equipment for your role</p></li><li><p style="min-height:1.5em">£500 towards your home office setup</p></li><li><p style="min-height:1.5em">Generous learning budget</p></li><li><p style="min-height:1.5em">Medical insurance</p></li><li><p style="min-height:1.5em">A broad set of additional perks and benefits (<em>depending on location)</em></p></li></ul><p style="min-height:1.5em"></p><h2><strong>Don’t meet every single requirement?</strong></h2><p style="min-height:1.5em">At Primer, we’re dedicated to building a diverse, inclusive, and authentic workplace. If you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply. You may be the right candidate for this or other roles. Primer is committed to the equal treatment of all current and prospective employees, regardless of background or beliefs—see our diversity commitment statement for more details</p><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.notion.so/Equity-diversity-inclusion-and-belonging-policy-7904d43d137848fda9cdc19772e43cec?pvs=21"><strong>Equity, diversity, inclusion and belonging policy</strong></a></p><p style="min-height:1.5em">Primer adopts a zero-tolerance approach to discrimination.</p><p style="min-height:1.5em">We are committed to providing equal opportunities to all current and prospective employees regardless of age, disability, sex, sexual orientation, pregnancy and maternity, race or ethnicity, religion or belief, gender identity, or marriage and civil partnership.</p>
                 </details>
                 </td>
             </tr></table>
