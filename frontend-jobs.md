@@ -1,85 +1,5 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1965989/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>10up</h5>
-                    <h3>Lead Front End Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>CSS,html,javascript,react</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/lead-front-end-engineer-1965989" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>
-<div>
-<div>
-<div>
-<div><strong>Location: Remote - Anywhere </strong>(Open to applicants located anywhere around the globe.)</div>
-<div> </div>
-<div>At 10up, we call developers like you <em>engineers</em> because you aren’t just a “coder”: you’re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges. As a Lead Front End Engineer at 10up, you are taking the driving seat in building custom-crafted UIs utilized by millions of people daily. 10uppers have been pushing the boundaries of premium UI/UX for over 12 years—become a lead engineer that innovates the internet by building state-of-the-art web fronts alongside a top-in-the-field team.</div>
-<div> </div>
-<div>You’ll work on a combination of unique builds and ongoing support engagements that help season your technical leading skills. As a leading digital agency, 10up’s client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee.</div>
-<div> </div>
-<div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div>
-<div> </div>
-</div>
-</div>
-</div>
-</div>
-<div><strong>What you will do: </strong></div>
-<div>
-<ul style="">
-<li style="">Develop enterprise-level websites and digital experiences primarily utilizing your expertise in JavaScript, HTML, CSS, React, and WordPress (including Gutenberg blocks).</li>
-<li style="">Drive strategy in collaboration with experts across multiple disciplines, and lead overall technical vision and delivery on large-scale projects.</li>
-<li style="">Engage meaningfully with clients; leading demos and driving discussions.</li>
-<li style="">Contribute to the improvement of the Front End Engineering discipline by leading and mentoring other fellow Front End Engineers</li>
-<li style="">Ultimately you will make the web better by finely crafting websites, apps, and tools that reach millions of online visitors every day.</li>
-</ul>
-</div>
-<div>
-<p><strong>About you: </strong></p>
-<ul style="">
-<li style="">You’re at your best leading a team of engineers to solve a complex problem while providing code reviews, coaching, and mentorship.</li>
-<li style="">You have a code portfolio of real-world samples to showcase your skills. Link us to your best custom work on GitHub and you’ll never have to do any live coding or whiteboard testing! </li>
-<li style="">You have the ability to clearly present your thoughts to clients and team members. </li>
-<li style="">You are an advocate for coded style guides and creating highly componentized systems.</li>
-<li style="">You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.</li>
-</ul>
-<p><strong>Benefits of interest:</strong></p>
-<ul style="">
-<li style="">Multiple paid time off programs, including PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day</li>
-<li style="">Health, dental, and life insurance programs (available for United States and UK team members)</li>
-<li style="">Retirement contribution programs (currently available in the U.S. and U.K.)</li>
-<li style="">Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations</li>
-<li style="">$1,000 accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study</li>
-<li style="">Global Company summits – opportunities to meet, socialize, and learn with fellow team members in person at remarkable destinations</li>
-<li style="">An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year</li>
-<li style="">A Director of Engineering that supports your career growth and development</li>
-</ul>
-<p>The expected annual salary range for this position is between <strong>$90,000 and $150,000 USD</strong>. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.</p>
-<div><strong>Join our team! </strong></div>
-<div> </div>
-<div>If you are passionate about 10up's mission and think you have what it takes to be successful in this role, please apply. If you consider yourself a Full-Stack Engineer, please choose the discipline and job title that most closely aligns with your focus/primary area of expertise. We personally review each application and can always pivot roles after you enter the hiring process.</div>
-<div> </div>
-<div>Read more about <a class='"postings-link"' href="%22https:/drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view%22" rel="nofollow">What to Expect </a>through our Recruiting process.</div>
-<div> </div>
-<div>We don't want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote #LI-DNI</div>
-</div>
-<div> </div>
-<img src="https://remotive.com/job/track/1965989/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -450,6 +370,65 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><span style="font-size: 16px;">Zingtree is the next gen, intelligent process automation platform that reimagines customer experience operations for top Customer Support leaders. With over 500 customers, including global enterprises like Optum, Corpay, Sony, SharkNinja, and Allianz, Zingtree transforms self-service, uncovers and implements automation opportunities, and makes every customer service agent an expert.</span></div><div><br></div><div><span style="font-size: 16px;">We are seeking an </span><b style="font-size: 16px;">Intermediate Frontend Software Engineer</b><span style="font-size: 16px;"> to join our dynamic team. You will work on developing and maintaining user-facing web applications with a focus on responsiveness, performance, and usability. In this role, you will collaborate closely with designers, backend developers, and product managers to bring modern web experiences to life. This position is perfect for someone with a passion for creating clean, efficient, and scalable code.</span></div><div><span style="font-size: 16px;">Zingtree is the next gen, intelligent process automation platform that reimagines customer experience operations for top Customer Support leaders. With over 500 customers, including global enterprises like Optum, Corpay, Sony, SharkNinja, and Allianz, Zingtree transforms self-service, uncovers and implements automation opportunities, and makes every customer service agent an expert.</span></div><div><br></div><div><span style="font-size: 16px;">We are seeking an </span><b style="font-size: 16px;">Intermediate Frontend Software Engineer</b><span style="font-size: 16px;"> to join our dynamic team. You will work on developing and maintaining user-facing web applications with a focus on responsiveness, performance, and usability. In this role, you will collaborate closely with designers, backend developers, and product managers to bring modern web experiences to life. This position is perfect for someone with a passion for creating clean, efficient, and scalable code.</span></div><h3>What You'll Do</h3><li>Develop, optimize, and maintain web applications using modern frontend technologies.</li><li>Collaborate with design and product teams to implement intuitive and responsive user interfaces.</li><li>Write clean, maintainable, and testable code with a focus on performance and reusability.</li><li>Ensure the technical feasibility of UI/UX designs and translate them into high-quality code.</li><li>Optimize applications for maximum speed and scalability across various devices and platforms.</li><li>Debug and resolve frontend-related issues across browsers and devices.</li><li>Implement best practices in frontend architecture, including modular design and state management.</li><li>Work closely with backend engineers to integrate APIs and ensure seamless user experiences.</li><li>Stay up to date with the latest industry trends, tools, and frameworks, and integrate them into development processes when appropriate.</li><li>Participate in code reviews, providing constructive feedback to peers.</li><h3>About You</h3><li><b>5+ years</b> of hands-on experience in frontend development.</li><li>Strong proficiency in <b>HTML5, CSS3</b>, and <b>JavaScript (ES6+)</b>.</li><li>Experience with modern JavaScript frameworks and libraries like <b><a rel="noopener noreferrer" class="postings-link" href="http://vue.js/">Vue.js</a></b>, <b>React, or Angular</b>.</li><li>Familiarity with <b>frontend build tools</b> such as Webpack, Vite, or Parcel.</li><li>Proficiency in working with <b>CSS preprocessors</b> (e.g., SASS, LESS) or CSS-in-JS solutions.</li><li>Experience with <b>version control systems</b> like Git.</li><li>Understanding of <b>responsive design principles</b> and experience with frameworks like <b>Material</b>, <b>Bootstrap</b> or <b>Tailwind CSS</b>.</li><li>Knowledge of <b>cross-browser compatibility</b> and <b>performance optimization</b> techniques.</li><li>Experience with <b>RESTful APIs</b> and <b>asynchronous JavaScript</b> (AJAX, Fetch, etc.).</li><li>Basic knowledge of <b>testing frameworks</b> such as Vitest, Jest, Cypress, or Mocha for frontend testing.</li><li>Familiarity with <b>state management libraries</b> (e.g., Vuex, Redux, Pinia).</li><li>Solid understanding of <b>OWASP</b> (Open Web Application Security Project) security principles focuses on developing secure and efficient user interfaces</li><li>Understanding of <b>accessibility (a11y)</b> and <b>web standards</b>.</li><h3>Nice to have</h3><li>Experience with <b>TypeScript</b>.</li><li>Knowledge of <b>Progressive Web Apps (PWA)</b> and <b>service workers</b>.</li><li>Experience with <b>CI/CD pipelines</b> in a frontend context.</li><li>Familiarity with <b>frontend performance profiling</b> tools like Lighthouse or Chrome DevTools.</li><li>Understanding of <b>design systems</b> and component libraries.</li><h3>Soft Skills</h3><li>Strong attention to detail and a keen eye for design and UX consistency.</li><li>Ability to work in a collaborative environment and communicate effectively with both technical and non-technical team members.</li><li>Problem-solving mindset with a proactive attitude towards challenges.</li><li>Adaptability and eagerness to learn new technologies and tools</li><h3>What We Offer</h3><li>Comprehensive health insurance for employees and dependents</li><li>Provident Fund contributions in compliance with EPF guidelines</li><li>Competitive Compensation - We offer fair compensation packages&nbsp;</li><li>Paid Parental Leave - Paid time off for parents to spend time with their new child</li><li>Unlimited PTO - Take the time you need to recharge and bring your best self to work&nbsp;</li><li>Flexible Remote Work - Work from anywhere</li><li>Home Office Stipend - Receive up to $500 to create a great work environment at home, and $100 a month for Internet, phone, etc.</li><li>Co-Working Reimbursement - Expense up to $200 a month on co-working space</li>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/32529485?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Speechify</h5>
+                    <h3>Senior Frontend Engineer, Web</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/speechify/jobs/4658498004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speechify is the easiest way to listen to the world’s information.&lt;/strong&gt; Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.&lt;/p&gt;
+&lt;p&gt;What streaming services have done for audio entertainment, we’re doing for audio information. And whatever we’re doing seems to be working. We’re #1 in our category, and experiencing exponential growth.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;With that growth comes the need for a Javascript Engineer to join the existing Web team and continue supporting the growing user base as well as building new and exciting features.&lt;/p&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;This is a key role and ideal for someone who thinks strategically, enjoys high-pace environments, passionate about owning product decisions and has experience building and scaling complex engineering systems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What Yo&lt;/strong&gt;&lt;strong&gt;u’&lt;/strong&gt;&lt;strong&gt;ll Do&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Actively ship production code to the web products&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Work closely with your dedicated product team&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Participate in product discussions to shape the product roadmap&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Have the opportunity to work on new and exciting features that will impact millions of lives&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;An Ideal Candidate Should Have&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Experience. You&#39;ve built and ship products that have scaled to thousands or millions of users&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Customer obsession. You are passionate about the field and have the desire to build high quality product that serves customer needs&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Speed. You work quickly to generate ideas and know how to decide which things can ship now and what things need time&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Focus. We’re a high-growth startup with a busy, remote team. You know how and when to engage or be heads down&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Collaboration. You know how to inspire, play, and negotiate with opinionated designers, marketers, and PMs&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Tech Stack: Vanilla JS, ReactJS, Redux, Firebase, Typescript&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;&lt;strong&gt;What We Offer &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;A fast-growing environment where you can help shape the culture&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;An entrepreneurial crew that supports risk, intuition, and hustle&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;A hands-off approach so you can focus and do your best work&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;The opportunity to make an impact in a transformative industry&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;A competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Think you’re a good fit for this job?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tell us more about yourself and why you&#39;re interested in the role when you apply. &lt;br&gt;And don’t forget to include links to your portfolio and LinkedIn.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Not looking but know someone who would make a great fit?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Refer them!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.&lt;/p&gt;
                 </details>
                 </td>
             </tr></table>
