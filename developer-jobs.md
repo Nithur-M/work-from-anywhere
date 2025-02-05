@@ -464,30 +464,6 @@
                 </td>
                 <td width="300">
                     <h5>Ruby Labs</h5>
-                    <h3>Senior Backend Developer | Ruby Labs</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.ashbyhq.com/ruby-labs/522053e2-ad31-4935-a439-1e5721787c15" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h1><strong>About us</strong></h1><p style="min-height:1.5em">Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: <a target="_blank" rel="noopener noreferrer nofollow" href="https://rubylabs.com/about-us/">https://rubylabs.com/about-us/</a></p><p style="min-height:1.5em"></p><h1><strong>About the role</strong></h1><p style="min-height:1.5em">At Ruby Labs we are creating a new D2C product in the LegalTech category and we are looking for a skilled Senior Backend Developer to join our team. In this role, you will be instrumental in designing, developing, and maintaining efficient and scalable back-end systems using Node.js (Nest.js) and TypeScript. This position requires close collaboration with our development team to ensure consistency, quality, and alignment across all projects.</p><p style="min-height:1.5em"></p><h1><strong>Key Responsibilities</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Design, develop, and maintain efficient and scalable back-end systems using Node.js (with Nest.js) and TypeScript.</p></li><li><p style="min-height:1.5em">Develop RESTful and APIs with a focus on performance, scalability, and ease of integration.</p></li><li><p style="min-height:1.5em">Ensure efficient data access patterns, adhering to best practices.</p></li><li><p style="min-height:1.5em">Design comprehensive error handling for reliability and robustness.</p></li><li><p style="min-height:1.5em">Set up logging and monitoring solutions to capture application performance insights.</p></li><li><p style="min-height:1.5em">Write clean, maintainable, testable, and well-documented code, adhering to SOLID principles and clean architecture.</p></li><li><p style="min-height:1.5em">Implement automated testing (unit, integration, end-to-end) to ensure quality and reliability.</p></li><li><p style="min-height:1.5em">Document system architecture, APIs, data flows, and core functionalities for easy understanding and onboarding.</p></li></ul><p style="min-height:1.5em"></p><h1><strong>Qualifications</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Minimum of 5 years of professional experience in back-end development.</p></li><li><p style="min-height:1.5em">Strong knowledge of TypeScript and Node.js.</p></li><li><p style="min-height:1.5em">Proficiency with Nest.js and microservices architecture.</p></li><li><p style="min-height:1.5em">Experience with Redis and RxJS.</p></li><li><p style="min-height:1.5em">Strong analytical and problem-solving skills, with the ability to explain complex technical concepts to non-technical stakeholders.</p></li><li><p style="min-height:1.5em">Familiarity with Agile/Scrum environments and the ability to adapt to evolving project requirements.</p></li><li><p style="min-height:1.5em">Precision and discipline in writing clean, maintainable code.</p></li></ul><p style="min-height:1.5em"></p><h1><strong>Nice to have</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Experience with PostgreSQL, Python, or React/Next.js.</p></li><li><p style="min-height:1.5em">Familiarity with front-end technologies like HTML/CSS.</p></li></ul><p style="min-height:1.5em"></p><h1><strong>Location</strong></h1><p style="min-height:1.5em">Ruby Labs operates within the CET (Central European Time) zone. Applicants from any country are welcome to apply for the position as long as they are located within approximately ± 4 hours of CET. This ensures optimal collaboration and communication during working hours.</p><p style="min-height:1.5em"></p><h1><strong>Benefits</strong></h1><p style="min-height:1.5em">Discover the perks of being part of our vibrant team! We offer:</p><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Remote Work Environment:</strong> Embrace the freedom to work from anywhere, anytime, promoting a healthy work-life balance. 🏡⏰</p></li><li><p style="min-height:1.5em"><strong>Unlimited PTO:</strong> Enjoy unlimited paid time off to recharge and prioritize your well-being, without counting days. 🌴💼</p></li><li><p style="min-height:1.5em"><strong>Paid National Holidays:</strong> Celebrate and relax on national holidays with paid time off to unwind and recharge. 🎉🌟</p></li><li><p style="min-height:1.5em"><strong>Company-provided MacBook:</strong> Experience seamless productivity with top-notch Apple MacBooks provided to all employees who need them. 💻🚀</p></li><li><p style="min-height:1.5em"><strong>Flexible Independent Contractor Agreement:</strong> Unlock the benefits of flexibility, autonomy, and entrepreneurial opportunities. Benefit from tax advantages, networking opportunities, reduced employment obligations, and the freedom to work from anywhere. Read more about it here: <a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.google.com/document/d/1dHF4ctKlez75whdn-ybUwP5d5Wr0BdwVrorrm_fM40Q/preview">https://docs.google.com/document/d/1dHF4ctKlez75whdn-ybUwP5d5Wr0BdwVrorrm_fM40Q/preview</a> 📈💼</p></li></ul><p style="min-height:1.5em">Be part of our fast-growing team and seize this excellent opportunity for personal and professional growth!</p><p style="min-height:1.5em"></p><h1><strong>Interview Process</strong></h1><p style="min-height:1.5em">After submitting your application, we conduct a thorough review which typically takes 3 to 5 days, but may occasionally take longer due to the volume of applications received. If we see a potential fit, we proceed with the following steps:</p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Recruiter Screening (40 minutes)</p></li><li><p style="min-height:1.5em">Technical Interview (90 minutes)</p></li><li><p style="min-height:1.5em">Final Interview (60 minutes)</p></li></ul><p style="min-height:1.5em"></p><h1><strong>Life at Ruby Labs</strong></h1><p style="min-height:1.5em">At Ruby Labs, we are more than a team; we're a community united in pushing the boundaries of technology and innovation. Our combined passion fuels our ambition for excellence, driving impact that resonates around the globe.</p><p style="min-height:1.5em">We are an equal-opportunity employer and celebrate diversity, recognizing that a diversity of thought and backgrounds builds stronger teams. We approach diversity and inclusion seriously and thoughtfully. We do not discriminate based on race, ethnicity, religion, color, place of birth, sex, gender identity or expression, sexual orientation, age, marital status, military service status, or disability status. Join us and be part of a company that is crafting the future of technology across multiple industries.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em">#Li-Remote</p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQF7VVv61POIFw/company-logo_200_200/company-logo_200_200/0/1721937953426?e=1743033600&v=beta&t=_qAkZ_qGO7Du2NSUdHDNbUKIbz28Y1HDm1g9mwNIOnk" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Ruby Labs</h5>
                     <h3>Golang Developer | Ruby Labs</h3>
                 </td>
                 <td width="300">
@@ -744,74 +720,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p style="min-height:1.5em"><strong>Location:</strong> Fully Remote | <strong>Type:</strong> Full-time or Contract</p><p style="min-height:1.5em">Salary: $100 - $180k (DOE) + Stock</p><h2></h2><h1><strong>About Synthflow</strong></h1><p style="min-height:1.5em">At <a target="_blank" rel="noopener noreferrer nofollow" href="http://synthflow.ai/">Synthflow</a> we’re building the easiest way for businesses to create AI-powered phone agents. No coding, no fuss—just smarter automation. We’re passionate about delivering the future of voice technology with lightning-fast, scalable solutions. It’s an exciting time at Synthflow: we’re early, fast-growing, and laser-focused on impact. Join us to do the best work of your career while helping businesses thrive.</p><p style="min-height:1.5em"></p><h1><strong>About the role</strong></h1><p style="min-height:1.5em">We’re looking for a Senior Go Developer to build real-time voice AI systems that set the standard.</p><p style="min-height:1.5em"></p><h2><strong>Your responsibilities will include:</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Building &amp; Optimising</strong>: Develop and fine-tune our Go-based real-time, low-latency voice telephony AI service, ensuring it runs smoothly and efficiently. ⚙️</p></li><li><p style="min-height:1.5em"><strong>Scalable Solutions</strong>: Leverage Go’s powerful concurrency features—like goroutines and channels—to build scalable systems that can handle heavy traffic with ease. 📈</p></li><li><p style="min-height:1.5em"><strong>Cloud Infrastructure</strong>: Design and implement cloud infrastructure that supports flexible and reliable deployment models, ensuring our services are always available when our users need them. ☁️</p></li><li><p style="min-height:1.5em"><strong>Cross-Language Collaboration</strong>: Work closely with our backend teams to integrate Go services with Python components, creating a seamless experience across our platform. 🤝</p></li><li><p style="min-height:1.5em"><strong>Infrastructure-as-Code</strong>: Use Terraform to manage cloud deployments, ensuring that our infrastructure is scalable, consistent, and easy to maintain. 🛠️</p></li></ul><p style="min-height:1.5em"></p><h1><strong>What you bring:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Go Expertise</strong>: <strong>You have a strong proficiency in Go</strong>, with a deep understanding of concurrency, goroutines, and channels. You know how to use these tools to build efficient, scalable, and maintainable systems. 💪</p></li><li><p style="min-height:1.5em"><strong>Cloud Savvy</strong>: Extensive experience in cloud infrastructure, preferably across multiple providers like AWS, GCP, or Azure. 🌍</p></li><li><p style="min-height:1.5em"><strong>Terraform Pro</strong>: Skilled in using Terraform for infrastructure-as-code, making cloud deployments straightforward and reliable. 📜</p></li><li><p style="min-height:1.5em"><strong>Real-Time Systems Experience</strong>: Experience in developing and optimising real-time, low-latency systems, with a focus on performance and scalability. ⏱️</p></li><li><p style="min-height:1.5em"><strong>Python Knowledge</strong>: While Go is your primary tool, you’re also comfortable with Python and can contribute to cross-language integrations. 🐍</p></li><li><p style="min-height:1.5em"><strong>Voice Telephony or Audio Processing</strong>: Experience with voice telephony systems or audio processing is a big plus! 🎧</p></li></ul><p style="min-height:1.5em"></p><h1><strong>Who you are:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Problem Solver</strong>: You love tackling complex technical challenges and coming up with innovative solutions. 🧠</p></li><li><p style="min-height:1.5em"><strong>Team Player</strong>: You thrive in a collaborative environment and are excited to share ideas and learn from others. 🤗</p></li><li><p style="min-height:1.5em"><strong>Performance-Oriented</strong>: Always looking for ways to optimise systems and improve performance. 🚀</p></li><li><p style="min-height:1.5em"><strong>Communicator</strong>: Excellent communication skills, able to explain technical concepts clearly to both technical and non-technical team members. 💬</p></li></ul><p style="min-height:1.5em"></p><h1><strong>What We Offer:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Autonomy at speed: </strong>High-ownership roles in a fast-moving startup.</p></li><li><p style="min-height:1.5em"><strong>Remote-first flexibility: </strong>Contribute from anywhere, on your schedule.</p></li><li><p style="min-height:1.5em"><strong>Cutting-edge technology:</strong> Work on what interests you most.</p></li><li><p style="min-height:1.5em"><strong>Career growth: </strong>Scale your impact as the company grows.</p></li><li><p style="min-height:1.5em"><strong>Rewarding package: </strong>Competitive pay, equity options, and comprehensive benefits that reflect your skills and experience. </p></li></ul><h2></h2>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/35933823?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>ília</h5>
-                    <h3>SR Front-end Developer (React.js) </h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/ilia/jobs/5424103004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;p&gt;Aqui na ília nossas vagas estão sempre abertas para todas as pessoas e não se restringem quanto a gênero, etnia, orientação sexual, fatores sociais, condições físicas ou intelectuais (PCD) etc. Incentivamos a candidatura de integrantes de todos os grupos minoritários!&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;Sobre a ília&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Somos especialistas em tecnologia, dados e design, impulsionando a transformação digital de grandes players do mercado há mais de 10 anos, nos setores financeiro, seguros e mobilidade. Com mais de 450 profissionais, estamos presentes no Brasil e Europa, atendendo aos mercados da América Latina, Europa e América do Norte, desenvolvendo produtos digitais de alta qualidade e com foco em resultados de negócios. Somos uma equipe inovadora, criativa e apaixonada por tecnologia.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Certificada pelo 5° ano consecutivo como Great Place to work aqui na ília acreditamos que pessoas mudam o mundo, e investimos nelas. Nossas awesome deliveries são feitas de pessoas para pessoas, afinal awesome people make awesome deliveries!&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;#Vempraília!&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;Requisitos:&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experiência com React.js;&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Inglês Avançado para Conversação (B2 + ou C1);&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Disponibilidade para viagens nacionais e internacionais esporádicas;&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Disponibilidade para atuar em diferentes frentes do Frontend;&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experiência com TypeScript;&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experiência com Microfrontends;&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experiência com Tailwind CSS;&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experiência com Shadcn/ui;&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experiência com Vitest;&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experiência com Storybook;&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experiência com Playwrigth para testes end-to-end;&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experiência com Figma;&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experiência anterior ou atual o UI/UX.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;strong&gt;Benefícios e Incentivos:&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Nossa contratação é CLT- 40h semanais com jornada flexível, sendo executada 100% de forma remota. Os benefícios da ília são pensados para proporcionar uma experiência AWESOME para cada ílian, abaixo você encontra os benefícios de forma resumida. #vempraília&lt;/p&gt;
-&lt;p&gt;Para Saúde e bem-estar:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Plano de Saúde e Odontológico SulAmérica extensivo a dependentes;&lt;/li&gt;
-&lt;li&gt;Vale Alimentação/Refeição em cartão fléxivel Picpay benefícios&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Seguro de Vida;&lt;/li&gt;
-&lt;li&gt;Auxílio Home-Office em cartão fléxivel Picpay benefícios;&lt;/li&gt;
-&lt;li&gt;Wellhub (Gympass)&lt;/li&gt;
-&lt;li&gt;TotalPass&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Para o seu Desenvolvimento:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ília University: Universidade Corporativa com mais de 20 mil cursos disponíveis para desenvolvimento pessoal e profissional;&lt;/li&gt;
-&lt;li&gt;Language Academy: Escola de idiomas para ílians;&lt;/li&gt;
-&lt;li&gt;í-talks e Chapter: Momentos e cerimônias em que o time compartilha práticas, estudos, projetos e ideias. Nas chapters ainda se reúnem pessoas com skills similares para compartilhamento de ideias, práticas e experiências;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Gostamos de ir além no cuidado com as nossas pessoas, então dispomos também de alguns benefícios não convencionais:&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Plano de Saúde PET- Guapeco&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;BYOD- Alugamos o seu notebook pessoal te pagando um valor mensal para que você o use, mas disponibilizamos também máquinas de trabalho para ílians. Você quem decide!&lt;/li&gt;
-&lt;li&gt;Seu Niver, seu bolo!&lt;/li&gt;
-&lt;li&gt;Seu Networking Vale Prêmio- Programa de premiação a indicação de novos funcionários.&lt;/li&gt;
-&lt;/ul&gt;
                 </details>
                 </td>
             </tr>,<tr>
