@@ -1,5 +1,123 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1969270/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Chorus One</h5>
+                    <h3>UI/UX Designer</h3>
+                </td>
+                <td width="300">
+                    <code>Figma,adobe XD</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/design/ui-ux-designer-1969270" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h4"><strong>About Us</strong></div>
+<p style="text-align: start;"><span style="color: #000000;">Chorus One is  at the forefront of </span><strong><span style="color: #000000;">Proof-of-Stake networks</span></strong><span style="color: #000000;"> and decentralized protocols, helping secure billions in assets for tens of </span><strong><span style="color: #000000;">thousands of customers and institutions worldwide</span></strong><span style="color: #000000;">. </span></p>
+<p style="text-align: start;"><span style="color: #000000;">Our mission? To drive </span><strong><span style="color: #000000;">freedom and innovation</span></strong><span style="color: #000000;"> through cutting-edge decentralized technologies.</span></p>
+<p style="text-align: start;"><span style="color: #000000;">We’re a</span><strong><span style="color: #000000;"> global powerhouse</span></strong><span style="color: #000000;"> of 75+ talented individuals from 25+ countries, united by a shared passion for excellence, radical transparency, and continuous growth. But it’s not just about results—we believe in </span><strong><span style="color: #000000;">treating each other with kindness and generosity</span></strong><span style="color: #000000;"> while tackling some of the industry’s most exciting challenges.</span></p>
+<p style="text-align: start;"><span style="color: #000000;">If you’re ready to make an impact in a collaborative, high-energy team redefining the future of blockchain infrastructure, we want to hear from you!</span></p>
+<p style="min-height: 1.7em;"> </p>
+<div class="h4"><strong>Role</strong></div>
+<p><span style="color: #000000;">As a </span><strong><span style="color: #000000;">UI/UX Designer</span></strong><span style="color: #000000;">, you will drive the end-to-end design process for our products, ensuring they are intuitive, user-centric, and aligned with our business goals. You will work closely with Product and Engineering teams to create seamless and delightful user experiences that resonate with our customers.</span></p>
+<p><strong><span style="color: #000000;">Responsibilities</span></strong></p>
+<ul style="">
+<li style="">
+<p><span style="color: #000000;">Research and analyze customer preferences and user behaviors to inform requirement development.</span></p>
+</li>
+<li style="">
+<p><span style="color: #000000;">Conduct usability tests, user interviews, and other methods to gather insights and feedback.</span></p>
+</li>
+<li style="">
+<p><span style="color: #000000;">Translate customer insights into design deliverables, such as concepts, personas, user journeys, system maps, and user flows.</span></p>
+</li>
+<li style="">
+<p><span style="color: #000000;">Lead UX delivery from prototypes to high-fidelity designs based on our design system.</span></p>
+</li>
+<li style="">
+<p><span style="color: #000000;">Collaborate with Product and Engineering teams to develop and iterate on user interfaces, ensuring a seamless integration of design and functionality.</span></p>
+</li>
+<li style="">
+<p><span style="color: #000000;">Continuously refine the user experience based on analytics, feedback, and changing business needs.</span></p>
+</li>
+<li style="">
+<p><span style="color: #000000;">Stay updated on the latest design trends, tools, and best practices in the blockchain and broader tech industry.</span></p>
+</li>
+</ul>
+<p style="min-height: 1.7em;"> </p>
+<p><strong><span style="color: #000000;">What we are looking for</span></strong></p>
+<ul style="">
+<li style="">
+<p><strong><span style="color: #000000;">Experience</span></strong><span style="color: #000000;">: A minimum of 3 years of UI/UX design experience, with at least 1 year of experience in blockchain projects or organizations. Experience designing for institutional products is a plus.</span></p>
+</li>
+<li style="">
+<p><strong><span style="color: #000000;">Portfolio</span></strong><span style="color: #000000;">: Strong portfolio showcasing user flows, wireframes, prototypes, and high-fidelity UI designs for digital products.</span></p>
+</li>
+<li style="">
+<p><strong><span style="color: #000000;">Skills</span></strong><span style="color: #000000;">:</span></p>
+</li>
+</ul>
+<ul style="">
+<li style="">
+<p><span style="color: #000000;">Expertise in UX research methods, usability testing, and data-driven design.</span></p>
+</li>
+<li style="">
+<p><span style="color: #000000;">Proficiency in design tools such as Figma, Adobe XD, or similar.</span></p>
+</li>
+<li style="">
+<p><span style="color: #000000;">Strong understanding of responsive design, accessibility, and design systems.</span></p>
+</li>
+<li style="">
+<p><span style="color: #000000;">Ability to create user-centered designs that balance business and technical requirements.</span></p>
+</li>
+</ul>
+<ul style="">
+<li style="">
+<p><strong><span style="color: #000000;">Communication: </span></strong><span style="color: #000000;">Excellent verbal and written communication skills to articulate design decisions and collaborate across teams.</span></p>
+</li>
+<li style="">
+<p><strong><span style="color: #000000;">Independence: </span></strong><span style="color: #000000;">Comfort working autonomously, managing ambiguity, and delivering high-quality work within deadlines.</span></p>
+</li>
+<li style="">
+<p><strong><span style="color: #000000;">Nice to Have</span></strong><span style="color: #000000;">: Personal use of crypto applications and experience in staking.</span></p>
+</li>
+</ul>
+<p style="text-align: start; min-height: 1.7em;"> </p>
+<p style="text-align: start;"><strong><span style="color: #000000;">What We Offer:</span></strong></p>
+<p style="text-align: start;"><span style="color: #000000;">💸 </span><strong><span style="color: #000000;">Compensation &amp; Equity<br></span></strong><span style="color: #000000;">We offer a </span><strong><span style="color: #000000;">80,000-110,000 USD annual salary range</span></strong><span style="color: #000000;"> in your preferred local currency or stable coins, complemented by </span><strong><span style="color: #000000;">stock options</span></strong><span style="color: #000000;">, giving you a stake in the exciting future we’re building together. </span></p>
+<p style="min-height: 1.7em;"> </p>
+<p style="text-align: start;"><span style="color: #000000;">🌱 </span><strong><span style="color: #000000;">Growth &amp; Learning<br></span></strong><span style="color: #000000;">We’re committed to your development! Benefit from an annual </span><strong><span style="color: #000000;">3,000 CHF learning budget</span></strong><span style="color: #000000;"> that goes beyond just conferences—supporting your physical, emotional, and mental well-being too. Attend up to </span><strong><span style="color: #000000;">two conferences a year</span></strong><span style="color: #000000;"> to dive deeper into the Web3 space and connect with the community. Plus, jumpstart your crypto journey with our </span><strong><span style="color: #000000;">$1,000 Crypto Starter Kit</span></strong><span style="color: #000000;"> to explore and engage with cryptocurrencies hands-on.</span></p>
+<p style="text-align: start; min-height: 1.7em;"> </p>
+<p style="text-align: start;"><span style="color: #000000;">🤝 </span><strong><span style="color: #000000;">Collaborative Culture<br></span></strong><span style="color: #000000;">Collaboration is woven into our DNA. We thrive in </span><strong><span style="color: #000000;">multiplayer settings</span></strong><span style="color: #000000;">, ensuring every voice contributes to our mission. Connect across teams through our </span><strong><span style="color: #000000;">buddy programs, regular virtual coffee chats,</span></strong><span style="color: #000000;"> and </span><strong><span style="color: #000000;">biannual retreats</span></strong><span style="color: #000000;">, which offer unparalleled opportunities to build stronger relationships while tackling some of the industry's most exciting challenges.</span></p>
+<p style="text-align: start; min-height: 1.7em;"> </p>
+<p style="text-align: start;"><span style="color: #000000;">✈️ </span><strong><span style="color: #000000;">Retreats in Iconic Destinations<br></span></strong><span style="color: #000000;">Twice a year, we bring the entire team together for </span><strong><span style="color: #000000;">all-expenses-paid retreats</span></strong><span style="color: #000000;"> in inspiring locations. Past retreats have taken us to</span><strong><span style="color: #000000;"> Kenya, the USA, South Korea, Switzerland, Spain, Turkey, Thailand, Dubai and Japan.</span></strong><span style="color: #000000;"> Our next stop? </span><strong><span style="color: #000000;">Budapest, Hungary!</span></strong><span style="color: #000000;"> These retreats are designed to recharge, connect, and spark innovation.</span></p>
+<p style="text-align: start; min-height: 1.7em;"> </p>
+<p style="text-align: start;"><span style="color: #000000;">🏡 </span><strong><span style="color: #000000;">Work From Anywhere<br></span></strong><span style="color: #000000;">Embrace </span><strong><span style="color: #000000;">remote flexibility</span></strong><span style="color: #000000;"> that empowers you to work from anywhere in the world. Prefer a coworking space? We’ve got you covered with a </span><strong><span style="color: #000000;">500 CHF/month coworking budget</span></strong><span style="color: #000000;">. And for those growing their families, enjoy </span><strong><span style="color: #000000;">paid parental leave</span></strong><span style="color: #000000;"> to ensure your personal and professional lives align seamlessly.</span></p>
+<p style="text-align: start; min-height: 1.7em;"> </p>
+<p style="text-align: start;"><span style="color: #000000;">🗣️ </span><strong><span style="color: #000000;">Radical Transparency<br></span></strong><span style="color: #000000;">We practice </span><strong><span style="color: #000000;">radical candor</span></strong><span style="color: #000000;">, fostering an environment of open, honest feedback that helps us grow individually and as a team. Expect a culture where learning from each other is not just encouraged—it’s celebrated.</span></p>
+<p style="text-align: start; min-height: 1.7em;"> </p>
+<p style="text-align: start;"><strong><span style="color: #000000;">💼Employment</span></strong></p>
+<p style="text-align: start;"><span style="color: #000000;">We offer flexibility to suit your individual needs. With the ability to provide local employment in </span><strong><span style="color: #000000;">over 150 countries</span></strong><span style="color: #000000;">, you’ll have access to local benefits tailored to your region. Prefer contractor status instead? That’s an option too. During the offer, we work with you to determine the best arrangement, ensuring your experience aligns with your personal and professional preferences.</span></p>
+<p style="text-align: start; min-height: 1.7em;"> </p>
+<p style="text-align: start;"><span style="color: #000000;">✨ Curious to see what life at Chorus One is really like? Check out these videos for a behind-the-scenes look:</span></p>
+<ul style="">
+<li style="">
+<p><u><a href="https://www.youtube.com/watch?v=CYF3Uv7xiuc" rel="nofollow" target="_blank"><span style="color: #1155cc;">Culture at Chorus One</span></a></u></p>
+</li>
+</ul>
+<p style="min-height: 1.7em;"> </p>
+<img src="https://remotive.com/job/track/1969270/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1031556251782705153/l7Ht7Yer_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
