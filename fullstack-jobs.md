@@ -223,6 +223,103 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://cdn4.cdn-telegram.org/file/XPlaqlEUknW_svqT3QMieRjyIQZ2HZb9eyjvCZebDNphks5dEmgFZRW4Md5S1cNriHEcPjz3gMSvds9evwWplAnNoxgMJPgEW9aHC0O6iP6wrF6uMQ7FTQC-vOfpi5FnKk4tbrf-mqll8s-QMol8kQNfN1hAYNxzoDpz9H705TGnavueQh8NI2H3P6jCdc11Pb6LRrElPJ3SkhqhLqprt6VVgJ-JlDl1zbxiR1t6unqaZ3e9tH_QB04DPropM2dvCsPV2MmmuUEMVcbHUif2vtjv4NWB1HeBxBvZwh0K6VCRioug1LAj7VeGI4SeMuvj2Sdrwq3zV2vmgbXFB4e28g.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Zircuit</h5>
+                    <h3>Senior Full Stack Engineer (Europe/Singapore)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.ashbyhq.com/Zircuit/01f3b7fd-70a4-4e07-8ff2-9a59101e55d8" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h2><strong>Summary</strong></h2><p style="min-height:1.5em">Zircuit is looking for a Full-Stack Engineer. As a key player in our team, you'll be tasked with developing and maintaining DApps at the intersection of AI and blockchain.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em">Your role is pivotal in blending front-end wizardry with robust back-end solutions, harnessing technologies like JavaScript/Typescript, React, NextJS, Node.js, Python, SQL, Postgres, MongoDB, alongside AWS main services. With a focus on scalability, high performance, and the exciting realm of blockchain and AI technologies, your work will directly contribute to our mission.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em">You'll be part of an agile team, rapidly prototyping and developing innovative DApps in a dynamic environment with evolving requirements. You'll also play a key role in maintaining and improving existing systems.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Candidate Profile</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Background in Computer Science or related field</p></li><li><p style="min-height:1.5em">5+ years of full-stack development experience building high-performance, large-scale applications using technologies such as NextJS, React, and Python</p></li><li><p style="min-height:1.5em">Extensive knowledge of Javascript/Typescript</p></li><li><p style="min-height:1.5em">Blockchain and experience with wagmi.js, ether.js, and related libraries, including smart contracts interactions</p></li><li><p style="min-height:1.5em">Knowledge of SQL and Postgres, as well as non-relational databases (e.g., MongoDB)</p></li><li><p style="min-height:1.5em">Expertise in profiling and improving application performance</p></li><li><p style="min-height:1.5em">Strong testing skills</p></li><li><p style="min-height:1.5em">Comfortable with CI/CD pipelines, monitoring, and cloud platforms like AWS and Heroku</p></li><li><p style="min-height:1.5em">Detail-oriented mindset, willingness to learn, and quality-driven personality</p></li><li><p style="min-height:1.5em">Fluent English communication, both written and spoken</p></li><li><p style="min-height:1.5em">Partial overlap with the GST and EST time zones to ease team communication</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Nice to Have</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">1+ years experience in creating DeFi applications</p></li><li><p style="min-height:1.5em">Experience building LLM applications using AI/ML frameworks and libraries (e.g., TensorFlow, PyTorch).</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Compensation &amp; Perks</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">A competitive salary that matches your experience, plus performance bonuses and token grants</p></li><li><p style="min-height:1.5em">Work from anywhere, 100% remote, and flexible working hours</p></li><li><p style="min-height:1.5em">Generous paid time off, including maternity/paternity leave</p></li><li><p style="min-height:1.5em">Retirement/pension plan</p></li><li><p style="min-height:1.5em">Free gym membership, or any virtual alternative of your choice</p></li><li><p style="min-height:1.5em">Rent your own desk in a co-working space or work from anywhere at any time.</p></li><li><p style="min-height:1.5em">Join all-expenses-paid retreats in exotic/exclusive locations with the team</p></li></ul>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/35933823?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ília</h5>
+                    <h3>SR Desenvolvimento Full Stack (React Native) </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/ilia/jobs/5438810004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;Aqui na ília nossas vagas estão sempre abertas para todas as pessoas e não se restringem quanto a gênero, etnia, orientação sexual, fatores sociais, condições físicas ou intelectuais (PCD) etc. Incentivamos a candidatura de integrantes de todos os grupos minoritários!&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Sobre a ília&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Somos especialistas em tecnologia, dados e design, impulsionando a transformação digital de grandes players do mercado há mais de 10 anos, nos setores financeiro, seguros e mobilidade. Com mais de 450 profissionais, estamos presentes no Brasil e Europa, atendendo aos mercados da América Latina, Europa e América do Norte, desenvolvendo produtos digitais de alta qualidade e com foco em resultados de negócios. Somos uma equipe inovadora, criativa e apaixonada por tecnologia.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Certificada pelo 5° ano consecutivo como Great Place to work aqui na ília acreditamos que pessoas mudam o mundo, e investimos nelas. Nossas awesome deliveries são feitas de pessoas para pessoas, afinal awesome people make awesome deliveries!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;#Vempraília!&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Sobre a vaga:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Realizar a modelagem, documentação e implementação de interfaces front-end/back-end para o site, app e APIs;&lt;/li&gt;
+&lt;li&gt;Garantir a qualidade das soluções através de testes manuais e automatizados;&lt;/li&gt;
+&lt;li&gt;Garantir a observabilidade das aplicações e investigar problemas através de ferramentas como Dynatrace, Datadog, Splunk, Elastic Stack, New Relic e similares;&lt;/li&gt;
+&lt;li&gt;Tomar decisões técnicas, avaliando os riscos e impactos das soluções (desempenho, escalabilidade, manutenibilidade, segurança etc.);&lt;/li&gt;
+&lt;li&gt;Trabalhar em conjunto com outros times da engenharia, garantindo que toda a empresa construa microfrontends, microserviços e gerencie seu conteúdo com o máximo de facilidade e flexibilidade;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Requisitos:&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Experiência com frameworks como React.js, React Native ou similares;&lt;/li&gt;
+&lt;li&gt;Experiência com Javascript, Typescript, HTML e CSS;&lt;/li&gt;
+&lt;li&gt;Capacidade de aplicação de boas práticas de programação;&lt;/li&gt;
+&lt;li&gt;Experiência com testes unitários com Jest;&lt;/li&gt;
+&lt;li&gt;Conhecimento avançado em RESTful APIs;&lt;/li&gt;
+&lt;li&gt;Possuir visão clara de todo o ciclo de desenvolvimento de software;&lt;/li&gt;
+&lt;li&gt;Experiência com melhores práticas de qualidade de software, como testes automatizados, segurança, monitoração e documentação;&lt;/li&gt;
+&lt;li&gt;Vivência com uso de Cloud AWS, IAAS, CI/CD, orquestradores como Kubernetes e Containers como Docker;&lt;/li&gt;
+&lt;li&gt;Vivência em práticas ágeis como Scrum ou Método Kanban; &amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Ter atuado em ecossistema de microfrontends, especialmente com Module Federation do webpack;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Benefícios e Incentivos:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Nossa contratação é CLT- 40h semanais com jornada flexível, sendo executada 100% de forma remota. Os benefícios da ília são pensados para proporcionar uma experiência AWESOME para cada ílian, abaixo você encontra os benefícios de forma resumida. #vempraília&lt;/p&gt;
+&lt;p&gt;Para Saúde e bem-estar:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plano de Saúde e Odontológico SulAmérica extensivo a dependentes;&lt;/li&gt;
+&lt;li&gt;Vale Alimentação/Refeição em cartão fléxivel Picpay benefícios&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Seguro de Vida;&lt;/li&gt;
+&lt;li&gt;Auxílio Home-Office em cartão fléxivel Picpay benefícios;&lt;/li&gt;
+&lt;li&gt;Wellhub (Gympass)&lt;/li&gt;
+&lt;li&gt;TotalPass&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Para o seu Desenvolvimento:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ília University: Universidade Corporativa com mais de 20 mil cursos disponíveis para desenvolvimento pessoal e profissional;&lt;/li&gt;
+&lt;li&gt;Language Academy: Escola de idiomas para ílians;&lt;/li&gt;
+&lt;li&gt;í-talks e Chapter: Momentos e cerimônias em que o time compartilha práticas, estudos, projetos e ideias. Nas chapters ainda se reúnem pessoas com skills similares para compartilhamento de ideias, práticas e experiências;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Gostamos de ir além no cuidado com as nossas pessoas, então dispomos também de alguns benefícios não convencionais:&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plano de Saúde PET- Guapeco&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;BYOD- Alugamos o seu notebook pessoal te pagando um valor mensal para que você o use, mas disponibilizamos também máquinas de trabalho para ílians. Você quem decide!&lt;/li&gt;
+&lt;li&gt;Seu Niver, seu bolo!&lt;/li&gt;
+&lt;li&gt;Seu Networking Vale Prêmio- Programa de premiação a indicação de novos funcionários.&lt;/li&gt;
+&lt;/ul&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/43478154?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
