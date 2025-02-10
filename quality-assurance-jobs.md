@@ -187,6 +187,267 @@
                 </td>
                 <td width="300">
                     <h5>Speechify</h5>
+                    <h3>Senior Quality Assurance Automation Engineer - Ai Studio </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/speechify/jobs/4974899004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Mission&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;br&gt;Speechify is the easiest way to listen to the world’s information. Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster. What streaming services have done for audio entertainment, we’re doing for audio information. And whatever we’re doing seems to be working. We’re #1 in our category, and experiencing exponential growth.&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Overview&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;br&gt;Our team is committed to changing the way people read and with our exponential growth, we are looking for a strong QA engineer to help us succeed through testing mobile applications. We love a commitment to quality and risk assessment, maintaining documentation, and curiosity of testing trends and industry standards.&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;This is a full-time remote role and can be based anywhere globally.&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;What You’ll Do&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Develop and execute test plans, test cases, and test scripts for the Speechify iOS app, ensuring comprehensive coverage for both manual and automated testing.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Collaborate with the development team to identify, reproduce, and document issues and defects in the iOS app.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Utilize and maintain automation tools and frameworks for Web, such as Playwright, to increase efficiency and reduce manual testing efforts.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Stay up-to-date with the latest industry trends, tools, and best practices in Web testing and automation.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Create and maintain test documentation, including test plans, test cases, and test summaries, ensuring they are clear, concise, and up-to-date.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Communicate testing results, progress, and issues to project stakeholders, including developers, product managers, and customer support teams.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Participate in agile development processes, attending daily stand-ups, sprint planning sessions, and retrospectives.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Continuously identify opportunities for process and tool improvements, and work with the team to implement these enhancements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;An ideal candidate should have&lt;/strong&gt;&lt;/div&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;B.S. in Computer Science, related technical field or equivalent experience&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;3+ years of experience in QA engineering, with a focus on Web Based testing.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Proficiency in using automation tools and frameworks for iOS, such as Appium, Python language&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Strong understanding of Web app development and testing processes, including familiarity with Apple&#39;s Human Interface Guidelines and the App Store submission process.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experience with continuous integration and continuous delivery (CI/CD) pipelines, such as Bitrise, CircleCI.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Solid understanding of Agile methodologies and experience working in an Agile environment.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Excellent troubleshooting and problem-solving skills, with the ability to identify, analyze, and resolve issues in a timely manner.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experience with version control systems, such as Git.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;Nice-to-Have:&lt;/div&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experience with text-to-speech technologies.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Familiarity with accessibility testing and guidelines, such as WCAG.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Engineering at Speechify is exciting for a few reasons&lt;/strong&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;We provide an opportunity to not only increase your knowledge, but ours as well.
+&lt;ul&gt;
+&lt;li&gt;We strongly believe is sustainable growth. As a startup, we put our customers and employees first.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Our company vision allows for a lot of creative exploration.
+&lt;ul&gt;
+&lt;li&gt;What does a future where people consume all information through audio look like? How do we create this future?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;We have life changing product market fit.
+&lt;ul&gt;
+&lt;li&gt;Our users (people with disabilities, students, working professionals) report life changing experiences after discovering our product.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;We move very quickly
+&lt;ul&gt;
+&lt;li&gt;We run many experiments and ship product updates multiple times every week.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;We are focused on customers
+&lt;ul&gt;
+&lt;li&gt;We start from concrete user problems and build systems that solve them&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;We value deep thinking
+&lt;ul&gt;
+&lt;li&gt;We get to the right answers through careful thought and experimentation and love digging deeper into the details.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;What we offer&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A fast-growing environment where you can help shape the company and product.&lt;/li&gt;
+&lt;li&gt;An entrepreneurial-minded team that supports risk, intuition, and hustle.&lt;/li&gt;
+&lt;li&gt;A hands-off management approach so you can focus and do your best work.&lt;/li&gt;
+&lt;li&gt;An opportunity to make a big impact in a transformative industry.&lt;/li&gt;
+&lt;li&gt;Competitive salaries, a friendly and laid-back atmosphere, and a commitment to building a great asynchronous culture.&lt;/li&gt;
+&lt;li&gt;Opportunity to work on a life-changing product that millions of people use.&lt;/li&gt;
+&lt;li&gt;Build products that directly impact and support people with learning differences like dyslexia, ADD, low vision, concussions, autism, and more.&lt;/li&gt;
+&lt;li&gt;Work in one of the fastest growing sectors of tech, the intersection of artificial intelligence and audio.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Think you’re a good fit for this job?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tell us more about yourself and why you&#39;re interested in the role when you apply.&lt;br&gt;And don’t forget to include links to your portfolio and LinkedIn.&lt;/p&gt;
+&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Not looking but know someone who would make a great fit?&amp;nbsp;&lt;/strong&gt;&lt;br&gt;Refer them!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;&lt;/strong&gt;&lt;br&gt;Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.&lt;/p&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/32529485?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Speechify</h5>
+                    <h3>Senior Quality Assurance Engineer - Core Experiences SDK</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/speechify/jobs/5383256004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Mission&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;br&gt;Speechify is the easiest way to listen to the world’s information. Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster. What streaming services have done for audio entertainment, we’re doing for audio information. And whatever we’re doing seems to be working. We’re #1 in our category, and experiencing exponential growth.&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Overview&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;br&gt;Our team is committed to changing the way people read and with our exponential growth, we are looking for a strong QA engineer to help us succeed through testing mobile applications. We love a commitment to quality and risk assessment, maintaining&amp;nbsp;documentation, and curiosity of testing trends and industry standards.&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;This is a full-time remote role and can be based anywhere globally.&lt;/div&gt;
+&lt;h3 class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;What You’ll Do&lt;/strong&gt;&lt;/h3&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
+&lt;li&gt;Automation Development:
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
+&lt;li&gt;Design, develop, and maintain automated test scripts and frameworks tailored for SDK testing.&lt;/li&gt;
+&lt;li&gt;Leverage modern tools and methodologies to optimize test automation processes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;
+&lt;p&gt;&lt;strong&gt;SDK Testing:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Test SDKs across multiple platforms, including mobile (iOS/Android), desktop, and cloud-based environments.&lt;/li&gt;
+&lt;li&gt;Validate SDK functionality, compatibility, performance, and security.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Quality Assurance Leadership:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Define and implement best practices for QA processes in SDK development.&lt;/li&gt;
+&lt;li&gt;Collaborate with developers, product managers, and other QA engineers to identify test requirements.&lt;/li&gt;
+&lt;li&gt;Review code and provide feedback to ensure testability and quality standards are met.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Framework Optimization:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop modular and reusable components for automation frameworks to support various SDKs.&lt;/li&gt;
+&lt;li&gt;Monitor and improve automation efficiency through CI/CD pipeline integration.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Bug Management:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Identify, document, and track bugs using issue-tracking tools.&lt;/li&gt;
+&lt;li&gt;Work with engineering teams to ensure timely resolution of defects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Technical Documentation:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create and maintain clear and concise technical documentation for automated tests and QA processes.&lt;/li&gt;
+&lt;li&gt;Provide test plans, coverage reports, and QA metrics to stakeholders.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;An ideal candidate should have&lt;/strong&gt;&lt;/div&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Education: Bachelor’s or Master’s degree in Computer Science, Software Engineering, or a related field.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience:&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;5+ years of experience in software quality assurance, with a focus on automation.&lt;/li&gt;
+&lt;li&gt;Extensive hands-on experience testing SDKs, libraries, or APIs.&lt;/li&gt;
+&lt;li&gt;Proficiency in one or more programming languages such as Python, Java, or C#.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;Skills:&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Strong knowledge of testing methodologies, tools, and best practices for SDKs.&lt;/li&gt;
+&lt;li&gt;Experience with automation tools like Selenium, Appium, or equivalent.&lt;/li&gt;
+&lt;li&gt;Familiarity with SDK tools and platforms (e.g., Xcode, Android Studio, Postman).&lt;/li&gt;
+&lt;li&gt;Proficiency in version control systems like Git and CI/CD tools like Jenkins or GitHub Actions.&lt;/li&gt;
+&lt;li&gt;Experience with performance testing and monitoring tools is a plus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong&gt;Nice-to-Have:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
+&lt;li&gt;Experience working in Agile or DevOps environments.&lt;/li&gt;
+&lt;li&gt;Familiarity with cloud-based SDKs and services (e.g., AWS, Azure, Google Cloud).&lt;/li&gt;
+&lt;li&gt;Knowledge of security and compliance testing standards&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Engineering at Speechify is exciting for a few reasons&lt;/strong&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;We provide an opportunity to not only increase your knowledge, but ours as well.
+&lt;ul&gt;
+&lt;li&gt;We strongly believe is sustainable growth. As a startup, we put our customers and employees first.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Our company vision allows for a lot of creative exploration.
+&lt;ul&gt;
+&lt;li&gt;What does a future where people consume all information through audio look like? How do we create this future?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;We have life changing product market fit.
+&lt;ul&gt;
+&lt;li&gt;Our users (people with disabilities, students, working professionals) report life changing experiences after discovering our product.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;We move very quickly
+&lt;ul&gt;
+&lt;li&gt;We run many experiments and ship product updates multiple times every week.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;We are focused on customers
+&lt;ul&gt;
+&lt;li&gt;We start from concrete user problems and build systems that solve them&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;We value deep thinking
+&lt;ul&gt;
+&lt;li&gt;We get to the right answers through careful thought and experimentation and love digging deeper into the details.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;What we offer&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A fast-growing environment where you can help shape the company and product.&lt;/li&gt;
+&lt;li&gt;An entrepreneurial-minded team that supports risk, intuition, and hustle.&lt;/li&gt;
+&lt;li&gt;A hands-off management approach so you can focus and do your best work.&lt;/li&gt;
+&lt;li&gt;An opportunity to make a big impact in a transformative industry.&lt;/li&gt;
+&lt;li&gt;Competitive salaries, a friendly and laid-back atmosphere, and a commitment to building a great asynchronous culture.&lt;/li&gt;
+&lt;li&gt;Opportunity to work on a life-changing product that millions of people use.&lt;/li&gt;
+&lt;li&gt;Build products that directly impact and support people with learning differences like dyslexia, ADD, low vision, concussions, autism, and more.&lt;/li&gt;
+&lt;li&gt;Work in one of the fastest growing sectors of tech, the intersection of artificial intelligence and audio.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Think you’re a good fit for this job?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tell us more about yourself and why you&#39;re interested in the role when you apply.&lt;br&gt;And don’t forget to include links to your portfolio and LinkedIn.&lt;/p&gt;
+&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Not looking but know someone who would make a great fit?&amp;nbsp;&lt;/strong&gt;&lt;br&gt;Refer them!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;&lt;/strong&gt;&lt;br&gt;Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.&lt;/p&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/32529485?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Speechify</h5>
                     <h3>Senior Quality Assurance Engineer - Web</h3>
                 </td>
                 <td width="300">
