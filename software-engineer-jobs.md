@@ -4,133 +4,6 @@
                 </td>
                 <td width="300">
                     <h5>Sourcegraph</h5>
-                    <h3>Software Engineer - Cody Prime [IC2]</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/sourcegraph91/jobs/5393421004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Our mission at Sourcegraph is to make it so that &lt;a href=&quot;https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4&quot;&gt;everyone can code&lt;/a&gt;, not just ~0.1% of the population.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;We are transforming how the world’s most important companies build software by industrializing development with AI. Today, most professional developers spend a disproportionate amount of time understanding code and performing repetitive, low-level tasks—leaving less time for innovation and meaningful impact.&lt;/p&gt;
-&lt;p&gt;We’re changing that. Sourcegraph brings AI-powered search and agents to the enterprise, helping teams automate the mundane and amplify what developers do best— solving hard problems and creating great products.&lt;/p&gt;
-&lt;p&gt;Here’s how we’re making a difference:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Accelerating developers &lt;/strong&gt;with AI agents that deliver insights and precision—enabling 5x faster test creation, 30% increase in merge requests, and saving 20 minutes per developer daily.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Automating repetitive tasks,&lt;/strong&gt; from remediating vulnerabilities (saving teams 1,000+ hours annually) to speeding up migrations that would take years to months.&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Enabling innovation&lt;/strong&gt; by addressing complex problems like automated bug triage, vulnerability detection, and AI-driven code reviews seamlessly integrated into workflows.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Trusted by 7/10 top software companies by market cap, 4/6 top US banks and many of the companies leading global innovation, like Stripe, Indeed, Tesla, and 1Password, and with $225M in funding from investors like &lt;a href=&quot;https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/&quot;&gt;a16z&lt;/a&gt;, &lt;a href=&quot;https://about.sourcegraph.com/blog/series-c-with-sequoia/&quot;&gt;Sequoia&lt;/a&gt;, and &lt;a href=&quot;https://www.redpoint.com/companies/sourcegraph/&quot;&gt;Redpoint&lt;/a&gt;, we are building the tools that will define the next era of enterprise software development.&lt;/p&gt;
-&lt;p&gt;If you’re passionate about solving the hardest problems in software and shaping the future of technology, join us. Let’s build something extraordinary together.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Location&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;🌎 While we hire &lt;a href=&quot;https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4&quot;&gt;almost anywhere&lt;/a&gt; in the world, we have a preference for someone to reside in the following locations for this role. However, if you feel qualified, we welcome you to apply regardless of location. No matter what, working hours must overlap with the PST timezone for at least 20 hours/week.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Preferred location:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Remote - USA&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Why this job is exciting&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Source code is at the heart of Sourcegraph. We support multiple code hosts and retrieve, store, index, and serve source code - to end users, admins, and other internal services. Our latest addition to our product catalog, Cody, reimagines how code is written and supercharges our developer customers. Sourcegraph hosts the infrastructure for our customers to manage their source code (search, insights, own, etc.) and our brand new AI Code Assistant (Cody).&lt;/p&gt;
-&lt;p&gt;The Cody Prime team is responsible for the Enterprise service layer for Cody, providing services &amp;amp; tools to help Cody succeed in secure enterprise environments, and making it easier for Cody Core team to build enterprise-friendly features. This is a new and unmapped space, building an AI product that meets high regulatory and compliance standards. As an engineer on the Cody Prime team, you will work closely with engineers on the Cody Core and Core Services teams. You will:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Build and operate resilient and secure services providing authorization and authentication for Cody&lt;/li&gt;
-&lt;li&gt;Develop a roadmap and tooling for abuse detection and mitigation&lt;/li&gt;
-&lt;li&gt;Extend and operate analytics services collecting data around usage metering, license management, billing, and rate limiting&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;📅 Within one month, you will…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Onboard onto the Sourcegraph architecture, tooling, and development workflow.&lt;/li&gt;
-&lt;li&gt;Build a solid understanding of the team’s areas of ownership, technical challenges, and problems the team solves for our customers, and know how all of these align with the top-level company goals.&lt;/li&gt;
-&lt;li&gt;Actively participate in team meetings, sharing ideas and insights to contribute to the overall team goals.&lt;/li&gt;
-&lt;li&gt;Start contributing to the team goals and deliverables by shipping new features, debugging issues, and fixing bugs.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;📅 Within three months, you will…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Demonstrate an understanding of the Cody Prime service stack, its underlying technologies, and its integration within the Sourcegraph ecosystem.&lt;/li&gt;
-&lt;li&gt;Contribute to the implementation of new features or improvements in Go, with occasional opportunities to work on front-end features using JavaScript.&lt;/li&gt;
-&lt;li&gt;Participate in initiatives contributing to team goals on the roadmap by going through the entire product development lifecycle discovery, design, implementation, and delivery.&lt;/li&gt;
-&lt;li&gt;Participate in support of our production services.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;📅 Within six months, you will…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Demonstrate a deep understanding of the Cody Gateway and Cody Analytics products.&lt;/li&gt;
-&lt;li&gt;Contribute new features to both services with assistance from senior engineers on the team.&lt;/li&gt;
-&lt;li&gt;Collaborate with teams across the company on projects that benefit from cross-team expertise, particularly those involving monetization or analytics of the Cody product.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;About you&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;You bring a product mindset in balancing design philosophy with meeting customer demand, balancing the requirements of enterprise-grade production services with the rapid iteration requirements of the AI space.&lt;/p&gt;
-&lt;p&gt;You think in terms of building self-service platforms and APIs, which reduce manual operations and enable other developers. You balance maintaining and designing high-impact systems with a pragmatic understanding of how to make appropriate tradeoffs (e.g., cut scope, low-tech vs. custom complex solutions) to ship quickly and iterate when necessary. You’re excited to work in a new space, bringing enterprise-grade security to an AI chat product. You are strongly aligned with &lt;a href=&quot;https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d&quot;&gt;our values&lt;/a&gt;, inspired by our mission to make it so that everyone can code, and motivated to do your best work at Sourcegraph.&lt;/p&gt;
-&lt;p&gt;Qualifications:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Clear and empathetic communication skills.&lt;/li&gt;
-&lt;li&gt;Proficiency in Go (or other strongly typed languages with a desire, willingness, and ability to quickly ramp up on effective Go.)&lt;/li&gt;
-&lt;li&gt;General knowledge about deploying/managing/utilizing services in Cloud environments (GCP, Terraform, Kubernetes, CI/CD, etc. or similar)&lt;/li&gt;
-&lt;li&gt;Skilled at architecting, debugging, building, testing, and reasoning about moderately complex distributed systems which intersect APIs and Services provided by other teams &amp;amp; companies.&lt;/li&gt;
-&lt;li&gt;Comfortable reasoning about API performance, service monitoring, metrics, alerting, etc. in moderately complex distributed systems (writing such code, and general intuition skills around OS primitives like network/CPU/memory, etc.)&lt;/li&gt;
-&lt;li&gt;Eagerness to help and assist other internal (and occasionally external) engineers with the institutional knowledge you will help build on the team.&lt;/li&gt;
-&lt;li&gt;Experience working on small high-performing teams, preferably tech startups, or a strong desire to join a fast-paced async team environment.&lt;/li&gt;
-&lt;li&gt;Your working hours overlap with 9am-5pm &lt;a href=&quot;https://time.is/PT&quot;&gt;PT&lt;/a&gt; for at least 15 hours per week so we have time to collaborate synchronously when necessary.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Nice to haves:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Familiarity with monitoring/alerting technologies such as: Prometheus, Grafana, OpenTelemetry, OpsGenie, etc.&lt;/li&gt;
-&lt;li&gt;Familiarity with API technologies such as: HTTP text streams, WebSockets, REST, gRPC, etc.&lt;/li&gt;
-&lt;li&gt;Comfortable developing services that fit broader organizational preferences (neither micro-services nor monoliths, balancing and reasoning about such tradeoffs.)&lt;/li&gt;
-&lt;li&gt;General familiarity with payment processing, authentication, etc. technologies or a desire to learn their usage.&lt;/li&gt;
-&lt;li&gt;Familiarity with, or an eagerness to learn about, interacting with most AI/LLM APIs in the world, their nuances and intricacies.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;📊 This job is an IC2 position.&amp;nbsp; You can read more about &lt;a href=&quot;https://www.notion.so/sourcegraph/Leveling-Guide-0e1b5c76ada64b9caac387f8b7c4fc66&quot;&gt;our job leveling philosophy&lt;/a&gt; in our Handbook.&lt;/p&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;💸 We pay you an above-average salary&lt;/strong&gt; because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an &lt;a href=&quot;https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d&quot;&gt;open and transparent&lt;/a&gt; company that values &lt;a href=&quot;https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4&quot;&gt;competitive compensation&lt;/a&gt;, our compensation ranges are visible to every single Sourcegraph teammate.&lt;/p&gt;
-&lt;p&gt;Your salary is determined by your pay band for the IC2 job level. For determining pay bands, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that the salaries below may be adjusted in the future.&lt;/p&gt;
-&lt;p&gt;💰 The target compensation for this role is based on the IC2 pay band for your zone. The start of the IC2 pay band for each zone is listed below:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Zone 1: $145,000 USD&lt;/li&gt;
-&lt;li&gt;Zone 2: $116,000 USD&lt;/li&gt;
-&lt;li&gt;Zone 3: $87,000 USD&lt;/li&gt;
-&lt;li&gt;Zone 4: $58,000 USD&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Please speak with a recruiter for additional information regarding zone locations.&lt;/p&gt;
-&lt;p&gt;📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba&quot;&gt;perks &amp;amp; benefits&lt;/a&gt;.&lt;/p&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Interview process&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Below is the interview process you can expect for this role (you can read more about &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/Types-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7&quot;&gt;&lt;em&gt;the types of interviews&lt;/em&gt;&lt;/a&gt;&lt;em&gt; in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;We expect the interview process to take 5.75 hours in total.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;👋 Introduction Stage&lt;/strong&gt;&amp;nbsp;- we have initial conversations to get to know you better…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;[30m]&amp;nbsp;&lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13&quot;&gt;Recruiter Screen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[15m]&amp;nbsp;&lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#6a6deb280d374652b21d5aa3061c82d2&quot;&gt;Hiring Manager Intro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;🧑‍💻 Team Interview Stage&lt;/strong&gt; - we then schedule team interviews to delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;[45m]&amp;nbsp;&lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#da568e7854bb4aaa9b027157088e2d71&quot;&gt;Technical Screen / Resume Deep Dive&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[60m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3?pvs=4#e83edd987754460e839138a4bbfd592e&quot;&gt;Coding exercise&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[60m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3?pvs=4#e83edd987754460e839138a4bbfd592e&quot;&gt;Coding exercise&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[60m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3?pvs=4#b37f3b535e894775b9c64f53675b5549&quot;&gt;System design&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[45m] &lt;a href=&quot;https://sourcegraph.notion.site/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7#cb00697e95304550a146c32563c0255d&quot;&gt;Cross-functional Team Collaboration Interview&lt;/a&gt;&amp;nbsp;/&amp;nbsp;&lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd&quot;&gt;Values Interview&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[30m] &lt;a href=&quot;https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c&quot;&gt;Leadership&lt;/a&gt;&amp;nbsp;with co-founder&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;We check references and conduct your background check&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Learn more about us&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;You can learn more about what it is like to work at Sourcegraph by reading &lt;a href=&quot;https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0&quot;&gt;our handbook&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;We are an ambitious team who are collectively working hard to build the most influential company in the world.&amp;nbsp; You can read more about our &lt;a href=&quot;https://sourcegraph.notion.site/What-it-s-like-working-at-Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115&quot;&gt;culture&lt;/a&gt;, &lt;a href=&quot;https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74&quot;&gt;competitive compensation&lt;/a&gt; and &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74&quot;&gt;benefits&lt;/a&gt; here.&lt;/p&gt;
-&lt;p&gt;Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Sourcegraph participates in &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107&quot;&gt;&lt;em&gt;E-Verify&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for U.S. Employees. &lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/3979584?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sourcegraph</h5>
                     <h3>Software Engineer - Search Platform [IC4]</h3>
                 </td>
                 <td width="300">
@@ -963,79 +836,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/v2/D560BAQHzAQXggf5uQg/company-logo_200_200/company-logo_200_200/0/1688643230676/bobtail_logo?e=1742428800&v=beta&t=P9gHgDHOknAHShwQR1JsLMYGaVscLGTzwmWViGMvnbE" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Bobtail</h5>
-                    <h3>Sr. Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/bobtail/jobs/4514274005" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;About Bobtail&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bobtail is dedicated to increasing happiness by eliminating inefficiencies in the supply chain.&amp;nbsp; We envision a supply chain without friction, fraud, waste, and abuse where companies succeed based on the value they create.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We work in a unique way at Bobtail, where we value teams over individuals and encourage experimentation and iteration to constantly improve.&amp;nbsp; Teams are given flexibility in working towards a shared purpose and given the freedom to decide how they will accomplish their goals.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you are an out of the box thinker that takes a proactive approach in collaborating with others to solve problems and achieve your goals - we would love to talk to you.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The things we value:&lt;/span&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Mission&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Teams over individuals&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Collaboration&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Communication&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Iteration&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experimentation and failing fast&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Initiative and solutions oriented approach&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Documentation&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Data&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Mental health and work life balance&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Diversity&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Transparency&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You should apply if you have:&lt;/span&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Exposure to SDLC from reviewing requirements through to debugging complex systems in Production.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong theoretical fundamentals and hands-on experience designing and implementing highly available and performant fault-tolerant distributed systems.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5+ years of experience in software engineering with demonstrated proficiency in programming languages, such as nodejs, typescript and overall system design.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience building enterprise software, event driven microservices architecture, and distributed systems at scale.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bachelor&#39;s degree in computer science or a related engineering degree.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will be responsible for:&lt;/span&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Writing reusable, testable, efficient and secure code.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working with large scale, highly available and resilient modern financial systems.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working with automated deployment, enabling code release multiple times a day.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working with modern tools and languages that excite you&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Being an integral part of a team, in addition to its culture and ways of working. Common practices include agile methodologies.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Some of the technologies you’ll get to work with:&lt;/span&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Typescript &amp;amp; Javascript.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Node.js, Express js.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;CI/CD, AWS, Terraform, Docker, EKS / ECS.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Benefits&lt;/span&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Monthly Mental Break Day&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Paid Time Off&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work from home (or wherever)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Parental leave&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you are interested in learning more, please email us at careers@bobtail.com.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Creating a diverse and inclusive workplace is Bobtail’s nucleus. We are an equal opportunity employer and embrace people of different backgrounds, cultures, religions, national origins, races, colors, genders, gender expressions, sexual orientations, ages, marital status, veteran status, experiences, abilities and perspective&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;s.&lt;/span&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -1091,6 +891,82 @@
 <p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, “the world’s best free software platform”. Our services help businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.</p>
 <p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your<a href="https://canonical.com/careers/diversity/identity"> identity</a>, we will give your application fair consideration.</em></p>
 <p>#LI-Remote&nbsp;</p><p>Requisition ID: 967</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Embedded Linux Senior Software Engineer - Optimisation</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/6189337" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>Work across the full Linux stack from kernel through GUI to optimise Ubuntu, the world’s most widely used Linux desktop and server, for the latest silicon.</p>
+<p>The role is a fast-paced, problem-solving role that’s challenging yet very exciting. The right candidate must be resourceful, articulate, and able to deliver on a wide variety of solutions across PC and IoT technologies. Our teams partner with specialist engineers from major silicon companies to integrate next-generation features and performance enhancements for upcoming hardware.</p>
+<p><strong>Location:</strong> <em>This is a Globally remote role</em></p>
+<h2>What your day will look like</h2>
+<ul>
+<li>Design and implement the best Ubuntu integration for the latest IoT and server-class hardware platforms and software stacks</li>
+<li>Work with partners to deliver a delightful, optimised, first class Ubuntu experience on their platforms</li>
+<li>Take a holistic approach to the Ubuntu experience on partner platforms with inputs on technical plans, testing strategy, quality metrics</li>
+<li>Participate as technical lead on complex customer engagements involving complete system architectures from cloud to edge</li>
+<li>Help our customers integrate their apps, SDKs, build device OS images, optimize applications with Ubuntu Core, Desktop and Server</li>
+<li>Work with the most advanced operating systems and application technologies available in the enterprise world.</li>
+</ul>
+<p>Joining Canonical, you will partner with bright minds from all over the world, and work with an exciting set of new technologies in a fast growing company with a truly unique and ambitious vision to build a better platform with free software. You will work with customers on exciting IoT and server platforms and technologies, built to support different verticals: from robots to data centers, from telco to retail.</p>
+<h2>What we are looking for in you</h2>
+<ul>
+<li>You love technology and working with brilliant people</li>
+<li>You have a Bachelor’s degree in Computer Science, STEM or similar&nbsp;</li>
+<li>You have experience with Linux packaging (Debian, RPM, Yocto)</li>
+<li>You have experience working with open source communities and licences</li>
+<li>You have experience working with C, C++</li>
+<li>You can work in a globally distributed team through self-discipline and self-motivation.</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>Experience with graphics stacks</li>
+<li>Good understanding of networking - TCP/IP, DHCP, HTTP/REST</li>
+<li>Basic understanding of security best practices in IoT or server environments</li>
+<li>Good communication skills, ideally public speaking experience</li>
+<li>IoT / Embedded experience – from board and SoC, BMCs, bootloaders and firmware to OS, through apps and services</li>
+<li>Some experience with Docker/OCI containers/K8s</li>
+</ul>
+<h2>What we offer you</h2>
+<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
+<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.</p>
+<ul>
+<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of 2,000USD per annum</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Parental Leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p><p>Requisition ID: 829</p><p></p>
     
                 </details>
                 </td>
@@ -2751,49 +2627,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div>Are you ready to embark on an exciting adventure? Are you looking for an opportunity that breaks the mold and lets you unleash your creativity and talent? You’ve come to the right place!</div><div><br></div><div>🚀 About Us 🚀</div><div>We’re a team of innovators, ambitious and mission-driven people who are always striving to do better. We value diversity, embrace quirks and celebrate uniqueness. Together, we’re on a mission to revolutionize the global real estate capital markets.  At Altrio, we are building real estate investment software designed to help our clients invest faster, smarter, and more confidently for some of the biggest global real estate investors, including Brookfield Properties, QuadReal Property Group and Hines.</div><div><br></div><div>🏢 The Opportunity 🏢 </div><div><span style="font-size: 11pt;">We are currently looking for an Intermediate Software Engineer (Ruby on Rails) to join the team. The ideal candidate will have a strong understanding of Ruby on Rails, as well as experience building and maintaining web applications. In this role, you will be responsible for working on a variety of projects, including new feature development, bug fixing, and performance optimization.</span></div><div><span style="font-size: 11pt;">We’re using both client and server-side technologies; Javascript, React and Tailwind CSS along with modern Rails; Stimulus and Hotwire to deliver experiences our customers love. We’re strong proponents of </span><a rel="noopener noreferrer" class="postings-link" style="font-size: 11pt;" href="https://dev.37signals.com/vanilla-rails-is-plenty/">vanilla rails</a><span style="font-size: 11pt;"> and endeavour to really lean into the framework.</span></div><div><br></div><div>Are you ready to embark on an exciting adventure? Are you looking for an opportunity that breaks the mold and lets you unleash your creativity and talent? You’ve come to the right place!</div><div><br></div><div>🚀 About Us 🚀</div><div>We’re a team of innovators, ambitious and mission-driven people who are always striving to do better. We value diversity, embrace quirks and celebrate uniqueness. Together, we’re on a mission to revolutionize the global real estate capital markets.  At Altrio, we are building real estate investment software designed to help our clients invest faster, smarter, and more confidently for some of the biggest global real estate investors, including Brookfield Properties, QuadReal Property Group and Hines.</div><div><br></div><div>🏢 The Opportunity 🏢 </div><div><span style="font-size: 11pt;">We are currently looking for an Intermediate Software Engineer (Ruby on Rails) to join the team. The ideal candidate will have a strong understanding of Ruby on Rails, as well as experience building and maintaining web applications. In this role, you will be responsible for working on a variety of projects, including new feature development, bug fixing, and performance optimization.</span></div><div><span style="font-size: 11pt;">We’re using both client and server-side technologies; Javascript, React and Tailwind CSS along with modern Rails; Stimulus and Hotwire to deliver experiences our customers love. We’re strong proponents of </span><a href="https://dev.37signals.com/vanilla-rails-is-plenty/" style="font-size: 11pt;" class="postings-link" target="_blank" rel="noopener noreferrer">vanilla rails</a><span style="font-size: 11pt;"> and endeavour to really lean into the framework.</span></div><div><br></div><h3>🔥 What You'll Do 🔥</h3><li>Design, develop and ship major features for existing and new products using Ruby on Rails</li><li>Write clean, maintainable, and efficient code</li><li>Collaborate with other developers, designers, and stakeholders to deliver high-quality products</li><li>Troubleshoot and debug issues as they arise</li><li>Stay up-to-date with the latest industry trends and technologies</li><li>Mentor junior developers and lead best practices across the team</li><li>Deeply understand the needs of our business and its clients</li><li>Have the opportunity to work full stack</li><li>Help shape our engineering culture, tooling and processes </li><h3>💡 What You Bring to the Team 💡</h3><li>2+ years of professional software engineering experience</li><li>Have delivered impactful projects from design to production with Ruby on Rails</li><li>Familiarity with Git and other version control tools</li><li>Strong problem-solving, analytical, debugging and troubleshooting skills</li><li>Practitioner of best practices in code health, testability, maintainability, scalability</li><li>Effective communicator who is comfortable seeking and receiving feedback</li><li>Highly collaborative with low ego</li><li>Results-oriented developer who takes pride in their craft</li><h3>🌟 Perks and Benefits 🌟</h3><li><b>Stake in the Company:</b> Empowering and amplifying the voices and work of our employees is important to us, and that’s why we provide employee stock options. We want the whole team to share in our successes and victories, and have hard work pay off in more ways than a paycheque.</li><li><b>Continuous Learning:</b> We believe that investing in our employees’ growth and development is essential to our long-term success as a company. By providing financial support for continuing education and skill-building opportunities, we empower our employees to stay up-to-date with the latest trends and best practices in their field, and develop new skills.</li><li><b>Health Coverage:</b> Ensuring our employees feel valued, supported and empowered to prioritize their health and well-being is our top priority. We offer comprehensive healthcare coverage to provide the support and resources our employees need to take care of themselves and their families, so they can come to work healthy, focused, and ready to take on the day.</li><li><b>Work from Anywhere:</b> We give our team the flexibility and ownership to choose to work from wherever they’re most productive, whether that be at home, the Toronto HQ, or anywhere else. We want our team to feel productive, and balance their lives however works best for them.</li><li><b>Rest &amp; Recharge:</b> We provide ample vacation days, personal days and other forms of paid leave, our employees should feel free prioritize their well-being, spend time with their loved ones, and experience new places and activities</li><div><span style="font-size: 16px;">We are committed to creating an inclusive and accessible work environment for all candidates. If you require accommodations to participate in the application process or have any specific needs throughout the hiring process, please contact us at people@altrio.com. </span></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/33687898?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Pitch</h5>
-                    <h3>Senior Software Engineer (m/f/d)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/pitch/jobs/7813886002" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Pitch is the collaborative presentation platform for modern teams.&lt;/strong&gt; With a focus on real-time collaboration, smart workflows, and intuitive design features, we make it fast and delightful for teams to create and deliver beautiful presentations. Our presentation and template galleries give everyone the ability to publish their own standout work, learn from one another, and find the creative spark for their next presentation. Tens of thousands of teams have made the switch to Pitch, including top brands like Intercom, Superhuman, and Notion.&amp;nbsp;And we’re just getting started.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;As a Senior Software Engineer at Pitch, you’ll play a critical role in shaping the user experience of a platform used by thousands of creative professionals worldwide. Collaborating with designers, product managers, and back-end engineers, you will ensure our application is fast, intuitive, and delightful to use. If you&#39;re interested in pushing the boundaries of browser-based interfaces to solve tangible problems, love functional programming, and want to be part of a diverse, remote-first team of visionaries, we&#39;d love to hear from you!&amp;nbsp;&lt;/p&gt;
-&lt;h2 style=&quot;text-align: center;&quot;&gt;What you’ll get to do&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;You will join a team of experienced developers building high impact features for our users driven by design, user research, and metrics. Your work will be mostly be frontend focussed but you will be expected to occasionally work on backend services, tooling, and infrastructure.&lt;/li&gt;
-&lt;li&gt;You will collaborate with peers to define architecture, quality standards, and best practices.&lt;/li&gt;
-&lt;li&gt;You will work closely with our designers, teaming up in small cross-functional teams to bring features from idea to prototype to final implementation with a high degree of autonomy.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 style=&quot;text-align: center;&quot;&gt;Who we are looking for&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;You love shipping Single Page Applications and bringing delightful user interactions to life.&lt;/li&gt;
-&lt;li&gt;You ensure code quality and system security through automation, unit testing and structured code reviews.&lt;/li&gt;
-&lt;li&gt;You are product oriented, combining thoughtfulness with pragmatism and a will to get stuff done. You are calm and focused under pressure, and consider work-life balance essential for long-term happiness and productivity.&lt;/li&gt;
-&lt;li&gt;You have some experience with Clojure/script.&lt;/li&gt;
-&lt;li&gt;You have extensive experience with React.js and other Javascript libraries. &lt;/li&gt;
-&lt;li&gt;You enjoy breaking complex tasks down into small deliverables and iterating with a focus on a delightful user experience&lt;/li&gt;
-&lt;li&gt;You believe effective and successful work is made possible by clear and honest communication, with a shared understanding of the long-term vision and immediate next actions. When you don&#39;t fully understand something, you ask lots of questions and use the opportunity to learn and grow.&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Curious what it&#39;s like to work at Pitch?&lt;/strong&gt; Find out more about how Pitch operates as a remote-first company through using &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;https://pitch.com/blog/3-ways-we-use-pitch-notion-to-work-better-as-a-remote-team&quot;&gt;powerful collaboration tools&lt;/a&gt;&lt;/span&gt; and &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;https://pitch.com/blog/running-remote-offsites-and-onboardings&quot;&gt;dogfooding our own products&lt;/a&gt;&lt;/span&gt;!&lt;/p&gt;
-&lt;p&gt;Pitch was founded in Berlin, but as &lt;strong data-stringify-type=&quot;bold&quot;&gt;a remote-first company&lt;/strong&gt;, our team works together from all over the world. With that mindset, we&#39;re building an inclusive workplace that invites diverse perspectives, and values talent from diverse personal and professional backgrounds. For more specifics on how we honour our commitment to diversity in our&amp;nbsp;&lt;span class=&quot;c-mrkdwn__highlight&quot;&gt;hiring&lt;/span&gt; process, check out our &lt;a href=&quot;https://www.notion.so/pitch/Our-Recruiting-D-I-Pledge-fc35d4598aba4f26ac69628977656302&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Recruiting D&amp;amp;I Pledge&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sounds like a good fit? &lt;/strong&gt;Join us on our mission to enable every team&#39;s best thinking - we look forward to hearing from you!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Not quite sure whether that&#39;s a role for you?&lt;/strong&gt; No problem! If you can&#39;t find any open role that caught your eye, but are interested in working at Pitch, you can always &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;https://boards.greenhouse.io/pitch/jobs/5548320002&quot;&gt;submit your resume here&lt;/a&gt;&lt;/span&gt;. We will follow up as soon as we open up a position that matches your skillset and aspirations!&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
