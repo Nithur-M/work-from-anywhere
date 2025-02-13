@@ -359,4 +359,82 @@
     
                 </details>
                 </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/87750292?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Scroll</h5>
+                    <h3>Senior / Staff Site Reliability Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.eu.greenhouse.io/scrollio/jobs/4535465101" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Scroll is a Layer 2 scaling solution for Ethereum, specifically focusing on zkRollups. Key aspects of Scroll are zkRollup technology, Scalability, Efficiency, Security, and Developer-friendly. Overall, Scroll plays a crucial role in addressing Ethereum&#39;s scalability challenges and facilitating the growth of decentralized finance (DeFi) and other blockchain-based applications by providing a scalable and efficient Layer 2 solution.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;Position Overview&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We are looking for a Senior or Staff Site Reliability Engineer to lead the design, implementation, and management of our infrastructure and development operations to ensure the best reliability, security, and scalability. You will work closely with our development team to build and maintain automated deployment pipelines, monitor and analyze system performance, and identify and resolve issues before they impact our users. You are expected to become SRE team lead after 3 month probation period.&lt;/p&gt;
+&lt;p&gt;This is a dynamic role in a fast-paced blockchain environment, ideal for someone embracing ownership and autonomy to grow with us.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Platform Engineering &amp;amp; Developer Enablement&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Design, build, and maintain internal developer tools to improve developer lifecycle, including building, testing, and deploying.&lt;/li&gt;
+&lt;li&gt;Create tools that streamline developer workflows, including monitoring, logging, and debugging utilities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Infrastructure &amp;amp; System Architecture&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Design, provision, and maintain cloud environments focused on scalability, reliability, and security.&lt;/li&gt;
+&lt;li&gt;Automate deployment and maintenance processes ensuring seamless integration and rapid iteration.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reliability, Monitoring &amp;amp; Security&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Implement observability solutions to gain actionable insights, enhance performance, and ensure high availability of blockchain services.&lt;/li&gt;
+&lt;li&gt;Work closely with the security team to harden infrastructure and mitigate potential threats.&lt;/li&gt;
+&lt;li&gt;Operate and maintain a fleet of hundreds of GPU-based zk provers. Track prover health, detect failures, and optimize performance in real time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;5+ years of experience as a DevOps, Infrastructure, Site Reliability or Cloud Engineer&lt;/li&gt;
+&lt;li&gt;3+ years of experience as Backend Developer&lt;/li&gt;
+&lt;li&gt;Familiarity with hybrid cloud environments (AWS, Azure, GCP,&amp;nbsp;etc.) and the ability to design, provision, and maintain them securely and efficiently.&lt;/li&gt;
+&lt;li&gt;Good at any modern programming language (Go, Rust, Python). You need to be a good programmer for custom tooling.&lt;/li&gt;
+&lt;li&gt;Linux&amp;nbsp;administration experience, from hardware optimizations to advanced OS-level configurations.&lt;/li&gt;
+&lt;li&gt;Experience working with configuration management tools like Terraform and Ansible&lt;/li&gt;
+&lt;li&gt;Experience working with containers and using them in production systems&lt;/li&gt;
+&lt;li&gt;Self-motivated individual with enthusiasm for learning and building things&lt;/li&gt;
+&lt;li&gt;Collaborative, communicative, and confident in their abilities to work well with all team members at all seniority and skill levels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand system architecture and business&lt;/li&gt;
+&lt;li&gt;Previous experience as a platform engineer&lt;/li&gt;
+&lt;li&gt;Previous experience as a tech lead&lt;/li&gt;
+&lt;li&gt;Previous experience with Kubernetes, microservices, and GitOps tooling.&lt;/li&gt;
+&lt;li&gt;Previous experience in a blockchain company&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;What We Offer&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet p-rich_text_list--nested&quot; data-stringify-type=&quot;unordered-list&quot; data-list-tree=&quot;true&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Mission-Driven, Collaborative, and Innovative Environment:&amp;nbsp;Join a team united by a shared vision, working with like-minded individuals and cutting-edge technology to advance Ethereum and blockchain innovation.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Comprehensive Compensation and Remote Flexibility:&amp;nbsp;Benefit from a competitive salary package and generous discretionary benefits, while enjoying the remote work from anywhere with flexible hours. Additionally, receive support for your workspace with a home office setup allowance and monthly co-working membership stipend.&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Remote Hiring: For team members outside the US, UK, Canada, and Hong Kong, we engage under an independent consulting arrangement, offering the flexibility of payment (in Fiat, USDC, or etc).&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Private Healthcare Benefits:&amp;nbsp;Private healthcare benefits through the Employer of Record (EoR) are only available in the US, UK, Canada, and Hong Kong.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Scroll is proud to be an equal opportunity workplace. We are committed to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. If you have a disability or special need, please let us know and we&#39;ll do our best to accommodate.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
             </tr></table>
