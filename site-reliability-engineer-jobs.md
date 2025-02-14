@@ -422,11 +422,12 @@
 &lt;li&gt;Understand system architecture and business&lt;/li&gt;
 &lt;li&gt;Previous experience as a platform engineer&lt;/li&gt;
 &lt;li&gt;Previous experience as a tech lead&lt;/li&gt;
-&lt;li&gt;Previous experience with Kubernetes, microservices, and GitOps tooling.&lt;/li&gt;
+&lt;li&gt;Previous experience with Kubernetes, microservices, and GitOps tooling&lt;/li&gt;
 &lt;li&gt;Previous experience in a blockchain company&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Previous experience in optimizing blockchain specific infrastructure&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;What We Offer&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;What We Offer&lt;/strong&gt;&lt;/h4&gt;
 &lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet p-rich_text_list--nested&quot; data-stringify-type=&quot;unordered-list&quot; data-list-tree=&quot;true&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Mission-Driven, Collaborative, and Innovative Environment:&amp;nbsp;Join a team united by a shared vision, working with like-minded individuals and cutting-edge technology to advance Ethereum and blockchain innovation.&lt;/li&gt;
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Comprehensive Compensation and Remote Flexibility:&amp;nbsp;Benefit from a competitive salary package and generous discretionary benefits, while enjoying the remote work from anywhere with flexible hours. Additionally, receive support for your workspace with a home office setup allowance and monthly co-working membership stipend.&lt;/li&gt;
