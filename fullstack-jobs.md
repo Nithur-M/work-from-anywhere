@@ -227,7 +227,7 @@
                 </td>
                 <td width="300">
                     <h5>ília</h5>
-                    <h3>SR Desenvolvimento Full Stack (React Native) </h3>
+                    <h3>SR Engenharia de Software Full Stack (Java e React.js) </h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -236,7 +236,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/ilia/jobs/5438810004" align="right" target="_blank">Apply</a>
+                <a href="https://boards.greenhouse.io/ilia/jobs/5425802004" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -246,29 +246,24 @@
 &lt;h3&gt;&lt;strong&gt;Sobre a ília&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;Somos especialistas em tecnologia, dados e design, impulsionando a transformação digital de grandes players do mercado há mais de 10 anos, nos setores financeiro, seguros e mobilidade. Com mais de 450 profissionais, estamos presentes no Brasil e Europa, atendendo aos mercados da América Latina, Europa e América do Norte, desenvolvendo produtos digitais de alta qualidade e com foco em resultados de negócios. Somos uma equipe inovadora, criativa e apaixonada por tecnologia.&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;Certificada pelo 5° ano consecutivo como Great Place to work aqui na ília acreditamos que pessoas mudam o mundo, e investimos nelas. Nossas awesome deliveries são feitas de pessoas para pessoas, afinal awesome people make awesome deliveries!&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;#Vempraília!&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;Sobre a vaga:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;#Vempraília&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Requisitos:&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Realizar a modelagem, documentação e implementação de interfaces front-end/back-end para o site, app e APIs;&lt;/li&gt;
-&lt;li&gt;Garantir a qualidade das soluções através de testes manuais e automatizados;&lt;/li&gt;
-&lt;li&gt;Garantir a observabilidade das aplicações e investigar problemas através de ferramentas como Dynatrace, Datadog, Splunk, Elastic Stack, New Relic e similares;&lt;/li&gt;
-&lt;li&gt;Tomar decisões técnicas, avaliando os riscos e impactos das soluções (desempenho, escalabilidade, manutenibilidade, segurança etc.);&lt;/li&gt;
-&lt;li&gt;Trabalhar em conjunto com outros times da engenharia, garantindo que toda a empresa construa microfrontends, microserviços e gerencie seu conteúdo com o máximo de facilidade e flexibilidade;&lt;/li&gt;
+&lt;li&gt;Desenvolver: Participar ativamente do ciclo de desenvolvimento de software, desde a concepção até a implementação utilizando Java/Spring, garantindo que as soluções sejam robustas, escaláveis e eficientes.&lt;/li&gt;
+&lt;li&gt;Apoiar Front-end: Contribuir para o desenvolvimento de interfaces de usuário utilizando React.js e TypeScript, garantindo a integração eficaz com os serviços back-end.&lt;/li&gt;
+&lt;li&gt;Trabalhar com Sistemas Orientados a Eventos: Contribuir no desenvolvimento de sistemas orientados a eventos, utilizando tecnologias como Kafka, RabbitMQ.&lt;/li&gt;
+&lt;li&gt;Testar: Criar e manter testes automatizados para backend e frontend, assegurando que as funcionalidades atendam aos requisitos e estejam livres de bugs.&lt;/li&gt;
+&lt;li&gt;Manter a Qualidade: Colaborar com a equipe para garantir que o código seja bem testado, documentado e siga as melhores práticas.&lt;/li&gt;
+&lt;li&gt;Colaborar: Participar de revisões de código, pair programming, e discussões de arquitetura com foco na melhoria contínua de nossas soluções.&lt;/li&gt;
+&lt;li&gt;Inovar: Trazer ideias para melhorias na arquitetura e processos de desenvolvimento tanto no backend quanto no frontend, mantendo-se atualizado com as melhores práticas e novas tecnologias.&lt;/li&gt;
+&lt;li&gt;Apoiar no Code Review: Revisar o código escrito por outros desenvolvedores, fornecendo feedback construtivo para assegurar que os padrões de codificação e as melhores práticas sejam seguidas.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;&lt;strong&gt;Requisitos:&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;Diferencial:&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Experiência com frameworks como React.js, React Native ou similares;&lt;/li&gt;
-&lt;li&gt;Experiência com Javascript, Typescript, HTML e CSS;&lt;/li&gt;
-&lt;li&gt;Capacidade de aplicação de boas práticas de programação;&lt;/li&gt;
-&lt;li&gt;Experiência com testes unitários com Jest;&lt;/li&gt;
-&lt;li&gt;Conhecimento avançado em RESTful APIs;&lt;/li&gt;
-&lt;li&gt;Possuir visão clara de todo o ciclo de desenvolvimento de software;&lt;/li&gt;
-&lt;li&gt;Experiência com melhores práticas de qualidade de software, como testes automatizados, segurança, monitoração e documentação;&lt;/li&gt;
-&lt;li&gt;Vivência com uso de Cloud AWS, IAAS, CI/CD, orquestradores como Kubernetes e Containers como Docker;&lt;/li&gt;
-&lt;li&gt;Vivência em práticas ágeis como Scrum ou Método Kanban; &amp;nbsp;&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Ter atuado em ecossistema de microfrontends, especialmente com Module Federation do webpack;&lt;/li&gt;
+&lt;li&gt;Conhecimento em micro front-end&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;&lt;strong&gt;Benefícios e Incentivos:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Nossa contratação é CLT- 40h semanais com jornada flexível, sendo executada 100% de forma remota. Os benefícios da ília são pensados para proporcionar uma experiência AWESOME para cada ílian, abaixo você encontra os benefícios de forma resumida. #vempraília&lt;/p&gt;
 &lt;p&gt;Para Saúde e bem-estar:&lt;/p&gt;
 &lt;ul&gt;
