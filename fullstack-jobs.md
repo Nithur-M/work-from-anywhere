@@ -260,10 +260,9 @@
 &lt;/ul&gt;
 &lt;h3&gt;&lt;strong&gt;Diferencial:&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Conhecimento em micro front-end&lt;/li&gt;
+&lt;li&gt;Conhecimento em microfrontend.&amp;nbsp;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;&lt;strong&gt;Benefícios e Incentivos:&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Nossa contratação é CLT- 40h semanais com jornada flexível, sendo executada 100% de forma remota. Os benefícios da ília são pensados para proporcionar uma experiência AWESOME para cada ílian, abaixo você encontra os benefícios de forma resumida. #vempraília&lt;/p&gt;
 &lt;p&gt;Para Saúde e bem-estar:&lt;/p&gt;
 &lt;ul&gt;
