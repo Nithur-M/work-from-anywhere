@@ -95,7 +95,7 @@
 &lt;p&gt;Somos especialistas em tecnologia, dados e design, impulsionando a transformação digital de grandes players do mercado há mais de 10 anos, nos setores financeiro, seguros e mobilidade. Com mais de 450 profissionais, estamos presentes no Brasil e Europa, atendendo aos mercados da América Latina, Europa e América do Norte, desenvolvendo produtos digitais de alta qualidade e com foco em resultados de negócios. Somos uma equipe inovadora, criativa e apaixonada por tecnologia.&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;Certificada pelo 5° ano consecutivo como Great Place to work aqui na ília acreditamos que pessoas mudam o mundo, e investimos nelas. Nossas awesome deliveries são feitas de pessoas para pessoas, afinal awesome people make awesome deliveries!&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;#Vempraília!&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;Sobre a vaga:&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;Sobre a vaga&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet p-rich_text_list--nested&quot; data-stringify-type=&quot;unordered-list&quot; data-list-tree=&quot;true&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Definir e implementar estratégias de testes para garantir a qualidade dos produtos.&lt;/li&gt;
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Desenvolver e manter testes automatizados (frontend, backend e mobile).&lt;/li&gt;
@@ -108,7 +108,6 @@
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Garantir documentação adequada dos casos de testes e processos.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;&lt;strong&gt;Requisitos:&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;/p&gt;
 &lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet p-rich_text_list--nested&quot; data-stringify-type=&quot;unordered-list&quot; data-list-tree=&quot;true&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experiência sólida com automação de testes (Selenium, Cypress, Playwright, Appium, etc.).&lt;/li&gt;
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Conhecimento em linguagens de programação (JavaScript, TypeScript, Python, Java, etc.).&lt;/li&gt;
@@ -120,7 +119,6 @@
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&amp;nbsp;Capacidade de análise crítica e resolução de problemas.&lt;/li&gt;
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Inglês desejável (leitura e escrita para documentação e testes internacionais).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;strong&gt;Benefícios e Incentivos:&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;Nossa contratação é CLT- 40h semanais com jornada flexível, sendo executada 100% de forma remota. Os benefícios da ília são pensados para proporcionar uma experiência AWESOME para cada ílian, abaixo você encontra os benefícios de forma resumida. #vempraília&lt;/p&gt;
 &lt;p&gt;Para Saúde e bem-estar:&lt;/p&gt;
