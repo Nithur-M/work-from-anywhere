@@ -760,6 +760,69 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/43478154?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Nethermind</h5>
+                    <h3>Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.eu.greenhouse.io/nethermind/jobs/4536953101" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;What are we all about?&lt;/h2&gt;
+&lt;p&gt;We are a team of builders and researchers on a mission to empower enterprises and developers worldwide to access and build on decentralized systems.&lt;/p&gt;
+&lt;p&gt;Our expertise covers several domains: Ethereum and Starknet protocol engineering, layer-2, AI, cryptography research, protocol research, decentralized finance (DeFi), security auditing, formal verification, real-time monitoring, smart contract development, and dapps and enterprise engineering.&lt;/p&gt;
+&lt;p&gt;Working to solve some of the most challenging problems in the blockchain space, we frequently collaborate with renowned companies, such as Ethereum Foundation, Starknet Foundation, Gnosis Chain, Flashbots, Forta Protocol, Lido, EigenLayer, Open Zeppelin, RISCZero, Aleph Zero, and many more.&lt;/p&gt;
+&lt;p&gt;Today, we are a 350+ strong team working remotely across 66+ countries.&lt;/p&gt;
+&lt;p&gt;View all our open positions here: &lt;a href=&quot;https://www.nethermind.io/open-roles&quot;&gt;https://www.nethermind.io/open-roles&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;What We Need&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A proactive and hands-on product manager to lead the product strategy for one of our business groups.&lt;/li&gt;
+&lt;li&gt;Strong domain knowledge in the Ethereum ecosystem.&lt;/li&gt;
+&lt;li&gt;A willingness to work remotely. You will be working with a globally distributed team of talented engineers and researchers, as well as many industry-leading partners.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Role &amp;amp; Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Own the mission and vision for each of the group’s products.&lt;/li&gt;
+&lt;li&gt;Own the product strategy for the group: determine which products we should build next, with whom, and why.&lt;/li&gt;
+&lt;li&gt;Deeply understand our users&#39; needs by using our products, conducting research, and engaging with the community.&lt;/li&gt;
+&lt;li&gt;Maintain a clear and prioritized roadmap for each product, balancing user needs with developer resources and technical feasibility.&lt;/li&gt;
+&lt;li&gt;Work with UX/UI designers, project managers, engineers, marketing, and legal to ensure successful product development and launch.&lt;/li&gt;
+&lt;li&gt;Track key financial metrics, including burn rate, revenue projections, and unit economics.&lt;/li&gt;
+&lt;li&gt;Have deep insight into the ecosystems around the blockchains that we are helping to build.&lt;/li&gt;
+&lt;li&gt;Have empathy with developers: write clear, complete product requirements that help devs be productive.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;At least two years of experience in the crypto industry&lt;/li&gt;
+&lt;li&gt;At least two years of experience working in a product role&lt;/li&gt;
+&lt;li&gt;Strong English communication skills&lt;/li&gt;
+&lt;li&gt;Some hands-on experience in software development&lt;/li&gt;
+&lt;li&gt;Bachelor&#39;s degree or equivalent practical experience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Nice to have&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prior involvement in one or more Ethereum L2 blockchains&lt;/li&gt;
+&lt;li&gt;Some basic smart contract development experience&lt;/li&gt;
+&lt;li&gt;Understanding of the DeFi landscape, such as lending protocols, AMMs, Perps and stablecoins.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;&lt;/span&gt;: I hereby consent to my personal information being stored and processed by Demerzel Solutions Limited (t/a Nethermind) (the “Company”) for recruitment purposes in relation to both the selected job role and any other role the Company considers me a qualified candidate for. All data storing and processing by the Company takes place in accordance with the UK GDPR. Kindly refer to our privacy policy for more details.&amp;nbsp;&lt;/em&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;Your consent to share personal information is entirely voluntary, and you may withdraw your consent at any time. Should you have any questions about this process, or wish to withdraw your consent please contact: legalnotices@nethermind.io&amp;nbsp;&lt;/em&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;Keep up to date on what we are working on by following&amp;nbsp;&lt;span class=&quot;il&quot;&gt;us&lt;/span&gt;&amp;nbsp;on &lt;strong&gt;our social channels&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;https://twitter.com/nethermindeth&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png&quot; alt=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot;&gt;&lt;/a&gt; &amp;nbsp; &lt;a href=&quot;https://discord.com/invite/PaCMRFdvWT&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-1024.png&quot; alt=&quot;&quot; width=&quot;49&quot; height=&quot;49&quot;&gt;&lt;/a&gt; &amp;nbsp; &lt;a href=&quot;https://www.linkedin.com/company/nethermind/mycompany/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png&quot; alt=&quot;&quot; width=&quot;49&quot; height=&quot;49&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nethermind.io/legal&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Click here to view our Privacy Policy.&lt;/em&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/116062758?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
