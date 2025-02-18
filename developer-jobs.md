@@ -920,7 +920,7 @@
                 </td>
                 <td width="300">
                     <h5>ília</h5>
-                    <h3>PL/SR NodeJS Backend Developer</h3>
+                    <h3>PL/SR Node.js Back-end Developer</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -935,15 +935,12 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Aqui na ília nossas vagas estão sempre abertas para todas as pessoas e não se restringem quanto a gênero, etnia, orientação sexual, fatores sociais, condições físicas ou intelectuais (PCD) etc. Incentivamos a candidatura de integrantes de todos os grupos minoritários!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Por que trabalhar com a gente?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Somos especialistas em tecnologia, dados e design, impulsionando a transformação digital de grandes players do mercado há mais de 10 anos, nos setores financeiro, seguros e mobilidade. Com mais de 450 profissionais, estamos presentes no Brasil e Europa, atendendo aos mercados da América Latina, Europa e América do Norte, desenvolvendo produtos digitais de alta qualidade e com foco em resultados de negócios. Somos uma equipe inovadora, criativa e apaixonada por tecnologia.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Certificada pelo 5º ano consecutivo como Great Place to work aqui na ília acreditamos que pessoas mudam o mundo, e investimos nelas. Nossas awesome deliveries são feitas de pessoas para pessoas, afinal awesome people make awesome deliveries!&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Atividades:&lt;/strong&gt;&lt;/p&gt;
+                &lt;p&gt;Aqui na ília nossas vagas estão sempre abertas para todas as pessoas e não se restringem quanto a gênero, etnia, orientação sexual, fatores sociais, condições físicas ou intelectuais (PCD) etc. Incentivamos a candidatura de integrantes de todos os grupos minoritários!&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Sobre a ília&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Somos especialistas em tecnologia, dados e design, impulsionando a transformação digital de grandes players do mercado há mais de 10 anos, nos setores financeiro, seguros e mobilidade. Com mais de 450 profissionais, estamos presentes no Brasil e Europa, atendendo aos mercados da América Latina, Europa e América do Norte, desenvolvendo produtos digitais de alta qualidade e com foco em resultados de negócios. Somos uma equipe inovadora, criativa e apaixonada por tecnologia.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Certificada pelo 5° ano consecutivo como Great Place to work aqui na ília acreditamos que pessoas mudam o mundo, e investimos nelas. Nossas awesome deliveries são feitas de pessoas para pessoas, afinal awesome people make awesome deliveries!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;#Vempraília!&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Sobre a vaga:&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Criar e manter implementações da plataforma de acordo com as definições, garantindo qualidade e eficiência na execução;&lt;/li&gt;
 &lt;li&gt;Auxiliar no refinamento das atividades a serem executadas, detalhando as subtarefas necessárias e estimativas;&lt;/li&gt;
@@ -951,8 +948,7 @@
 &lt;li&gt;Criar e atualizar a documentação de implementação para facilitar o suporte, solução de problemas e manutenção do software utilizado em cada solução;&lt;/li&gt;
 &lt;li&gt;Configurar dashboards de métricas de saúde para cada implantação, bem como outras ferramentas de observabilidade e alertas proativos.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Buscamos alguém com:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Requisitos:&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Inglês avançado para conversação (projeto internacional).&amp;nbsp;&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Programação com NodeJS (obrigatório) e Golang (desejável);&lt;/li&gt;
@@ -963,33 +959,30 @@
 &lt;li&gt;Raciocínio lógico e adaptabilidade para implementar funcionalidades em outras linguagens de script básicas, como Lua.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Benefícios e incentivos:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Benefícios e Incentivos:&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;Nossa contratação é CLT- 40h semanais com jornada flexível, sendo executada 100% de forma remota. Os benefícios da ília são pensados para proporcionar uma experiência AWESOME para cada ílian, abaixo você encontra os benefícios de forma resumida. #vempraília&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Para Saúde e bem-estar:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Para Saúde e bem-estar:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Plano de Saúde e Odontológico SulAmérica extensivo a dependentes;&lt;/li&gt;
-&lt;li&gt;Vale Alimentação/Refeição em cartão fléxivel Picpay benefícios&lt;/li&gt;
+&lt;li&gt;Vale Alimentação/Refeição em cartão fléxivel Picpay benefícios&amp;nbsp;&lt;/li&gt;
 &lt;li&gt;Seguro de Vida;&lt;/li&gt;
 &lt;li&gt;Auxílio Home-Office em cartão fléxivel Picpay benefícios;&lt;/li&gt;
 &lt;li&gt;Wellhub (Gympass)&lt;/li&gt;
 &lt;li&gt;TotalPass&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Para o seu Desenvolvimento:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Para o seu Desenvolvimento:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ília University: Universidade Corporativa com mais de 20 mil cursos disponíveis para desenvolvimento pessoal e profissional;&lt;/li&gt;
 &lt;li&gt;Language Academy: Escola de idiomas para ílians;&lt;/li&gt;
 &lt;li&gt;í-talks e Chapter: Momentos e cerimônias em que o time compartilha práticas, estudos, projetos e ideias. Nas chapters ainda se reúnem pessoas com skills similares para compartilhamento de ideias, práticas e experiências;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Gostamos de ir além no cuidado com as nossas pessoas, então dispomos também de alguns benefícios não convencionais:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Gostamos de ir além no cuidado com as nossas pessoas, então dispomos também de alguns benefícios não convencionais:&amp;nbsp;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Plano de Saúde PET- Guapeco&lt;/li&gt;
+&lt;li&gt;Plano de Saúde PET- Guapeco&amp;nbsp;&lt;/li&gt;
 &lt;li&gt;BYOD- Alugamos o seu notebook pessoal te pagando um valor mensal para que você o use, mas disponibilizamos também máquinas de trabalho para ílians. Você quem decide!&lt;/li&gt;
 &lt;li&gt;Seu Niver, seu bolo!&lt;/li&gt;
 &lt;li&gt;Seu Networking Vale Prêmio- Programa de premiação a indicação de novos funcionários.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;E aí, está pronto(a) para embarcar nesta jornada conosco? #vempraília&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
