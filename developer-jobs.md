@@ -36,6 +36,7 @@
 &lt;ul&gt;
 &lt;li&gt;&amp;nbsp;San Francisco, California&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;We do not subscribe to “I do my best work when I work 40 hours a week.” &amp;nbsp;People we hire at Sourcegraph believe that building outstanding things means working very hard — smarter and more hours than the competition.&lt;/p&gt;
 &lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Why this job is exciting&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
 &lt;p&gt;As a Developer Advocate at Sourcegraph, you will be a champion for how developers understand and navigate complex codebases using our platform. You&#39;ll be connecting with the developer community and sharing the value of our AI Code Assistant and Code Search platform through written, video, and live engagements. You&#39;ll be part of a small but impactful team, representing Sourcegraph and its commitment to improving the developer experience. You&#39;ll have the opportunity to help developers at the most successful and sophisticated companies in the world (our customers) implement and scale code AI capabilities. We&#39;re looking for someone passionate about driving adoption and empowering engineers through creative story telling and genuine community building.&lt;/p&gt;
 &lt;p&gt;As a Developer Advocate, you will spend 25% of your time engaging with Developers at events in-person and 75% of your time creating content and recording videos.&lt;/p&gt;
