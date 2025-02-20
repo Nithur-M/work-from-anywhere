@@ -300,11 +300,83 @@
 &lt;li&gt;&lt;strong&gt;Data processing/analytics:&lt;/strong&gt; ClickHouse, dbt.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Infrastructure:&lt;/strong&gt; AWS.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Offers vary depending on, but not limited to, relevant experience, education, certifications/licenses, skills, training, and market conditions.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Any communication from Fingerprint will come from a @fingerprint.com domain. If you receive messages from other domains claiming to represent Fingerprint, please disregard them and report any suspicious activity to &lt;a href=&quot;mailto:work@fingerprint.com&quot;&gt;work@fingerprint.com&lt;/a&gt; We do not request personal information, payments, or sensitive details during the hiring process.&lt;/p&gt;
+&lt;p&gt;Offers vary depending on, but not limited to, relevant experience, education, certifications/licenses, skills, training, and market conditions.&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;Due to regulatory and security reasons, there’s a small number of countries where we cannot have Fingerprint teammates based.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Additionally, because Fingerprint is an all-remote company and people can join our workforce from almost any country, we do not sponsor visas. Fingerprint teammates need to be authorized to work from their home location&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;We are dedicated to creating an inclusive work environment for everyone. We embrace and celebrate the unique experiences, perspectives and cultural backgrounds that each employee brings to our workplace. Fingerprint strives to foster an environment where our employees feel respected, valued and empowered, and our team members are at the forefront in helping us promote and sustain an inclusive workplace. We highly encourage people from underrepresented groups in tech to apply.&lt;/p&gt;
 &lt;p&gt;If you are applying as a resident of California, please read our CCPA notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-ccpa&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;If you are applying as a resident of the EU, please read our GDPR notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-gdpr&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/35933823?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ília</h5>
+                    <h3>SR Desenvolvimento Back end (Java)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/ilia/jobs/5452514004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;Aqui na ília nossas vagas estão sempre abertas para todas as pessoas e não se restringem quanto a gênero, etnia, orientação sexual, fatores sociais, condições físicas ou intelectuais (PCD) etc. Incentivamos a candidatura de integrantes de todos os grupos minoritários!&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Sobre a ília&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Somos especialistas em tecnologia, dados e design, impulsionando a transformação digital de grandes players do mercado há mais de 10 anos, nos setores financeiro, seguros e mobilidade. Com mais de 450 profissionais, estamos presentes no Brasil e Europa, atendendo aos mercados da América Latina, Europa e América do Norte, desenvolvendo produtos digitais de alta qualidade e com foco em resultados de negócios. Somos uma equipe inovadora, criativa e apaixonada por tecnologia.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Certificada pelo 5° ano consecutivo como Great Place to work aqui na ília acreditamos que pessoas mudam o mundo, e investimos nelas. Nossas awesome deliveries são feitas de pessoas para pessoas, afinal awesome people make awesome deliveries!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;#Vempraília&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Sobre a vaga&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Desenvolver soluções escaláveis e resilientes;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Apresentar melhorias nos sistemas existentes e garantir a qualidade nas entregas;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Manter a qualidade do software verificando os processos, ferramentas e boas práticas disponíveis para o produto e tecnologia utilizados;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Orientar desenvolvedores de menor senioridade apoiando suas dúvidas, disseminando seu conhecimento,&amp;nbsp;desenhando e arquitetando soluções ou indicando documentação de apoio;&lt;/li&gt;
+&lt;li&gt;Criar testes de alta complexidade, sejam estes manuais ou automatizados, que cubram o comportamento desejado dos componentes técnicos desenvolvidos utilizando os requisitos e ferramentas de testes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Requisitos:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Experiência em linguagens de programação Java.&lt;/li&gt;
+&lt;li&gt;Experiência em ReactNative e/ou ReactJS&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Conhecimento sólido em boas práticas de desenvolvimento;&lt;/li&gt;
+&lt;li&gt;Conhecimento sólido em Testes unitários e integrados;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Design de APIs REST;&lt;/li&gt;
+&lt;li&gt;Compreensão e entendimento de arquitetura de microsserviços;&lt;/li&gt;
+&lt;li&gt;Experiência em metodologias ágeis.&lt;/li&gt;
+&lt;li&gt;Conhecimentos em bancos de dados (SQL e NoSQL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Benefícios e Incentivos:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Nossa contratação é CLT- 40h semanais com jornada flexível, sendo executada 100% de forma remota. Os benefícios da ília são pensados para proporcionar uma experiência AWESOME para cada ílian, abaixo você encontra os benefícios de forma resumida. #vempraília&lt;/p&gt;
+&lt;p&gt;Para Saúde e bem-estar:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plano de Saúde e Odontológico SulAmérica extensivo a dependentes;&lt;/li&gt;
+&lt;li&gt;Vale Alimentação/Refeição em cartão fléxivel Picpay benefícios&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Seguro de Vida;&lt;/li&gt;
+&lt;li&gt;Auxílio Home-Office em cartão fléxivel Picpay benefícios;&lt;/li&gt;
+&lt;li&gt;Wellhub (Gympass)&lt;/li&gt;
+&lt;li&gt;TotalPass&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Para o seu Desenvolvimento:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ília University: Universidade Corporativa com mais de 20 mil cursos disponíveis para desenvolvimento pessoal e profissional;&lt;/li&gt;
+&lt;li&gt;Language Academy: Escola de idiomas para ílians;&lt;/li&gt;
+&lt;li&gt;í-talks e Chapter: Momentos e cerimônias em que o time compartilha práticas, estudos, projetos e ideias. Nas chapters ainda se reúnem pessoas com skills similares para compartilhamento de ideias, práticas e experiências;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Gostamos de ir além no cuidado com as nossas pessoas, então dispomos também de alguns benefícios não convencionais:&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plano de Saúde PET- Guapeco&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;BYOD- Alugamos o seu notebook pessoal te pagando um valor mensal para que você o use, mas disponibilizamos também máquinas de trabalho para ílians. Você quem decide!&lt;/li&gt;
+&lt;li&gt;Seu Niver, seu bolo!&lt;/li&gt;
+&lt;li&gt;Seu Networking Vale Prêmio- Programa de premiação a indicação de novos funcionários.&lt;/li&gt;
+&lt;/ul&gt;
                 </details>
                 </td>
             </tr>,<tr>
