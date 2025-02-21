@@ -1,5 +1,184 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1974725/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Discourse</h5>
+                    <h3>Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>api,CSS,frontend,html</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-1974725" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><em>Salary depends on location and experience, able to provide up front</em></p>
+<p class="h2"> </p>
+<p class="h2">About the job</p>
+<p>Discourse is looking to hire a frontend specialist. We are looking for someone with a passion to build user interfaces and make our product better every day, with a strong focus on quality.</p>
+<p> </p>
+<p>The majority of the work you will do will be open source, and you will communicate with our users openly on Discourse Meta.</p>
+<p> </p>
+<p>Discourse is primarily a hosting company. Some of your focus will be around resolving issues for customers, or assisting with customer-specific themes, plugins, and other customizations.</p>
+<p> </p>
+<p>Applicants will have a 10-40 hour paid trial project (over 2-10 weeks) prior to joining the team. The trial project usually involves adding a feature to Discourse or a Discourse plugin.</p>
+<p> </p>
+<p class="h4">Your responsibilities will include:</p>
+<ul style="">
+<li style="">Developing, testing, and documenting features for Discourse</li>
+<li style="">Creating and maintaining reusable components to facilitate building user interfaces</li>
+<li style="">Correcting bugs in Discourse, and working with legacy code in an established codebase</li>
+<li style="">Documenting and clearly communicating fixes and features requests that are completed</li>
+<li style="">Working with design and product colleagues when planning and implementing work</li>
+<li style="">Assisting with pre-sales, support, and operations as needed</li>
+</ul>
+<p> </p>
+<p class="h4">We’re looking for someone who: </p>
+<ul style="">
+<li style="">Has extremely good JavaScript and web API knowledge, Ruby/Rails experience is a plus, SQL is a plus</li>
+<li style="">Maintains a positive mindset and actively improves the code beyond its original state</li>
+<li style="">Is passionate about open source and comfortable with public code reviews</li>
+</ul>
+<p> </p>
+<p>Discourse is made with the Ember.js framework, knowing the framework is a plus, but not mandatory, we can help you learn it. If you have experience in other JavaScript frameworks or libraries it will be helpful.</p>
+<p> </p>
+<p>We are also careful about the accessibility of our product, and would consider a plus a candidate with a good knowledge of accessibility on the web.</p>
+<p> </p>
+<p>At Discourse, the ability to communicate well in writing is paramount. We use our own software, Discourse, for most communication and most of your interaction with customers and team members will be in writing. In order to live these values, we look for folks who are:</p>
+<p> </p>
+<ul style="">
+<li style="">Detail-oriented, proactive, and organized</li>
+<li style="">Able to make decisions quickly and communicate effectively</li>
+<li style="">Work well independently and remotely</li>
+<li style="">Kind to their co-workers</li>
+<li style="">Highly driven with an execution focus and a strong belief in our mission to make the internet a better place</li>
+</ul>
+<p> </p>
+<p class="h2">About our Pay &amp; Benefits</p>
+<p>We believe that high-quality benefits make our team more effective. We’ve been thoughtful about our benefits package which includes a completely flexible schedule, 5 weeks of vacation per year, funding for a co-working stipend, and much more!</p>
+<p> </p>
+<p>Our Salary Framework is location and experience based, and we’re happy to provide a range up front. We also give every employee a stake in the success of the business, regardless of seniority or role. All full-time employees are eligible to receive equity options in the company as part of our equity incentive program.</p>
+<p> </p>
+<p>Lastly, we believe in having a welcoming workplace where people with diverse backgrounds and cultures can create something great together. We encourage you to apply, even if you don’t meet every qualification! Apply to <span style="color: var(--remotive-chocolate);">jobs@discourse.org.</span><span style="color: var(--remotive-chocolate);"> Send your resume and a little intro for us to get to know you, with insight into why you want this job here at Discourse.</span></p>
+<img src="https://remotive.com/job/track/1974725/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/3979584?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sourcegraph</h5>
+                    <h3>Software Engineer - Graph [IC3]</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/sourcegraph91/jobs/5451636004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Our mission at Sourcegraph is to make it so that &lt;a href=&quot;https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4&quot;&gt;everyone can code&lt;/a&gt;, not just ~0.1% of the population.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We are transforming how the world’s most important companies build software by industrializing development with AI. Today, most professional developers spend a disproportionate amount of time understanding code and performing repetitive, low-level tasks—leaving less time for innovation and meaningful impact.&lt;/p&gt;
+&lt;p&gt;We’re changing that. Sourcegraph brings AI-powered search and agents to the enterprise, helping teams automate the mundane and amplify what developers do best— solving hard problems and creating great products.&lt;/p&gt;
+&lt;p&gt;Here’s how we’re making a difference:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Accelerating developers &lt;/strong&gt;with AI agents that deliver insights and precision—enabling 5x faster test creation, 30% increase in merge requests, and saving 20 minutes per developer daily.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automating repetitive tasks,&lt;/strong&gt; from remediating vulnerabilities (saving teams 1,000+ hours annually) to speeding up migrations that would take years to months.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enabling innovation&lt;/strong&gt; by addressing complex problems like automated bug triage, vulnerability detection, and AI-driven code reviews seamlessly integrated into workflows.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Trusted by 7/10 top software companies by market cap, 4/6 top US banks and many of the companies leading global innovation, like Stripe, Indeed, Tesla, and 1Password, and with $225M in funding from investors like &lt;a href=&quot;https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/&quot;&gt;a16z&lt;/a&gt;, &lt;a href=&quot;https://about.sourcegraph.com/blog/series-c-with-sequoia/&quot;&gt;Sequoia&lt;/a&gt;, and &lt;a href=&quot;https://www.redpoint.com/companies/sourcegraph/&quot;&gt;Redpoint&lt;/a&gt;, we are building the tools that will define the next era of enterprise software development.&lt;/p&gt;
+&lt;p&gt;If you’re passionate about solving the hardest problems in software and shaping the future of technology, join us. Let’s build something extraordinary together.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Hours &amp;amp; location&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;🌎&amp;nbsp; While we are an all-remote company and hire &lt;a href=&quot;https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4&quot;&gt;almost anywhere&lt;/a&gt; in the world, we have a preference for someone to reside in the following locations for this role. However, if you feel qualified, we welcome you to apply regardless of location. No matter what, working hours must overlap with UTC +8 for at least 8 hours/week.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Preferred locations:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Remote, European timezone&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We do not subscribe to “I do my best work when I work 40 hours a week.” &amp;nbsp;People we hire at Sourcegraph believe that building outstanding things means working very hard — smarter and more hours than the competition.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Why this job is exciting&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;As a software engineer on the Graph team at Sourcegraph, you will play a key role in improving how developers understand and navigate complex codebases. Your main contributions will include building advanced compiler-type indexers and robust backend APIs and services. This role requires a mix of skills in distributed systems, end-to-end development, database optimization and programming language specifics.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;You’ll be part of a small but impactful team that is essential to the developer experience worldwide. We value innovation, collaboration, and continuous learning. You’ll have the chance to work on cutting-edge technology challenges and make a real difference in the software development community. We seek an engineer who is passionate about advancing the industry standard for engineering productivity by helping engineers understand codebases faster and creating world-class context for AI.&lt;/p&gt;
+&lt;p&gt;📅 Within one month, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Actively drive bug fixes and small enhancements in both our code indexer and backend APIs&lt;/li&gt;
+&lt;li&gt;Embed in the teams processes and partner with team members to learn and make immediate impact&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📅 Within three months, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop and maintain compiler integrations and distributed systems primarily using Go, focusing on scalability and reliability across multiple programming languages.&lt;/li&gt;
+&lt;li&gt;Actively shape the direction and participate in the planning of the features we&#39;re going to build&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📅 Within six months, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Driving significant features such as cross-language precise navigation, dependency graph analysis or auto-inference of how to build and compile customer projects automatically.&lt;/li&gt;
+&lt;li&gt;Make a significant impact by being a key contributor and help us improve our existing engineering practices.&lt;/li&gt;
+&lt;li&gt;Feel confident working more autonomously, leaning into our values, especially customer-driven, teamwork and high agency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;About you&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Strong background in software engineering with a particular interest in compilers, databases, and distributed systems.&lt;/li&gt;
+&lt;li&gt;Experience with or willingness to learn Go, and a demonstrated ability to become proficient in new technologies.&lt;/li&gt;
+&lt;li&gt;Prior involvement with small teams that manage a wide surface area of functionality is highly desirable.&lt;/li&gt;
+&lt;li&gt;Appreciation for deep dives into specific technical silos, with the capability to contribute effectively to broad architectural discussions and decisions.&lt;/li&gt;
+&lt;li&gt;Exposure to distributed system design and a solid understanding of its challenges and intricacies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nice to haves:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Familiarity with compiler construction or integration is a significant plus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;📊 This job is an IC3.&amp;nbsp; You can read more about &lt;a href=&quot;https://www.notion.so/sourcegraph/Leveling-Guide-0e1b5c76ada64b9caac387f8b7c4fc66&quot;&gt;our job leveling philosophy&lt;/a&gt; in our Handbook.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;💸 We pay you an above-average salary&lt;/strong&gt; because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an &lt;a href=&quot;https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d&quot;&gt;open and transparent&lt;/a&gt; company that values &lt;a href=&quot;https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4&quot;&gt;competitive compensation&lt;/a&gt;, our compensation ranges are visible to every single Sourcegraph teammate.&lt;/p&gt;
+&lt;p&gt;Your salary is determined by your pay band for the IC3 &amp;nbsp;job level. For determining pay bands, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that the salaries below may be adjusted in the future.&lt;/p&gt;
+&lt;p&gt;💰 The target compensation for this role is based on the IC3 pay band for your zone. The start of the IC3 pay band for each zone is listed below:&lt;/p&gt;
+&lt;p&gt;Zone 1: $170,000 USD&lt;br&gt;Zone 2: $136,000 USD&lt;br&gt;Zone 3: $102,000 USD&lt;br&gt;Zone 4: $68,000 USD&lt;/p&gt;
+&lt;p&gt;Please speak with a recruiter for additional information regarding zone locations.&lt;/p&gt;
+&lt;p&gt;📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba&quot;&gt;perks &amp;amp; benefits&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Interview process&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Below is the interview process you can expect for this role (you can read more about &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/Types-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7&quot;&gt;&lt;em&gt;the types of interviews&lt;/em&gt;&lt;/a&gt;&lt;em&gt; in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We expect the interview process to take ~6 hours in total.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;👋 Introduction Stage&lt;/strong&gt; - we have initial conversations to get to know you better…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[30m]&lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13&quot;&gt; Recruiter Screen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[20m]&lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#6a6deb280d374652b21d5aa3061c82d2&quot;&gt; Hiring Manager Intro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;🧑‍💻 Team Interview Stage&lt;/strong&gt; - we then schedule an all-day onsite interview to delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[60m] &lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#e83edd987754460e839138a4bbfd592e&quot;&gt;Coding Exercise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[60m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3?pvs=4#e83edd987754460e839138a4bbfd592e&quot;&gt;Coding Exercise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[60m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3?pvs=4#b37f3b535e894775b9c64f53675b5549&quot;&gt;System Design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[45m]&lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#da568e7854bb4aaa9b027157088e2d71&quot;&gt; Technical Screen / Resume Deep Dive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;🎉 Final Interview Stage &lt;/strong&gt;- we move you to our final round, where you gain a better understanding of our business and values holistically…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[45m]&lt;a href=&quot;https://sourcegraph.notion.site/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7#cb00697e95304550a146c32563c0255d&quot;&gt; Cross-functional Team Collaboration Interview&lt;/a&gt; /&lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd&quot;&gt; Values Interview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[15m]&lt;a href=&quot;https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c&quot;&gt; Leadership&lt;/a&gt; with a co-founder&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;We check references and conduct your background check&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Learn more about us&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;You can learn more about what it is like to work at Sourcegraph by reading &lt;a href=&quot;https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0&quot;&gt;our handbook&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are an ambitious team who are collectively working hard to build the most influential company in the world.&amp;nbsp; You can read more about our &lt;a href=&quot;https://sourcegraph.notion.site/What-it-s-like-working-at-Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115&quot;&gt;culture&lt;/a&gt;, &lt;a href=&quot;https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74&quot;&gt;competitive compensation&lt;/a&gt; and &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74&quot;&gt;benefits&lt;/a&gt; here.&lt;/p&gt;
+&lt;p&gt;Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Sourcegraph participates in &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107&quot;&gt;&lt;em&gt;E-Verify&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for U.S. Employees. &lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/3979584?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
