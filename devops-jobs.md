@@ -48,63 +48,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/v2/D560BAQEtAXn0ryOTBw/company-logo_200_200/company-logo_200_200/0/1694785555271/yourcounterpart_logo?e=1744243200&v=beta&t=-BEjbQP7PMMfAC5PtCYEgvJk4MuWZ4Bfzh54loGzpwo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Counterpart</h5>
-                    <h3>Senior DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/counterpart/jobs/4517224005" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;p&gt;&lt;strong&gt;SENIOR DEVOPS ENGINEER&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Counterpart is a modern management &amp;amp; professional liability insurance platform for the 21st century workplace. We offer products and services to help companies align the risks and incentives of creating great organizations. Our platform is designed to measure risk more efficiently using the most advanced rating system in the industry, while also proactively mitigating the risks of our insureds. Ultimately, we provide businesses with the framework to be the best versions of themselves. That’s where you come in.&lt;/p&gt;
-&lt;p&gt;As a Senior DevOps Engineer, you will be a thought leader and prolific individual contributor to the infrastructure, dynamic data services, and tooling that we are leveraging to shape the future of insurance. You will help bridge the gap between Product, Insurance, and Data while architecting the infrastructure underneath our systems and ensuring we are prepared in production and ready to disrupt the industry. Think of the words Automation, Platform, Security, and Observability. In addition, you will interact with multiple development teams and help to set the culture, rituals, and processes that underpin a high functioning engineering team and the organization more broadly.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;YOU WILL&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Below are some key projects we are working on. You will be a part of one or more of these objectives:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Modernize insurance application workflows&lt;/strong&gt;. We are enhancing our Django system to update and automate workflows for our Risk Engineering team. You will be responsible for migrating key parts of the UI and enhancing the backend to support the best user experience possible.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Increase efficiency with AI&lt;/strong&gt;. Collaborate with the Data and Risk Engineering teams to leverage AI across our products via a React frontend. Process documents into actionable, structured information.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Enable small businesses to manage HR with modern software&lt;/strong&gt;. Enhance our HR application to support its next phase of growth.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Emerging Products&lt;/strong&gt;. Create new services to enable our Claims team to process a larger volume of complex claims across many different insurance lines.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Standardize development processes&lt;/strong&gt;. Work with engineering leaders to create documentation, examples, and training for the wider team. Our goal is to standardize how we do work in our Python and Javascript code bases. This will have a huge impact on our quality as we grow.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;YOU HAVE&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A passion for programming and a love of building and experimentation&lt;/li&gt;
-&lt;li&gt;5+ years of experience with AWS&lt;/li&gt;
-&lt;li&gt;3+ years of experience with Python&lt;/li&gt;
-&lt;li&gt;2+ years of experience with relational databases&lt;/li&gt;
-&lt;li&gt;Experience with Terraform&lt;/li&gt;
-&lt;li&gt;Effective communication &amp;amp; documentation skills&lt;/li&gt;
-&lt;li&gt;Experience working on a remote team&lt;/li&gt;
-&lt;li&gt;Experience leading infrastructure architecture and optimization.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Who you will work with&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Derrick Franco, Engineering Manager:&lt;/strong&gt; After teaching himself to code at 13, Derrick went on to co-found Jumpstart in addition to building out the technical divisions at InvestorsAlley and Phinaz Media Group. Nowadays Derrick spends his time reading, with his wife, and working on his podcast The Future of Work Project.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Julian Prokay, Engineering Manager: &lt;/strong&gt;A veteran of the SaaS space with experience working on both student systems and construction management software. In his free time, he enjoys history podcasts and fantasy literature.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Ron Alexessen, Engineering Manager: &lt;/strong&gt;Ron has experience at large companies like Hewlett-Packard, New Relic, and Rackspace and feels most impactful at small firms and startups. Embracing a chaordic style, both at work and home, is just right. For balance, Ron climbs, runs, and plays a supporting role for his active teenagers.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;David Drake, Engineering Manager: &lt;/strong&gt;David combines a theatre degree, a programming degree, and 17 years of professional software experience to bring heart and technical expertise to his engineering teams. A former founder with a Commodore 64 tattoo, he balances his passion for technology with time spent with his partner and 9-year-old daughter, as well as hobbies like reading, meditation, cooking, and exploring the outdoors.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Newton Troung, Engineering Manager&lt;/strong&gt;: Newton joins Counterpart with 7+ years of experience in platform and data engineering. In his last company Thrive Market, he had a hand in building out new microservices and architecting data pipelines with Airflow and Spark. He&#39;s vegetarian and loves trying new restaurants when traveling. Nowadays he&#39;s busy keeping up with his 2-year-old and doing outdoor activities with his family.&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Our estimated pay range for this role is $185,000 to $220,000. Base salary is determined by a variety of factors, including but not limited to, market data, location, internal equitability, and experience.&lt;/p&gt;
-&lt;p&gt;We are committed to being a welcoming and inclusive workplace for everyone, and we are intentional about making sure people feel respected, supported and connected at work—regardless of who you are or where you come from. We value and celebrate our differences and we believe being open about who we are allows us to do the best work of our lives.&lt;/p&gt;
-&lt;p&gt;We are an Equal Opportunity Employer. We do not discriminate against qualified applicants or employees on the basis of race, color, religion, gender identity, sex, sexual preference, sexual identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, military status, or any other characteristic protected by federal, state, or local law, rule, or regulation.&lt;/p&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://photos.wellfound.com/startups/i/257661-3abe9f68928f2e0407dca967aca86e67-medium_jpg.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
