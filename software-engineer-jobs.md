@@ -10,7 +10,7 @@
                     <code>api,CSS,frontend,html</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-1974725" align="right" target="_blank">Apply</a>
@@ -19,8 +19,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><em>Salary depends on location and experience, able to provide up front</em></p>
-<p class="h2"> </p>
+                <p><em>Salary depends on location and experience, able to provide up front</em></p><p><em><br></em></p><p><em>When you send your resume also send a little intro for us to get to know you, with insight into why you want this job here at Discourse. Tell us about something you've made that you're proud of. Tell us something you think is interesting/cool about Discourse the software. We expect applicants to have created an account on try.discourse.org, and welcome any suggestion on how you would improve the experience from a developer point of view.</em></p><p><br></p>
 <p class="h2">About the job</p>
 <p>Discourse is looking to hire a frontend specialist. We are looking for someone with a passion to build user interfaces and make our product better every day, with a strong focus on quality.</p>
 <p> </p>
