@@ -100,11 +100,11 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
-                    <h3>Senior Observability Platform Developer - Python/Go</h3>
+                    <h3>Junior Software Developer - Observability</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -113,62 +113,55 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/2166631" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/canonical/jobs/2166631" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-      <p>Canonical seeks an experienced developer with a proven track record in Python and/or Go. As part of the Observability team, you will develop a cloud-native monitoring stack that composes best-in-class open-source monitoring tools. The stack is opinionated, resilient, and scalable, providing deep insights out of the box. The user experience is polished and seamless for the end-users, and its administrators will enjoy smooth, lightweight Day 1 and Day 2 operations.&nbsp;</p>
-<p>This is an exciting opportunity for a software engineer passionate about open source software, Linux, Kubernetes, and Observability. Build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, the growing international software company behind Ubuntu.</p>
-<p>The monitoring stack will monitor applications running on a mix of cloud technologies such as Kubernetes and OpenStack, as well as bare-metal, virtual machines and containers. The stack will be capable of monitoring applications and infrastructure irrespective of whether they are operated by Juju, and will leverage multiple data sources at various levels of the architecture, including Juju itself, to contextualize the collected telemetry and insights delivered to the end-users.</p>
-<p>You can read more about the project <a href="https://grafana.com/blog/2021/10/28/open-source-done-right-why-canonical-adopted-grafana-loki-and-grafana-agent-for-their-new-stack/">here</a> and <a href="https://juju.is/blog/model-driven-observability-part-1">here</a>.</p>
-<p><strong>Location: </strong><em>This role will be based remotely in the EMEA and Americas regions</em></p>
-<h2>What your day will look like</h2>
-<ul>
-<li>Collaborate proactively with a globally distributed team</li>
-<li>Write, test and document high quality code to create new features</li>
-<li>Debug issues and interact with a vibrant community</li>
-<li>Review code produced by other engineers</li>
-<li>Attend conferences to represent Canonical and the Charmed Observability Stack</li>
-<li>Work from home with global travel 2 to 4 weeks for internal and external events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<ul>
-<li>You love technology, observability and working with brilliant people</li>
-<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
-<li>You have a Bachelor’s or equivalent in Computer Science, STEM or similar degree</li>
-<li>You have a proven understanding of the importance of observability and monitoring for keeping software running smoothly</li>
-<li>You have strong working knowledge of modern monitoring technologies like Prometheus, Alertmanager, Grafana, Loki, Mimir, etc., and how they fit together</li>
-<li>You are a skilled Python developer, preferably with a track record in open source</li>
-<li>You have a working knowledge of Go</li>
-<li>You have proven, hands-on experience deploying, configuring and using Kubernetes</li>
-<li>You are comfortable contributing to open source codebases maintained by other companies, you have a history of driving consensus in groups of multiple stakeholders with different interests and getting the resulting work delivered</li>
-<li>You have experience with infrastructure-as-code and configuration management tools</li>
-<li>You have interest and experience with two or more of the following: Ubuntu Linux, container images, Debian packaging, snap, distributed systems.</li>
-</ul>
-<h2>What we offer you</h2>
-<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
-<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.</p>
-<ul>
-<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of 2,000USD per annum</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Parental Leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p><p>Requisition ID: 405</p><p></p>
-    
+                &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical seeks a Junior developer with a proven track record in Python and/or Go. As part of the Observability team, you will develop a cloud-native monitoring stack that composes best-in-class open-source monitoring tools. The stack is opinionated, resilient, and scalable, providing deep insights out of the box. The user experience is polished and seamless for the end-users, and its administrators will enjoy smooth, lightweight Day 1 and Day 2 operations.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is an exciting opportunity for a software engineer passionate about open source software, Linux, Kubernetes, and Observability. Build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, the growing international software company behind Ubuntu.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The monitoring stack will monitor applications running on a mix of cloud technologies such as Kubernetes and OpenStack, as well as bare-metal, virtual machines and containers. The stack will be capable of monitoring applications and infrastructure irrespective of whether they are operated by Juju, and will leverage multiple data sources at various levels of the architecture, including Juju itself, to contextualize the collected telemetry and insights delivered to the end-users.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You can read more about the project &lt;/span&gt;&lt;a href=&quot;https://grafana.com/blog/2021/10/28/open-source-done-right-why-canonical-adopted-grafana-loki-and-grafana-agent-for-their-new-stack/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; and &lt;/span&gt;&lt;a href=&quot;https://juju.is/blog/model-driven-observability-part-1&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;Location: &lt;/strong&gt;&lt;em&gt;This role will be based remotely in the EMEA and Americas regions&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What your day will look like&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Collaborate proactively with a globally distributed team&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Write, test and document high quality code to create new features&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Debug issues and interact with a vibrant community&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Review code produced by other engineers&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Attend conferences to represent Canonical and the Charmed Observability Stack&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work from home with global travel 2 to 4 weeks for internal and external events&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What we are looking for in you&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You love technology and working with brilliant people&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You value soft skills and are passionate, enterprising, thoughtful, and self-motivated&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have a Bachelor’s or equivalent in Computer Science, STEM or similar degree&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You are a skilled Python developer, preferably with a track record in open source&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have a working knowledge of Go&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have interest and experience with two or more of the following: Ubuntu Linux, container images, Debian packaging, snap, distributed systems.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What we offer you&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Fully remote working environment - we’ve been working remotely since 2004!&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Personal learning and development budget of 2,000USD per annum&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Annual compensation review&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recognition rewards&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Annual holiday leave&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Parental Leave&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Employee Assistance Programme&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Opportunity to travel to new locations to meet colleagues at ‘sprints’&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Priority Pass for travel and travel upgrades for long haul company events&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;About Canonical&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical is an equal opportunity employer&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. &lt;/span&gt;&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Whatever your identity, we will give your application fair consideration.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-remote&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
