@@ -48,7 +48,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -61,71 +61,66 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/3029798" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/canonical/jobs/3029798" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-      <p>Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.</p>
-<p>The company is founder led, profitable and growing.</p>
-<h2><strong>We are hiring a Senior Site Reliability Engineer</strong></h2>
-<p>Next-gen operations at scale, with pure Python infra-as-code, from bare metal to containers and applications. Our goal is to perfect enterprise infrastructure devops.</p>
-<p>We run hundreds of private cloud, Kubernetes, and application clusters for customers across physical and public cloud estate, and we are raising the bar on what's possible with automation by embracing a universal operator pattern and model-driven operations.</p>
-<p>To succeed in this role you need to believe in automation as a pure software engineering problem, not a hack-it-till-it-works-for-me problem. You need to be interested in the scientific approach to operations at scale, driven by metrics and code, and you need to be able to learn the entire stack, from bare metal networking and kernel up to serverless and open source applications.</p>
-<p>Location: Globally remote role</p>
-<h3><strong>The role entails</strong></h3>
-<p>Our cloud operations engineers bring Python software-engineering skills and rigour to the operations domain. We practise devsecops from bare metal to application. We architect and run OpenStack, Kubernetes and software defined storage, and we enable devsecops for applications running on that infrastructure too.</p>
-<p>To become a member of this team, you need to be a software engineer fluent in Python, you need a genuine interest in the full open source infrastructure stack from metal to containers, and you need the ability to work in a high pressure operations environment with mission-critical services for global brand name customers.</p>
-<p>As a member of the team you will gain experience in a broad range of cloud technologies. We evolve our offerings as the state of the art improves, so you get to stay current with the latest capabilities in open source infrastructure. We drive upgrades to keep our customers on the latest, best solutions.</p>
-<h3><strong>What we are looking for in you</strong></h3>
-<ul>
-<li>Degree in Software Engineering or Computer Science</li>
-<li>Experience with Linux and familiarity with Linux networking and storage</li>
-<li>Python software development expertise</li>
-<li>Operational experience</li>
-<li>Excellent interpersonal skills, curiosity, flexibility, and accountability</li>
-<li>Ability to travel internationally twice a year, for company events up to two weeks long</li>
-</ul>
-<h3><strong>Nice-to-have skills</strong></h3>
-<ul>
-<li>Experience with OpenStack or Kubernetes deployment or operations</li>
-<li>Familiarity with public or private cloud management</li>
-</ul>
-<h2><strong>What we offer colleagues</strong></h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues</li>
-<li>Priority Pass, and travel upgrades for long haul company events</li>
-</ul>
-<h2><strong>About Canonical</strong></h2>
-<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
-<h3><strong>Canonical is an equal opportunity employer</strong></h3>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>&nbsp;#LI-Remote</p>
-<p><br><br></p>
-
-
-
-
-
-&nbsp;
-
-<p>Requisition ID: 461</p><p></p>
-    
+                &lt;p&gt;Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world&#39;s leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.&lt;/p&gt;
+&lt;p&gt;The company is founder led, profitable and growing.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;We are hiring a Senior Site Reliability Engineer&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Next-gen operations at scale, with pure Python infra-as-code, from bare metal to containers and applications. Our goal is to perfect enterprise infrastructure devops.&lt;/p&gt;
+&lt;p&gt;We run hundreds of private cloud, Kubernetes, and application clusters for customers across physical and public cloud estate, and we are raising the bar on what&#39;s possible with automation by embracing a universal operator pattern and model-driven operations.&lt;/p&gt;
+&lt;p&gt;To succeed in this role you need to believe in automation as a pure software engineering problem, not a hack-it-till-it-works-for-me problem. You need to be interested in the scientific approach to operations at scale, driven by metrics and code, and you need to be able to learn the entire stack, from bare metal networking and kernel up to serverless and open source applications.&lt;/p&gt;
+&lt;p&gt;Location: Globally remote role&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;The role entails&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Our cloud operations engineers bring Python software-engineering skills and rigour to the operations domain. We practise devsecops from bare metal to application. We architect and run OpenStack, Kubernetes and software defined storage, and we enable devsecops for applications running on that infrastructure too.&lt;/p&gt;
+&lt;p&gt;To become a member of this team, you need to be a software engineer fluent in Python, you need a genuine interest in the full open source infrastructure stack from metal to containers, and you need the ability to work in a high pressure operations environment with mission-critical services for global brand name customers.&lt;/p&gt;
+&lt;p&gt;As a member of the team you will gain experience in a broad range of cloud technologies. We evolve our offerings as the state of the art improves, so you get to stay current with the latest capabilities in open source infrastructure. We drive upgrades to keep our customers on the latest, best solutions.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;What we are looking for in you&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Degree in Software Engineering or Computer Science&lt;/li&gt;
+&lt;li&gt;Experience with Linux and familiarity with Linux networking and storage&lt;/li&gt;
+&lt;li&gt;Python software development expertise&lt;/li&gt;
+&lt;li&gt;Operational experience&lt;/li&gt;
+&lt;li&gt;Excellent interpersonal skills, curiosity, flexibility, and accountability&lt;/li&gt;
+&lt;li&gt;Ability to travel internationally twice a year, for company events up to two weeks long&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Nice-to-have skills&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with OpenStack or Kubernetes deployment or operations&lt;/li&gt;
+&lt;li&gt;Familiarity with public or private cloud management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;What we offer colleagues&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distributed work environment with twice-yearly team sprints in person&lt;/li&gt;
+&lt;li&gt;Personal learning and development budget of USD 2,000 per year&lt;/li&gt;
+&lt;li&gt;Annual compensation review&lt;/li&gt;
+&lt;li&gt;Recognition rewards&lt;/li&gt;
+&lt;li&gt;Annual holiday leave&lt;/li&gt;
+&lt;li&gt;Maternity and paternity leave&lt;/li&gt;
+&lt;li&gt;Employee Assistance Programme&lt;/li&gt;
+&lt;li&gt;Opportunity to travel to new locations to meet colleagues&lt;/li&gt;
+&lt;li&gt;Priority Pass, and travel upgrades for long haul company events&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;About Canonical&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Canonical is an equal opportunity employer&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. &lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt;Whatever your identity, we will give your application fair consideration.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;#LI-Remote&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class=&quot;SnapLinksContainer&quot; style=&quot;margin-left: 0px; display: none;&quot;&gt;
+&lt;div class=&quot;SL_SelectionRect&quot; style=&quot;top: 322.6px; left: 726px; height: 0.400002px; width: 0px;&quot;&gt;
+&lt;div class=&quot;SL_SelectionLabel&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -138,79 +133,77 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5517891" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/canonical/jobs/5517891" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-      <p>This role is an opportunity for a hands-on, but literally hands-off, senior technologist with a passion for Linux to build a career with Canonical and drive the success with those leveraging Ubuntu and open source products.&nbsp; If you have experience of IT operations automation, Infrastructure as Code and a passion for technology, then you will enjoy working with some of the best people in the industry at Canonical.</p>
-<h2><strong>Job Summary</strong></h2>
-<p>The IS team at Canonical supports and maintains all of Canonical’s IT production services. The team is in charge of running services used by over 60 million Ubuntu users.</p>
-<p>As an Senior SRE &amp; Gitops engineer you’ll be in a unique position to drive operations automation to the next level, both in our own private clouds as well as in the public clouds. We do this by utilizing the best of open source infrastructure as code software, software development practices such as CI/CD pipelines, and Canonical’s leading products for software operation automation.</p>
-<p>In addition to defining the infrastructure as code, you will improve Canonical products and the open-source technologies they’re based on by providing critical feedback to developers on how their products operate at scale. This is done by submitting bugs (and sometimes writing pull requests) and collaborating on design and implementations with other teams within the company.</p>
-<p>You’ll be part of a global team of SREs that work together and support each other to provide the best possible services to our company, Canonical’s customers and the Ubuntu Community.</p>
-<h2><strong>As a Senior Site Reliability / Gitops Engineer you will</strong></h2>
-<ul>
-<li>Drive the development of automation, Gitops in your team as an embedded tech lead</li>
-<li>Closely collaborate with the IS architect to align your solutions with the IS architecture vision</li>
-<li>Design and architect services that IS can offer to the organization as products</li>
-<li>Apply your experience of IaC to develop infrastructure as code practice within IS by constantly increasing automation and improving IaC processes</li>
-<li>Automate software operations for re-usability and consistency across private and public clouds, taking into consideration the complexities of distributed systems</li>
-<li>Maintain operational responsibility for all of Canonical’s core services, networks, and infrastructure</li>
-<li>Develop skills in troubleshooting, capacity planning, and performance investigation, Setting up, maintaining and using observability tools such as Prometheus, Grafana, and Elasticsearch; design, implement and maintain monitoring and alerting for various systems and services</li>
-<li>Provide assistance and work with globally distributed engineering, operations, and support peers</li>
-<li>Be given uninterrupted development time to focus on larger projects and automation of manual tasks</li>
-<li>Share your experience, know-how and best practices with other team members in design sessions, mentorship and ‘doing work together’</li>
-<li>Carry final responsibility for time-critical escalations</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<ul>
-<li>A modern view on hosting architecture, driven by infrastructure as code across both private and public clouds.</li>
-<li>A product mindset thriving to develop products rather than solutions.</li>
-<li>Python software development experience, with large projects</li>
-<li>Experience working with Kubernetes or other container orchestration systems.</li>
-<li>Proven exposure to manage and deploy cloud infrastructure with code.&nbsp;&nbsp;</li>
-<li>Practical knowledge of Linux networking, routing, and firewalls</li>
-<li>Affinity with various forms of Linux storage, from Ceph to Databases</li>
-<li>Hands-on experience administering enterprise Linux servers</li>
-<li>Extensive knowledge of cloud computing concepts and technologies</li>
-<li>Bachelor's degree or greater, preferably in computer science or related engineering field</li>
-<li>Able to communicate clearly and effectively in English over email, chat, video or voice calls and in-person</li>
-<li>Motivated and able to troubleshoot from kernel to web, and willing to ask others when appropriate</li>
-<li>A willingness to be flexible and able to learn new things quickly</li>
-<li>Be inspired by the needs of fast-changing environments</li>
-<li>Happy to work within distributed teams</li>
-<li>Be passionate and familiarized about open-source, especially Ubuntu or Debian</li>
-</ul>
-<h2>What we offer you</h2>
-<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilization. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
-<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.</p>
-<ul>
-<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of 2,000USD per annum</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Parental Leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p>
-<p>Requisition ID: 263</p><p></p>
-    
+                &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This role is an opportunity for a hands-on, but literally hands-off, senior technologist with a passion for Linux to build a career with Canonical and drive the success with those leveraging Ubuntu and open source products.&amp;nbsp; If you have experience of IT operations automation, Infrastructure as Code and a passion for technology, then you will enjoy working with some of the best people in the industry at Canonical.&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Job Summary&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The IS team at Canonical supports and maintains all of Canonical’s IT production services. The team is in charge of running services used by over 60 million Ubuntu users.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As an Senior SRE &amp;amp; Gitops engineer you’ll be in a unique position to drive operations automation to the next level, both in our own private clouds as well as in the public clouds. We do this by utilizing the best of open source infrastructure as code software, software development practices such as CI/CD pipelines, and Canonical’s leading products for software operation automation.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In addition to defining the infrastructure as code, you will improve Canonical products and the open-source technologies they’re based on by providing critical feedback to developers on how their products operate at scale. This is done by submitting bugs (and sometimes writing pull requests) and collaborating on design and implementations with other teams within the company.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You’ll be part of a global team of SREs that work together and support each other to provide the best possible services to our company, Canonical’s customers and the Ubuntu Community.&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;As a Senior Site Reliability / Gitops Engineer you will&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Drive the development of automation, Gitops in your team as an embedded tech lead&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Closely collaborate with the IS architect to align your solutions with the IS architecture vision&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Design and architect services that IS can offer to the organization as products&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Apply your experience of IaC to develop infrastructure as code practice within IS by constantly increasing automation and improving IaC processes&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Automate software operations for re-usability and consistency across private and public clouds, taking into consideration the complexities of distributed systems&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Maintain operational responsibility for all of Canonical’s core services, networks, and infrastructure&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop skills in troubleshooting, capacity planning, and performance investigation, Setting up, maintaining and using observability tools such as Prometheus, Grafana, and Elasticsearch; design, implement and maintain monitoring and alerting for various systems and services&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Provide assistance and work with globally distributed engineering, operations, and support peers&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Be given uninterrupted development time to focus on larger projects and automation of manual tasks&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Share your experience, know-how and best practices with other team members in design sessions, mentorship and ‘doing work together’&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Carry final responsibility for time-critical escalations&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What we are looking for in you&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A modern view on hosting architecture, driven by infrastructure as code across both private and public clouds.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A product mindset thriving to develop products rather than solutions.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Python software development experience, with large projects&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience working with Kubernetes or other container orchestration systems.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proven exposure to manage and deploy cloud infrastructure with code.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Practical knowledge of Linux networking, routing, and firewalls&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Affinity with various forms of Linux storage, from Ceph to Databases&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Hands-on experience administering enterprise Linux servers&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Extensive knowledge of cloud computing concepts and technologies&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bachelor&#39;s degree or greater, preferably in computer science or related engineering field&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Able to communicate clearly and effectively in English over email, chat, video or voice calls and in-person&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Motivated and able to troubleshoot from kernel to web, and willing to ask others when appropriate&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A willingness to be flexible and able to learn new things quickly&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Be inspired by the needs of fast-changing environments&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Happy to work within distributed teams&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Be passionate and familiarized about open-source, especially Ubuntu or Debian&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What we offer you&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilization. Our compensation philosophy is to ensure equity right across our global workforce.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Fully remote working environment - we’ve been working remotely since 2004!&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Personal learning and development budget of 2,000USD per annum&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Annual compensation review&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recognition rewards&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Annual holiday leave&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Parental Leave&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Employee Assistance Programme&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Opportunity to travel to new locations to meet colleagues at ‘sprints’&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Priority Pass for travel and travel upgrades for long haul company events&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;About Canonical&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical is an equal opportunity employer&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. &lt;/span&gt;&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Whatever your identity, we will give your application fair consideration.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-remote&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -223,63 +216,61 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/4468036" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/canonical/jobs/4468036" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-      <p>Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.</p>
-<p>The company is founder led, profitable and growing.</p>
-<h2><strong>We are hiring a Site Reliability Engineer</strong></h2>
-<p>Next-gen operations at scale, with pure Python infra-as-code, from bare metal to containers and applications. Our goal is to perfect enterprise infrastructure devops.</p>
-<p>We run hundreds of private cloud, Kubernetes, and application clusters for customers across physical and public cloud estate, and we are raising the bar on what's possible with automation by embracing a universal operator pattern and model-driven operations.</p>
-<p>To succeed in this role you need to believe in automation as a pure software engineering problem, not a hack-it-till-it-works-for-me problem. You need to be interested in the scientific approach to operations at scale, driven by metrics and code, and you need to be able to learn the entire stack, from bare metal networking and kernel up to serverless and open source applications.</p>
-<p>Location: Globally remote role</p>
-<h3><strong>The role entails</strong></h3>
-<p>Our cloud operations engineers bring Python software-engineering skills and rigour to the operations domain. We practise devsecops from bare metal to application. We architect and run OpenStack, Kubernetes and software defined storage, and we enable devsecops for applications running on that infrastructure too.</p>
-<p>To become a member of this team, you need to be a software engineer fluent in Python, you need a genuine interest in the full open source infrastructure stack from metal to containers, and you need the ability to work in a high pressure operations environment with mission-critical services for global brand name customers.</p>
-<p>As a member of the team you will gain experience in a broad range of cloud technologies. We evolve our offerings as the state of the art improves, so you get to stay current with the latest capabilities in open source infrastructure. We drive upgrades to keep our customers on the latest, best solutions.</p>
-<h3><strong>What we are looking for in you</strong></h3>
-<ul>
-<li>Degree in Software Engineering or Computer Science</li>
-<li>Experience with Linux and familiarity with Linux networking and storage</li>
-<li>Python software development expertise</li>
-<li>Operational experience</li>
-<li>Excellent interpersonal skills, curiosity, flexibility, and accountability</li>
-<li>Ability to travel internationally twice a year, for company events up to two weeks long</li>
-</ul>
-<h3><strong>Nice-to-have skills</strong></h3>
-<ul>
-<li>Experience with OpenStack or Kubernetes deployment or operations</li>
-<li>Familiarity with public or private cloud management</li>
-</ul>
-<h2><strong>What we offer colleagues</strong></h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues</li>
-<li>Priority Pass, and travel upgrades for long haul company events</li>
-</ul>
-<h2><strong>About Canonical</strong></h2>
-<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
-<h3><strong>Canonical is an equal opportunity employer</strong></h3>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>&nbsp;#LI-Remote</p>
-<p><br><br></p><p>Requisition ID: 491</p><p></p>
-    
+                &lt;p&gt;Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world&#39;s leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.&lt;/p&gt;
+&lt;p&gt;The company is founder led, profitable and growing.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;We are hiring a Site Reliability Engineer&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Next-gen operations at scale, with pure Python infra-as-code, from bare metal to containers and applications. Our goal is to perfect enterprise infrastructure devops.&lt;/p&gt;
+&lt;p&gt;We run hundreds of private cloud, Kubernetes, and application clusters for customers across physical and public cloud estate, and we are raising the bar on what&#39;s possible with automation by embracing a universal operator pattern and model-driven operations.&lt;/p&gt;
+&lt;p&gt;To succeed in this role you need to believe in automation as a pure software engineering problem, not a hack-it-till-it-works-for-me problem. You need to be interested in the scientific approach to operations at scale, driven by metrics and code, and you need to be able to learn the entire stack, from bare metal networking and kernel up to serverless and open source applications.&lt;/p&gt;
+&lt;p&gt;Location: Globally remote role&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;The role entails&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Our cloud operations engineers bring Python software-engineering skills and rigour to the operations domain. We practise devsecops from bare metal to application. We architect and run OpenStack, Kubernetes and software defined storage, and we enable devsecops for applications running on that infrastructure too.&lt;/p&gt;
+&lt;p&gt;To become a member of this team, you need to be a software engineer fluent in Python, you need a genuine interest in the full open source infrastructure stack from metal to containers, and you need the ability to work in a high pressure operations environment with mission-critical services for global brand name customers.&lt;/p&gt;
+&lt;p&gt;As a member of the team you will gain experience in a broad range of cloud technologies. We evolve our offerings as the state of the art improves, so you get to stay current with the latest capabilities in open source infrastructure. We drive upgrades to keep our customers on the latest, best solutions.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;What we are looking for in you&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Degree in Software Engineering or Computer Science&lt;/li&gt;
+&lt;li&gt;Experience with Linux and familiarity with Linux networking and storage&lt;/li&gt;
+&lt;li&gt;Python software development expertise&lt;/li&gt;
+&lt;li&gt;Operational experience&lt;/li&gt;
+&lt;li&gt;Excellent interpersonal skills, curiosity, flexibility, and accountability&lt;/li&gt;
+&lt;li&gt;Ability to travel internationally twice a year, for company events up to two weeks long&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Nice-to-have skills&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with OpenStack or Kubernetes deployment or operations&lt;/li&gt;
+&lt;li&gt;Familiarity with public or private cloud management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;What we offer colleagues&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distributed work environment with twice-yearly team sprints in person&lt;/li&gt;
+&lt;li&gt;Personal learning and development budget of USD 2,000 per year&lt;/li&gt;
+&lt;li&gt;Annual compensation review&lt;/li&gt;
+&lt;li&gt;Recognition rewards&lt;/li&gt;
+&lt;li&gt;Annual holiday leave&lt;/li&gt;
+&lt;li&gt;Maternity and paternity leave&lt;/li&gt;
+&lt;li&gt;Employee Assistance Programme&lt;/li&gt;
+&lt;li&gt;Opportunity to travel to new locations to meet colleagues&lt;/li&gt;
+&lt;li&gt;Priority Pass, and travel upgrades for long haul company events&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;About Canonical&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Canonical is an equal opportunity employer&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. &lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt;Whatever your identity, we will give your application fair consideration.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;#LI-Remote&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -292,71 +283,69 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/1747487" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/canonical/jobs/1747487" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-      <p>This role is an opportunity for a hands-on, but literally hands-off, technologist with a passion for Linux to build a career with Canonical and drive the success with those leveraging Ubuntu and open source products. &nbsp;If you have experience of IT operations automation, Infrastructure as Code and a passion for technology, then you will enjoy working with some of the best people in the industry at Canonical.<br></p>
-<h2>Job Summary</h2>
-<p>The IS team at Canonical supports and maintains all of Canonical’s IT production services. The team is in charge of running services used by over 60 million Ubuntu users.</p>
-<p>As an SRE &amp; Gitops engineer you’ll be in a unique position to drive operations automation to the next level, both in our own private clouds as well as in the public clouds. We do this by utilizing the best of open source infrastructure as code software, software development practices such as CI/CD pipelines, and Canonical’s leading products for software operation automation.</p>
-<p>In addition to defining the infrastructure as code, you will improve Canonical products and the open-source technologies they’re based on by providing critical feedback to developers on how their products operate at scale. This is done by submitting bugs (and sometimes writing pull requests) and collaborating on design and implementations with other teams within the company.</p>
-<p>You’ll be part of a global team of SREs that work together and support each other to provide the best possible services to our company, Canonical’s customers and the Ubuntu Community.</p>
-<h2>As a Site Reliability / Gitops Engineer engineer you will</h2>
-<ul>
-<li>Apply your experience of IaC to develop infrastructure as code practice within IS by constantly increasing automation and improving IaC processes</li>
-<li>Automate software operations for re-usability and consistency across private and public clouds, taking into consideration the complexities of distributed systems</li>
-<li>Develop new features and improve the resilience and scalability of the existing cloud and container portfolio at Canonical</li>
-<li>Maintain operational responsibility for all of Canonical’s core services, networks, and infrastructure</li>
-<li>Develop skills in troubleshooting, capacity planning, and performance investigation, Setting up, maintaining and using observability tools such as Prometheus, Grafana, and Elasticsearch; design, implement and maintain monitoring and alerting for various systems and services</li>
-<li>Collaborate with development teams to design service architecture, documentation, playbooks, policies and operational procedures</li>
-<li>Provide assistance and work with globally distributed engineering, operations, and support peers</li>
-<li>Be given uninterrupted development time to focus on larger projects and automation of manual tasks</li>
-<li>Share your experience, know-how and best practices with other team members in design sessions, mentorship and ‘doing work together’</li>
-<li>Carry final responsibility for time-critical escalations</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<ul>
-<li>A deep experience of, and knowledge to define operations in code, using version control, peer review and CI/CD to roll out changes both to applications and infrastructure</li>
-<li>Strong modern engineering background (peer-review, unit testing, SCM, CI/CD, Agile)</li>
-<li>Python software development experience, with large projects</li>
-<li>Practical knowledge of Linux networking, routing, and firewalls</li>
-<li>Affinity with various forms of Linux storage, from Ceph to Databases</li>
-<li>Hands-on experience administering enterprise Linux servers</li>
-<li>Extensive knowledge of cloud computing concepts and technologies</li>
-<li>Bachelor's degree or greater, preferably in computer science or related engineering field</li>
-<li>Able to communicate clearly and effectively in English over email, chat, video or voice calls and in-person</li>
-<li>Motivated and able to troubleshoot from kernel to web, and willing to ask others when appropriate</li>
-<li>A willingness to be flexible and able to learn new things quickly</li>
-<li>Be inspired by the needs of fast-changing environments</li>
-<li>Happy to work within distributed teams</li>
-<li>Be passionate and familiarized about open-source, especially Ubuntu or Debian<br></li>
-</ul>
-<h2>What we offer you</h2>
-<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilization. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
-<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.</p>
-<ul>
-<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of 2,000USD per annum</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Parental Leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p>
-<p>Requisition ID: 263</p><p></p>
-    
+                &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This role is an opportunity for a hands-on, but literally hands-off, technologist with a passion for Linux to build a career with Canonical and drive the success with those leveraging Ubuntu and open source products. &amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you have experience of IT operations automation, Infrastructure as Code and a passion for technology, then you will enjoy working with some of the best people in the industry at Canonical.&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Job Summary&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The IS team at Canonical supports and maintains all of Canonical’s IT production services. The team is in charge of running services used by over 60 million Ubuntu users.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As an SRE &amp;amp; Gitops engineer you’ll be in a unique position to drive operations automation to the next level, both in our own private clouds as well as in the public clouds. We do this by utilizing the best of open source infrastructure as code software, software development practices such as CI/CD pipelines, and Canonical’s leading products for software operation automation.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In addition to defining the infrastructure as code, you will improve Canonical products and the open-source technologies they’re based on by providing critical feedback to developers on how their products operate at scale. This is done by submitting bugs (and sometimes writing pull requests) and collaborating on design and implementations with other teams within the company.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You’ll be part of a global team of SREs that work together and support each other to provide the best possible services to our company, Canonical’s customers and the Ubuntu Community.&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;As a Site Reliability / Gitops Engineer engineer you will&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Apply your experience of IaC to develop infrastructure as code practice within IS by constantly increasing automation and improving IaC processes&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Automate software operations for re-usability and consistency across private and public clouds, taking into consideration the complexities of distributed systems&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Develop new features and improve the resilience and scalability of the existing cloud and container portfolio at Canonical&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Maintain operational responsibility for all of Canonical’s core services, networks, and infrastructure&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Develop skills in troubleshooting, capacity planning, and performance investigation, Setting up, maintaining and using observability tools such as Prometheus, Grafana, and Elasticsearch; design, implement and maintain monitoring and alerting for various systems and services&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Collaborate with development teams to design service architecture, documentation, playbooks, policies and operational procedures&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Provide assistance and work with globally distributed engineering, operations, and support peers&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Be given uninterrupted development time to focus on larger projects and automation of manual tasks&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Share your experience, know-how and best practices with other team members in design sessions, mentorship and ‘doing work together’&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Carry final responsibility for time-critical escalations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What we are looking for in you&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A deep experience of, and knowledge to define operations in code, using version control, peer review and CI/CD to roll out changes both to applications and infrastructure&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong modern engineering background (peer-review, unit testing, SCM, CI/CD, Agile)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Python software development experience, with large projects&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Practical knowledge of Linux networking, routing, and firewalls&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Affinity with various forms of Linux storage, from Ceph to Databases&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Hands-on experience administering enterprise Linux servers&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Extensive knowledge of cloud computing concepts and technologies&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bachelor&#39;s degree or greater, preferably in computer science or related engineering field&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Able to communicate clearly and effectively in English over email, chat, video or voice calls and in-person&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Motivated and able to troubleshoot from kernel to web, and willing to ask others when appropriate&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A willingness to be flexible and able to learn new things quickly&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Be inspired by the needs of fast-changing environments&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Happy to work within distributed teams&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Be passionate and familiarized about open-source, especially Ubuntu or Debian&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What we offer you&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilization. Our compensation philosophy is to ensure equity right across our global workforce.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Fully remote working environment - we’ve been working remotely since 2004!&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Personal learning and development budget of 2,000USD per annum&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Annual compensation review&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recognition rewards&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Annual holiday leave&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Parental Leave&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Employee Assistance Programme&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Opportunity to travel to new locations to meet colleagues at ‘sprints’&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Priority Pass for travel and travel upgrades for long haul company events&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;About Canonical&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical is an equal opportunity employer&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. &lt;/span&gt;&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Whatever your identity, we will give your application fair consideration.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-remote&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
