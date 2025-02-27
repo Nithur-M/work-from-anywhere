@@ -10,7 +10,7 @@
                     <code>api,CSS,frontend,html</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-1974725" align="right" target="_blank">Apply</a>
@@ -19,7 +19,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><em>Salary depends on location and experience, able to provide up front</em></p><p><em><br></em></p><p><em>When you send your resume also send a little intro for us to get to know you, with insight into why you want this job here at Discourse. Tell us about something you've made that you're proud of. Tell us something you think is interesting/cool about Discourse the software. We expect applicants to have created an account on try.discourse.org, and welcome any suggestion on how you would improve the experience from a developer point of view.</em></p><p><br></p>
+                <p></p><ul style=""><li style=""><em>Salary depends on location and experience, able to provide up front</em></li></ul><p><em><br></em></p><p><em>When you send your resume also send a little intro for us to get to know you, with insight into why you want this job here at Discourse. Tell us about something you've made that you're proud of. Tell us something you think is interesting/cool about Discourse the software. We expect applicants to have created an account on try.discourse.org, and welcome any suggestion on how you would improve the experience from a developer point of view.</em></p><p><br></p>
 <p class="h2">About the job</p>
 <p>Discourse is looking to hire a frontend specialist. We are looking for someone with a passion to build user interfaces and make our product better every day, with a strong focus on quality.</p>
 <p> </p>
@@ -65,7 +65,7 @@
 <p> </p>
 <p>Our Salary Framework is location and experience based, and we’re happy to provide a range up front. We also give every employee a stake in the success of the business, regardless of seniority or role. All full-time employees are eligible to receive equity options in the company as part of our equity incentive program.</p>
 <p> </p>
-<p>Lastly, we believe in having a welcoming workplace where people with diverse backgrounds and cultures can create something great together. We encourage you to apply, even if you don’t meet every qualification! Apply to <span style="color: var(--remotive-chocolate);">jobs@discourse.org.</span><span style="color: var(--remotive-chocolate);"> Send your resume and a little intro for us to get to know you, with insight into why you want this job here at Discourse.</span></p>
+<p>Lastly, we believe in having a welcoming workplace where people with diverse backgrounds and cultures can create something great together. We encourage you to apply, even if you don’t meet every qualification! Apply to <span style="color: var(--remotive-chocolate);">jobs@discourse.org.</span><span style="color: var(--remotive-chocolate);"> Send your resume and a little intro for us to get to know you, with insight into why you want this job here at Discourse.</span></p><p><span style="color: var(--remotive-chocolate);"><br></span></p><div class="h2"><span style="color: var(--remotive-chocolate);">Important location info:</span></div><p><span style="color: var(--remotive-chocolate);">Within Europe, we only hire from:</span></p><p><span style="color: var(--remotive-chocolate);"><br></span></p><p></p><ul style=""><li style="">Austria</li><li style="">Italy</li><li style="">Poland</li><li style="">Portugal</li><li style="">Romania</li><li style="">United Kingdom</li></ul>
 <img src="https://remotive.com/job/track/1974725/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
@@ -245,6 +245,15 @@
 &lt;li&gt;Prior involvement with small teams that manage a wide surface area of functionality is highly desirable.&lt;/li&gt;
 &lt;li&gt;Appreciation for deep dives into specific technical silos, with the capability to contribute effectively to broad architectural discussions and decisions.&lt;/li&gt;
 &lt;li&gt;Exposure to distributed system design and a solid understanding of its challenges and intricacies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;The Graph team works maintains codebases in several different languages which you will be expected to contribute to:&lt;/div&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet p-rich_text_list--nested&quot; data-stringify-type=&quot;unordered-list&quot; data-list-tree=&quot;true&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Go&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;C++&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Java&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Typescript&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Rust&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;C#&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Nice to haves:&lt;/p&gt;
 &lt;ul&gt;
@@ -537,7 +546,7 @@
                 </td>
                 <td width="300">
                     <h5>MixRank</h5>
-                    <h3>Self-taught & hobbyists - Junior Software Engineers (Estonia/Remote)</h3>
+                    <h3>Junior Software Engineer - Poland/Remote</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -546,19 +555,13 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/v2wLTPD-self-taught-hobbyists-junior-software-engineers-estonia-remote" align="right" target="_blank">Apply</a>
+                <a href="https://app.dover.com/apply/MixRank/cdf0904a-4948-49d2-92a8-fec3502f923f/" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We’re looking for remote engineers—no degree required, self-taught &amp; hobbyists welcome! If you’re passionate about programming and love it as a hobby, this is the place for you. This is an open-ended, entry-level role with mentorship and diverse opportunities to work on all areas of our product—databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
+                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p><p>We're looking for remote engineers that have finished school within the last 2 years or will finish in the next 6 months. This is an open-ended entry-level role with mentorship, and diverse opportunities to work on all areas of our product: databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p><p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p><p>Why Join MixRank? Fully-remote, no HQ office. Team of 40 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p><p>Please include your updated resume when applying for this role.</p><p><strong>Important:</strong>&nbsp;Only accept job offers from emails ending in @<a target="_blank" rel="noopener noreferrer nofollow" href="http://mixrank.com">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -567,7 +570,7 @@
                 </td>
                 <td width="300">
                     <h5>MixRank</h5>
-                    <h3>Self-taught & hobbyists - Junior Software Engineers (Morocco/Remote)</h3>
+                    <h3>Junior Software Engineer - Remote (Global), Full-Time</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -576,19 +579,13 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/t06ocKF-self-taught-hobbyists-junior-software-engineers-morocco-remote" align="right" target="_blank">Apply</a>
+                <a href="https://app.dover.com/apply/MixRank/52f862a9-5a5a-48b7-aabd-680524a42f51/" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We’re looking for remote engineers—no degree required, self-taught &amp; hobbyists welcome! If you’re passionate about programming and love it as a hobby, this is the place for you. This is an open-ended, entry-level role with mentorship and diverse opportunities to work on all areas of our product—databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
+                <p><strong>Who we are</strong></p><p>MixRank processes petabytes of data every month from web crawling. We have hundreds of customers using our data products including Google, Amazon, Facebook, Intel, and Adobe, across industries Sales, Marketing, Finance, and Security.</p><p>Team is 42 full-time, full-remote from 20+ countries. We're growing, profitable, employee-owned, no dependence on outside funding. Applicants from all geographies and backgrounds are welcome.</p><p>We are looking for passionate individuals for whom programming is not just a job but it’s something they love to do. We're obsessed with computers, programming, big data, databases, compilers, hardware, math, data science, and the internet. Does this sound like you? Please apply to join our team.</p><p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, Rust, SQL, Javascript/TypeScript, and Nix. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p><p>We operate at a larger scale than typical startups. We operate two datacenters with high performance servers we've built that are capable of dealing with the volumes of data we process. We've implemented our own distributed file system. We do full-scale web crawls. We download and perform static analysis on the entire universe of Android APKs and iOS IPAs that are published. Unlike a typical startup where you'll spend half of your time in meetings, and the other half fixing bugs from Jira tickets— at MixRank you'll get to challenge yourself with difficult technical problems that will help you to grow as an individual.</p><p><strong>Who we’re looking for</strong></p><p>We're looking for remote junior engineers that have 0-3 years of professional experience in software, and 5+ years of curiosity exploring computers, programming, and technical hobby projects. This is an open-ended entry role with mentorship and diverse opportunities to work on all areas of our product: databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend/backend web development, APIs, data mining, data modeling, and more. To stand out, please highlight what makes you unique: passion for computing, curiosity and side projects, work ethic, niche research, etc.</p><p>Ideally you've already graduated, but if you still have one or more years left of school, please feel free to apply anyway, and if you're the right fit for the team we'll figure out a way to accommodate your schedule.</p><p></p><p><strong>Important:</strong> Only accept job offers from emails ending in @<a target="_blank" rel="noopener noreferrer nofollow" href="http://mixrank.com"><strong><u>mixrank.com</u></strong></a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -597,7 +594,7 @@
                 </td>
                 <td width="300">
                     <h5>MixRank</h5>
-                    <h3>Self-taught & hobbyists - Junior Software Engineers (Algeria/Remote)</h3>
+                    <h3>Software Engineer - Remote (Global), Full-Time</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -606,499 +603,13 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/jlf9DO3-self-taught-hobbyists-junior-software-engineers-algeria-remote" align="right" target="_blank">Apply</a>
+                <a href="https://app.dover.com/apply/MixRank/44a71d20-7286-44cc-b188-2d2420e37f0b/" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We’re looking for remote engineers—no degree required, self-taught &amp; hobbyists welcome! If you’re passionate about programming and love it as a hobby, this is the place for you. This is an open-ended, entry-level role with mentorship and diverse opportunities to work on all areas of our product—databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/793122?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Self-taught & hobbyists - Junior Software Engineers (Libya/Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/MhcjR6d-self-taught-hobbyists-junior-software-engineers-libya-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We’re looking for remote engineers—no degree required, self-taught &amp; hobbyists welcome! If you’re passionate about programming and love it as a hobby, this is the place for you. This is an open-ended, entry-level role with mentorship and diverse opportunities to work on all areas of our product—databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/793122?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Self-taught & hobbyists - Junior Software Engineers (Austria/Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/5bUJlgf-self-taught-hobbyists-junior-software-engineers-austria-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We’re looking for remote engineers—no degree required, self-taught &amp; hobbyists welcome! If you’re passionate about programming and love it as a hobby, this is the place for you. This is an open-ended, entry-level role with mentorship and diverse opportunities to work on all areas of our product—databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/793122?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Self-taught & hobbyists - Junior Software Engineers (Peru/Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/CHEg5EG-self-taught-hobbyists-junior-software-engineers-peru-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We’re looking for remote engineers—no degree required, self-taught &amp; hobbyists welcome! If you’re passionate about programming and love it as a hobby, this is the place for you. This is an open-ended, entry-level role with mentorship and diverse opportunities to work on all areas of our product—databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/793122?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Self-taught & hobbyists - Junior Software Engineers (Bolivia/Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/3w8jFbJ-self-taught-hobbyists-junior-software-engineers-bolivia-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We’re looking for remote engineers—no degree required, self-taught &amp; hobbyists welcome! If you’re passionate about programming and love it as a hobby, this is the place for you. This is an open-ended, entry-level role with mentorship and diverse opportunities to work on all areas of our product—databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/793122?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Self-taught & hobbyists - Junior Software Engineers (Hungary/Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/Uk1NPbu-self-taught-hobbyists-junior-software-engineers-hungary-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We’re looking for remote engineers—no degree required, self-taught &amp; hobbyists welcome! If you’re passionate about programming and love it as a hobby, this is the place for you. This is an open-ended, entry-level role with mentorship and diverse opportunities to work on all areas of our product—databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/793122?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Self-taught & hobbyists - Junior Software Engineers (Ukraine/Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/E0ymUsw-self-taught-hobbyists-junior-software-engineers-ukraine-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We’re looking for remote engineers—no degree required, self-taught &amp; hobbyists welcome! If you’re passionate about programming and love it as a hobby, this is the place for you. This is an open-ended, entry-level role with mentorship and diverse opportunities to work on all areas of our product—databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/793122?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Self-taught & hobbyists - Junior Software Engineers (Ecuador/Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/xD9UnZZ-self-taught-hobbyists-junior-software-engineers-ecuador-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We’re looking for remote engineers—no degree required, self-taught &amp; hobbyists welcome! If you’re passionate about programming and love it as a hobby, this is the place for you. This is an open-ended, entry-level role with mentorship and diverse opportunities to work on all areas of our product—databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/793122?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Self-taught & hobbyists - Junior Software Engineers (Potugal/Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/bLDbNIG-self-taught-hobbyists-junior-software-engineers-potugal-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We’re looking for remote engineers—no degree required, self-taught &amp; hobbyists welcome! If you’re passionate about programming and love it as a hobby, this is the place for you. This is an open-ended, entry-level role with mentorship and diverse opportunities to work on all areas of our product—databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/793122?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Self-taught & hobbyists - Junior Software Engineers (Egypt/Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/B2TUBeI-self-taught-hobbyists-junior-software-engineers-egypt-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We’re looking for remote engineers—no degree required, self-taught &amp; hobbyists welcome! If you’re passionate about programming and love it as a hobby, this is the place for you. This is an open-ended, entry-level role with mentorship and diverse opportunities to work on all areas of our product—databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/793122?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Self-taught & hobbyists - Junior Software Engineers (Kyrgyzstan/Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/J1J6oIb-self-taught-hobbyists-junior-software-engineers-kyrgyzstan-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We’re looking for remote engineers—no degree required, self-taught &amp; hobbyists welcome! If you’re passionate about programming and love it as a hobby, this is the place for you. This is an open-ended, entry-level role with mentorship and diverse opportunities to work on all areas of our product—databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/793122?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Self-taught & hobbyists - Junior Software Engineers (Poland/Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/yYW5TcP-self-taught-hobbyists-junior-software-engineers-poland-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We’re looking for remote engineers—no degree required, self-taught &amp; hobbyists welcome! If you’re passionate about programming and love it as a hobby, this is the place for you. This is an open-ended, entry-level role with mentorship and diverse opportunities to work on all areas of our product—databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/793122?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Self-taught & hobbyists - Junior Software Engineers (Russia/Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/OnJcf39-self-taught-hobbyists-junior-software-engineers-russia-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We’re looking for remote engineers—no degree required, self-taught &amp; hobbyists welcome! If you’re passionate about programming and love it as a hobby, this is the place for you. This is an open-ended, entry-level role with mentorship and diverse opportunities to work on all areas of our product—databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/793122?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Self-taught & hobbyists - Junior Software Engineers (Mexico/Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/mr6MVPy-self-taught-hobbyists-junior-software-engineers-mexico-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We’re looking for remote engineers—no degree required, self-taught &amp; hobbyists welcome! If you’re passionate about programming and love it as a hobby, this is the place for you. This is an open-ended, entry-level role with mentorship and diverse opportunities to work on all areas of our product—databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/793122?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Self-taught & hobbyists - Junior Software Engineers (Colombia/Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/1WbUc6y-self-taught-hobbyists-junior-software-engineers-colombia-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We’re looking for remote engineers—no degree required, self-taught &amp; hobbyists welcome! If you’re passionate about programming and love it as a hobby, this is the place for you. This is an open-ended, entry-level role with mentorship and diverse opportunities to work on all areas of our product—databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/793122?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Self-taught & hobbyists - Junior Software Engineers (Argentina/Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/Yt3f95s-self-taught-hobbyists-junior-software-engineers-argentina-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We’re looking for remote engineers—no degree required, self-taught &amp; hobbyists welcome! If you’re passionate about programming and love it as a hobby, this is the place for you. This is an open-ended, entry-level role with mentorship and diverse opportunities to work on all areas of our product—databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/793122?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Self-taught & hobbyists - Junior Software Engineers (Brazil | Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/3J8aZqd-self-taught-hobbyists-junior-software-engineers-brazil-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We’re looking for remote engineers—no degree required, self-taught &amp; hobbyists welcome! If you’re passionate about programming and love it as a hobby, this is the place for you. This is an open-ended, entry-level role with mentorship and diverse opportunities to work on all areas of our product—databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
+                <p><strong>Who we are</strong></p><p>MixRank processes petabytes of data every month from web crawling. We have hundreds of customers using our data products including Google, Amazon, Facebook, Intel, and Adobe, across industries Sales, Marketing, Finance, and Security.</p><p>Team is 42 full-time, full-remote from 20+ countries. We're growing, profitable, employee-owned, no dependence on outside funding. Applicants from all geographies and backgrounds are welcome.</p><p>We are looking for passionate individuals for whom programming is not just a job but it’s something they love to do. We're obsessed with computers, programming, big data, databases, compilers, hardware, math, data science, and the internet. Does this sound like you? Please apply to join our team.</p><p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, Rust, SQL, Javascript/TypeScript, and Nix. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p><p>We operate at a larger scale than typical startups. We operate two datacenters with high performance servers we've built that are capable of dealing with the volumes of data we process. We've implemented our own distributed file system. We do full-scale web crawls. We download and perform static analysis on the entire universe of Android APKs and iOS IPAs that are published. Unlike a typical startup where you'll spend half of your time in meetings, and the other half fixing bugs from Jira tickets— at MixRank you'll get to challenge yourself with difficult technical problems that will help you to grow as an individual.</p><p><strong>Who we’re looking for</strong></p><p>We're hiring generalist software engineers to work on web applications, data mining, machine learning/data science, data transformation/ETL, data modeling, database scaling, infrastructure, devops, and more. We'll cater the role to whatever subset of these areas match your interests.</p><p>Beneficial experience includes PostgreSQL, Python, Rust, Linux, TypeScript, Nix, frontend/backend web development, and data mining.</p><p><strong>Important:</strong> Only accept job offers from emails ending in @<a target="_blank" rel="noopener noreferrer nofollow" href="http://mixrank.com"><strong><u>mixrank.com</u></strong></a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1200,7 +711,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -1213,54 +724,52 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/4439935" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/canonical/jobs/4439935" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-      <p>We build a high-performance, high-efficiency stack for window managers and display subsystems in C++, called Mir. We're growing the team and looking for new colleagues who share our passion for precision, performance and user experience.</p>
-<p>Our goal is to enable the whole spectrum of graphics from single-purpose screens through edge devices to full desktop environments. We focus on developers who are building window compositing systems or device graphics experience, and aim to give them an amazing developer experience, security, and easy access to today's most used graphics toolkits and libraries.</p>
-<p>We work on Mir and solutions built on it like Ubuntu Frame, and we also set the pace for graphics enablement across the Ubuntu certified hardware ecosystem. Our daily drill includes design, development and testing of features in those pieces of software as well as responding to issues and user inquiries. Most of the software is written in C++, with support tooling in scripting languages. We're also considering Rust or Carbon as evolutionary steps forward.</p>
-<p>This is an excellent opportunity for someone who wants to have a meaningful impact on modern display technologies that will impact millions of developers. Canonical offers a fast-paced team environment and a career full of learning and development opportunities across the open source spectrum.</p>
-<h3>What you will do</h3>
-<ul>
-<li>Design and implement features across the Mir stack</li>
-<li>Assist in debugging, tracking down and fixing issues</li>
-<li>Improve tests and performance benchmarks to catch issues early</li>
-<li>Create documentation to enhance the developer experience</li>
-<li>Engage with the open source community and commercial partners</li>
-<li>Collaborate proactively with a distributed team</li>
-</ul>
-<h3>Required skills and experience</h3>
-<ul>
-<li>You have excellent, modern C++ programming taste</li>
-<li>You have a rigorous approach to software design, development and testing</li>
-<li>You have a solid understanding of asynchronous programming and concurrency patterns</li>
-<li>You have strong written and verbal communication skills to document and present software developed</li>
-<li>You are productive collaborating remotely and are highly motivated and organized</li>
-<li>You are familiar with Linux as a development and deployment platform</li>
-<li>You have proven ability to consistently deliver robust code to production</li>
-<li>Bachelor’s or equivalent in Computer Science, STEM or similar degree</li>
-</ul>
-<h3>Desirable skills and experience</h3>
-<ul>
-<li>Experience with the Wayland protocol ecosystem and compositors</li>
-<li>Familiarity with a range of Linux Desktop Environments</li>
-<li>Familiarity with OpenGL, Vulkan, and other graphics and animation frameworks</li>
-<li>You have experience developing and deploying on a Ubuntu/Debian system</li>
-</ul>
-<h3>What is Canonical?</h3>
-<p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, “the world’s best free software platform”. Our services help businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.</p>
-<p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your<a href="https://canonical.com/careers/diversity/identity"> identity</a>, we will give your application fair consideration.</em></p>
-<p>#LI-Remote&nbsp;</p><p>Requisition ID: 967</p><p></p>
-    
+                &lt;p&gt;We build a high-performance, high-efficiency stack for window managers and display subsystems in C++, called Mir. We&#39;re growing the team and looking for new colleagues who share our passion for precision, performance and user experience.&lt;/p&gt;
+&lt;p&gt;Our goal is to enable the whole spectrum of graphics from single-purpose screens through edge devices to full desktop environments. We focus on developers who are building window compositing systems or device graphics experience, and aim to give them an amazing developer experience, security, and easy access to today&#39;s most used graphics toolkits and libraries.&lt;/p&gt;
+&lt;p&gt;We work on Mir and solutions built on it like Ubuntu Frame, and we also set the pace for graphics enablement across the Ubuntu certified hardware ecosystem. Our daily drill includes design, development and testing of features in those pieces of software as well as responding to issues and user inquiries. Most of the software is written in C++, with support tooling in scripting languages. We&#39;re also considering Rust or Carbon as evolutionary steps forward.&lt;/p&gt;
+&lt;p&gt;This is an excellent opportunity for someone who wants to have a meaningful impact on modern display technologies that will impact millions of developers. Canonical offers a fast-paced team environment and a career full of learning and development opportunities across the open source spectrum.&lt;/p&gt;
+&lt;h3&gt;What you will do&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Design and implement features across the Mir stack&lt;/li&gt;
+&lt;li&gt;Assist in debugging, tracking down and fixing issues&lt;/li&gt;
+&lt;li&gt;Improve tests and performance benchmarks to catch issues early&lt;/li&gt;
+&lt;li&gt;Create documentation to enhance the developer experience&lt;/li&gt;
+&lt;li&gt;Engage with the open source community and commercial partners&lt;/li&gt;
+&lt;li&gt;Collaborate proactively with a distributed team&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Required skills and experience&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You have excellent, modern C++ programming taste&lt;/li&gt;
+&lt;li&gt;You have a rigorous approach to software design, development and testing&lt;/li&gt;
+&lt;li&gt;You have a solid understanding of asynchronous programming and concurrency patterns&lt;/li&gt;
+&lt;li&gt;You have strong written and verbal communication skills to document and present software developed&lt;/li&gt;
+&lt;li&gt;You are productive collaborating remotely and are highly motivated and organized&lt;/li&gt;
+&lt;li&gt;You are familiar with Linux as a development and deployment platform&lt;/li&gt;
+&lt;li&gt;You have proven ability to consistently deliver robust code to production&lt;/li&gt;
+&lt;li&gt;Bachelor’s or equivalent in Computer Science, STEM or similar degree&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Desirable skills and experience&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with the Wayland protocol ecosystem and compositors&lt;/li&gt;
+&lt;li&gt;Familiarity with a range of Linux Desktop Environments&lt;/li&gt;
+&lt;li&gt;Familiarity with OpenGL, Vulkan, and other graphics and animation frameworks&lt;/li&gt;
+&lt;li&gt;You have experience developing and deploying on a Ubuntu/Debian system&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;What is Canonical?&lt;/h3&gt;
+&lt;p&gt;Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, “the world’s best free software platform”. Our services help businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt; identity&lt;/a&gt;, we will give your application fair consideration.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;#LI-Remote&amp;nbsp;&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -1273,70 +782,176 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/6189337" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/canonical/jobs/6189337" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-      <p>Work across the full Linux stack from kernel through GUI to optimise Ubuntu, the world’s most widely used Linux desktop and server, for the latest silicon.</p>
-<p>The role is a fast-paced, problem-solving role that’s challenging yet very exciting. The right candidate must be resourceful, articulate, and able to deliver on a wide variety of solutions across PC and IoT technologies. Our teams partner with specialist engineers from major silicon companies to integrate next-generation features and performance enhancements for upcoming hardware.</p>
-<p><strong>Location:</strong> <em>This is a Globally remote role</em></p>
-<h2>What your day will look like</h2>
-<ul>
-<li>Design and implement the best Ubuntu integration for the latest IoT and server-class hardware platforms and software stacks</li>
-<li>Work with partners to deliver a delightful, optimised, first class Ubuntu experience on their platforms</li>
-<li>Take a holistic approach to the Ubuntu experience on partner platforms with inputs on technical plans, testing strategy, quality metrics</li>
-<li>Participate as technical lead on complex customer engagements involving complete system architectures from cloud to edge</li>
-<li>Help our customers integrate their apps, SDKs, build device OS images, optimize applications with Ubuntu Core, Desktop and Server</li>
-<li>Work with the most advanced operating systems and application technologies available in the enterprise world.</li>
-</ul>
-<p>Joining Canonical, you will partner with bright minds from all over the world, and work with an exciting set of new technologies in a fast growing company with a truly unique and ambitious vision to build a better platform with free software. You will work with customers on exciting IoT and server platforms and technologies, built to support different verticals: from robots to data centers, from telco to retail.</p>
-<h2>What we are looking for in you</h2>
-<ul>
-<li>You love technology and working with brilliant people</li>
-<li>You have a Bachelor’s degree in Computer Science, STEM or similar&nbsp;</li>
-<li>You have experience with Linux packaging (Debian, RPM, Yocto)</li>
-<li>You have experience working with open source communities and licences</li>
-<li>You have experience working with C, C++</li>
-<li>You can work in a globally distributed team through self-discipline and self-motivation.</li>
-</ul>
-<h2>Additional skills that you might also bring</h2>
-<ul>
-<li>Experience with graphics stacks</li>
-<li>Good understanding of networking - TCP/IP, DHCP, HTTP/REST</li>
-<li>Basic understanding of security best practices in IoT or server environments</li>
-<li>Good communication skills, ideally public speaking experience</li>
-<li>IoT / Embedded experience – from board and SoC, BMCs, bootloaders and firmware to OS, through apps and services</li>
-<li>Some experience with Docker/OCI containers/K8s</li>
-</ul>
-<h2>What we offer you</h2>
-<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
-<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.</p>
-<ul>
-<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of 2,000USD per annum</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Parental Leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p><p>Requisition ID: 829</p><p></p>
-    
+                &lt;p&gt;Work across the full Linux stack from kernel through GUI to optimise Ubuntu, the world’s most widely used Linux desktop and server, for the latest silicon.&lt;/p&gt;
+&lt;p&gt;The role is a fast-paced, problem-solving role that’s challenging yet very exciting. The right candidate must be resourceful, articulate, and able to deliver on a wide variety of solutions across PC and IoT technologies. Our teams partner with specialist engineers from major silicon companies to integrate next-generation features and performance enhancements for upcoming hardware.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; &lt;/span&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a Globally remote role&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What your day will look like&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Design and implement the best Ubuntu integration for the latest IoT and server-class hardware platforms and software stacks&lt;/li&gt;
+&lt;li&gt;Work with partners to deliver a delightful, optimised, first class Ubuntu experience on their platforms&lt;/li&gt;
+&lt;li&gt;Take a holistic approach to the Ubuntu experience on partner platforms with inputs on technical plans, testing strategy, quality metrics&lt;/li&gt;
+&lt;li&gt;Participate as technical lead on complex customer engagements involving complete system architectures from cloud to edge&lt;/li&gt;
+&lt;li&gt;Help our customers integrate their apps, SDKs, build device OS images, optimize applications with Ubuntu Core, Desktop and Server&lt;/li&gt;
+&lt;li&gt;Work with the most advanced operating systems and application technologies available in the enterprise world.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Joining Canonical, you will partner with bright minds from all over the world, and work with an exciting set of new technologies in a fast growing company with a truly unique and ambitious vision to build a better platform with free software. You will work with customers on exciting IoT and server platforms and technologies, built to support different verticals: from robots to data centers, from telco to retail.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What we are looking for in you&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;You love technology and working with brilliant people&lt;/li&gt;
+&lt;li&gt;You have a Bachelor’s degree in Computer Science, STEM or similar&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;You have experience with Linux packaging (Debian, RPM, Yocto)&lt;/li&gt;
+&lt;li&gt;You have experience working with open source communities and licences&lt;/li&gt;
+&lt;li&gt;You have experience working with C, C++&lt;/li&gt;
+&lt;li&gt;You can work in a globally distributed team through self-discipline and self-motivation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Additional skills that you might also bring&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with graphics stacks&lt;/li&gt;
+&lt;li&gt;Good understanding of networking - TCP/IP, DHCP, HTTP/REST&lt;/li&gt;
+&lt;li&gt;Basic understanding of security best practices in IoT or server environments&lt;/li&gt;
+&lt;li&gt;Good communication skills, ideally public speaking experience&lt;/li&gt;
+&lt;li&gt;IoT / Embedded experience – from board and SoC, BMCs, bootloaders and firmware to OS, through apps and services&lt;/li&gt;
+&lt;li&gt;Some experience with Docker/OCI containers/K8s&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What we offer you&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Fully remote working environment - we’ve been working remotely since 2004!&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Personal learning and development budget of 2,000USD per annum&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Annual compensation review&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recognition rewards&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Annual holiday leave&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Parental Leave&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Employee Assistance Programme&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Opportunity to travel to new locations to meet colleagues at ‘sprints’&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Priority Pass for travel and travel upgrades for long haul company events&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;About Canonical&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical is an equal opportunity employer&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. &lt;/span&gt;&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Whatever your identity, we will give your application fair consideration.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-remote&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Linux Devices Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/canonical/jobs/5140562" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;This role is one of our general tracks. Apply here for all engineering teams at Canonical who work on low-level system technology on autonomous devices across all seniority levels.&lt;/p&gt;
+&lt;p&gt;We hire careful and conscientious engineers who appreciate the challenge of memory, performance, battery and connectivity constrained code that has to work every time in an unreliable and unforgiving world, on x86, ARM or RISC-V silicon.&lt;/p&gt;
+&lt;p&gt;Canonical Ubuntu is the leading Linux for software engineers, desktops, cloud and IoT. We bring open source to the world as a high-performance, safe and secure platform for enterprise computing, software engineering, and connected devices.&lt;/p&gt;
+&lt;p&gt;These smart, connected devices have the potential to transform every industry. Classic Ubuntu – desktop or server – is widely used in embedded systems because of its developer focus and enterprise grade security maintenance. We partner with the world&#39;s most prominent silicon companies to optimise Ubuntu on their latest and greatest chips, as well as with major OEMs and ODMs (PC, servers and connected device manufacturers) to ensure that Ubuntu works perfectly on their hardware.&lt;/p&gt;
+&lt;p&gt;But while classic, ‘deb’ based Ubuntu is ideal for developers, it has too much variability for appliance or connected device environments, where you want to know *exactly* what the state of millions or billions of devices might be. So Canonical builds Ubuntu Core, a fully containerised version of Ubuntu that is mathematically precise and rigorously secure. We are working on additional solutions for even smaller devices.&lt;/p&gt;
+&lt;p&gt;We have several teams that focus on open source for embedded environments. We hire outstanding Linux software engineers with a passion for open source, innovation, cutting-edge hardware and software technologies in general. You will be expected to make significant contributions through high-quality design and code, and to develop your technical leadership.&lt;/p&gt;
+&lt;p&gt;These roles include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ubuntu Core and snapd software development&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Silicon software and optimisation engineers&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Kernel driver and hardware enablement engineers&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Hardware-centric Linux QA Engineers&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Hardware Certification Engineers&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Robotics engineers&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Industrial IoT software engineers&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Networking software engineers (switching, routing, access and SmartNICs)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At Canonical you will have the opportunity to engage with the broader open source community. We&#39;re looking for individuals who can help build a thriving community, contribute to a broad range of technologies, and contribute to the deployment of Ubuntu and Ubuntu Core across the widest range of devices.&lt;/p&gt;
+&lt;p&gt;Location: we have remote roles open in every time zone.&lt;/p&gt;
+&lt;h2&gt;What your day will look like&lt;/h2&gt;
+&lt;p&gt;Based on the first round of interviews we identify specific teams where you might be an excellent fit, and conduct second round interviews with those teams. Our engineers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Work with the latest Linux kernel and open source technologies&lt;/li&gt;
+&lt;li&gt;Deliver Ubuntu for the latest IoT and server-class hardware platforms&lt;/li&gt;
+&lt;li&gt;Integrate and maintain device-oriented software stacks&lt;/li&gt;
+&lt;li&gt;Write high-quality, well-designed software&lt;/li&gt;
+&lt;li&gt;Collaborate proactively with other globally distributed teams&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Display technical leadership internally and within our external communities&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Help our customers ship their apps and SDKs on Ubuntu&lt;/li&gt;
+&lt;li&gt;Build device OS images with Ubuntu Core, Desktop and Server&lt;/li&gt;
+&lt;li&gt;Optimise the Ubuntu kernel and libraries for silicon-specific capabilities&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Debug issues and produce high-quality code to fix them&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Contribute to technical documentation to make it the best of its kind&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Discuss ideas and collaborate on finding good solutions&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Participate as technical lead on complex customer engagements involving complete system architectures from cloud to edge&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Work usually from home, with global travel 2 to 4 weeks for company events&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What we are looking for in you&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exceptional academic track record from both high school and university&lt;/li&gt;
+&lt;li&gt;Drive and a track record of going above-and-beyond expectations&lt;/li&gt;
+&lt;li&gt;Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path&lt;/li&gt;
+&lt;li&gt;Experience with Linux (Debian or Ubuntu preferred)&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Passion for Linux or embedded systems software (e.g. kernel, graphics, Yocto)&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Fluency in at least one of Golang, C, C++, or Rust&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Professional written and spoken English&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Excellent interpersonal skills, curiosity, flexibility, and accountability&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Passion, thoughtfulness, and self-motivation&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Excellent communication and presentation skills&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Result-oriented, with a personal drive to meet commitments&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Ability to travel twice a year, for company events up to two weeks each&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Additional skills that you might also bring&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with Debian/Ubuntu or other distro packaging&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Understanding of build systems and toolchains, including for cross-compilation&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Experience with firmware, uboot, UEFI, ACPI, DSDT, or boot loaders&lt;/li&gt;
+&lt;li&gt;Experience with power management on PCI ASPM, SATA ALPM, low power profiles&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Computer architecture knowledge of x86, ARM, RISC-V&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Experience in board design, bring up, and validation&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Experience with electrical engineering design tools (e.g. schematic capture, layout)&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Familiarity with Ubuntu development model&lt;/li&gt;
+&lt;li&gt;Performance engineering and security experience&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Shell or Python scripting skills&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What we offer you&lt;/h2&gt;
+&lt;p&gt;We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distributed work environment with twice-yearly team sprints in person&lt;/li&gt;
+&lt;li&gt;Personal learning and development budget of USD 2,000 per year&lt;/li&gt;
+&lt;li&gt;Annual compensation review&lt;/li&gt;
+&lt;li&gt;Recognition rewards&lt;/li&gt;
+&lt;li&gt;Annual holiday leave&lt;/li&gt;
+&lt;li&gt;Maternity and paternity leave&lt;/li&gt;
+&lt;li&gt;Employee Assistance Programme&lt;/li&gt;
+&lt;li&gt;Opportunity to travel to new locations to meet colleagues&lt;/li&gt;
+&lt;li&gt;Priority Pass, and travel upgrades for long haul company events&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;About Canonical&lt;/h2&gt;
+&lt;p&gt;Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.&lt;/p&gt;
+&lt;h2&gt;Canonical is an equal opportunity employer&lt;/h2&gt;
+&lt;p&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt; Whatever your identity, we will give your application fair consideration.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LI-remote&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -1349,80 +964,78 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5703396" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/canonical/jobs/5703396" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-      <p>Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000+ colleagues in 70+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.</p>
-<p>The company is founder led, profitable and growing. We are hiring&nbsp;<strong>Python and Kubernetes Specialist Engineers focused on Data, AI/ML and Analytics Solutions </strong>to join our teams building open source solutions for public cloud and private infrastructure.</p>
-<p>As a software engineer on the team, you'll collaborate on an end-to-end data analytics and mlops solution composed of popular, open-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on workflow, ETL, data governance and visualization tools like Apache SuperSet, dbt, and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. Your team will own a solution from the analytics and machine learning space, and integrate with the solutions from other teams to build the world's best end-to-end data platform. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services.</p>
-<p>We serve the needs of individuals and community members as much as the needs of our Global 2000 and Fortune 500 customers; we make our primary work available free of charge and our Pro subscriptions are also available to individuals for personal use at no cost. Our goal is to enable more people to enjoy the benefits of open source, regardless of their circumstances.</p>
-<p><strong>Location: </strong>This initiative spans many teams that are home-based and in multiple time zones. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hourse! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion.</p>
-<p><strong>What your day will look like</strong></p>
-<ul>
-<li>Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer</li>
-<li>Design, build and maintain solutions that will be deployed on public and private clouds and local workstations</li>
-<li>Master distributed systems concepts such as observability, identity, tracing</li>
-<li>Work with both Kubernetes and machine-oriented open source applications</li>
-<li>Collaborate proactively with a distributed team of engineers, designers and product managers</li>
-<li>Debug issues and interact in public with upstream and Ubuntu communities</li>
-<li>Generate and discuss ideas, and collaborate on finding good solutions</li>
-</ul>
-<p><strong>What we are looking for in you</strong></p>
-<ul>
-<li>Professional or academic software delivery using Python</li>
-<li>Exceptional academic track record from both high school and university</li>
-<li>Undergraduate degree in a technical subject or a compelling narrative about your alternative chosen path</li>
-<li>Confidence to respectfully speak up, exchange feedback, and share ideas without hesitation</li>
-<li>Track record of going above-and-beyond expectations to achieve outstanding results</li>
-<li>Passion for technology evidenced by personal projects and initiatives</li>
-<li>The work ethic and confidence to shine alongside motivated colleagues</li>
-<li>Professional written and spoken English with excellent presentation skills</li>
-<li>Experience with Linux (Debian or Ubuntu preferred)&nbsp;</li>
-<li>Excellent interpersonal skills, curiosity, flexibility, and accountability</li>
-<li>Appreciative of diversity, polite and effective in a multi-cultural, multi-national organisation</li>
-<li>Thoughtfulness and self-motivation&nbsp;</li>
-<li>Result-oriented, with a personal drive to meet commitments&nbsp;</li>
-<li>Ability to travel twice a year, for company events up to two weeks long</li>
-</ul>
-<p><strong>Additional skills that would be nice to have<br></strong></p>
-<p>The following skills may be helpful to you in the role, but we don't expect everyone to bring all of them.</p>
-<ul>
-<li>Hands-on experience with machine learning libraries, or tools.</li>
-<li>Proven track record of building highly automated machine learning solutions for the cloud.</li>
-<li>Experience with container technologies (Docker, LXD, Kubernetes, etc.)</li>
-<li>Experience with public clouds (AWS, Azure, Google Cloud)</li>
-<li>Working knowledge of cloud computing</li>
-<li>Passionate about software quality and testing</li>
-<li>Experience working on an open source project</li>
-</ul>
-<h3>What we offer colleagues</h3>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues</li>
-<li>Priority Pass, and travel upgrades for long haul company events</li>
-</ul>
-<h3>About Canonical</h3>
-<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
-<p><strong>Canonical is an equal opportunity employer</strong></p>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote</p><p>Requisition ID: 594</p><p></p>
-    
+                &lt;p&gt;Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world&#39;s leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000+ colleagues in 70+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.&lt;/p&gt;
+&lt;p&gt;The company is founder led, profitable and growing. We are hiring&amp;nbsp;&lt;strong&gt;Python and Kubernetes Specialist Engineers focused on Data, AI/ML and Analytics Solutions &lt;/strong&gt;to join our teams building open source solutions for public cloud and private infrastructure.&lt;/p&gt;
+&lt;p&gt;As a software engineer on the team, you&#39;ll collaborate on an end-to-end data analytics and mlops solution composed of popular, open-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on workflow, ETL, data governance and visualization tools like Apache SuperSet, dbt, and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. Your team will own a solution from the analytics and machine learning space, and integrate with the solutions from other teams to build the world&#39;s best end-to-end data platform. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services.&lt;/p&gt;
+&lt;p&gt;We serve the needs of individuals and community members as much as the needs of our Global 2000 and Fortune 500 customers; we make our primary work available free of charge and our Pro subscriptions are also available to individuals for personal use at no cost. Our goal is to enable more people to enjoy the benefits of open source, regardless of their circumstances.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location: &lt;/strong&gt;This initiative spans many teams that are home-based and in multiple time zones. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hourse! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What your day will look like&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer&lt;/li&gt;
+&lt;li&gt;Design, build and maintain solutions that will be deployed on public and private clouds and local workstations&lt;/li&gt;
+&lt;li&gt;Master distributed systems concepts such as observability, identity, tracing&lt;/li&gt;
+&lt;li&gt;Work with both Kubernetes and machine-oriented open source applications&lt;/li&gt;
+&lt;li&gt;Collaborate proactively with a distributed team of engineers, designers and product managers&lt;/li&gt;
+&lt;li&gt;Debug issues and interact in public with upstream and Ubuntu communities&lt;/li&gt;
+&lt;li&gt;Generate and discuss ideas, and collaborate on finding good solutions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What we are looking for in you&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Professional or academic software delivery using Python&lt;/li&gt;
+&lt;li&gt;Exceptional academic track record from both high school and university&lt;/li&gt;
+&lt;li&gt;Undergraduate degree in a technical subject or a compelling narrative about your alternative chosen path&lt;/li&gt;
+&lt;li&gt;Confidence to respectfully speak up, exchange feedback, and share ideas without hesitation&lt;/li&gt;
+&lt;li&gt;Track record of going above-and-beyond expectations to achieve outstanding results&lt;/li&gt;
+&lt;li&gt;Passion for technology evidenced by personal projects and initiatives&lt;/li&gt;
+&lt;li&gt;The work ethic and confidence to shine alongside motivated colleagues&lt;/li&gt;
+&lt;li&gt;Professional written and spoken English with excellent presentation skills&lt;/li&gt;
+&lt;li&gt;Experience with Linux (Debian or Ubuntu preferred)&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Excellent interpersonal skills, curiosity, flexibility, and accountability&lt;/li&gt;
+&lt;li&gt;Appreciative of diversity, polite and effective in a multi-cultural, multi-national organisation&lt;/li&gt;
+&lt;li&gt;Thoughtfulness and self-motivation&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Result-oriented, with a personal drive to meet commitments&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Ability to travel twice a year, for company events up to two weeks long&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Additional skills that would be nice to have&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The following skills may be helpful to you in the role, but we don&#39;t expect everyone to bring all of them.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hands-on experience with machine learning libraries, or tools.&lt;/li&gt;
+&lt;li&gt;Proven track record of building highly automated machine learning solutions for the cloud.&lt;/li&gt;
+&lt;li&gt;Experience with container technologies (Docker, LXD, Kubernetes, etc.)&lt;/li&gt;
+&lt;li&gt;Experience with public clouds (AWS, Azure, Google Cloud)&lt;/li&gt;
+&lt;li&gt;Working knowledge of cloud computing&lt;/li&gt;
+&lt;li&gt;Passionate about software quality and testing&lt;/li&gt;
+&lt;li&gt;Experience working on an open source project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;What we offer colleagues&lt;/h3&gt;
+&lt;p&gt;We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distributed work environment with twice-yearly team sprints in person&lt;/li&gt;
+&lt;li&gt;Personal learning and development budget of USD 2,000 per year&lt;/li&gt;
+&lt;li&gt;Annual compensation review&lt;/li&gt;
+&lt;li&gt;Recognition rewards&lt;/li&gt;
+&lt;li&gt;Annual holiday leave&lt;/li&gt;
+&lt;li&gt;Maternity and paternity leave&lt;/li&gt;
+&lt;li&gt;Employee Assistance Programme&lt;/li&gt;
+&lt;li&gt;Opportunity to travel to new locations to meet colleagues&lt;/li&gt;
+&lt;li&gt;Priority Pass, and travel upgrades for long haul company events&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;About Canonical&lt;/h3&gt;
+&lt;p&gt;Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Canonical is an equal opportunity employer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. &lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt;Whatever your identity, we will give your application fair consideration.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LI-remote&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -1435,90 +1048,88 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5146620" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/canonical/jobs/5146620" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-      <p>This is a general track for security-focused engineering in every team at Canonical, across all levels of seniority. Apply here if you are already an exceptional security-focused software engineer.</p>
-<p>Most product engineering teams at Canonical include one or two spaces for dedicated security-oriented software engineers. Their role is to challenge the entire team to think more deeply about security. They contribute to the product as engineers too, but their primary focus is to improve security through state of the art practices - from table-top threat model exercises to architecture reviews, from extended security testing with fuzzers and static analysis tools to external security analyst liaison.</p>
-<p>We also build a number of products that are entirely motivated by security technology and requirements, such as our AppArmor kernel investments and our hardening, compliance and certification toolkits for Ubuntu.</p>
-<p>As the publisher of Ubuntu we also handle long-term security response and hardening for the entire operating system and open source universe. Working with tens of thousands of upstreams means that we need to be fluent in every major programming language, and design, build and adopt sophisticated tools that enable us to work at scale and speed with confidence.</p>
-<p>These roles encompass all aspects of product security, including feature development, vulnerability response, proactive security and open source community participation. All security roles interact closely with many of the other Canonical engineering and development teams, Canonical customers and our partners across the open source community.</p>
-<p>Location: We have open roles for security specialist software engineers in every timezone.</p>
-<h2>What you'll do</h2>
-<p>Security roles might tackle any of the following:</p>
-<ul>
-<li>Define, implement and document new security features&nbsp;</li>
-<li>Lead security-oriented thinking in a product engineering team</li>
-<li>Analyze, fix, and test vulnerabilities in Canonical and open source Software</li>
-<li>Contribute to Ubuntu and upstream projects to benefit the community&nbsp;</li>
-<li>Audit and analyze source code for vulnerabilities&nbsp;</li>
-<li>Integrate new tools in our security infrastructure, pipelines and processes</li>
-<li>Achieve and retain various security certifications&nbsp;</li>
-<li>Extend and enhance Linux cryptographic components - specifically with modules such as OpenSSL/Libgcrypt - with the features and functionality required for country-specific compliance such as FIPS and CC certification&nbsp;</li>
-<li>Work with external partners to develop CIS benchmarks</li>
-<li>Design and develop hardening automation for Ubuntu&nbsp;</li>
-<li>Monitor the security industry for new developments&nbsp;</li>
-<li>Develop, test and maintain new software capabilities&nbsp;&nbsp;</li>
-<li>Provide guidance and support to other engineering teams</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<ul>
-<li>An exceptional academic track record from both high school and university</li>
-<li>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path</li>
-<li>Drive and a track record of going above-and-beyond expectations</li>
-<li>A thorough understanding of the common categories of security vulnerabilities</li>
-<li>Modern engineering techniques to find and fix them&nbsp;</li>
-<li>Familiarity with open source development tools and methodologies&nbsp;</li>
-<li>Skill in one or more of C, Python, Go, Rust, Java, Ruby or PHP</li>
-<li>Experience as a security champion</li>
-<li>Experience driving security within a wider SDLC process&nbsp;</li>
-<li>Professional written and spoken English&nbsp;</li>
-<li>Experience with Linux (Debian or Ubuntu preferred)&nbsp;</li>
-<li>Excellent interpersonal skills, curiosity, flexibility, and accountability&nbsp;</li>
-<li>Passion, thoughtfulness, and self-motivation&nbsp;</li>
-<li>Excellent communication and presentation skills&nbsp;</li>
-<li>Result-oriented, with a personal drive to meet commitments&nbsp;</li>
-<li>Ability to travel twice a year, for company events up to two weeks each</li>
-</ul>
-<h2>Optional skills we also value</h2>
-<ul>
-<li>Clear and effective communication with the team and Ubuntu community members&nbsp;</li>
-<li>Experience working with Linux Kernel&nbsp;</li>
-<li>Security Certification experience and knowledge in FIPS and/or CC&nbsp;</li>
-<li>Experience with OVAL (Open Vulnerability Assessment Language)&nbsp;</li>
-<li>Knowledge of and familiarity with low-level Linux cryptography APIs&nbsp;</li>
-<li>Demonstrated high learning ability</li>
-<li>Performance engineering experience&nbsp;</li>
-</ul>
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues</li>
-<li>Priority Pass, and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote</p>
-<p><br><br></p><p>Requisition ID: 1086</p><p></p>
-    
+                &lt;p&gt;This is a general track for security-focused engineering in every team at Canonical, across all levels of seniority. Apply here if you are already an exceptional security-focused software engineer.&lt;/p&gt;
+&lt;p&gt;Most product engineering teams at Canonical include one or two spaces for dedicated security-oriented software engineers. Their role is to challenge the entire team to think more deeply about security. They contribute to the product as engineers too, but their primary focus is to improve security through state of the art practices - from table-top threat model exercises to architecture reviews, from extended security testing with fuzzers and static analysis tools to external security analyst liaison.&lt;/p&gt;
+&lt;p&gt;We also build a number of products that are entirely motivated by security technology and requirements, such as our AppArmor kernel investments and our hardening, compliance and certification toolkits for Ubuntu.&lt;/p&gt;
+&lt;p&gt;As the publisher of Ubuntu we also handle long-term security response and hardening for the entire operating system and open source universe. Working with tens of thousands of upstreams means that we need to be fluent in every major programming language, and design, build and adopt sophisticated tools that enable us to work at scale and speed with confidence.&lt;/p&gt;
+&lt;p&gt;These roles encompass all aspects of product security, including feature development, vulnerability response, proactive security and open source community participation. All security roles interact closely with many of the other Canonical engineering and development teams, Canonical customers and our partners across the open source community.&lt;/p&gt;
+&lt;p&gt;Location: We have open roles for security specialist software engineers in every timezone.&lt;/p&gt;
+&lt;h2&gt;What you&#39;ll do&lt;/h2&gt;
+&lt;p&gt;Security roles might tackle any of the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Define, implement and document new security features&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Lead security-oriented thinking in a product engineering team&lt;/li&gt;
+&lt;li&gt;Analyze, fix, and test vulnerabilities in Canonical and open source Software&lt;/li&gt;
+&lt;li&gt;Contribute to Ubuntu and upstream projects to benefit the community&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Audit and analyze source code for vulnerabilities&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Integrate new tools in our security infrastructure, pipelines and processes&lt;/li&gt;
+&lt;li&gt;Achieve and retain various security certifications&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Extend and enhance Linux cryptographic components - specifically with modules such as OpenSSL/Libgcrypt - with the features and functionality required for country-specific compliance such as FIPS and CC certification&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Work with external partners to develop CIS benchmarks&lt;/li&gt;
+&lt;li&gt;Design and develop hardening automation for Ubuntu&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Monitor the security industry for new developments&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Develop, test and maintain new software capabilities&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Provide guidance and support to other engineering teams&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What we are looking for in you&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exceptional academic track record from both high school and university&lt;/li&gt;
+&lt;li&gt;Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path&lt;/li&gt;
+&lt;li&gt;Drive and a track record of going above-and-beyond expectations&lt;/li&gt;
+&lt;li&gt;A thorough understanding of the common categories of security vulnerabilities&lt;/li&gt;
+&lt;li&gt;Modern engineering techniques to find and fix them&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Familiarity with open source development tools and methodologies&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Skill in one or more of C, Python, Go, Rust, Java, Ruby or PHP&lt;/li&gt;
+&lt;li&gt;Experience as a security champion&lt;/li&gt;
+&lt;li&gt;Experience driving security within a wider SDLC process&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Professional written and spoken English&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Experience with Linux (Debian or Ubuntu preferred)&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Excellent interpersonal skills, curiosity, flexibility, and accountability&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Passion, thoughtfulness, and self-motivation&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Excellent communication and presentation skills&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Result-oriented, with a personal drive to meet commitments&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Ability to travel twice a year, for company events up to two weeks each&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Optional skills we also value&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Clear and effective communication with the team and Ubuntu community members&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Experience working with Linux Kernel&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Security Certification experience and knowledge in FIPS and/or CC&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Experience with OVAL (Open Vulnerability Assessment Language)&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Knowledge of and familiarity with low-level Linux cryptography APIs&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Demonstrated high learning ability&lt;/li&gt;
+&lt;li&gt;Performance engineering experience&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What we offer you&lt;/h2&gt;
+&lt;p&gt;We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distributed work environment with twice-yearly team sprints in person&lt;/li&gt;
+&lt;li&gt;Personal learning and development budget of USD 2,000 per year&lt;/li&gt;
+&lt;li&gt;Annual compensation review&lt;/li&gt;
+&lt;li&gt;Recognition rewards&lt;/li&gt;
+&lt;li&gt;Annual holiday leave&lt;/li&gt;
+&lt;li&gt;Maternity and paternity leave&lt;/li&gt;
+&lt;li&gt;Employee Assistance Programme&lt;/li&gt;
+&lt;li&gt;Opportunity to travel to new locations to meet colleagues&lt;/li&gt;
+&lt;li&gt;Priority Pass, and travel upgrades for long haul company events&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;About Canonical&lt;/h2&gt;
+&lt;p&gt;Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.&lt;/p&gt;
+&lt;h2&gt;Canonical is an equal opportunity employer&lt;/h2&gt;
+&lt;p&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt; Whatever your identity, we will give your application fair consideration.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LI-remote&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -1531,31 +1142,29 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5937947" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/canonical/jobs/5937947" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-      <p>We're enabling high-performing, rock-solid MongoDB deployments on any cloud or platform our customers choose. We want to create the world's best open source analog to MongoDB Altas or Amazon DocumentDB, which can be owned, controlled and operated by end-users on their own multi-cloud or on-premise environments.</p>
-<p>Canonical is looking for an experienced Python developer with a background in MongoDB who will help us to build a fully managed MongoDB solution based on Juju. We're aiming to build the most reliable and secure way to deploy and operate MongoDB on machines, VMs, public cloud and Kubernetes. The MongoDB team is small, meaning you will be a key contributor and your work will have a significant impact on the product and the broader ecosystem.</p>
-<h3>Who you are</h3>
-<ul>
-<li>You love technology and working with brilliant people.</li>
-<li>You are an accomplished senior Python programmer that enjoys challenging projects in mission-critical environments.</li>
-<li>You have experience operating and managing MongoDB clusters.</li>
-<li>You are experienced with modern infrastructure deployment automations or with traditional Linux systems administration, operations, and package management.</li>
-<li>You are passionate about quality and automatic testing.</li>
-</ul>
-<p>Work with one of the industry's pioneers in open source with intelligent engineers at every level from engineer to&nbsp; CTO and CEO level. At Canonical we've honed our remote-first culture since 2004, established in the company from the very beginning. Enjoy a competitive salary, the flexibility to work and live where you wish, and the chance to work exclusively on impactful open source projects.</p>
-<p><em>Canonical is proud to foster a workplace free from discrimination. We truly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better platform for our users and customers. This is something we value deeply and we encourage everyone to come be a part of the world of Ubuntu.</em></p><p>Requisition ID: 666</p><p></p>
-    
+                &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We&#39;re enabling high-performing, rock-solid MongoDB deployments on any cloud or platform our customers choose. We want to create the world&#39;s best open source analog to MongoDB Altas or Amazon DocumentDB, which can be owned, controlled and operated by end-users on their own multi-cloud or on-premise environments.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical is looking for an experienced Python developer with a background in MongoDB who will help us to build a fully managed MongoDB solution based on Juju. We&#39;re aiming to build the most reliable and secure way to deploy and operate MongoDB on machines, VMs, public cloud and Kubernetes. The MongoDB team is small, meaning you will be a key contributor and your work will have a significant impact on the product and the broader ecosystem.&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Who you are&lt;/span&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You love technology and working with brilliant people.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You are an accomplished senior Python programmer that enjoys challenging projects in mission-critical environments.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have experience operating and managing MongoDB clusters.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You are experienced with modern infrastructure deployment automations or with traditional Linux systems administration, operations, and package management.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You are passionate about quality and automatic testing.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with one of the industry&#39;s pioneers in open source with intelligent engineers at every level from engineer to&amp;nbsp; CTO and CEO level. At Canonical we&#39;ve honed our remote-first culture since 2004, established in the company from the very beginning. Enjoy a competitive salary, the flexibility to work and live where you wish, and the chance to work exclusively on impactful open source projects.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Canonical is proud to foster a workplace free from discrimination. We truly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better platform for our users and customers. This is something we value deeply and we encourage everyone to come be a part of the world of Ubuntu.&lt;/em&gt;&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -1568,72 +1177,70 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5218601" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/canonical/jobs/5218601" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-      <p>Canonical is building a comprehensive automation suite to provide multi-cloud and on-premise data solutions for the enterprise. The data platform team is a collaborative team that develops a managed solutions for a full range of data stores and data technologies, spanning from big data, through NoSQL,&nbsp; cache-layer capabilities, and analytics; all the way to structured SQL engines (similar to Amazon RDS approach).&nbsp;</p>
-<p>We are facing the interesting problem of fault-tolerant mission-critical distributed systems and intend to deliver the world's best automation solution for delivering managed data platforms.&nbsp;</p>
-<p>We are looking for candidates from junior to senior level with interests, experience and willingness to learn around Big Data technologies, such as distributed event-stores (Kafka) and parallel computing frameworks (Spark). Engineers who thrive at Canonical are mindful of open-source community dynamics and equally aware of the needs of large, innovative organisations.</p>
-<p>Location: This is a Globally remote role</p>
-<h2>What your day will look like</h2>
-<p>The data platform team is responsible for the automation of data platform operations, with the mission of managing and integrating Big Data platforms at scale. This includes ensuring fault-tolerant replication, TLS, installation, backups and much more; but also provides domain-specific expertise on the actual data system to other teams within Canonical. This role is focused on the creation and automation of infrastructure features of data platforms, not analysing and/or processing the data in them.</p>
-<ul>
-<li>Collaborate proactively with a distributed team</li>
-<li>Write high-quality, idiomatic Python code to create new features</li>
-<li>Debug issues and interact with upstream communities publicly</li>
-<li>Work with helpful and talented engineers including experts in many fields</li>
-<li>Discuss ideas and collaborate on finding good solutions</li>
-<li>Work from home with global travel for 2 to 4 weeks per year for internal and external events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<ul>
-<li>Proven hands-on experience in software development using Python</li>
-</ul>
-<ul>
-<li>Proven hands-on experience in distributed systems, such as Kafka and Spark</li>
-</ul>
-<ul>
-<li>Have a Bachelor’s or equivalent in Computer Science, STEM, or a similar degree</li>
-<li>Willingness to travel up to 4 times a year for internal events</li>
-</ul>
-<h2>Additional skills that you might also bring</h2>
-<p>You might also bring a subset of experience from the followings that can help Data Platform to achieve its challenging goals and determine the level we will consider you for:</p>
-<ul>
-<li>Experience operating and managing other data platform technologies, SQL (MySQL, PostgreSQL, Oracle, etc) and/or NoSQL (MongoDB, Redis, ElasticSearch, etc), similar to DBA level expertise</li>
-<li>Experience with Linux systems administration, package management, and infrastructure operations</li>
-<li>Experience with the public cloud or a private cloud solution like OpenStack</li>
-<li>Experience with operating Kubernetes clusters and a belief that it can be used for serious persistent data services</li>
-</ul>
-<h2>What we offer you</h2>
-<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
-<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.</p>
-<ul>
-<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of 2,000USD per annum</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Parental Leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues twice a year</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<p>Canonical is an equal-opportunity employer</p>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p><em>#li-remote</em></p><p>Requisition ID: 666</p><p></p>
-    
+                &lt;p&gt;Canonical is building a comprehensive automation suite to provide multi-cloud and on-premise data solutions for the enterprise. The data platform team is a collaborative team that develops a managed solutions for a full range of data stores and data technologies, spanning from big data, through NoSQL,&amp;nbsp; cache-layer capabilities, and analytics; all the way to structured SQL engines (similar to Amazon RDS approach).&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We are facing the interesting problem of fault-tolerant mission-critical distributed systems and intend to deliver the world&#39;s best automation solution for delivering managed data platforms.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We are looking for candidates from junior to senior level with interests, experience and willingness to learn around Big Data technologies, such as distributed event-stores (Kafka) and parallel computing frameworks (Spark). Engineers who thrive at Canonical are mindful of open-source community dynamics and equally aware of the needs of large, innovative organisations.&lt;/p&gt;
+&lt;p&gt;Location: This is a Globally remote role&lt;/p&gt;
+&lt;h2&gt;What your day will look like&lt;/h2&gt;
+&lt;p&gt;The data platform team is responsible for the automation of data platform operations, with the mission of managing and integrating Big Data platforms at scale. This includes ensuring fault-tolerant replication, TLS, installation, backups and much more; but also provides domain-specific expertise on the actual data system to other teams within Canonical. This role is focused on the creation and automation of infrastructure features of data platforms, not analysing and/or processing the data in them.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Collaborate proactively with a distributed team&lt;/li&gt;
+&lt;li&gt;Write high-quality, idiomatic Python code to create new features&lt;/li&gt;
+&lt;li&gt;Debug issues and interact with upstream communities publicly&lt;/li&gt;
+&lt;li&gt;Work with helpful and talented engineers including experts in many fields&lt;/li&gt;
+&lt;li&gt;Discuss ideas and collaborate on finding good solutions&lt;/li&gt;
+&lt;li&gt;Work from home with global travel for 2 to 4 weeks per year for internal and external events&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What we are looking for in you&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Proven hands-on experience in software development using Python&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Proven hands-on experience in distributed systems, such as Kafka and Spark&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Have a Bachelor’s or equivalent in Computer Science, STEM, or a similar degree&lt;/li&gt;
+&lt;li&gt;Willingness to travel up to 4 times a year for internal events&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Additional skills that you might also bring&lt;/h2&gt;
+&lt;p&gt;You might also bring a subset of experience from the followings that can help Data Platform to achieve its challenging goals and determine the level we will consider you for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience operating and managing other data platform technologies, SQL (MySQL, PostgreSQL, Oracle, etc) and/or NoSQL (MongoDB, Redis, ElasticSearch, etc), similar to DBA level expertise&lt;/li&gt;
+&lt;li&gt;Experience with Linux systems administration, package management, and infrastructure operations&lt;/li&gt;
+&lt;li&gt;Experience with the public cloud or a private cloud solution like OpenStack&lt;/li&gt;
+&lt;li&gt;Experience with operating Kubernetes clusters and a belief that it can be used for serious persistent data services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What we offer you&lt;/h2&gt;
+&lt;p&gt;Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fully remote working environment - we’ve been working remotely since 2004!&lt;/li&gt;
+&lt;li&gt;Personal learning and development budget of 2,000USD per annum&lt;/li&gt;
+&lt;li&gt;Annual compensation review&lt;/li&gt;
+&lt;li&gt;Recognition rewards&lt;/li&gt;
+&lt;li&gt;Annual holiday leave&lt;/li&gt;
+&lt;li&gt;Parental Leave&lt;/li&gt;
+&lt;li&gt;Employee Assistance Programme&lt;/li&gt;
+&lt;li&gt;Opportunity to travel to new locations to meet colleagues twice a year&lt;/li&gt;
+&lt;li&gt;Priority Pass for travel and travel upgrades for long haul company events&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;About Canonical&lt;/h2&gt;
+&lt;p&gt;Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.&lt;/p&gt;
+&lt;p&gt;Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.&lt;/p&gt;
+&lt;p&gt;Canonical is an equal-opportunity employer&lt;/p&gt;
+&lt;p&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. &lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt;Whatever your identity, we will give your application fair consideration.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;#li-remote&lt;/em&gt;&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -1646,68 +1253,66 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5002072" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/canonical/jobs/5002072" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-      <p>Canonical is building a comprehensive automation suite to provide multi-cloud and on-premise data solutions for the enterprise. The data platform team is a collaborative team that develops a full range of data stores and data technologies, spanning from big data, through NoSQL,&nbsp; cache-layer capabilities, and analytics; all the way to structured SQL engines.&nbsp;</p>
-<p>The OpenSearch team is, among other things, focused on creating the best enterprise automation solution for search and analytics suites like OpenSearch and Elasticsearch.</p>
-<p>We have a number of openings we are looking to hire across a range of levels.&nbsp; We will help you identify a suitable position depending on your experience and interests. Engineers who thrive at Canonical are mindful of open-source community dynamics and equally aware of the needs of large, innovative organisations.</p>
-<p>Location: This is a Globally remote role</p>
-<h2>What your day will look like</h2>
-<p>The OpenSearch team is responsible for the automation of OpenSearch operations. This includes ensuring fault-tolerant replication, TLS, installation, and much more; but also provides domain-specific expertise on the actual data system to other teams within Canonical.&nbsp; This role is focused on the creation and automation of features of data platforms, not analysing the data in them.</p>
-<ul>
-<li>Collaborate proactively with an internationally distributed team</li>
-<li>Write high-quality, idiomatic Python code to create new features</li>
-<li>Debug issues and interact with upstream communities publicly</li>
-<li>Work with helpful and talented engineers including experts in a diverse set of fields</li>
-<li>Work from home with global travel for 2 to 4 weeks per year for internal and external events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<ul>
-<li>Proven hands-on experience in software development using Python</li>
-<li>Proven hands-on experience in distributed systems development</li>
-<li>Bachelor’s or equivalent in Computer Science, STEM, or a similar degree</li>
-<li>Willingness to travel up to 4 times a year for internal events</li>
-</ul>
-<h2>Additional skills that you might also bring</h2>
-<p>You might also bring a subset of experience from the following, which will determine the exact role and level we consider you for:</p>
-<ul>
-<li>Experience operating and managing search and analytics engines like Elasticsearch, Logstash, KIbana, and OpenSearch</li>
-<li>Experience with Linux systems administration, package management, and operations</li>
-<li>Experience with the public cloud or a private cloud solution like OpenStack</li>
-<li>Experience with operating Kubernetes clusters and a belief that it can be used for serious persistent data services</li>
-</ul>
-<h2>What we offer you</h2>
-<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
-<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.</p>
-<ul>
-<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of 2,000USD per annum</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Parental Leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<p>Canonical is an equal-opportunity employer</p>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-
-<p>#LI-remote&nbsp;</p><p>Requisition ID: 666</p><p></p>
-    
+                &lt;p&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Canonical is building a comprehensive automation suite to provide multi-cloud and on-premise data solutions for the enterprise. The data platform team is a collaborative team that develops a full range of data stores and data technologies, spanning from big data, through NoSQL,&amp;nbsp; cache-layer capabilities, and analytics; all the way to structured SQL engines.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;The OpenSearch team is, among other things, focused on creating the best enterprise automation solution for search and analytics suites like OpenSearch and Elasticsearch.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;We have a number of openings we are looking to hire across a range of levels.&amp;nbsp; We will help you identify a suitable position depending on your experience and interests. Engineers who thrive at Canonical are mindful of open-source community dynamics and equally aware of the needs of large, innovative organisations.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Location: This is a Globally remote role&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;What your day will look like&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;The OpenSearch team is responsible for the automation of OpenSearch operations. This includes ensuring fault-tolerant replication, TLS, installation, and much more; but also provides domain-specific expertise on the actual data system to other teams within Canonical.&amp;nbsp; This role is focused on the creation and automation of features of data platforms, not analysing the data in them.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Collaborate proactively with an internationally distributed team&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Write high-quality, idiomatic Python code to create new features&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Debug issues and interact with upstream communities publicly&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Work with helpful and talented engineers including experts in a diverse set of fields&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Work from home with global travel for 2 to 4 weeks per year for internal and external events&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;What we are looking for in you&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Proven hands-on experience in software development using Python&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Proven hands-on experience in distributed systems development&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Bachelor’s or equivalent in Computer Science, STEM, or a similar degree&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Willingness to travel up to 4 times a year for internal events&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Additional skills that you might also bring&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;You might also bring a subset of experience from the following, which will determine the exact role and level we consider you for:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Experience&lt;/span&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt; operating and managing search and analytics engines like Elasticsearch, Logstash, KIbana, and OpenSearch&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Experience&lt;/span&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt; with Linux systems administration, package management, and operations&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Experience with the public cloud or a private cloud solution like OpenStack&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Experience with operating Kubernetes clusters and a belief that it can be used for serious persistent data services&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;What we offer you&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Fully remote working environment - we’ve been working remotely since 2004!&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Personal learning and development budget of 2,000USD per annum&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Annual compensation review&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Recognition rewards&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Annual holiday leave&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Parental Leave&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Employee Assistance Programme&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Opportunity to travel to new locations to meet colleagues at ‘sprints’&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 300;&quot;&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Priority Pass for travel and travel upgrades for long haul company events&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;About Canonical&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;Canonical is an equal-opportunity employer&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. &lt;/span&gt;&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Whatever your identity, we will give your application fair consideration.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 300;&quot;&gt;#LI-remote&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -1720,103 +1325,101 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5211861" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/canonical/jobs/5211861" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-      <p>This is the general track for Engineering Director at Canonical, apply here if you are confident to run a project which spans teams and time zones, hiring and managing engineering managers and staff engineers.</p>
-<p>Canonical’s largest software products are built by multiple teams working together under a single director of engineering. Once you have passed the first round of interviews we will discuss specific software products which would be a good fit for your interests.</p>
-<p>We believe that open source is just starting to transform the tech sector and enterprise compute. Our goal is to make open source easier, more reliable and more secure for deployment and development. We strive to be the provider of ‘most software to most companies’. To deliver on that ambition, our engineers are carefully selected from the applicants across the globe. We select for brilliance and motivation to take open source to the next level. Our engineering directors set the pace and the direction to help teams achieve more than they realised they could, and feel proud of the result.</p>
-<p>Even though this is a senior management position, managing managers, we expect Engineering Directors to be outstanding developers with the confidence to lead by example across the full range of activities in their teams. You need to understand what great code looks like in the language and genre of your product - whether that is a web service, or a system daemon, or a desktop application, or a distributed system. You’ll need to know how to drive testing and benchmarking to improve the clarity in your teams around quality and performance. You’ll also need to be confident to set and defend high expectations of work ethic, consistency, focus and learning.</p>
-<p>We have director level roles across a wide range of engineering domains, including:</p>
-<ul>
-<li>Python and Golang</li>
-<li>C / C++ / Rust</li>
-<li>Data infrastructure</li>
-<li>HTML / CSS / JavaScript / Typescript / React</li>
-<li>Flutter</li>
-<li>Distro packaging and systems</li>
-<li>SAAS and web microservices</li>
-<li>Kernel</li>
-<li>Servers</li>
-<li>Graphics, Browser and Desktop&nbsp;&nbsp;</li>
-<li>Silicon enablement and embedded devices</li>
-<li>Product Security</li>
-</ul>
-<p>If your domain of expertise isn’t listed above, yet you feel it’s relevant to Canonical, then feel free to apply anyway. We will route you to the most suitable team.</p>
-<p>Location: The role is remote, with positions available in all time zones. It includes a requirement for global travel for twice per year, for trips up to two weeks long.</p>
-<h2>What you’ll do</h2>
-<ul>
-<li>Lead multiple teams of engineers, ranging from graduate to senior</li>
-<li>Develop your engineering managers and maintain Canonical culture</li>
-<li>Hire staff level engineers for specific roles like performance and quality</li>
-<li>Coach, mentor, and offer career development feedback</li>
-<li>Identify and measure indicators of team health and productivity</li>
-<li>Ensure rounded delivery including community participation and docs</li>
-<li>Implement disciplined engineering processes and defend them</li>
-<li>Set and measure progress against benchmark goals for speed and efficiency</li>
-<li>Represent your product to stakeholders, partners, and customers</li>
-<li>Develop and evangelise great engineering and organisational practices</li>
-<li>Plan and manage progress on agreed goals and projects</li>
-<li>Be an active part of the leadership team, collaborating with other leaders</li>
-<li>Collaborate with leads for related or dependent products</li>
-</ul>
-<h2>What we’re looking for in you</h2>
-<ul>
-<li>An exceptional academic track record from both high school and university</li>
-<li>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path</li>
-<li>Extensive management experience and confidence to set high expectations</li>
-<li>Outstanding Linux based software engineering track record</li>
-<li>Drive and a track record of going above-and-beyond expectations</li>
-<li>Excellent verbal and written communication skills in English</li>
-<li>Public speaking and presentation skills</li>
-<li>A love of developing and growing people and a track record of it</li>
-<li>Experience in leading, coaching and mentoring software developers</li>
-<li>Organised and able to ensure your team delivers timely, high quality results</li>
-<li>Well-organised, self-starting and able to deliver to schedule</li>
-<li>Professional manner interacting with colleagues, partners, and community</li>
-<li>You have advanced expertise in your own domain&nbsp;</li>
-<li>You are knowledgeable and passionate about software development&nbsp;</li>
-<li>You have solid experience working in an agile development environment</li>
-<li>You have a demonstrated drive for continual learning</li>
-<li>Builds trust, relationships and confidence</li>
-<li>Result-oriented, with a personal drive to meet commitments&nbsp;</li>
-<li>Ability to travel twice a year, for company events up to two weeks each</li>
-</ul>
-<h2>Additional skills we value</h2>
-<ul>
-<li>Experience in a developer advocacy or community role</li>
-<li>Open source community engagement and leadership</li>
-<li>Ops and system administration experience</li>
-<li>Performance engineering and security experience</li>
-</ul>
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues</li>
-<li>Priority Pass, and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote</p><p>Requisition ID: 1104</p><p></p>
-    
+                &lt;p&gt;This is the general track for Engineering Director at Canonical, apply here if you are confident to run a project which spans teams and time zones, hiring and managing engineering managers and staff engineers.&lt;/p&gt;
+&lt;p&gt;Canonical’s largest software products are built by multiple teams working together under a single director of engineering. Once you have passed the first round of interviews we will discuss specific software products which would be a good fit for your interests.&lt;/p&gt;
+&lt;p&gt;We believe that open source is just starting to transform the tech sector and enterprise compute. Our goal is to make open source easier, more reliable and more secure for deployment and development. We strive to be the provider of ‘most software to most companies’. To deliver on that ambition, our engineers are carefully selected from the applicants across the globe. We select for brilliance and motivation to take open source to the next level. Our engineering directors set the pace and the direction to help teams achieve more than they realised they could, and feel proud of the result.&lt;/p&gt;
+&lt;p&gt;Even though this is a senior management position, managing managers, we expect Engineering Directors to be outstanding developers with the confidence to lead by example across the full range of activities in their teams. You need to understand what great code looks like in the language and genre of your product - whether that is a web service, or a system daemon, or a desktop application, or a distributed system. You’ll need to know how to drive testing and benchmarking to improve the clarity in your teams around quality and performance. You’ll also need to be confident to set and defend high expectations of work ethic, consistency, focus and learning.&lt;/p&gt;
+&lt;p&gt;We have director level roles across a wide range of engineering domains, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Python and Golang&lt;/li&gt;
+&lt;li&gt;C / C++ / Rust&lt;/li&gt;
+&lt;li&gt;Data infrastructure&lt;/li&gt;
+&lt;li&gt;HTML / CSS / JavaScript / Typescript / React&lt;/li&gt;
+&lt;li&gt;Flutter&lt;/li&gt;
+&lt;li&gt;Distro packaging and systems&lt;/li&gt;
+&lt;li&gt;SAAS and web microservices&lt;/li&gt;
+&lt;li&gt;Kernel&lt;/li&gt;
+&lt;li&gt;Servers&lt;/li&gt;
+&lt;li&gt;Graphics, Browser and Desktop&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Silicon enablement and embedded devices&lt;/li&gt;
+&lt;li&gt;Product Security&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If your domain of expertise isn’t listed above, yet you feel it’s relevant to Canonical, then feel free to apply anyway. We will route you to the most suitable team.&lt;/p&gt;
+&lt;p&gt;Location: The role is remote, with positions available in all time zones. It includes a requirement for global travel for twice per year, for trips up to two weeks long.&lt;/p&gt;
+&lt;h2&gt;What you’ll do&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead multiple teams of engineers, ranging from graduate to senior&lt;/li&gt;
+&lt;li&gt;Develop your engineering managers and maintain Canonical culture&lt;/li&gt;
+&lt;li&gt;Hire staff level engineers for specific roles like performance and quality&lt;/li&gt;
+&lt;li&gt;Coach, mentor, and offer career development feedback&lt;/li&gt;
+&lt;li&gt;Identify and measure indicators of team health and productivity&lt;/li&gt;
+&lt;li&gt;Ensure rounded delivery including community participation and docs&lt;/li&gt;
+&lt;li&gt;Implement disciplined engineering processes and defend them&lt;/li&gt;
+&lt;li&gt;Set and measure progress against benchmark goals for speed and efficiency&lt;/li&gt;
+&lt;li&gt;Represent your product to stakeholders, partners, and customers&lt;/li&gt;
+&lt;li&gt;Develop and evangelise great engineering and organisational practices&lt;/li&gt;
+&lt;li&gt;Plan and manage progress on agreed goals and projects&lt;/li&gt;
+&lt;li&gt;Be an active part of the leadership team, collaborating with other leaders&lt;/li&gt;
+&lt;li&gt;Collaborate with leads for related or dependent products&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What we’re looking for in you&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exceptional academic track record from both high school and university&lt;/li&gt;
+&lt;li&gt;Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path&lt;/li&gt;
+&lt;li&gt;Extensive management experience and confidence to set high expectations&lt;/li&gt;
+&lt;li&gt;Outstanding Linux based software engineering track record&lt;/li&gt;
+&lt;li&gt;Drive and a track record of going above-and-beyond expectations&lt;/li&gt;
+&lt;li&gt;Excellent verbal and written communication skills in English&lt;/li&gt;
+&lt;li&gt;Public speaking and presentation skills&lt;/li&gt;
+&lt;li&gt;A love of developing and growing people and a track record of it&lt;/li&gt;
+&lt;li&gt;Experience in leading, coaching and mentoring software developers&lt;/li&gt;
+&lt;li&gt;Organised and able to ensure your team delivers timely, high quality results&lt;/li&gt;
+&lt;li&gt;Well-organised, self-starting and able to deliver to schedule&lt;/li&gt;
+&lt;li&gt;Professional manner interacting with colleagues, partners, and community&lt;/li&gt;
+&lt;li&gt;You have advanced expertise in your own domain&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;You are knowledgeable and passionate about software development&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;You have solid experience working in an agile development environment&lt;/li&gt;
+&lt;li&gt;You have a demonstrated drive for continual learning&lt;/li&gt;
+&lt;li&gt;Builds trust, relationships and confidence&lt;/li&gt;
+&lt;li&gt;Result-oriented, with a personal drive to meet commitments&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Ability to travel twice a year, for company events up to two weeks each&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Additional skills we value&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience in a developer advocacy or community role&lt;/li&gt;
+&lt;li&gt;Open source community engagement and leadership&lt;/li&gt;
+&lt;li&gt;Ops and system administration experience&lt;/li&gt;
+&lt;li&gt;Performance engineering and security experience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What we offer you&lt;/h2&gt;
+&lt;p&gt;We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distributed work environment with twice-yearly team sprints in person&lt;/li&gt;
+&lt;li&gt;Personal learning and development budget of USD 2,000 per year&lt;/li&gt;
+&lt;li&gt;Annual compensation review&lt;/li&gt;
+&lt;li&gt;Recognition rewards&lt;/li&gt;
+&lt;li&gt;Annual holiday leave&lt;/li&gt;
+&lt;li&gt;Maternity and paternity leave&lt;/li&gt;
+&lt;li&gt;Employee Assistance Programme&lt;/li&gt;
+&lt;li&gt;Opportunity to travel to new locations to meet colleagues&lt;/li&gt;
+&lt;li&gt;Priority Pass, and travel upgrades for long haul company events&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;About Canonical&lt;/h2&gt;
+&lt;p&gt;Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.&lt;/p&gt;
+&lt;h2&gt;Canonical is an equal opportunity employer&lt;/h2&gt;
+&lt;p&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt; Whatever your identity, we will give your application fair consideration.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LI-remote&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -1829,63 +1432,61 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/3542384" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/canonical/jobs/3542384" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-      <p>Canonical, the publisher of Ubuntu, is growing its Linux kernel engineering capacity significantly. We have staff in Europe/Middle East/Africa (EMEA), both North and South America, and the whole Asia/Pacific regions that work holistically on the Ubuntu kernel and is therefore seeking multiple candidates to lead these efforts. Responsibilities can span multiple aspects such as upstream development and the expression of new kernel capabilities in Ubuntu, working with silicon and cloud partners to optimise the Ubuntu kernel for new CPUs, hypervisors, and environments, handling CVEs, livepatch and other security updates to released Ubuntu kernels, and they work with partners to ensure that Ubuntu works first time on every possible piece of hardware.&nbsp;&nbsp;</p>
-<p>This role would suit either an experienced manager of high performing software development teams, or a very proficient technical lead who is excited to take on a management responsibility. You will need to be passionate about Linux and aspire to be an integral part in it’s distribution to millions of users worldwide.</p>
-<p>As an engineering manager at Canonical, your primary responsibility is to your team: helping them grow as engineers, do important and satisfying work, and have a great time while doing it. Technical leadership experience and a background in software engineering are necessary prerequisites for this role. You will be expected to lead, challenge, and develop strong engineers, positively influence the culture, facilitate technical delivery, and work with your team on strategy and execution.</p>
-<p><strong>Location:</strong> Working from home, worldwide.&nbsp; &nbsp;We have kernel teams and openings in every time zone and with the notable exception of Taipei, Taiwan, have no offices and therefore no pressure to work from an office.</p>
-<h2>What your day will look like</h2>
-<ul>
-<li>Lead a distributed team of engineers in your time zone</li>
-<li>Develop your team through coaching, mentoring, leading by example, and feedback</li>
-<li>Support timely delivery of core and specialised Ubuntu kernels</li>
-<li>Oversee commercial engagements that require custom kernel engineering</li>
-<li>Ensure an ongoing commitment to strict quality and reliability standards</li>
-<li>Engage with other teams at Canonical, the open source community and commercial partners</li>
-<li>Work from home with travel globally 2-3 times a year for up to two weeks, for internal and external engineering events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<ul>
-<li>Significant programming experience in C, with Python, Golang, or other like languages also highly regarded</li>
-<li>Substantial experience with Linux kernel internals and concepts</li>
-<li>Solid understanding Linux kernel development principles</li>
-<li>Demonstrated experience managing or leading a team of software engineers</li>
-<li>Contributed to an open source project in the past</li>
-<li>Understanding of agile software development methodologies</li>
-<li>Ability to communicate effectively in English, both written and oral</li>
-</ul>
-<h2>What we offer you</h2>
-<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
-<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.</p>
-<ul>
-<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of 2,000USD per annum</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Parental Leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p><p>Requisition ID: 788</p><p></p>
-    
+                &lt;p&gt;Canonical, the publisher of Ubuntu, is growing its Linux kernel engineering capacity significantly. We have staff in Europe/Middle East/Africa (EMEA), both North and South America, and the whole Asia/Pacific regions that work holistically on the Ubuntu kernel and is therefore seeking multiple candidates to lead these efforts. Responsibilities can span multiple aspects such as upstream development and the expression of new kernel capabilities in Ubuntu, working with silicon and cloud partners to optimise the Ubuntu kernel for new CPUs, hypervisors, and environments, handling CVEs, livepatch and other security updates to released Ubuntu kernels, and they work with partners to ensure that Ubuntu works first time on every possible piece of hardware.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;This role would suit either an experienced manager of high performing software development teams, or a very proficient technical lead who is excited to take on a management responsibility. You will need to be passionate about Linux and aspire to be an integral part in it’s distribution to millions of users worldwide.&lt;/p&gt;
+&lt;p&gt;As an engineering manager at Canonical, your primary responsibility is to your team: helping them grow as engineers, do important and satisfying work, and have a great time while doing it. Technical leadership experience and a background in software engineering are necessary prerequisites for this role. You will be expected to lead, challenge, and develop strong engineers, positively influence the culture, facilitate technical delivery, and work with your team on strategy and execution.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Working from home, worldwide.&amp;nbsp; &amp;nbsp;We have kernel teams and openings in every time zone and with the notable exception of Taipei, Taiwan, have no offices and therefore no pressure to work from an office.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What your day will look like&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead a distributed team of engineers in your time zone&lt;/li&gt;
+&lt;li&gt;Develop your team through coaching, mentoring, leading by example, and feedback&lt;/li&gt;
+&lt;li&gt;Support timely delivery of core and specialised Ubuntu kernels&lt;/li&gt;
+&lt;li&gt;Oversee commercial engagements that require custom kernel engineering&lt;/li&gt;
+&lt;li&gt;Ensure an ongoing commitment to strict quality and reliability standards&lt;/li&gt;
+&lt;li&gt;Engage with other teams at Canonical, the open source community and commercial partners&lt;/li&gt;
+&lt;li&gt;Work from home with travel globally 2-3 times a year for up to two weeks, for internal and external engineering events&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What we are looking for in you&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Significant programming experience in C, with Python, Golang, or other like languages also highly regarded&lt;/li&gt;
+&lt;li&gt;Substantial experience with Linux kernel internals and concepts&lt;/li&gt;
+&lt;li&gt;Solid understanding Linux kernel development principles&lt;/li&gt;
+&lt;li&gt;Demonstrated experience managing or leading a team of software engineers&lt;/li&gt;
+&lt;li&gt;Contributed to an open source project in the past&lt;/li&gt;
+&lt;li&gt;Understanding of agile software development methodologies&lt;/li&gt;
+&lt;li&gt;Ability to communicate effectively in English, both written and oral&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What we offer you&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Fully remote working environment - we’ve been working remotely since 2004!&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Personal learning and development budget of 2,000USD per annum&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Annual compensation review&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recognition rewards&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Annual holiday leave&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Parental Leave&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Employee Assistance Programme&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Opportunity to travel to new locations to meet colleagues at ‘sprints’&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Priority Pass for travel and travel upgrades for long haul company events&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;About Canonical&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical is an equal opportunity employer&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. &lt;/span&gt;&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Whatever your identity, we will give your application fair consideration.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-remote&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -1898,51 +1499,49 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/3752633" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/canonical/jobs/3752633" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-      <p>Our mission is to reinvent the way companies manage their open source information systems - on public clouds and in their own data centres. To achieve that we are building a new community around Python opscode for open source applications, running on Kubernetes. We want to move all of Canonical and Ubuntu IS onto this new, open source codebase.</p>
-<p>We are confident that we can dramatically improve the experience of running complex business operations - and then we can help our customers embrace those new techniques and products. Traditionally, IS is an inward-facing operation. We would like to transform our IS team into an extension of the product engineering capability at Canonical. Our internal workloads are in many cases the same open source workloads that our customers want to operate. This team will productise those workloads for real-time automated operations on Kubernetes.</p>
-<p>This role is ideal for software engineers who enjoy Python, have a passion for distributed systems, and an interest in the entire Linux stack - from kernel to networking to virtualization and containers. It is a role that requires rigour in both code and customer interactions. Our engineers are technically astute open source enthusiasts who are excited about cloud computing and are ready to join a global team charged with delivering world class services to our customers.</p>
-<p>Strong Python development skills and familiarity with Kubernetes are key requirements of this role. You’ll work closely with other teams in Canonical to ensure your products operate reliably, efficiently and scale to production sized workloads for our customers looking to adopt cutting-edge technology. You will participate and be responsible for ensuring sound software architecture and follow best practices in software quality, testing and documentation.</p>
-<h3>What you’ll do</h3>
-<ul>
-<li>Work in Python to design and deliver open source software operations code</li>
-<li>Work across the entire Linux stack, from kernel, networking, storage, to applications</li>
-<li>Learn to think rigorously about application and infrastructure reliability</li>
-<li>Shape high quality open source monitoring and alerting infrastructure</li>
-<li>Simplify open source operations for our customers and open source community</li>
-<li>Demonstrate sound engineering design and testing principles in your code</li>
-<li>Follow agile software development practices</li>
-<li>Coach and develop your colleagues where you have insights</li>
-<li>Grow a healthy, collaborative engineering culture in line with company values</li>
-<li>Work from home with global travel once or twice a year for up to 2 weeks for events</li>
-</ul>
-<h3>Who you are</h3>
-<ul>
-<li>You love technology and working with brilliant people</li>
-<li>You have a Bachelor’s or equivalent in Computer Science, STEM or similar degree</li>
-<li>You are experienced with Linux systems administration, package management, and operations</li>
-<li>You have hands-on experience with at least one public cloud</li>
-<li>You are familiar with Docker and Kubernetes</li>
-<li>You are an experienced Python programmer and enjoy challenging projects</li>
-<li>You understand the importance of reliable software and strive to design and code to that expectation</li>
-<li>You are organized and want your team to deliver timely, high quality software</li>
-</ul>
-<h3>About Canonical</h3>
-<p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, “the world’s best free software platform”. Our mission is to realise the potential of free software in the lives of individuals and organisations. Our services are helping individuals and businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.</p>
-<p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity</a> we will give your application fair consideration.<br></em></p>
-<p>#LI-Remote #Stack</p><p>Requisition ID: 815</p><p></p>
-    
+                &lt;p&gt;Our mission is to reinvent the way companies manage their open source information systems - on public clouds and in their own data centres. To achieve that we are building a new community around Python opscode for open source applications, running on Kubernetes. We want to move all of Canonical and Ubuntu IS onto this new, open source codebase.&lt;/p&gt;
+&lt;p&gt;We are confident that we can dramatically improve the experience of running complex business operations - and then we can help our customers embrace those new techniques and products. Traditionally, IS is an inward-facing operation. We would like to transform our IS team into an extension of the product engineering capability at Canonical. Our internal workloads are in many cases the same open source workloads that our customers want to operate. This team will productise those workloads for real-time automated operations on Kubernetes.&lt;/p&gt;
+&lt;p&gt;This role is ideal for software engineers who enjoy Python, have a passion for distributed systems, and an interest in the entire Linux stack - from kernel to networking to virtualization and containers. It is a role that requires rigour in both code and customer interactions. Our engineers are technically astute open source enthusiasts who are excited about cloud computing and are ready to join a global team charged with delivering world class services to our customers.&lt;/p&gt;
+&lt;p&gt;Strong Python development skills and familiarity with Kubernetes are key requirements of this role. You’ll work closely with other teams in Canonical to ensure your products operate reliably, efficiently and scale to production sized workloads for our customers looking to adopt cutting-edge technology. You will participate and be responsible for ensuring sound software architecture and follow best practices in software quality, testing and documentation.&lt;/p&gt;
+&lt;h3&gt;What you’ll do&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Work in Python to design and deliver open source software operations code&lt;/li&gt;
+&lt;li&gt;Work across the entire Linux stack, from kernel, networking, storage, to applications&lt;/li&gt;
+&lt;li&gt;Learn to think rigorously about application and infrastructure reliability&lt;/li&gt;
+&lt;li&gt;Shape high quality open source monitoring and alerting infrastructure&lt;/li&gt;
+&lt;li&gt;Simplify open source operations for our customers and open source community&lt;/li&gt;
+&lt;li&gt;Demonstrate sound engineering design and testing principles in your code&lt;/li&gt;
+&lt;li&gt;Follow agile software development practices&lt;/li&gt;
+&lt;li&gt;Coach and develop your colleagues where you have insights&lt;/li&gt;
+&lt;li&gt;Grow a healthy, collaborative engineering culture in line with company values&lt;/li&gt;
+&lt;li&gt;Work from home with global travel once or twice a year for up to 2 weeks for events&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Who you are&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You love technology and working with brilliant people&lt;/li&gt;
+&lt;li&gt;You have a Bachelor’s or equivalent in Computer Science, STEM or similar degree&lt;/li&gt;
+&lt;li&gt;You are experienced with Linux systems administration, package management, and operations&lt;/li&gt;
+&lt;li&gt;You have hands-on experience with at least one public cloud&lt;/li&gt;
+&lt;li&gt;You are familiar with Docker and Kubernetes&lt;/li&gt;
+&lt;li&gt;You are an experienced Python programmer and enjoy challenging projects&lt;/li&gt;
+&lt;li&gt;You understand the importance of reliable software and strive to design and code to that expectation&lt;/li&gt;
+&lt;li&gt;You are organized and want your team to deliver timely, high quality software&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;About Canonical&lt;/h3&gt;
+&lt;p&gt;Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, “the world’s best free software platform”. Our mission is to realise the potential of free software in the lives of individuals and organisations. Our services are helping individuals and businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. &lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot; target=&quot;_blank&quot;&gt;Whatever your identity&lt;/a&gt; we will give your application fair consideration.&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;#LI-Remote #Stack&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -1955,73 +1554,71 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/3290946" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/canonical/jobs/3290946" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-      <p>Help us shape the future of open source IT, devops, and IS, from bare metal to containers. Our goal is to revolutionise open source application and infrastructure operations.</p>
-<p>We want to transform the world of software operations by enabling true model-driven operations via next-generation infrastructure-as-code. This will allow companies to run very efficient bare-metal operations for high-performance computing, private cloud, data lakes, AI/ML, and analytics. We need to invent some new technology, and we need to build some new products; we are therefore looking for someone who can lead and inspire a regional software engineering team to fulfill this initiative.</p>
-<p>The Solutions Engineering team works in close collaboration with our managed infrastructure operations team, which runs many private OpenStack clouds and Kubernetes clusters for customers around the world. This enables us to improve our infra-as-code products based on our own real experience, mirroring that of our users and customers. We work in Python, creating open source automation capabilities that simplify operations for anybody, anywhere, who is building on Ubuntu.</p>
-<p>Most of the team's work involves pure Python software development focused on enabling true DevOps workflows. We strive for high quality in both design, documentation, tests, and performance as we enhance operations code packages and Ubuntu itself in order to ensure our platform is the easiest, most robust, and best performing for driving your infrastructure.</p>
-<p>This role is ideal for software engineers who want to work in a global team, have a passion for distributed systems and cloud computing, and an interest in the entire Linux stack - from kernel to networking to virtualization and containers.</p>
-
-<h3>What you’ll do</h3>
-<ul>
-<li>Work in Python and Golang to design and deliver open source software operations code</li>
-<li>Work with the entire Linux stack, from kernel, networking, storage, to applications</li>
-<li>Shape high quality open source monitoring and alerting infrastructure</li>
-<li>Rethink open source operations for our customers and open source community</li>
-<li>Demonstrate sound engineering design and testing principles in your code</li>
-<li>Follow agile software development practices</li>
-<li>Coach and develop your colleagues where you have insights</li>
-<li>Grow a healthy, collaborative engineering culture in line with the company values</li>
-<li>Global travel up to 10% of time for internal and external events</li>
-</ul>
-<h3>Who you are</h3>
-<ul>
-<li>You are a passionate Python developer</li>
-<li>You are organised and want your team to deliver timely, high quality software</li>
-<li>You understand the importance of reliable operations in an agile world</li>
-<li>You have sound knowledge of cloud computing concepts &amp; technologies</li>
-<li>You have practical knowledge of Linux and networking</li>
-<li>You are a lifelong learner</li>
-</ul>
-<h3>Bonus points for</h3>
-<ul>
-<li>You have graduated with a university degree in Computer Science or related software engineering field</li>
-<li>Golang programming skills</li>
-</ul>
-<h3>What you will learn</h3>
-<ul>
-<li>OpenStack and Kubernetes in production</li>
-<li>Thinking rigorously about application and infrastructure reliability</li>
-<li>Wide range of open source applications and skills</li>
-<li>Real-life and hands-on exposure to a wide range of emerging technologies and tools</li>
-</ul>
-<h3>We offer:&nbsp;</h3>
-<ul>
-<li>100% work-from-home</li>
-<li>Learning and development</li>
-<li>Competitive salary</li>
-<li>Recognition rewards</li>
-<li>Annual leave</li>
-<li>Priority Pass for travel</li>
-</ul>
-<h2><strong>About Canonical</strong></h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2><strong>Canonical is an equal opportunity employer</strong></h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#Stack</p><p>Requisition ID: 265</p><p></p>
-    
+                &lt;p&gt;Help us shape the future of open source IT, devops, and IS, from bare metal to containers. Our goal is to revolutionise open source application and infrastructure operations.&lt;/p&gt;
+&lt;p&gt;We want to transform the world of software operations by enabling true model-driven operations via next-generation infrastructure-as-code. This will allow companies to run very efficient bare-metal operations for high-performance computing, private cloud, data lakes, AI/ML, and analytics. We need to invent some new technology, and we need to build some new products; we are therefore looking for someone who can lead and inspire a regional software engineering team to fulfill this initiative.&lt;/p&gt;
+&lt;p&gt;The Solutions Engineering team works in close collaboration with our managed infrastructure operations team, which runs many private OpenStack clouds and Kubernetes clusters for customers around the world. This enables us to improve our infra-as-code products based on our own real experience, mirroring that of our users and customers. We work in Python, creating open source automation capabilities that simplify operations for anybody, anywhere, who is building on Ubuntu.&lt;/p&gt;
+&lt;p&gt;Most of the team&#39;s work involves pure Python software development focused on enabling true DevOps workflows. We strive for high quality in both design, documentation, tests, and performance as we enhance operations code packages and Ubuntu itself in order to ensure our platform is the easiest, most robust, and best performing for driving your infrastructure.&lt;/p&gt;
+&lt;p&gt;This role is ideal for software engineers who want to work in a global team, have a passion for distributed systems and cloud computing, and an interest in the entire Linux stack - from kernel to networking to virtualization and containers.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What you’ll do&lt;/span&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Work in Python and Golang to design and deliver open source software operations code&lt;/li&gt;
+&lt;li&gt;Work with the entire Linux stack, from kernel, networking, storage, to applications&lt;/li&gt;
+&lt;li&gt;Shape high quality open source monitoring and alerting infrastructure&lt;/li&gt;
+&lt;li&gt;Rethink open source operations for our customers and open source community&lt;/li&gt;
+&lt;li&gt;Demonstrate sound engineering design and testing principles in your code&lt;/li&gt;
+&lt;li&gt;Follow agile software development practices&lt;/li&gt;
+&lt;li&gt;Coach and develop your colleagues where you have insights&lt;/li&gt;
+&lt;li&gt;Grow a healthy, collaborative engineering culture in line with the company values&lt;/li&gt;
+&lt;li&gt;Global travel up to 10% of time for internal and external events&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Who you are&lt;/span&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You are a passionate Python developer&lt;/li&gt;
+&lt;li&gt;You are organised and want your team to deliver timely, high quality software&lt;/li&gt;
+&lt;li&gt;You understand the importance of reliable operations in an agile world&lt;/li&gt;
+&lt;li&gt;You have sound knowledge of cloud computing concepts &amp;amp; technologies&lt;/li&gt;
+&lt;li&gt;You have practical knowledge of Linux and networking&lt;/li&gt;
+&lt;li&gt;You are a lifelong learner&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bonus points for&lt;/span&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You have graduated with a university degree in Computer Science or related software engineering field&lt;/li&gt;
+&lt;li&gt;Golang programming skills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What you will learn&lt;/span&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;OpenStack and Kubernetes in production&lt;/li&gt;
+&lt;li&gt;Thinking rigorously about application and infrastructure reliability&lt;/li&gt;
+&lt;li&gt;Wide range of open source applications and skills&lt;/li&gt;
+&lt;li&gt;Real-life and hands-on exposure to a wide range of emerging technologies and tools&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We offer:&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;100% work-from-home&lt;/li&gt;
+&lt;li&gt;Learning and development&lt;/li&gt;
+&lt;li&gt;Competitive salary&lt;/li&gt;
+&lt;li&gt;Recognition rewards&lt;/li&gt;
+&lt;li&gt;Annual leave&lt;/li&gt;
+&lt;li&gt;Priority Pass for travel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;About Canonical&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Canonical is an equal opportunity employer&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. &lt;/span&gt;&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Whatever your identity, we will give your application fair consideration.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#Stack&lt;/span&gt;&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -2034,80 +1631,78 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/3326693" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/canonical/jobs/3326693" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-      <p>This is a fast-paced engineering role in Linux-based software-defined infrastructure and applications, covering all layers of the stack, including bare metal, virtualization (KVM) and containerization (Docker/LXC/LXD), storage (Ceph and Linux filesystems), networking (OVS, OVN and Core networking), up to OpenStack and Kubernetes, and the open source applications running on top of them. It will challenge you to show the breadth of engineering skill needed to work on almost any aspect of Ubuntu and the open source things people run with it.&nbsp;</p>
-<p>This role is an opportunity for a technologist with a passion for Linux and open source to build a career with Canonical and drive success for our customers, community and the company. If you have an affinity for open source development, great communication skills, and a passion for troubleshooting and fixing issues in technology used by millions across the world, then you will enjoy working with some of the best people in the industry at Canonical.</p>
-<p><strong>Location:</strong> This is a remote role, we have teams in all time zones.</p>
-<p>This role deals with critical issues in the open source stack that require software engineering for upstream bug fixes. Our engineers have to be able to work productively at any level of the stack above the kernel, in a wide range of languages, to understand and address the software issues at hand. Our group is critical to the success of our enterprise customers, partners and Ubuntu itself.</p>
-<p>You will help with troubleshooting and driving issues to resolution with workarounds, guidance, and bug fixes to be released upstream and in Ubuntu.</p>
-<h3>What your day will look like</h3>
-<ul>
-<li>Resolve complex customer problems related to Ubuntu, Kernel, Ceph, OpenStack, or Kubernetes and other open source software</li>
-<li>Maintain a close working relationship with Canonical's field, support and product engineering teams</li>
-<li>Participate in upstream communities</li>
-<li>Develop bug fixes, backport patches, and work with upstream for inclusion</li>
-<li>Review code produced by other engineers</li>
-<li>Demonstrate good judgment in technical methods and techniques</li>
-<li>Prioritize work and manage your time effectively against those priorities</li>
-<li>Participate in team discussions to improve processes, tools, and documentation</li>
-<li>Maintain clear, technical and concise communications</li>
-<li>Work from home and travel internationally up to 10% of work time for team meetings, events and conferences</li>
-</ul>
-<h3>What we are looking for in you</h3>
-<ul>
-<li>Professional experience as a software engineer&nbsp;</li>
-<li>Background in Computer Science, STEM or similar</li>
-<li><strong>Strong</strong> experience with Linux, and at least <strong>one</strong> of the following:
-<ul>
-<li>Ceph, OpenStack, Kubernetes or other cloud technologies</li>
-</ul>
-</li>
-<li>Strong development-level experience with at least <strong>one</strong> of Python, Go, C or C++ on Linux</li>
-<li>Ability to troubleshoot with debugging tools like gdb</li>
-<li>Familiarity with git source code repositories and branches</li>
-<li>An exceptional academic track record&nbsp;</li>
-<li>Willingness to travel up to 4 times a year for internal events</li>
-</ul>
-<h3>Additional skills that you might also bring</h3>
-<ul>
-<li>You love technology and working with brilliant people</li>
-<li>You are curious, flexible, articulate, and accountable</li>
-<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
-<li>You have interest in, and experience with most of the following: Ubuntu Linux - kernel or userspace, Kubernetes, OpenStack, Ceph, QEMU/KVM, LXC/LXD, Python, Go, C, Postgresql, Mongo, Debian packaging, distributed systems</li>
-</ul>
-<h3>What we offer you</h3>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h3>About Canonical</h3>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h3>Canonical is an equal opportunity employer</h3>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-
-<p>#LI-Remote</p>
-<p>Requisition ID: 688</p><p></p>
-    
+                &lt;p&gt;This is a fast-paced engineering role in Linux-based software-defined infrastructure and applications, covering all layers of the stack, including bare metal, virtualization (KVM) and containerization (Docker/LXC/LXD), storage (Ceph and Linux filesystems), networking (OVS, OVN and Core networking), up to OpenStack and Kubernetes, and the open source applications running on top of them. It will challenge you to show the breadth of engineering skill needed to work on almost any aspect of Ubuntu and the open source things people run with it.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;This role is an opportunity for a technologist with a passion for Linux and open source to build a career with Canonical and drive success for our customers, community and the company. If you have an affinity for open source development, great communication skills, and a passion for troubleshooting and fixing issues in technology used by millions across the world, then you will enjoy working with some of the best people in the industry at Canonical.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; This is a remote role, we have teams in all time zones.&lt;/p&gt;
+&lt;p&gt;This role deals with critical issues in the open source stack that require software engineering for upstream bug fixes. Our engineers have to be able to work productively at any level of the stack above the kernel, in a wide range of languages, to understand and address the software issues at hand. Our group is critical to the success of our enterprise customers, partners and Ubuntu itself.&lt;/p&gt;
+&lt;p&gt;You will help with troubleshooting and driving issues to resolution with workarounds, guidance, and bug fixes to be released upstream and in Ubuntu.&lt;/p&gt;
+&lt;h3&gt;What your day will look like&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Resolve complex customer problems related to Ubuntu, Kernel, Ceph, OpenStack, or Kubernetes and other open source software&lt;/li&gt;
+&lt;li&gt;Maintain a close working relationship with Canonical&#39;s field, support and product engineering teams&lt;/li&gt;
+&lt;li&gt;Participate in upstream communities&lt;/li&gt;
+&lt;li&gt;Develop bug fixes, backport patches, and work with upstream for inclusion&lt;/li&gt;
+&lt;li&gt;Review code produced by other engineers&lt;/li&gt;
+&lt;li&gt;Demonstrate good judgment in technical methods and techniques&lt;/li&gt;
+&lt;li&gt;Prioritize work and manage your time effectively against those priorities&lt;/li&gt;
+&lt;li&gt;Participate in team discussions to improve processes, tools, and documentation&lt;/li&gt;
+&lt;li&gt;Maintain clear, technical and concise communications&lt;/li&gt;
+&lt;li&gt;Work from home and travel internationally up to 10% of work time for team meetings, events and conferences&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;What we are looking for in you&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Professional experience as a software engineer&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Background in Computer Science, STEM or similar&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Strong&lt;/strong&gt; experience with Linux, and at least &lt;strong&gt;one&lt;/strong&gt; of the following:
+&lt;ul&gt;
+&lt;li&gt;Ceph, OpenStack, Kubernetes or other cloud technologies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Strong development-level experience with at least &lt;strong&gt;one&lt;/strong&gt; of Python, Go, C or C++ on Linux&lt;/li&gt;
+&lt;li&gt;Ability to troubleshoot with debugging tools like gdb&lt;/li&gt;
+&lt;li&gt;Familiarity with git source code repositories and branches&lt;/li&gt;
+&lt;li&gt;An exceptional academic track record&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Willingness to travel up to 4 times a year for internal events&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Additional skills that you might also bring&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You love technology and working with brilliant people&lt;/li&gt;
+&lt;li&gt;You are curious, flexible, articulate, and accountable&lt;/li&gt;
+&lt;li&gt;You value soft skills and are passionate, enterprising, thoughtful, and self-motivated&lt;/li&gt;
+&lt;li&gt;You have interest in, and experience with most of the following: Ubuntu Linux - kernel or userspace, Kubernetes, OpenStack, Ceph, QEMU/KVM, LXC/LXD, Python, Go, C, Postgresql, Mongo, Debian packaging, distributed systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;What we offer you&lt;/h3&gt;
+&lt;p&gt;We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!&lt;/li&gt;
+&lt;li&gt;Personal learning and development budget of USD 2,000 per year&lt;/li&gt;
+&lt;li&gt;Annual compensation review&lt;/li&gt;
+&lt;li&gt;Recognition rewards&lt;/li&gt;
+&lt;li&gt;Annual holiday leave&lt;/li&gt;
+&lt;li&gt;Maternity and paternity leave&lt;/li&gt;
+&lt;li&gt;Employee Assistance Programme&lt;/li&gt;
+&lt;li&gt;Opportunity to travel to new locations to meet colleagues from your team and others&lt;/li&gt;
+&lt;li&gt;Priority Pass for travel and travel upgrades for long haul company events&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;About Canonical&lt;/h3&gt;
+&lt;p&gt;Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.&lt;/p&gt;
+&lt;p&gt;Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.&lt;/p&gt;
+&lt;h3&gt;Canonical is an equal opportunity employer&lt;/h3&gt;
+&lt;p&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt; Whatever your identity, we will give your application fair consideration.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;#LI-Remote&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -2120,47 +1715,45 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/6302748" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/canonical/jobs/6302748" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-      <p>We are building a team to focus on the modern C and C++ programming language and their ecosystem on Ubuntu. They will deliver the best possible GCC and LLVM runtimes, developer experience and supporting tooling in Ubuntu. They will&nbsp; ensure that the cutting edge of modern programming languages innovation is available to Ubuntu users, to lay the foundation for future inventions and open source communities.</p>
-<p>This is an exciting opportunity for a software engineer with a strong passion for compilers, runtimes and tool chains. You will have excellent competencies in modern C/C++, Linux distributions, software architectures and&nbsp; open source software.&nbsp; Come build a rewarding, meaningful career working with the best and brightest people in open source technology at Canonical, a growing international software company and make Ubuntu the best operating system to develop and run C/C++ applications in the cloud, in datacenters, in containers, directly on the operating system, and anywhere Ubuntu can run.</p>
-<p>The Ubuntu Foundations Team delivers the core Ubuntu system, the base for the entire Ubuntu family of products and services. Ubuntu strives to deliver the latest-best free software components, in an easy to use and highly reliable form. We build on the technical excellence of keystone open source software like GNU and Debian and bring additional focus and shape to the solutions we offer the industry.</p>
-<p>Part of the Ubuntu Foundations team, you will work on one of the most critical toolchains involved in the making of Ubuntu and the pillars of the modern software ecosystem. You will leverage your competencies and experience&nbsp; in C, C++ to make Ubuntu the best platform to develop, distribute and consume software built with GCC and LLVM. You will be passionate about the future of C, C++, of Ubuntu, mindful of the dynamics of the open-source ecosystem, and equally aware of the needs of large but innovative organizations. You will drive the best in class integration in Ubuntu from desktop to cloud in a secure, reliable, performing, efficient and future-proof fashion.</p>
-<p>You will be discussing design with other team members , mentor less senior engineers, and participate in code reviews and design reviews. You will also be working with other teams to ensure architecture decisions improve the overall performance and experience of Ubuntu. Your role as part of the Ubuntu Foundations team will have an impact on every aspect of Ubuntu from Desktop, Server, Ubuntu Core and also cloud images.</p>
-<h3>What you will do</h3>
-<ul>
-<li>Collaborate proactively with a distributed team</li>
-<li>Select, integrate and package best-of-breed tooling with Ubuntu to improve developer and operator experience with GCC and LLVM</li>
-<li>Write high-quality code to create new features</li>
-<li>Debug issues and produce high-quality code to fix them</li>
-<li>Review code produced by other engineers</li>
-<li>Discuss ideas and collaborate on finding good solutions</li>
-<li>Work from home with global travel 2 to 4 weeks a year for internal and external events</li>
-</ul>
-<h3>Who you are</h3>
-<ul>
-<li>You love technology and working with brilliant people</li>
-<li>You are passionate, curious, flexible, articulate, and accountable</li>
-<li>You are a long-time Linux user</li>
-<li>You have experience in packaging software for Debian and Ubuntu</li>
-<li>You have relevant GCC or LLVM experience, ideally in the world of cloud-native software and Linux</li>
-<li>You have a Bachelors or equivalent in Computer Science, STEM or similar degree</li>
-<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
-</ul>
-<p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, the world’s best free software platform. Our services help businesses worldwide reduce costs, improve efficiency and enhance security with Ubuntu.</p>
-<p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your <a href="https://canonical.com/careers/diversity/identity">identity</a> we will give your application fair consideration.</em></p>
-<p>#LI-remote</p><p>Requisition ID: 933</p><p></p>
-    
+                &lt;p&gt;We are building a team to focus on the modern C and C++ programming language and their ecosystem on Ubuntu. They will deliver the best possible GCC and LLVM runtimes, developer experience and supporting tooling in Ubuntu. They will&amp;nbsp; ensure that the cutting edge of modern programming languages innovation is available to Ubuntu users, to lay the foundation for future inventions and open source communities.&lt;/p&gt;
+&lt;p&gt;This is an exciting opportunity for a software engineer with a strong passion for compilers, runtimes and tool chains. You will have excellent competencies in modern C/C++, Linux distributions, software architectures and&amp;nbsp; open source software.&amp;nbsp; Come build a rewarding, meaningful career working with the best and brightest people in open source technology at Canonical, a growing international software company and make Ubuntu the best operating system to develop and run C/C++ applications in the cloud, in datacenters, in containers, directly on the operating system, and anywhere Ubuntu can run.&lt;/p&gt;
+&lt;p&gt;The Ubuntu Foundations Team delivers the core Ubuntu system, the base for the entire Ubuntu family of products and services. Ubuntu strives to deliver the latest-best free software components, in an easy to use and highly reliable form. We build on the technical excellence of keystone open source software like GNU and Debian and bring additional focus and shape to the solutions we offer the industry.&lt;/p&gt;
+&lt;p&gt;Part of the Ubuntu Foundations team, you will work on one of the most critical toolchains involved in the making of Ubuntu and the pillars of the modern software ecosystem. You will leverage your competencies and experience&amp;nbsp; in C, C++ to make Ubuntu the best platform to develop, distribute and consume software built with GCC and LLVM. You will be passionate about the future of C, C++, of Ubuntu, mindful of the dynamics of the open-source ecosystem, and equally aware of the needs of large but innovative organizations. You will drive the best in class integration in Ubuntu from desktop to cloud in a secure, reliable, performing, efficient and future-proof fashion.&lt;/p&gt;
+&lt;p&gt;You will be discussing design with other team members , mentor less senior engineers, and participate in code reviews and design reviews. You will also be working with other teams to ensure architecture decisions improve the overall performance and experience of Ubuntu. Your role as part of the Ubuntu Foundations team will have an impact on every aspect of Ubuntu from Desktop, Server, Ubuntu Core and also cloud images.&lt;/p&gt;
+&lt;h3&gt;What you will do&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Collaborate proactively with a distributed team&lt;/li&gt;
+&lt;li&gt;Select, integrate and package best-of-breed tooling with Ubuntu to improve developer and operator experience with GCC and LLVM&lt;/li&gt;
+&lt;li&gt;Write high-quality code to create new features&lt;/li&gt;
+&lt;li&gt;Debug issues and produce high-quality code to fix them&lt;/li&gt;
+&lt;li&gt;Review code produced by other engineers&lt;/li&gt;
+&lt;li&gt;Discuss ideas and collaborate on finding good solutions&lt;/li&gt;
+&lt;li&gt;Work from home with global travel 2 to 4 weeks a year for internal and external events&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Who you are&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You love technology and working with brilliant people&lt;/li&gt;
+&lt;li&gt;You are passionate, curious, flexible, articulate, and accountable&lt;/li&gt;
+&lt;li&gt;You are a long-time Linux user&lt;/li&gt;
+&lt;li&gt;You have experience in packaging software for Debian and Ubuntu&lt;/li&gt;
+&lt;li&gt;You have relevant GCC or LLVM experience, ideally in the world of cloud-native software and Linux&lt;/li&gt;
+&lt;li&gt;You have a Bachelors or equivalent in Computer Science, STEM or similar degree&lt;/li&gt;
+&lt;li&gt;You value soft skills and are passionate, enterprising, thoughtful, and self-motivated&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, the world’s best free software platform. Our services help businesses worldwide reduce costs, improve efficiency and enhance security with Ubuntu.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your &lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot; target=&quot;_blank&quot;&gt;identity&lt;/a&gt; we will give your application fair consideration.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;#LI-remote&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -2173,42 +1766,64 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/4383713" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/canonical/jobs/4383713" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-      <p>We are building a new team to focus on the Rust programming language and its ecosystem on Ubuntu. They will deliver the best possible Rust runtime, developer experience and supporting tooling in Ubuntu. We are keen to ensure that the cutting edge of modern programming languages innovation is available to Ubuntu users, to lay the foundation for future inventions and open source communities.</p>
-<p>This is an exciting opportunity for a software engineer passionate about open source software, Linux systems, software architectures and Rust programming language. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, a growing international software company and make Ubuntu the best operating system to develop and run Rust applications in the cloud, in datacenters, in containers, directly on the operating system, and anywhere Ubuntu can run.</p>
-<p>The Ubuntu Foundations Team delivers the core Ubuntu system, the base for the entire Ubuntu family of products and services. Ubuntu strives to deliver the latest-best free software components, in an easy to use and highly reliable form. We build on the technical excellence of Debian and bring additional focus and shape to the solutions we offer the industry.</p>
-<p>Part of the Ubuntu Foundations team, you will work on some of the most critical toolchains involved in the making of Ubuntu but also pillars of the modern software ecosystem. You will leverage your experience and passion in Rust to make Ubuntu the best platform to develop, distribute and consume software built with Rust. Applicants will be passionate about the future of Rust, of Ubuntu, mindful of the dynamics of the open-source ecosystem, and equally aware of the needs of large but innovative organizations. Applicants will drive best in class integration in Ubuntu from desktop to cloud in a secure, reliable, performing, efficient and future-proof fashion.</p>
-<p>You will be discussing design with other team members and mentor less senior engineers and participate in code reviews and design reviews.&nbsp; You will also be working with other teams to ensure architecture decisions improve the overall performance and experience of Ubuntu. Your role as part of the Ubuntu Foundations team will have an impact on every aspect of Ubuntu from Desktop, Server, Ubuntu Core and also cloud images.</p>
-<h3>What you will do</h3>
-<ul>
-<li>Collaborate proactively with a distributed team</li>
-<li>Select, integrate and package best-of-breed tooling with Ubuntu to improve developer and operator experience with Rust</li>
-<li>Write high-quality code to create new features</li>
-<li>Debug issues and produce high-quality code to fix them</li>
-<li>Review code produced by other engineers</li>
-<li>Discuss ideas and collaborate on finding good solutions</li>
-<li>Work from home with global travel 2 to 4 weeks a year for internal and external events</li>
-</ul>
-<h3>Who you are</h3>
-<ul>
-<li>You love technology and working with brilliant people</li>
-<li>You are passionate, curious, flexible, articulate, and accountable</li>
-<li>You are a long-time Linux user</li>
-<li>You have experience or are interested in learning how to package software for Debian and Ubuntu</li>
-<li>You have relevant Rust experience, ideally in the world of cloud-native software and Linux</li>
-<li>You have a Bachelors or equivalent in Computer Science, STEM or similar degree</li>
-<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
-</ul>
-<p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, the world’s best free software platform. Our services help businesses worldwide reduce costs, improve efficiency and enhance security with Ubuntu.</p>
-<p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your <a href="https://canonical.com/careers/diversity/identity">identity</a> we will give your application fair consideration.</em></p>
-<p>#LI-remote</p><p>Requisition ID: 933</p><p></p>
-    
+                &lt;p&gt;We are building a new team to focus on the Rust programming language and its ecosystem on Ubuntu. They will deliver the best possible Rust runtime, developer experience and supporting tooling in Ubuntu. We are keen to ensure that the cutting edge of modern programming languages innovation is available to Ubuntu users, to lay the foundation for future inventions and open source communities.&lt;/p&gt;
+&lt;p&gt;This is an exciting opportunity for a software engineer passionate about open source software, Linux systems, software architectures and Rust programming language. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, a growing international software company and make Ubuntu the best operating system to develop and run Rust applications in the cloud, in datacenters, in containers, directly on the operating system, and anywhere Ubuntu can run.&lt;/p&gt;
+&lt;p&gt;The Ubuntu Foundations Team delivers the core Ubuntu system, the base for the entire Ubuntu family of products and services. Ubuntu strives to deliver the latest-best free software components, in an easy to use and highly reliable form. We build on the technical excellence of Debian and bring additional focus and shape to the solutions we offer the industry.&lt;/p&gt;
+&lt;p&gt;Part of the Ubuntu Foundations team, you will work on some of the most critical toolchains involved in the making of Ubuntu but also pillars of the modern software ecosystem. You will leverage your experience and passion in Rust to make Ubuntu the best platform to develop, distribute and consume software built with Rust. Applicants will be passionate about the future of Rust, of Ubuntu, mindful of the dynamics of the open-source ecosystem, and equally aware of the needs of large but innovative organizations. Applicants will drive best in class integration in Ubuntu from desktop to cloud in a secure, reliable, performing, efficient and future-proof fashion.&lt;/p&gt;
+&lt;p&gt;You will be discussing design with other team members and mentor less senior engineers and participate in code reviews and design reviews.&amp;nbsp; You will also be working with other teams to ensure architecture decisions improve the overall performance and experience of Ubuntu. Your role as part of the Ubuntu Foundations team will have an impact on every aspect of Ubuntu from Desktop, Server, Ubuntu Core and also cloud images.&lt;/p&gt;
+&lt;h3&gt;What you will do&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Collaborate proactively with a distributed team&lt;/li&gt;
+&lt;li&gt;Select, integrate and package best-of-breed tooling with Ubuntu to improve developer and operator experience with Rust&lt;/li&gt;
+&lt;li&gt;Write high-quality code to create new features&lt;/li&gt;
+&lt;li&gt;Debug issues and produce high-quality code to fix them&lt;/li&gt;
+&lt;li&gt;Review code produced by other engineers&lt;/li&gt;
+&lt;li&gt;Discuss ideas and collaborate on finding good solutions&lt;/li&gt;
+&lt;li&gt;Work from home with global travel 2 to 4 weeks a year for internal and external events&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Who you are&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You love technology and working with brilliant people&lt;/li&gt;
+&lt;li&gt;You are passionate, curious, flexible, articulate, and accountable&lt;/li&gt;
+&lt;li&gt;You are a long-time Linux user&lt;/li&gt;
+&lt;li&gt;You have experience or are interested in learning how to package software for Debian and Ubuntu&lt;/li&gt;
+&lt;li&gt;You have relevant Rust experience, ideally in the world of cloud-native software and Linux&lt;/li&gt;
+&lt;li&gt;You have a Bachelors or equivalent in Computer Science, STEM or similar degree&lt;/li&gt;
+&lt;li&gt;You value soft skills and are passionate, enterprising, thoughtful, and self-motivated&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, the world’s best free software platform. Our services help businesses worldwide reduce costs, improve efficiency and enhance security with Ubuntu.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your &lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot; target=&quot;_blank&quot;&gt;identity&lt;/a&gt; we will give your application fair consideration.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;#LI-remote&lt;/p&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://assets-global.website-files.com/63b69f7a133ca74eec1ac0a1/64f73c95526a7efe5ce7e208_Istari-white.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Istari</h5>
+                    <h3>Senior Software Engineer - Integrations Platform</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/istaridigital.ai/01137958-2813-4dce-a12b-5b5689cbe52a" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>[ABOUT ISTARI DIGITAL]</div><div><span style="font-size: 11pt">Istari is a digital engineering software company enabling our customers to turn the physical world into the digital to accomplish their specific mission or business objectives.</span></div><div><br></div><div><span style="font-size: 11pt">Istari was founded with the vision of making open, scalable digital engineering ecosystems a reality – where new technologies and systems are created digitally, free from the real-world constraints of costs and schedules. We are creating the world’s best engineering model sharing platform, allowing our customers to simply and securely integrate their models across different engineering disciplines, organizations, and security levels.</span></div><div><br></div><div><span style="font-size: 11pt">At Istari, we are passionate about our mission of creating the world's first open and scalable industrial metaverse. Whether our customers are designing prototypes, performing virtual testing, or training AI and autonomy for complex systems, we know that going digital will save them time, resources, and reduce their environmental impact.&nbsp;&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">While we are a distributed team with most team-members working remotely, we place an emphasis on staying connected and collaborative, prioritizing in-person opportunities to build trust as a team. At Istari, we still believe that trust is best built in-person. To do this, we have an engineering headquarters in Cambridge, MA for focused technical development and several times per year we gather for an off-site that allows us to develop our professional skills and our team relationships.</span></div><div><br></div><div>[VALUES]</div><div>At Istari, we live by our values, which include:</div><div><br></div><div><b>Purposeful Autonomy</b></div><div>We value letting people self-organize and self-motivate.&nbsp;</div><div>Our flat structure and lack of meeting clutter are meant to empower individuals and teams to be proactive.</div><div>Our autonomy is measured, goal-oriented, and results-driven –&nbsp;not meandering. </div><div>Clear objectives help us prioritize our time.</div><div><br></div><div><b>Smart Transparency</b></div><div>We believe in honest-but-kind communication, transparency, and open-door policies. </div><div>We love learning about challenges and tackling them early, not hearing good or bad news late. </div><div>We share work-in-progress across our team.&nbsp;</div><div>Fast feedback keeps autonomy purposeful.</div><div><br></div><div><b>Continual Curiosity</b></div><div>At Istari, we love learning to do things ourselves. </div><div>We ask, read, share, teach – even watch YouTube videos – to learn new skills to solve problems. </div><div>When we make breakthroughs, we write them down.&nbsp; &nbsp;</div><div>Writing focuses ideas, helps us learn, and helps us share.</div><div><br></div><div><b>Equal Opportunity </b></div><div>Istari is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.</div><div><br></div><div><span style="font-size: 24px">BENEFITS</span></div><div>We offer highly competitive benefits, including:</div><div><br></div><div><span style="font-size: 18px">Health and Family</span></div><div>- Medical/Dental/Vision</div><div>- Employee Premiums are 100% Company Paid</div><div>- Life Insurance</div><div>- Flexible Work Hours&nbsp;</div><div>- Unlimited Paid Time Off (PTO) with federal government holidays</div><div><br></div><div><span style="font-size: 18px">Financial</span></div><div>- Competitive Compensation&nbsp;</div><div>- 401k&nbsp;</div><div>- Company Stock Options</div><div>- Home Office Setup Budget</div><div><br></div><div><span style="font-size: 18px">Learning</span></div><div>- Reimbursement for approved trainings and subscriptions</div><div>- Conferences (travel, lodging, and fees)</div><div><br></div><div>Note - some benefits are not available to interns or contractors.</div><div><br></div><div>Thank you for your interest in Istari. Expect to hear back from us soon with next steps.</div><div>[ABOUT ISTARI DIGITAL]</div><div><span style="font-size: 11pt">Istari is a digital engineering software company enabling our customers to turn the physical world into the digital to accomplish their specific mission or business objectives.</span></div><div><br></div><div><span style="font-size: 11pt">Istari was founded with the vision of making open, scalable digital engineering ecosystems a reality – where new technologies and systems are created digitally, free from the real-world constraints of costs and schedules. We are creating the world’s best engineering model sharing platform, allowing our customers to simply and securely integrate their models across different engineering disciplines, organizations, and security levels.</span></div><div><br></div><div><span style="font-size: 11pt">At Istari, we are passionate about our mission of creating the world's first open and scalable industrial metaverse. Whether our customers are designing prototypes, performing virtual testing, or training AI and autonomy for complex systems, we know that going digital will save them time, resources, and reduce their environmental impact.&nbsp;&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">While we are a distributed team with most team-members working remotely, we place an emphasis on staying connected and collaborative, prioritizing in-person opportunities to build trust as a team. At Istari, we still believe that trust is best built in-person. To do this, we have an engineering headquarters in Cambridge, MA for focused technical development and several times per year we gather for an off-site that allows us to develop our professional skills and our team relationships.</span></div><div><br></div><div>[VALUES]</div><div>At Istari, we live by our values, which include:</div><div><br></div><div><b>Purposeful Autonomy</b></div><div>We value letting people self-organize and self-motivate.&nbsp;</div><div>Our flat structure and lack of meeting clutter are meant to empower individuals and teams to be proactive.</div><div>Our autonomy is measured, goal-oriented, and results-driven –&nbsp;not meandering. </div><div>Clear objectives help us prioritize our time.</div><div><br></div><div><b>Smart Transparency</b></div><div>We believe in honest-but-kind communication, transparency, and open-door policies. </div><div>We love learning about challenges and tackling them early, not hearing good or bad news late. </div><div>We share work-in-progress across our team.&nbsp;</div><div>Fast feedback keeps autonomy purposeful.</div><div><br></div><div><b>Continual Curiosity</b></div><div>At Istari, we love learning to do things ourselves. </div><div>We ask, read, share, teach – even watch YouTube videos – to learn new skills to solve problems. </div><div>When we make breakthroughs, we write them down.&nbsp; &nbsp;</div><div>Writing focuses ideas, helps us learn, and helps us share.</div><div><br></div><div><b>Equal Opportunity </b></div><div>Istari is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.</div><div><br></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -2305,6 +1920,184 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p style="min-height:1.5em">At BioRender, we are accelerating the world’s ability to discover, learn, and communicate science faster through visuals. Today, BioRender empowers millions of scientists to create beautiful, accurate biological figures for communication within pharma companies and academic research.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em">Our vision is to make BioRender the place where humans read biology—translating human and AI-generated data into scientifically accurate, human-understandable visuals. As AI automates large parts of research, BioRender will transform complex data, experimental results, and text inputs into clear, intuitive visuals that scientists, decision-makers, and broader audiences can quickly interpret. Visual communication will be critical to accelerating breakthroughs across academia and industry, and BioRender will bridge the gap between specialized knowledge domains.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What you'll be doing :</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Collaborate Across Teams: </strong>Work side-by-side with product managers, designers, and data scientists to shape a roadmap that empowers scientific leaders to collaborate safely and effectively together.</p></li><li><p style="min-height:1.5em"><strong>Own and Improve:</strong> Take end-to-end ownership of key components of our codebase, ensuring that features are robust, secure, scalable, and maintainable.</p></li><li><p style="min-height:1.5em"><strong>Integrating into our user’ workflow: </strong>Design and build secure, seamless integrations between BioRender and our users’ core tools. </p></li><li><p style="min-height:1.5em"><strong>Evolving our suite of admin tooling: Help our enterprise administrators effectively manage their users and content by building tools for both internal and external teams (e.g. authentication, sharing controls, usage reporting).</strong></p></li><li><p style="min-height:1.5em"><strong>Drive Creative Problem-Solving:</strong> Embrace ambiguity, experiment boldly, and develop creative solutions that push the boundaries of what our product can do.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Our ideal fit brings:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>User Focused &amp; Impact Driven</strong>: You prioritize delivering real value to users, thoughtfully balancing quality, speed, and the company’s broader goals</p></li><li><p style="min-height:1.5em"><strong>AI Passion</strong>: You’re genuinely curious about AI, continuously explore emerging tools, and love applying them in real-world projects.</p></li><li><p style="min-height:1.5em"><strong>Tech Expertise</strong>: Proficient in modern JavaScript frameworks (e.g., ReactJS), NodeJS/ExpressJS, cloud infrastructure (e.g., AWS). Experience with MongoDB/NoSQL databases for efficient data management</p></li><li><p style="min-height:1.5em"><strong>Strong Communicator &amp; Collaborator</strong>: You thrive in a collaborative environment, working closely with others across disciplines to achieve shared objectives.</p></li><li><p style="min-height:1.5em"><strong>Crafting Quality User Experiences: You work closely with design and product to craft delightful user interfaces, leveraging the web platform and using tools like UI frameworks such as React.</strong></p></li><li><p style="min-height:1.5em"><strong>Builder Mentality</strong>: With 7+ years of full-stack development experience, you’ve built products from concept to production and are eager to prototype and iterate quickly.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Nice to haves:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Experience with AWS and Terraform for cloud infrastructure and automation.</p></li><li><p style="min-height:1.5em">Background in science with an analytical and data-driven approach to problem-solving.</p></li><li><p style="min-height:1.5em">Passionate mentor with experience guiding and supporting team members.</p></li><li><p style="min-height:1.5em">Enterprise development experience, building scalable and robust systems in a complex environment.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Why join us?</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>We are mission-driven</strong>: we work collaboratively towards our shared vision of improving scientific communication and accelerating scientific discovery. BioRender figures have appeared in more than 54,000 publications! </p></li><li><p style="min-height:1.5em"><strong>BioRender is loved by millions!</strong> We have a world-class NPS and a community of loyal fans and users in 200+ countries!</p></li><li><p style="min-height:1.5em"><strong>Our company is backed by top investors</strong> and accelerators like Y Combinator, and we are on a growth trajectory comparable to many top-performing SaaS companies </p></li><li><p style="min-height:1.5em"><strong>We’re remote-first</strong> with team members across Canada and the U.S., offering you the flexibility to work from anywhere. </p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em">BioRender is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.</p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/6930305?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Xapo Bank</h5>
+                    <h3>Software Engineer - CAO (Remote - Work from Anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/xapo61/jobs/6481917003" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: 900;&quot;&gt;Work from anywhere, impact everywhere&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Diversity is at the heart of who we are at Xapo Bank. We’re a fully distributed team of over 140 Xapiens that work remotely from 40+ countries around the world.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Our beginning: A world that enjoys economic freedom and wealth protection, no matter where you live or who is running your country. This is the dream that drove Wences Casares, our Founder and Chairman, to quietly transform the world of banking.&lt;/p&gt;
+&lt;p&gt;To achieve that, we search the world for the best people for the job. We work hard, think globally, and inspire each other to learn and grow. We are committed to changing the way things are done.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Risk is inherent in all of our business activities and managing risk well is the responsibility of every Xapien. Sound risk management enables us to serve our customers and deliver value for our shareholders, and helps make Xapo a great place to work.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Although we are headquartered in Gibraltar, this is a full time, 100% remote position&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Work from anywhere!&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;Position Overview:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Were looking for a Software Engineer to join our backend engineering function. At Xapo, we are&amp;nbsp;building truly cross-functional teams with full ownership of design, architecture, building, testing,&amp;nbsp;delivery, data, and operations.&amp;nbsp;You will collaborate closely with fellow team members from the product, apps, design, and QA&amp;nbsp;communities of practice. You will be part of the product team (we call them SATs, the Stream Aligned Teams, as in the Team Topologies) in charge of the Onboarding, Marketing and Customer&amp;nbsp;Service aspects of Xapo products.&lt;/p&gt;
+&lt;p&gt;As a Software Engineer, you will develop a high-impact service, provide solutions with good practices, and play an active role in the Development Community of practice. You will collaborate in discussions about architectural and technical patterns used in the company to solve problems for operational teams, improve UX, and create a WOW effect in the eyes of our members. With that in mind, you will immensely impact the future of finance &amp;amp; crypto.&lt;/p&gt;
+&lt;p&gt;Our main tech stack includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AWS for all of our Infrastructure&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Python Django, Flask)&lt;/li&gt;
+&lt;li&gt;MySQL&lt;/li&gt;
+&lt;li&gt;MongoDB&lt;/li&gt;
+&lt;li&gt;Redis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We use also:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PostgreSQL&lt;/li&gt;
+&lt;li&gt;Node.js&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;BigQuery&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design, develop, and deploy robust and scalable backend services.&lt;/li&gt;
+&lt;li&gt;Collaborate effectively within a cross-functional team environment.&lt;/li&gt;
+&lt;li&gt;Work with operational teams to troubleshoot and resolve issues efficiently.&lt;/li&gt;
+&lt;li&gt;Contribute to a positive and productive work environment.&lt;/li&gt;
+&lt;li&gt;Take end-to-end responsibility for the services your team owns.&lt;/li&gt;
+&lt;li&gt;Develop innovative solutions on the edge of tech &amp;amp; marketing.&lt;/li&gt;
+&lt;li&gt;Actively participate in the Development Community of Practice, contributing to architectural&amp;nbsp;discussions and promoting best practices.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;Skills needed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Solid software engineering experience in one or more general-purpose programming languages (Python preferred) - Demonstrable experience with Python (Django/Flask) is highly advantageous.&lt;/li&gt;
+&lt;li&gt;Strong understanding of software engineering principles and best practices.&lt;/li&gt;
+&lt;li&gt;Microservices architecture and containerization Docker.&lt;/li&gt;
+&lt;li&gt;Cloud-native patterns, particularly around fault tolerance.&lt;/li&gt;
+&lt;li&gt;CI/CD pipelines and best practices.&lt;/li&gt;
+&lt;li&gt;Building and deploying scalable, asynchronous software.&lt;/li&gt;
+&lt;li&gt;Monitoring and observability tools and techniques.&lt;/li&gt;
+&lt;li&gt;Excellent teamwork and communication skills, including the ability to create clear&amp;nbsp;documentation and designs.&lt;/li&gt;
+&lt;li&gt;A passion for learning and a proactive approach to problem-solving.&lt;/li&gt;
+&lt;li&gt;Genuine interest in Bitcoin and the cryptocurrency space.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Other requirements&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A dedicated workspace.&lt;/li&gt;
+&lt;li&gt;A reliable internet connection with the fastest speed possible in your area.&lt;/li&gt;
+&lt;li&gt;Devices and other essential equipment that meet minimal technical specifications.&lt;/li&gt;
+&lt;li&gt;Alignment with Our Values and the Xapo Values-Driven Leadership principles.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Why work for Xapo?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 500; font-size: 10pt;&quot;&gt;IMPACT GLOBALLY, WORK REMOTELY.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Shape the Future:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Improve lives through cutting-edge technology, work 100% remotely from anywhere in the world.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Great work-life balance:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Build amazing things with a balance of autonomy and collaborative teamwork. Set your own work schedule and make use of a flexible PTO plan when you need to recharge.&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Expect Excellence:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Collaborate, learn, and grow with a high-performance team. Learn&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; how you learn best - from books to conferences, you’ll get a yearly budget for your individual learning and development goals.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;At Xapo, we prioritize consumer protection and adhere to regulatory requirements by ensuring that all Xapiens are accountable for upholding principles of fair treatment, transparency, and ethical conduct in their interactions with customers and stakeholders.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/6930305?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Xapo Bank</h5>
+                    <h3>Software Engineer (Remote - Work from Anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/xapo61/jobs/6482820003" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: 900;&quot;&gt;Work from anywhere, impact everywhere&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Diversity is at the heart of who we are at Xapo Bank. We’re a fully distributed team of over 140 Xapiens that work remotely from 40+ countries around the world.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Our beginning: A world that enjoys economic freedom and wealth protection, no matter where you live or who is running your country. This is the dream that drove Wences Casares, our Founder and Chairman, to quietly transform the world of banking.&lt;/p&gt;
+&lt;p&gt;To achieve that, we search the world for the best people for the job. We work hard, think globally, and inspire each other to learn and grow. We are committed to changing the way things are done.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Risk is inherent in all of our business activities and managing risk well is the responsibility of every Xapien. Sound risk management enables us to serve our customers and deliver value for our shareholders, and helps make Xapo a great place to work.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Although we are headquartered in Gibraltar, this is a full time, 100% remote position&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Work from anywhere!&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;Position Overview:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Were looking for a Software Engineer to join our backend engineering function. At Xapo, we are&amp;nbsp;building truly cross-functional teams with full ownership of design, architecture, building, testing,&amp;nbsp;delivery, data, and operations.&amp;nbsp;You will collaborate closely with fellow team members from the product, apps, design, and QA&amp;nbsp;communities of practice. You will be part of the product team (we call them SATs, the Stream Aligned Teams, as in the Team Topologies) in charge of the Onboarding, Marketing and Customer&amp;nbsp;Service aspects of Xapo products.&lt;/p&gt;
+&lt;p&gt;As a Software Engineer, you will develop a high-impact service, provide solutions with good practices, and play an active role in the Development Community of practice. You will collaborate in discussions about architectural and technical patterns used in the company to solve problems for operational teams, improve UX, and create a WOW effect in the eyes of our members. With that in mind, you will immensely impact the future of finance &amp;amp; crypto.&lt;/p&gt;
+&lt;p&gt;Our main tech stack includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AWS for all of our Infrastructure&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Python Django, Flask)&lt;/li&gt;
+&lt;li&gt;MySQL&lt;/li&gt;
+&lt;li&gt;MongoDB&lt;/li&gt;
+&lt;li&gt;Redis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We use also:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PostgreSQL&lt;/li&gt;
+&lt;li&gt;Node.js&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;BigQuery&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design, develop, and deploy robust and scalable backend services.&lt;/li&gt;
+&lt;li&gt;Collaborate effectively within a cross-functional team environment.&lt;/li&gt;
+&lt;li&gt;Work with operational teams to troubleshoot and resolve issues efficiently.&lt;/li&gt;
+&lt;li&gt;Contribute to a positive and productive work environment.&lt;/li&gt;
+&lt;li&gt;Take end-to-end responsibility for the services your team owns.&lt;/li&gt;
+&lt;li&gt;Develop innovative solutions on the edge of tech &amp;amp; marketing.&lt;/li&gt;
+&lt;li&gt;Actively participate in the Development Community of Practice, contributing to architectural&amp;nbsp;discussions and promoting best practices.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;Skills needed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Solid software engineering experience in one or more general-purpose programming languages (Python preferred) - Demonstrable experience with Python (Django/Flask) is highly advantageous.&lt;/li&gt;
+&lt;li&gt;Strong understanding of software engineering principles and best practices.&lt;/li&gt;
+&lt;li&gt;Microservices architecture and containerization Docker.&lt;/li&gt;
+&lt;li&gt;Cloud-native patterns, particularly around fault tolerance.&lt;/li&gt;
+&lt;li&gt;CI/CD pipelines and best practices.&lt;/li&gt;
+&lt;li&gt;Building and deploying scalable, asynchronous software.&lt;/li&gt;
+&lt;li&gt;Monitoring and observability tools and techniques.&lt;/li&gt;
+&lt;li&gt;Excellent teamwork and communication skills, including the ability to create clear&amp;nbsp;documentation and designs.&lt;/li&gt;
+&lt;li&gt;A passion for learning and a proactive approach to problem-solving.&lt;/li&gt;
+&lt;li&gt;Genuine interest in Bitcoin and the cryptocurrency space.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Other requirements&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A dedicated workspace.&lt;/li&gt;
+&lt;li&gt;A reliable internet connection with the fastest speed possible in your area.&lt;/li&gt;
+&lt;li&gt;Devices and other essential equipment that meet minimal technical specifications.&lt;/li&gt;
+&lt;li&gt;Alignment with Our Values and the Xapo Values-Driven Leadership principles.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Why work for Xapo?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 500; font-size: 10pt;&quot;&gt;IMPACT GLOBALLY, WORK REMOTELY.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Shape the Future:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Improve lives through cutting-edge technology, work 100% remotely from anywhere in the world.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Great work-life balance:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Build amazing things with a balance of autonomy and collaborative teamwork. Set your own work schedule and make use of a flexible PTO plan when you need to recharge.&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Expect Excellence:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Collaborate, learn, and grow with a high-performance team. Learn&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; how you learn best - from books to conferences, you’ll get a yearly budget for your individual learning and development goals.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;At Xapo, we prioritize consumer protection and adhere to regulatory requirements by ensuring that all Xapiens are accountable for upholding principles of fair treatment, transparency, and ethical conduct in their interactions with customers and stakeholders.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
