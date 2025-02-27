@@ -271,11 +271,11 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/35933823?s=200&v=4" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/67208791?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>ília</h5>
-                    <h3>SR Engenharia de Software Full Stack (Java e React.js) </h3>
+                    <h5>Fingerprint</h5>
+                    <h3>Full Stack Engineer - Dashboard</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -284,56 +284,57 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/ilia/jobs/5425802004" align="right" target="_blank">Apply</a>
+                <a href="https://fingerprint.com/careers/jobs/apply/?gh_jid=5461887004" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                &lt;p&gt;Aqui na ília nossas vagas estão sempre abertas para todas as pessoas e não se restringem quanto a gênero, etnia, orientação sexual, fatores sociais, condições físicas ou intelectuais (PCD) etc. Incentivamos a candidatura de integrantes de todos os grupos minoritários!&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;Sobre a ília&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Somos especialistas em tecnologia, dados e design, impulsionando a transformação digital de grandes players do mercado há mais de 10 anos, nos setores financeiro, seguros e mobilidade. Com mais de 450 profissionais, estamos presentes no Brasil e Europa, atendendo aos mercados da América Latina, Europa e América do Norte, desenvolvendo produtos digitais de alta qualidade e com foco em resultados de negócios. Somos uma equipe inovadora, criativa e apaixonada por tecnologia.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Certificada pelo 5° ano consecutivo como Great Place to work aqui na ília acreditamos que pessoas mudam o mundo, e investimos nelas. Nossas awesome deliveries são feitas de pessoas para pessoas, afinal awesome people make awesome deliveries!&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;#Vempraília&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;Requisitos:&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Fingerprint&lt;/strong&gt;&amp;nbsp;empowers developers to stop online fraud at the source.&lt;/p&gt;
+&lt;p&gt;We work on turning radical new ideas in the fraud detection space into reality. Our products are developer-focused and our clients range from solo developers to publicly traded companies.&amp;nbsp;&lt;strong&gt;We are a globally dispersed, 100% remote company&lt;/strong&gt; with a strong open-source focus. Our flagship open-source project is &lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://github.com/fingerprintjs/fingerprintjs&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://github.com/fingerprintjs/fingerprintjs&quot; data-sk=&quot;tooltip_parent&quot;&gt;FingerprintJS&lt;/a&gt; (20K stars on GitHub).&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot; data-sk=&quot;tooltip_parent&quot;&gt;We have raised $77M&amp;nbsp;&lt;/a&gt;and are backed by Craft Ventures (previously invested in&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.tesla.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.tesla.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Tesla,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://facebook.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://facebook.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Facebook,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.airbnb.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.airbnb.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Airbnb&amp;nbsp;&lt;/a&gt;), Nexus Venture Partners (previously invested in &lt;a href=&quot;https://www.postman.com/&quot;&gt;Postman&lt;/a&gt;, &lt;a href=&quot;https://www.apollo.io/&quot;&gt;Apollo.io,&lt;/a&gt; &lt;a href=&quot;https://min.io/&quot;&gt;MinIO&lt;/a&gt;, Druva)&amp;nbsp;and Uncorrelated Ventures (previously invested in&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://redis.io/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://redis.io/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Redis,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://rollbar.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://rollbar.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Rollbar&amp;nbsp;&lt;/a&gt;&amp;amp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://gradle.org/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://gradle.org/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&amp;nbsp;Gradle&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates&#39; personal and financial information through fake interviews and offers. All Fingerprint recruiting email communications will always come from the @fingerprint domain. Any outreach claiming to be from Fingerprint via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Would you like to work in a fast-paced environment where your technical abilities will be challenged on a day to day basis?&lt;/p&gt;
+&lt;p&gt;As a Senior Full Stack Developer, you will be responsible for designing and implementing an array of Web-based products using Node.js, TypeScript, React, Express, NestJS, and other technologies. You will be working with both front and back end code bases, development frameworks, and third-party libraries.&lt;/p&gt;
+&lt;p&gt;You should be a self-starter, self-motivated, able to work independently, collaborate with team members across the globe.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Desenvolver: Participar ativamente do ciclo de desenvolvimento de software, desde a concepção até a implementação utilizando Java/Spring, garantindo que as soluções sejam robustas, escaláveis e eficientes.&lt;/li&gt;
-&lt;li&gt;Apoiar Front-end: Contribuir para o desenvolvimento de interfaces de usuário utilizando React.js e TypeScript, garantindo a integração eficaz com os serviços back-end.&lt;/li&gt;
-&lt;li&gt;Trabalhar com Sistemas Orientados a Eventos: Contribuir no desenvolvimento de sistemas orientados a eventos, utilizando tecnologias como Kafka, RabbitMQ.&lt;/li&gt;
-&lt;li&gt;Testar: Criar e manter testes automatizados para backend e frontend, assegurando que as funcionalidades atendam aos requisitos e estejam livres de bugs.&lt;/li&gt;
-&lt;li&gt;Manter a Qualidade: Colaborar com a equipe para garantir que o código seja bem testado, documentado e siga as melhores práticas.&lt;/li&gt;
-&lt;li&gt;Colaborar: Participar de revisões de código, pair programming, e discussões de arquitetura com foco na melhoria contínua de nossas soluções.&lt;/li&gt;
-&lt;li&gt;Inovar: Trazer ideias para melhorias na arquitetura e processos de desenvolvimento tanto no backend quanto no frontend, mantendo-se atualizado com as melhores práticas e novas tecnologias.&lt;/li&gt;
-&lt;li&gt;Apoiar no Code Review: Revisar o código escrito por outros desenvolvedores, fornecendo feedback construtivo para assegurar que os padrões de codificação e as melhores práticas sejam seguidas.&lt;/li&gt;
+&lt;li&gt;Implementing features for our front end customer dashboard and public facing management API and back office tools that supports billing and customer subscription lifecycle&lt;/li&gt;
+&lt;li&gt;Drive and lead functional &amp;amp; technical discussions and expected to design and own end to end services as part of a high performing team.&lt;/li&gt;
+&lt;li&gt;Work well in collaborative teams, and can produce high-quality software under tight constraints at times&lt;/li&gt;
+&lt;li&gt;Interface with the product leaders, designers and other engineers to effectively communicate changes and expectations.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;&lt;strong&gt;Diferencial:&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Conhecimento em microfrontend.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;5+ years of experience using node.js (typescript preferred) in a full stack role.&lt;/li&gt;
+&lt;li&gt;Experience with at least one frontend framework/library like react (preferred), angular, vue, svelte, etc.&lt;/li&gt;
+&lt;li&gt;Experience with micro-services architectures and container-based deployment (e.g. Docker, Kubernetes)&lt;/li&gt;
+&lt;li&gt;Effective communication skills:&amp;nbsp;Engage in healthy discussions with peers and willing to disagree and commit at times, and clear status updates&lt;/li&gt;
+&lt;li&gt;Experience owning a project from concept to production, including design, development, testing, implementation and support&lt;/li&gt;
+&lt;li&gt;Strong focus on quality - every engineer owns quality of the software they build and provide on-call support as needed&lt;/li&gt;
+&lt;li&gt;Self-motivated and function with autonomy (with responsibility), and with strong organizational skills&lt;/li&gt;
+&lt;li&gt;Ability to work asynchronously with a 100% remote team across multiple timezones.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;&lt;strong&gt;Benefícios e Incentivos:&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Nossa contratação é CLT- 40h semanais com jornada flexível, sendo executada 100% de forma remota. Os benefícios da ília são pensados para proporcionar uma experiência AWESOME para cada ílian, abaixo você encontra os benefícios de forma resumida. #vempraília&lt;/p&gt;
-&lt;p&gt;Para Saúde e bem-estar:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nice to have&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Plano de Saúde e Odontológico SulAmérica extensivo a dependentes;&lt;/li&gt;
-&lt;li&gt;Vale Alimentação/Refeição em cartão fléxivel Picpay benefícios&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Seguro de Vida;&lt;/li&gt;
-&lt;li&gt;Auxílio Home-Office em cartão fléxivel Picpay benefícios;&lt;/li&gt;
-&lt;li&gt;Wellhub (Gympass)&lt;/li&gt;
-&lt;li&gt;TotalPass&lt;/li&gt;
+&lt;li&gt;Familiarity with cloud hosting services like Vercel (for FE) and AWS services (for BE hosting, ECS, EventBridge, ACM, ELB, SQS)&lt;/li&gt;
+&lt;li&gt;Degree in Computer Science, Statistics or relevant field.&lt;/li&gt;
+&lt;li&gt;Experience with databases like postgresql or clickhouse.&lt;/li&gt;
+&lt;li&gt;Experience in a high growth company, preferably a tech startup&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Para o seu Desenvolvimento:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ília University: Universidade Corporativa com mais de 20 mil cursos disponíveis para desenvolvimento pessoal e profissional;&lt;/li&gt;
-&lt;li&gt;Language Academy: Escola de idiomas para ílians;&lt;/li&gt;
-&lt;li&gt;í-talks e Chapter: Momentos e cerimônias em que o time compartilha práticas, estudos, projetos e ideias. Nas chapters ainda se reúnem pessoas com skills similares para compartilhamento de ideias, práticas e experiências;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Gostamos de ir além no cuidado com as nossas pessoas, então dispomos também de alguns benefícios não convencionais:&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Plano de Saúde PET- Guapeco&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;BYOD- Alugamos o seu notebook pessoal te pagando um valor mensal para que você o use, mas disponibilizamos também máquinas de trabalho para ílians. Você quem decide!&lt;/li&gt;
-&lt;li&gt;Seu Niver, seu bolo!&lt;/li&gt;
-&lt;li&gt;Seu Networking Vale Prêmio- Programa de premiação a indicação de novos funcionários.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Compensation Range&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;$150k - 200k For cash compensation, we set standard ranges for all&amp;nbsp;&lt;/em&gt;&lt;strong&gt;&lt;em&gt;US based roles based&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;&amp;nbsp;on function, level and geographic location, benchmarked against similar stage growth companies. In order to be compliant with local legislation, as well as to provide greater transparency to candidates, we share salary ranges on all job postings regardless of desired hiring location.&lt;/em&gt;&lt;strong&gt;&lt;em&gt;&amp;nbsp;Final offer amounts are determined by multiple factors including geographic location as well as candidate experience and expertise, and may vary from the amounts listed above.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates&#39; personal and financial information through fake interviews and offers. All Fingerprint recruiting email communications will always come from the @fingerprint domain. Any outreach claiming to be from Fingerprint via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Offers vary depending on, but not limited to, relevant experience, education, certifications/licenses, skills, training, and market conditions.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Due to regulatory and security reasons, there’s a small number of countries where we cannot have Fingerprint teammates based.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Additionally, because Fingerprint is an all-remote company and people can join our workforce from almost any country, we do not sponsor visas. Fingerprint teammates need to be authorized to work from their home location&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We are dedicated to creating an inclusive work environment for everyone. We embrace and celebrate the unique experiences, perspectives and cultural backgrounds that each employee brings to our workplace. Fingerprint strives to foster an environment where our employees feel respected, valued and empowered, and our team members are at the forefront in helping us promote and sustain an inclusive workplace. We highly encourage people from underrepresented groups in tech to apply.&lt;/p&gt;
+&lt;p&gt;If you are applying as a resident of California, please read our CCPA notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-ccpa&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you are applying as a resident of the EU, please read our GDPR notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-gdpr&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
