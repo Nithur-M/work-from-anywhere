@@ -1,29 +1,5 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1177267684574208000/54eG3WmW_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>SafetyWing</h5>
-                    <h3>Product Engineer (Full stack/Backend)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://safetywing.pinpointhq.com/en/jobs/298233" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h2>🧘 What we offer</h2> <ul><li><!--block-->Fully remote work environment – work from anywhere globally</li><li><!--block-->Competitive salary and equity compensation</li><li><!--block-->Premium health insurance that travels with you</li><li><!--block-->A personal development budget</li><li><!--block-->Laptop and office stipends</li><li><!--block-->A minimum of four weeks of vacation per year</li><li><!--block-->Travel insurance any time you travel</li><li><!--block-->Multiple team gatherings per year in amazing locations—our previous meetups were in Mexico, Bali, Siglufjörður and Hoi An</li></ul><div><!--block--><br>🚀 We are looking forward to hearing from you!</div> <div><!--block-->At <strong>SafetyWing</strong>, we’re building a global social safety net for remote workers—simple health, insurance, and retirement products designed to replace national welfare systems. Our mission is to remove geographical borders as a barrier to equal opportunity and freedom for everyone. If we succeed, we believe this will be one of the most important tasks of our time.</div><div><!--block--><br></div><div><!--block-->We’re looking to connect with talented <strong>Product Engineers</strong> who share our mission and are eager to make a meaningful impact on the future of work. By expressing your interest now, you’ll be among the first to hear about and explore new roles as they open.</div><div><!--block--><br></div><div><!--block-->We’re a fast-growing team that thrives on creativity, innovation, and collaboration. Our tech and product teams work hand-in-hand to develop products that empower remote workers worldwide, while participating in the strategic direction of the company.</div> <h2>👩‍💻 About this role</h2>  <div><!--block-->As a <strong>Product Engineer</strong>, you’ll help us build and scale systems that make our vision a reality. You’ll work with cutting-edge technologies to create clean, scalable solutions and play a key role in shaping both our products and our processes.<br><br></div><div><!--block-->🧪 <strong>We are looking for someone who has:</strong></div><ul><li><!--block-->A strong foundation in backend development with Java (Kotlin would be a great advantage)</li><li><!--block-->Hands-on experience developing product's backend services with clean, scalable code</li><li><!--block-->A grasp of TypeScript, React, and Next.js</li><li><!--block-->A solid understanding of the product development lifecycle, including requirements gathering, system design, implementation, testing, deployment, and maintenance</li><li><!--block-->Curiosity about new technologies and a passion for incorporating them into their work</li></ul><div><!--block-->💻 <strong>Technologies you will use:</strong></div><ul><li><!--block-->Kotlin and Java with Micronaut</li><li><!--block-->TypeScript with React and NextJSRedux&nbsp;</li><li><!--block-->Redux Toolkit and React Query</li><li><!--block-->Styled Components and Tailwind</li><li><!--block-->MySQL with Hibernate and Liquibase</li><li><!--block-->Google Cloud with Kubernetes</li></ul> <h2>😀 We like to work with people who:</h2> <ul><li><!--block-->Want to help build a global social safety net on the Internet</li><li><!--block-->Think for themselves instead of copying others</li><li><!--block-->Are willing to try new things, even with the risk of failure</li><li><!--block-->Are intellectually curious and open to new ideas</li><li><!--block-->Are creative and bold in the face of any problems</li><li><!--block-->Have strong integrity and do the right thing</li></ul>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/2e1a369c-b58f-41ac-8d86-4b0a77695e68-1687915522032.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -260,77 +236,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p style="min-height:1.5em"><strong>Who we are:</strong></p><p style="min-height:1.5em">We are a leader in fraud prevention and AML compliance. Our platform uses device intelligence, behavior biometrics, machine learning, and AI to stop fraud before it happens. Today, over 300 banks, retailers, and fintechs worldwide use Sardine to stop identity fraud, payment fraud, account takeovers, and social engineering scams. We have raised $145M from world-class investors, including Andreessen Horowitz, Activant, Visa, Experian, FIS, and Google Ventures.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Our culture:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">We have hubs in the Bay Area, NYC, Austin, and Toronto. However, we maintain a remote-first work culture. #WorkFromAnywhere</p></li><li><p style="min-height:1.5em">We hire talented, self-motivated individuals with extreme ownership and high growth orientation. </p></li><li><p style="min-height:1.5em">We value performance and not hours worked. We believe you shouldn't have to miss your family dinner, your kid's school play, friends get-together, or doctor's appointments for the sake of adhering to an arbitrary work schedule.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Location:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Remote - São Paulo, Brazil</p></li><li><p style="min-height:1.5em">From Home / Beach / Mountain / Cafe / Anywhere!</p></li><li><p style="min-height:1.5em">We are a remote-first company with a globally distributed team. You can find your productive zone and work from there.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>About the Role:</strong></p><p style="min-height:1.5em">As a backend-focused Software Engineer, you will play a pivotal role in designing, constructing, and maintaining APIs, services, and systems across our engineering team. This multifaceted position involves developing new features on a large scale, refining internal tooling and processes, contributing to product and technical roadmaps, and assuming diverse responsibilities within the organization. The ideal candidate for the backend role will have a proven track record in building highly available APIs, with additional proficiency in data pipelines and the relevant domain.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>You will:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Design, create, and maintain robust, efficient, and reliable backend services to meet our platform's evolving needs.</p></li><li><p style="min-height:1.5em">Collaborate closely with business stakeholders to architect and implement new services from inception to delivery.</p></li><li><p style="min-height:1.5em">Contribute to developing new features and capabilities that deliver substantial value to our customers.</p></li><li><p style="min-height:1.5em">Work with various engineering and product teams to synchronize efforts and deliver cutting-edge solutions.</p></li><li><p style="min-height:1.5em">Craft and maintain user-facing technical documentation, enhancing user understanding and facilitating seamless adoption of our services.</p></li><li><p style="min-height:1.5em">Play a pivotal role in shaping our company's engineering culture, ensuring the maintenance of high engineering standards across the organization.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>An ideal candidate has:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">A minimum of 5 years of proven experience as a Software Engineer specializing in web backend development.</p></li><li><p style="min-height:1.5em">Proficiency in Golang is a significant advantage.</p></li><li><p style="min-height:1.5em">Additional experience in data engineering is highly desirable.</p></li><li><p style="min-height:1.5em">A track record of successfully delivering high-quality production services and systems.</p></li><li><p style="min-height:1.5em">Customer-centric approach with a strong emphasis on empathy towards users.</p></li><li><p style="min-height:1.5em">Relevant industry experience, particularly in banking or fintech, and domain knowledge in fraud prevention or compliance.</p></li><li><p style="min-height:1.5em">Proficient in English - from casual chats to formal reports.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Compensation:</strong> Base pay range of $50,000 - $70,000 + equity with tremendous upside potential + Attractive benefits</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Technologies we use:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">TypeScript (React + node)</p></li><li><p style="min-height:1.5em">Golang</p></li><li><p style="min-height:1.5em">Ruby</p></li><li><p style="min-height:1.5em">Bigtable</p></li><li><p style="min-height:1.5em">Postgres / PostgreSQL</p></li><li><p style="min-height:1.5em">GCP dataflow (apache beam)</p></li><li><p style="min-height:1.5em">BigQuery</p></li><li><p style="min-height:1.5em">Python</p></li><li><p style="min-height:1.5em">Java</p></li><li><p style="min-height:1.5em">Terraform</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em">The compensation offered for this role will depend on various factors, including the candidate's location, qualifications, work history, and interview performance, and may differ from the stated range.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Benefits we offer:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Generous compensation in cash and equity</p></li><li><p style="min-height:1.5em">Early exercise for all options, including pre-vested</p></li><li><p style="min-height:1.5em">Work from anywhere: Remote-first Culture</p></li><li><p style="min-height:1.5em">Flexible paid time off, Year-end break, Self care days off</p></li><li><p style="min-height:1.5em">Health insurance, dental, and vision coverage for employees and dependents - <em>US and Canada specific</em></p></li><li><p style="min-height:1.5em">4% matching in 401k / RRSP - <em>US and Canada specific</em></p></li><li><p style="min-height:1.5em">MacBook Pro delivered to your door</p></li><li><p style="min-height:1.5em">One-time stipend to set up a home office — desk, chair, screen, etc.</p></li><li><p style="min-height:1.5em">Monthly meal stipend</p></li><li><p style="min-height:1.5em">Monthly social meet-up stipend</p></li><li><p style="min-height:1.5em">Annual health and wellness stipend</p></li><li><p style="min-height:1.5em">Annual Learning stipend</p></li><li><p style="min-height:1.5em">Unlimited access to an expert financial advisory</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em">Join a fast-growing company with world-class professionals from around the world. If you are seeking a meaningful career, you found the right place, and we would love to hear from you.</p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/35933823?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>ília</h5>
-                    <h3>SR Desenvolvimento Back end (Java)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/ilia/jobs/5452514004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;p&gt;Aqui na ília nossas vagas estão sempre abertas para todas as pessoas e não se restringem quanto a gênero, etnia, orientação sexual, fatores sociais, condições físicas ou intelectuais (PCD) etc. Incentivamos a candidatura de integrantes de todos os grupos minoritários!&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;Sobre a ília&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Somos especialistas em tecnologia, dados e design, impulsionando a transformação digital de grandes players do mercado há mais de 10 anos, nos setores financeiro, seguros e mobilidade. Com mais de 450 profissionais, estamos presentes no Brasil e Europa, atendendo aos mercados da América Latina, Europa e América do Norte, desenvolvendo produtos digitais de alta qualidade e com foco em resultados de negócios. Somos uma equipe inovadora, criativa e apaixonada por tecnologia.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Certificada pelo 5° ano consecutivo como Great Place to work aqui na ília acreditamos que pessoas mudam o mundo, e investimos nelas. Nossas awesome deliveries são feitas de pessoas para pessoas, afinal awesome people make awesome deliveries!&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;#Vempraília&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;Sobre a vaga&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Desenvolver soluções escaláveis e resilientes;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Apresentar melhorias nos sistemas existentes e garantir a qualidade nas entregas;&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Manter a qualidade do software verificando os processos, ferramentas e boas práticas disponíveis para o produto e tecnologia utilizados;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Orientar desenvolvedores de menor senioridade apoiando suas dúvidas, disseminando seu conhecimento,&amp;nbsp;desenhando e arquitetando soluções ou indicando documentação de apoio;&lt;/li&gt;
-&lt;li&gt;Criar testes de alta complexidade, sejam estes manuais ou automatizados, que cubram o comportamento desejado dos componentes técnicos desenvolvidos utilizando os requisitos e ferramentas de testes&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;strong&gt;Requisitos:&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Experiência em linguagens de programação Java.&lt;/li&gt;
-&lt;li&gt;Experiência em ReactNative e/ou ReactJS&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Conhecimento sólido em boas práticas de desenvolvimento;&lt;/li&gt;
-&lt;li&gt;Conhecimento sólido em Testes unitários e integrados;&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Design de APIs REST;&lt;/li&gt;
-&lt;li&gt;Compreensão e entendimento de arquitetura de microsserviços;&lt;/li&gt;
-&lt;li&gt;Experiência em metodologias ágeis.&lt;/li&gt;
-&lt;li&gt;Conhecimentos em bancos de dados (SQL e NoSQL&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;strong&gt;Benefícios e Incentivos:&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Nossa contratação é CLT- 40h semanais com jornada flexível, sendo executada 100% de forma remota. Os benefícios da ília são pensados para proporcionar uma experiência AWESOME para cada ílian, abaixo você encontra os benefícios de forma resumida. #vempraília&lt;/p&gt;
-&lt;p&gt;Para Saúde e bem-estar:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Plano de Saúde e Odontológico SulAmérica extensivo a dependentes;&lt;/li&gt;
-&lt;li&gt;Vale Alimentação/Refeição em cartão fléxivel Picpay benefícios&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Seguro de Vida;&lt;/li&gt;
-&lt;li&gt;Auxílio Home-Office em cartão fléxivel Picpay benefícios;&lt;/li&gt;
-&lt;li&gt;Wellhub (Gympass)&lt;/li&gt;
-&lt;li&gt;TotalPass&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Para o seu Desenvolvimento:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ília University: Universidade Corporativa com mais de 20 mil cursos disponíveis para desenvolvimento pessoal e profissional;&lt;/li&gt;
-&lt;li&gt;Language Academy: Escola de idiomas para ílians;&lt;/li&gt;
-&lt;li&gt;í-talks e Chapter: Momentos e cerimônias em que o time compartilha práticas, estudos, projetos e ideias. Nas chapters ainda se reúnem pessoas com skills similares para compartilhamento de ideias, práticas e experiências;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Gostamos de ir além no cuidado com as nossas pessoas, então dispomos também de alguns benefícios não convencionais:&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Plano de Saúde PET- Guapeco&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;BYOD- Alugamos o seu notebook pessoal te pagando um valor mensal para que você o use, mas disponibilizamos também máquinas de trabalho para ílians. Você quem decide!&lt;/li&gt;
-&lt;li&gt;Seu Niver, seu bolo!&lt;/li&gt;
-&lt;li&gt;Seu Networking Vale Prêmio- Programa de premiação a indicação de novos funcionários.&lt;/li&gt;
-&lt;/ul&gt;
                 </details>
                 </td>
             </tr>,<tr>
