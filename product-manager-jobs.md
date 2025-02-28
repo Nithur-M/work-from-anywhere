@@ -1,5 +1,68 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1975180/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Nethermind</h5>
+                    <h3>Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>product strategy</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/product-manager-1975180" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class='"content-intro"'><div class="h2">What are we all about?</div>
+<p>We are a team of builders and researchers on a mission to empower enterprises and developers worldwide to access and build on decentralized systems.</p>
+<p>Our expertise covers several domains: Ethereum and Starknet protocol engineering, layer-2, AI, cryptography research, protocol research, decentralized finance (DeFi), security auditing, formal verification, real-time monitoring, smart contract development, and dapps and enterprise engineering.</p>
+<p>Working to solve some of the most challenging problems in the blockchain space, we frequently collaborate with renowned companies, such as Ethereum Foundation, Starknet Foundation, Gnosis Chain, Flashbots, Forta Protocol, Lido, EigenLayer, Open Zeppelin, RISCZero, Aleph Zero, and many more.</p>
+<p>Today, we are a 350+ strong team working remotely across 66+ countries.</p>
+<p>View all our open positions here: <a href="%22https://www.nethermind.io/open-roles%22" rel="nofollow">https://www.nethermind.io/open-roles </a></p></div><p><strong>What We Need</strong></p>
+<ul style="">
+<li style="">A proactive and hands-on product manager to lead the product strategy for one of our business groups.</li>
+<li style="">Strong domain knowledge in the Ethereum ecosystem.</li>
+<li style="">A willingness to work remotely. You will be working with a globally distributed team of talented engineers and researchers, as well as many industry-leading partners.</li>
+</ul>
+<p><strong>Role &amp; Responsibilities</strong></p>
+<ul style="">
+<li style="">Own the mission and vision for each of the group’s products.</li>
+<li style="">Own the product strategy for the group: determine which products we should build next, with whom, and why.</li>
+<li style="">Deeply understand our users' needs by using our products, conducting research, and engaging with the community.</li>
+<li style="">Maintain a clear and prioritized roadmap for each product, balancing user needs with developer resources and technical feasibility.</li>
+<li style="">Work with UX/UI designers, project managers, engineers, marketing, and legal to ensure successful product development and launch.</li>
+<li style="">Track key financial metrics, including burn rate, revenue projections, and unit economics.</li>
+<li style="">Have deep insight into the ecosystems around the blockchains that we are helping to build.</li>
+<li style="">Have empathy with developers: write clear, complete product requirements that help devs be productive.</li>
+</ul>
+<p><strong>Requirements</strong></p>
+<ul style="">
+<li style="">At least two years of experience in the crypto industry</li>
+<li style="">At least two years of experience working in a product role</li>
+<li style="">Strong English communication skills</li>
+<li style="">Some hands-on experience in software development</li>
+<li style="">Bachelor's degree or equivalent practical experience</li>
+</ul>
+<p><strong>Nice to have</strong></p>
+<ul style="">
+<li style="">Prior involvement in one or more Ethereum L2 blockchains</li>
+<li style="">Some basic smart contract development experience</li>
+<li style="">Understanding of the DeFi landscape, such as lending protocols, AMMs, Perps and stablecoins.</li>
+</ul>
+<p></p><div class='"content-conclusion"'><div><span style='"font-size:'><em><span style='"text-decoration:'><strong>Disclaimer</strong></span>: I hereby consent to my personal information being stored and processed by Demerzel Solutions Limited (t/a Nethermind) (the “Company”) for recruitment purposes in relation to both the selected job role and any other role the Company considers me a qualified candidate for. All data storing and processing by the Company takes place in accordance with the UK GDPR. Kindly refer to our privacy policy for more details. </em></span><br><span style='"font-size:'><em>Your consent to share personal information is entirely voluntary, and you may withdraw your consent at any time. Should you have any questions about this process, or wish to withdraw your consent please contact: legalnotices@nethermind.io </em></span><br><br>Keep up to date on what we are working on by following <span class='"il"'>us</span> on <strong>our social channels<br><br></strong></div>
+<div><a href="%22https://twitter.com/nethermindeth%22" rel="nofollow" target='"_blank"'><img alt='""' height='"50"' src="%22https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png%22" width='"50"'></a>   <a href="%22https://discord.com/invite/PaCMRFdvWT%22" rel="nofollow" target='"_blank"'><img alt='""' height='"49"' src="%22https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-1024.png%22" width='"49"'></a>   <a href="%22https://www.linkedin.com/company/nethermind/mycompany/%22" rel="nofollow" target='"_blank"'><img alt='""' height='"49"' src="%22https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png%22" width='"49"'></a></div>
+<div> </div>
+<div><strong><a href="%22https://www.nethermind.io/legal%22" rel="nofollow" target='"_blank"'><em>Click here to view our Privacy Policy.</em></a></strong></div></div><img src="https://remotive.com/job/track/1975180/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/43759528?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
