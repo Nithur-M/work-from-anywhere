@@ -52,7 +52,7 @@
 &lt;li&gt;You’re proficient at building coded style guides and creating highly componentized systems.&lt;/li&gt;
 &lt;li&gt;You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The expected hourly rate for this role is between &lt;strong&gt;$70 and $110 USD&lt;/strong&gt;. Compensation is determined based on a variety of factors including relevant experience, projects, geographic location, and business needs.&lt;/p&gt;
+&lt;p&gt;Compensation is determined based on a variety of factors including relevant experience, projects, geographic location, and business needs.&lt;/p&gt;
 &lt;div&gt;
 &lt;div&gt;&lt;strong&gt;Join our Contractor Pool!&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
