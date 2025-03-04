@@ -1,76 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1974725/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Discourse</h5>
-                    <h3>Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>api,CSS,frontend,html</code>
-                </td>
-                <td width="200">
-                <text>11 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-1974725" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p></p><ul style=""><li style=""><em>Salary depends on location and experience, able to provide up front</em></li></ul><p><em><br></em></p><p><em>When you send your resume also send a little intro for us to get to know you, with insight into why you want this job here at Discourse. Tell us about something you've made that you're proud of. Tell us something you think is interesting/cool about Discourse the software. We expect applicants to have created an account on try.discourse.org, and welcome any suggestion on how you would improve the experience from a developer point of view.</em></p><p><br></p>
-<p class="h2">About the job</p>
-<p>Discourse is looking to hire a frontend specialist. We are looking for someone with a passion to build user interfaces and make our product better every day, with a strong focus on quality.</p>
-<p> </p>
-<p>The majority of the work you will do will be open source, and you will communicate with our users openly on Discourse Meta.</p>
-<p> </p>
-<p>Discourse is primarily a hosting company. Some of your focus will be around resolving issues for customers, or assisting with customer-specific themes, plugins, and other customizations.</p>
-<p> </p>
-<p>Applicants will have a 10-40 hour paid trial project (over 2-10 weeks) prior to joining the team. The trial project usually involves adding a feature to Discourse or a Discourse plugin.</p>
-<p> </p>
-<p class="h4">Your responsibilities will include:</p>
-<ul style="">
-<li style="">Developing, testing, and documenting features for Discourse</li>
-<li style="">Creating and maintaining reusable components to facilitate building user interfaces</li>
-<li style="">Correcting bugs in Discourse, and working with legacy code in an established codebase</li>
-<li style="">Documenting and clearly communicating fixes and features requests that are completed</li>
-<li style="">Working with design and product colleagues when planning and implementing work</li>
-<li style="">Assisting with pre-sales, support, and operations as needed</li>
-</ul>
-<p> </p>
-<p class="h4">We’re looking for someone who: </p>
-<ul style="">
-<li style="">Has extremely good JavaScript and web API knowledge, Ruby/Rails experience is a plus, SQL is a plus</li>
-<li style="">Maintains a positive mindset and actively improves the code beyond its original state</li>
-<li style="">Is passionate about open source and comfortable with public code reviews</li>
-</ul>
-<p> </p>
-<p>Discourse is made with the Ember.js framework, knowing the framework is a plus, but not mandatory, we can help you learn it. If you have experience in other JavaScript frameworks or libraries it will be helpful.</p>
-<p> </p>
-<p>We are also careful about the accessibility of our product, and would consider a plus a candidate with a good knowledge of accessibility on the web.</p>
-<p> </p>
-<p>At Discourse, the ability to communicate well in writing is paramount. We use our own software, Discourse, for most communication and most of your interaction with customers and team members will be in writing. In order to live these values, we look for folks who are:</p>
-<p> </p>
-<ul style="">
-<li style="">Detail-oriented, proactive, and organized</li>
-<li style="">Able to make decisions quickly and communicate effectively</li>
-<li style="">Work well independently and remotely</li>
-<li style="">Kind to their co-workers</li>
-<li style="">Highly driven with an execution focus and a strong belief in our mission to make the internet a better place</li>
-</ul>
-<p> </p>
-<p class="h2">About our Pay &amp; Benefits</p>
-<p>We believe that high-quality benefits make our team more effective. We’ve been thoughtful about our benefits package which includes a completely flexible schedule, 5 weeks of vacation per year, funding for a co-working stipend, and much more!</p>
-<p> </p>
-<p>Our Salary Framework is location and experience based, and we’re happy to provide a range up front. We also give every employee a stake in the success of the business, regardless of seniority or role. All full-time employees are eligible to receive equity options in the company as part of our equity incentive program.</p>
-<p> </p>
-<p>Lastly, we believe in having a welcoming workplace where people with diverse backgrounds and cultures can create something great together. We encourage you to apply, even if you don’t meet every qualification! Apply to <span style="color: var(--remotive-chocolate);">jobs@discourse.org.</span><span style="color: var(--remotive-chocolate);"> Send your resume and a little intro for us to get to know you, with insight into why you want this job here at Discourse.</span></p><p><span style="color: var(--remotive-chocolate);"><br></span></p><div class="h2"><span style="color: var(--remotive-chocolate);">Important location info:</span></div><p><span style="color: var(--remotive-chocolate);">Within Europe, we only hire from:</span></p><p><span style="color: var(--remotive-chocolate);"><br></span></p><p></p><ul style=""><li style="">Austria</li><li style="">Italy</li><li style="">Poland</li><li style="">Portugal</li><li style="">Romania</li><li style="">United Kingdom</li></ul>
-<img src="https://remotive.com/job/track/1974725/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/3979584?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -2318,30 +2247,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/v2/D560BAQHWkZ4dfdnqcQ/company-logo_200_200/company-logo_200_200/0/1667241664749/atticushq_logo?e=1743033600&v=beta&t=IKimC8hb4UT-bQFVefDOJ5jfW_yxRN7of8ZLj5GtZ4Q" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Atticus</h5>
-                    <h3>Principal Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.ashbyhq.com/atticus/e2567d5b-8203-457f-a50f-5c48cf086623" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h3><strong>About Atticus</strong></h3><p style="min-height:1.5em">At any given time, 16 million Americans are experiencing a crisis that requires urgent help from our legal system or government. The right assistance could transform their lives. But today, most never get it. </p><p style="min-height:1.5em">Atticus makes it easy for any sick or injured person in crisis to get the life-changing aid they deserve. In just three years, we’ve become the leading platform connecting people with disabilities to government benefits. We also help victims of accidents, misconduct, and violence get compensation from insurance. So far, we’ve gotten thousands of people access to over $2B in life-changing aid, and we’re just getting started.</p><p style="min-height:1.5em">We've helped more than 20,000 people in need (see our <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.trustpilot.com/review/atticus.com">6,000+ five-star reviews</a>) and raised more than $50 million from top VC firms like Forerunner, GV (Google Ventures), and True Ventures. (We just closed our Series B round in May 2023, so we're well-funded for the foreseeable future.) We're small but moving fast — our team grew from 52 to 91 last year and we expect to grow again in 2024.</p><h3><strong>The Job</strong></h3><p style="min-height:1.5em">To provide a great experience for a client, we have to do a lot quickly: Understand their situation, identify their needs, give advice, match them with the right lawyer, connect them to that lawyer, convince both parties to work together, and formalize the arrangement — all while doing our best to make a complex and scary system feel simple, accessible, and human. We’ve managed to do all of this in a way that users love, but we’ve done it by leaving some parts of the process quite manual... which means we can only scale so far.</p><p style="min-height:1.5em">Your job is to change that: to lead the effort to transform our product into a platform that can serve millions of people. You'll craft a strategic plan and roadmap that will enable our tech stack to scale 10x in volume we currently support and plant the seeds for 20x. The role mixes engineering strategy, architectural decisions, and people management. You will focus on leading a cross-functional team focused on building a highly performant, intuitive and secure client experience on the web for Atticus clients, lawyers, and our internal teams.</p><p style="min-height:1.5em">You will work with our <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/ethicsmatters/">VP of Engineering</a>, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/michael-behr-a9a5948/">COO</a>, and <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/benjamin-abrahams-443a4366/">Director of Product</a> but work across many teams (including product, design, lawyer network, as well as client experience and marketing). </p><h3><strong>What You'll Do</strong></h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Help your team design, build and operate Atticus’ APIs with a focus on performance and reliability</p></li><li><p style="min-height:1.5em">Plan roadmaps 3-6 months ahead but are deeply engaged on week to week operations. </p></li><li><p style="min-height:1.5em">Evaluate storage technologies and methodologies with an eye toward scalability and performance</p></li><li><p style="min-height:1.5em">Architect, design, review, and test code in a collaborative environment with other software engineers.</p></li><li><p style="min-height:1.5em">Leverage your team as multipliers for your skills to create excellent products and services</p></li><li><p style="min-height:1.5em">Train other technical leaders on the team to do as you do.</p></li></ul><h3><strong>What You Need</strong></h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">You've been the best engineer in the room before and you know how to get others there.</p></li><li><p style="min-height:1.5em">You've led engineering teams with success on highly critical products.</p></li><li><p style="min-height:1.5em">You’ve been leading engineering teams for 5+ years.</p></li><li><p style="min-height:1.5em">You love fostering career growth and building a strong team culture.</p></li><li><p style="min-height:1.5em">You care deeply about operational excellence (incident management, resilient systems, high availability, etc.)</p></li><li><p style="min-height:1.5em">You proactively identify problems and opportunities and generate creative approaches to solve them.</p></li><li><p style="min-height:1.5em">You're a champion of end user products and passionately collaborate with product and design.</p></li></ul><p style="min-height:1.5em">We are strongly committed to building a diverse team. If you’re from a background that’s underrepresented in tech, we’d love to meet you.</p><h3><strong>Salary and Benefits</strong></h3><p style="min-height:1.5em">This is a rare opportunity to join a startup that has strong traction (substantial funding, well-respected backers, tremendous growth, and many happy customers) but is still small enough that you can have a huge impact and play a role in shaping our culture.</p><p style="min-height:1.5em">We’re a certified B Corporation tackling a critical social problem. Our mission to help people in need drives everything we do, and your work here will touch many lives.</p><p style="min-height:1.5em">We offer competitive pay — including equity — and generous benefits:</p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Medical and dental insurance with 100% of employee premiums covered</p></li><li><p style="min-height:1.5em">15 vacation days &amp; 16 paid holidays each year</p></li><li><p style="min-height:1.5em">Free membership to OneMedical</p></li><li><p style="min-height:1.5em">$1,000/year reimbursable stipend for education and training outside of work </p></li><li><p style="min-height:1.5em">$600/year reimbursable stipend for internet service</p></li><li><p style="min-height:1.5em">Up to $1,200/year student loan repayment assistance</p></li><li><p style="min-height:1.5em">401(k) and optional HSA</p></li><li><p style="min-height:1.5em">Free snacks, drinks, weekly lunches, and regular team dinners/events/retreats</p></li><li><p style="min-height:1.5em">Humble, thoughtful, smart, fun colleagues</p></li></ul><h3><strong>Location</strong></h3><p style="min-height:1.5em">This job is fully remote and we’re committed to empowering everyone with flexibility. Live wherever, work remotely, and travel to LA (on the company dime) as needed to be with your colleagues —somewhere between quarterly and yearly. We care a lot about building a great culture and we think some interactions need to happen in person, so we put a lot of thought into retreats, offsites, and other ways to gather.</p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/65879301?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -2458,6 +2363,30 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <h1><strong>About Us</strong></h1><p style="min-height:1.5em"><strong>Clutch</strong> is a revolutionary vertical SaaS company, proudly backed by Andreessen Horowitz (A16z), aimed at revolutionizing the way Credit Unions engage and change the lives of their members. As a champion of financial well-being, we address the urgent need for affordable lending solutions in an era where the average American grapples with over $155,000 in household debt.  Unlike traditional financial institutions, Clutch develops software to turn Credit Unions into FinTech lenders and leverage their balance sheets to responsibly lend to over 130M Americans. Our mission extends beyond mere financial transactions; we strive to fundamentally enhance the way credit unions interact with their members. By integrating cutting-edge technologies and user-centric designs, we help credit unions provide seamless digital experiences that are on par with leading tech companies. This approach not only preserves but revitalizes the longstanding tradition of community and member-focused service inherent to credit unions.</p><p style="min-height:1.5em"></p><h1><strong>About the Role</strong></h1><p style="min-height:1.5em">You will collaborate closely with the Product Manager and other engineers to develop a new product from the ground up. You'll contribute to discovery, technical design, and implementation, ensuring the product meets user needs and scales effectively.</p><p style="min-height:1.5em">You will be part of an agile team that thrives in ambiguity, focusing on iterating quickly and adapting to feedback as we shape the product roadmap together. Discovery skills, creativity, and a strong product mindset are essential.</p><p style="min-height:1.5em">This is a hands-on role where you'll make architectural decisions and implement scalable solutions.</p><p style="min-height:1.5em"></p><h1><strong>About the Team</strong></h1><p style="min-height:1.5em">Our team values collaboration and ownership, working closely with cross-functional partners to deliver impactful results. We believe in fostering open communication and learning from each other to solve complex challenges.</p><p style="min-height:1.5em">We prioritize building products that make a difference for our users. Each team member is empowered to bring their ideas to the table, with a strong emphasis on continuous improvement and personal growth.</p><p style="min-height:1.5em"></p><h1><strong>What You’ll Do</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Work in collaboration with developers and other stakeholders to enhance our platform, ensuring high-quality code and enabling the efficient delivery of features and improvements.</p></li><li><p style="min-height:1.5em">Write elegant, efficient, and testable code that is easy to maintain and debug</p></li><li><p style="min-height:1.5em">Take care of configurations and process documentation so stakeholders understand how to use the platform</p></li><li><p style="min-height:1.5em">As a true teammate, continuously improve the team’s processes, brainstorm ideas, communicate statuses, and progress</p></li><li><p style="min-height:1.5em">Mentor team members, provide feedback, and continuously improve as a professional</p></li><li><p style="min-height:1.5em">Learn the latest best practices, new concepts, and technologies and apply them accordingly to our context</p></li></ul><p style="min-height:1.5em"></p><h1><strong>What You’ll Bring</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>5+ years of experience in full-stack development</strong>, with expertise in a fast-paced environment, preferably in SaaS and/or Fintech.</p></li><li><p style="min-height:1.5em">Proven ability to work on <strong>early-stage products or startups</strong>, including experience in product discovery, rapid prototyping, and iterating based on user feedback.</p></li><li><p style="min-height:1.5em">Strong proficiency in <strong>modern frontend frameworks (e.g., React)</strong> and <strong>backend technologies (e.g., Node.js, Python)</strong>.</p></li><li><p style="min-height:1.5em"><strong>Product mindset</strong> with a focus on understanding user needs and delivering impactful solutions.</p></li><li><p style="min-height:1.5em">Familiarity with <strong>CI/CD pipelines</strong>, <strong>testing best practices</strong>, and <strong>agile methodologies</strong>.</p></li></ul><p style="min-height:1.5em"><em>Please note that this role may evolve as our business needs change, so we appreciate your flexibility and adaptability.</em></p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What’s In It For You?</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Remote Flexibility:</strong> Enjoy the freedom of remote work from anywhere, balancing life and career seamlessly.</p></li><li><p style="min-height:1.5em"><strong>Unforgettable Off-Sites:</strong> Twice a year, bond with colleagues in exciting destinations, fostering teamwork and fresh ideas.</p></li><li><p style="min-height:1.5em"><strong>Paid Time Off and National Holidays:</strong> Enjoy 20 PTO days yearly and the National Holidays for relaxation and rejuvenation.</p></li><li><p style="min-height:1.5em"><strong>Stock Options:</strong> Joining us means having a stake in our success, so you'll receive stock options as part of your compensation package.</p></li><li><p style="min-height:1.5em"><strong>Home Office Setup:</strong> Create your ideal workspace with a dedicated budget for home office essentials.</p></li><li><p style="min-height:1.5em"><strong>Work Trip Budget:</strong> Grow personally and professionally with a budget for work-related trips and co-working.</p><p style="min-height:1.5em"></p></li></ul><p style="min-height:1.5em"><strong>Please note:</strong> This position is offered on a contractor basis. Applicants must have the necessary documentation and authorization to work in the country where the job is located. Clutch cannot provide sponsorship or assist with obtaining work permits for this role.</p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1879924055165272064/o-V7OZKb_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Synthflow</h5>
+                    <h3>Senior Python Software Engineer </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.ashbyhq.com/synthflow/e46f4ec1-399a-41ff-9d0e-19a77931e786" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height:1.5em">This is a fully remote role, allowing you to work from anywhere in the world.</p><p style="min-height:1.5em"></p><h1><strong>About Synthflow</strong></h1><p style="min-height:1.5em">At <a target="_blank" rel="noopener noreferrer nofollow" href="http://synthflow.ai/">Synthflow</a> we’re building the easiest way for businesses to create AI-powered phone agents. No coding, no fuss—just smarter automation. We’re passionate about delivering the future of voice technology with lightning-fast, scalable solutions. It’s an exciting time at Synthflow: we’re early, fast-growing, and laser-focused on impact. Join us to do the best work of your career while helping businesses thrive.</p><p style="min-height:1.5em"></p><h1><strong>About the role</strong></h1><p style="min-height:1.5em">We’re looking for a Senior Python Engineer to craft reliable, production-ready software for AI tools.</p><p style="min-height:1.5em"></p><h2><strong>Your responsibilities will include:</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Develop and maintain our backend infrastructure</strong>, focusing on scalability, performance, and reliability.</p></li><li><p style="min-height:1.5em"><strong>Implement new features</strong> in collaboration with our engineering team.</p></li><li><p style="min-height:1.5em"><strong>Participate in the entire software development lifecycle</strong>, including requirements analysis, design, implementation, testing, and deployment.</p></li><li><p style="min-height:1.5em"><strong>Apply Test-Driven Development (TDD) practices</strong> to ensure robust and reliable code.</p></li><li><p style="min-height:1.5em"><strong>Engage in Pair Programming</strong> to enhance code quality and foster team collaboration.</p></li><li><p style="min-height:1.5em"><strong>Implement and maintain Continuous Integration/Continuous Deployment (CI/CD) pipelines</strong> to streamline development and deployment processes.</p></li><li><p style="min-height:1.5em"><strong>Conduct code reviews</strong>, providing constructive feedback to maintain high standards of code quality and best practices.</p></li><li><p style="min-height:1.5em"><strong>Stay updated with the latest trends in software development</strong>, sharing knowledge and contributing to continuous improvement.</p></li></ul><p style="min-height:1.5em"></p><h1><strong>You have:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">A <strong>minimum of 5 years of experience</strong> as a Python developer.</p></li><li><p style="min-height:1.5em">Strong experience in <strong>building scalable and extensible data infrastructure</strong>.</p></li><li><p style="min-height:1.5em">Proficiency in <strong>infrastructure containerization, DevOps &amp; MLOps</strong> (preferably GCP or AWS).</p></li><li><p style="min-height:1.5em">Experience in <strong>building and maintaining enterprise-grade APIs</strong> (e.g., with FastAPI).</p></li><li><p style="min-height:1.5em">Demonstrated experience with <strong>TDD, pair programming, and CI/CD practices</strong>.</p></li></ul><p style="min-height:1.5em"></p><h1><strong>Beyond the basics:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Familiarity with <strong>voice technologies</strong> like WebRTC and Twilio.</p></li><li><p style="min-height:1.5em">Knowledge of <strong>AI</strong>, particularly Large Language Models (LLMs), Speech To Text and Voice Synthesis models.</p></li><li><p style="min-height:1.5em">Experience in <strong>AI-related fields</strong> like low-latency audio stream processing or building applications with LLMs.</p></li><li><p style="min-height:1.5em">Familiarity with <strong>AI frameworks</strong> such as LangChain, LlamaIndex, etc.</p></li><li><p style="min-height:1.5em">Experience with <strong>large-scale distributed computing and cloud infrastructure</strong>.</p></li></ul><h3></h3><h1><strong>What we offer:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Autonomy at speed: </strong>High-ownership roles in a fast-moving startup.</p></li><li><p style="min-height:1.5em"><strong>Remote-first flexibility: </strong>Contribute from anywhere, on your schedule.</p></li><li><p style="min-height:1.5em"><strong>Cutting-edge technology:</strong> Work on what interests you most.</p></li><li><p style="min-height:1.5em"><strong>Career growth: </strong>Scale your impact as the company grows.</p></li><li><p style="min-height:1.5em"><strong>Rewarding package: </strong>Competitive pay, equity options, and comprehensive benefits that reflect your skills and experience. </p></li></ul>
                 </details>
                 </td>
             </tr>,<tr>
@@ -2921,65 +2850,7 @@
                 </td>
                 <td width="300">
                     <h5>Speechify</h5>
-                    <h3>Senior Software Engineer, AI Studio</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/speechify/jobs/5058947004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Speechify is the easiest way to listen to the world’s information.&lt;/strong&gt; Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.&lt;/p&gt;
-&lt;p&gt;What streaming services have done for audio entertainment, we’re doing for audio information. And whatever we’re doing seems to be working. We’re #1 in our category, and experiencing exponential growth.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p data-speechify-sentence=&quot;&quot;&gt;As Speechify expands, our AI Studio team seeks a Senior Software Engineer. This role is central to ensuring our Studio team as it continues to push the boundaries when it comes to AI and the Audio space.&amp;nbsp; If you are passionate about strategizing, enjoy high-paced environments, and are eager to take ownership of product decisions, we’d love to hear from you.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What Yo&lt;/strong&gt;&lt;strong&gt;u’&lt;/strong&gt;&lt;strong&gt;ll Do&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li data-speechify-sentence=&quot;&quot;&gt;State of the art voice cloning&lt;/li&gt;
-&lt;li data-speechify-sentence=&quot;&quot;&gt;Low latency and cost effective text to speech&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;An Ideal Candidate Should Have&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Experience with AWS/GCS and be able to build service architectures leveraging these services.&lt;/li&gt;
-&lt;li&gt;Experience building scalable architectures using micro services.&lt;/li&gt;
-&lt;li&gt;Experience writing testable code and pushing the bar higher on testing infrastructure.&lt;/li&gt;
-&lt;li&gt;Proficiency with React and modern React stack, or NodeJS, or both.&lt;/li&gt;
-&lt;li&gt;Understanding low-level JS and be able to profile and optimize SPA FE/backend performance.&lt;/li&gt;
-&lt;li&gt;Preferred: video and audio processing experience.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p data-speechify-sentence=&quot;&quot;&gt;&lt;strong&gt;What We Offer &lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A dynamic environment where your contributions shape the company and its products.&lt;/li&gt;
-&lt;li&gt;A team that values innovation, intuition, and drive.&lt;/li&gt;
-&lt;li&gt;Autonomy, fostering focus and creativity.&lt;/li&gt;
-&lt;li&gt;The opportunity to have a significant impact in a revolutionary industry.&lt;/li&gt;
-&lt;li&gt;Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture.&lt;/li&gt;
-&lt;li&gt;The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more.&lt;/li&gt;
-&lt;li&gt;An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Think you’re a good fit for this job?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Tell us more about yourself and why you&#39;re interested in the role when you apply. &lt;br&gt;And don’t forget to include links to your portfolio and LinkedIn.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Not looking but know someone who would make a great fit?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Refer them!&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.&lt;/p&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/32529485?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Speechify</h5>
-                    <h3>Senior Software Engineer, ML Platform & Data Acquisition (Python)</h3>
+                    <h3>Software Engineer, Data Infrastructure & Acquisition</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -2994,11 +2865,14 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                &lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Speechify is the easiest way to listen to the world’s information. Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.&lt;/p&gt;
-&lt;p&gt;What streaming services have done for audio entertainment, we’re doing for audio information. And whatever we’re doing seems to be working. We’re #1 in our category, and experiencing exponential growth.&lt;/p&gt;
+                &lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;
+&lt;p&gt;Over 30 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
+&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.&lt;/p&gt;
+&lt;p&gt;We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Our interview process involves several technical interviews and we aim to complete them within 1 week.&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;We&#39;re looking to hire for our Data Acquisition side of our AI team at Speechify. This role is responsible for all aspects of data collection to support our model training operations. We are able to build high-quality datasets at petabyte-scale and low cost through a tight integration of infrastructure, engineering, and research work. We are looking for a skilled Senior Software Engineer to join us.&lt;/p&gt;
+&lt;p&gt;We&#39;re looking to hire for our Data side of our AI team at Speechify. This role is responsible for all aspects of data collection to support our model training operations. We are able to build high-quality datasets at petabyte-scale and low cost through a tight integration of infrastructure, engineering, and research work. We are looking for a skilled Software Engineer to join us.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What You’ll Do&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Be scrappy to find new sources of audio data and bring it into our ingestion pipeline&lt;/li&gt;
@@ -3052,7 +2926,7 @@
                 </td>
                 <td width="300">
                     <h5>Speechify</h5>
-                    <h3>Senior Software Engineer, Platform</h3>
+                    <h3>Software Engineer, iOS Core Product</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -3061,41 +2935,57 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/speechify/jobs/5058944004" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/speechify/jobs/5411578004" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                &lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Speechify is the easiest way to listen to the world’s information.&lt;/strong&gt; Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.&lt;/p&gt;
-&lt;p&gt;What streaming services have done for audio entertainment, we’re doing for audio information. And whatever we’re doing seems to be working. We’re #1 in our category, and experiencing exponential growth.&lt;/p&gt;
+                &lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;
+&lt;p&gt;Over 30 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
+&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p data-speechify-sentence=&quot;&quot;&gt;As Speechify expands, our Platform team seeks a Senior Software Engineer. This role is central to ensuring our success at Speechify by working on key features like: Payments, Analytics, Subscriptions and our API. If you are passionate about strategizing, enjoy high-paced environments, and are eager to take ownership of product decisions, we’d love to hear from you.&lt;/p&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;With the growth of our iOS app, being the #18 productivity app in the App Store category, we find the need for a Senior iOS Engineer to help us support the new user base as well as work on new and exciting projects to push our missing forward. &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.&lt;/p&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&amp;nbsp;&lt;/p&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;Our interview process involves several technical interviews and we aim to complete them within 1 week.&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What Yo&lt;/strong&gt;&lt;strong&gt;u’&lt;/strong&gt;&lt;strong&gt;ll Do&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li data-speechify-sentence=&quot;&quot;&gt;Design, develop, and maintain robust APIs including Public TTS API, Internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements.&lt;/li&gt;
-&lt;li data-speechify-sentence=&quot;&quot;&gt;Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability.&amp;nbsp;&lt;/li&gt;
-&lt;li data-speechify-sentence=&quot;&quot;&gt;Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients.&lt;/li&gt;
-&lt;li data-speechify-sentence=&quot;&quot;&gt;Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience.&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Opportunity to lead key engineering and product decisions&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Actively shipping production code for the Speechify iOS app&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Work within a dedicated product team&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Participate in product discussions to shape the product roadmap&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Maintain and enhance the existing complex app architecture&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;An Ideal Candidate Should Have&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Proven experience in backend development: TS/Node (required), Go (nice to have)&lt;/li&gt;
-&lt;li&gt;Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers.&lt;/li&gt;
-&lt;li&gt;Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact.&lt;/li&gt;
-&lt;li&gt;Preferred: Experience with Docker and containerized deployments.&lt;/li&gt;
-&lt;li&gt;Preferred: Proficiency in deploying high availability applications on Kubernetes&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Experience. You&#39;ve worked on products that scaled to a large user base&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Track record. You have worked on various products from inception to decent traction. You have been responsible for engineering the product&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Customer obsession. We expect every team member whose responsibilities directly impact customers to be constantly obsessed about providing the best possible experience&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Product thinking. You make thoughtful decisions about the evolution of your product and support internal teams and designers into taking the right direction&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Speed. You work quickly to generate ideas and know how to decide which things can ship now and what things need time&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Focus. We’re a high-growth startup with a busy, remote team. You know how and when to engage or be heads down&lt;/li&gt;
+&lt;li&gt;Technical skills. Swift, SwiftUI&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p data-speechify-sentence=&quot;&quot;&gt;&lt;strong&gt;What We Offer &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technical Requirements:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;A dynamic environment where your contributions shape the company and its products.&lt;/li&gt;
-&lt;li&gt;A team that values innovation, intuition, and drive.&lt;/li&gt;
-&lt;li&gt;Autonomy, fostering focus and creativity.&lt;/li&gt;
-&lt;li&gt;The opportunity to have a significant impact in a revolutionary industry.&lt;/li&gt;
-&lt;li&gt;Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture.&lt;/li&gt;
-&lt;li&gt;The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more.&lt;/li&gt;
-&lt;li&gt;An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain.&lt;/li&gt;
+&lt;li&gt;Swift Programming Language&lt;/li&gt;
+&lt;li&gt;SwiftUI experience&lt;/li&gt;
+&lt;li&gt;Experience in Multithreading Programming&lt;/li&gt;
+&lt;li&gt;Working with CI/CD infrastructure&lt;/li&gt;
+&lt;li&gt;Experience with Fastlane&lt;/li&gt;
+&lt;li&gt;SOLID principles, the ability to write every single class according to SOLID&lt;/li&gt;
+&lt;li&gt;Experience with Git and understanding of different Git strategies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;&lt;strong&gt;What We offer:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A fast-growing environment where you can help shape the company and product&lt;/li&gt;
+&lt;li&gt;An entrepreneurial crew that supports risk, intuition, and hustle&lt;/li&gt;
+&lt;li&gt;The opportunity to make a big impact in a transformative industry&lt;/li&gt;
+&lt;li&gt;A competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture&lt;/li&gt;
+&lt;li&gt;Work on a product that millions of people use and where daily feedback includes users sharing that they cried when they first found the product because it was so impactful on their lives&lt;/li&gt;
+&lt;li&gt;Support people with learning differences like Dyslexia, ADD, Low Vision, Concussions, Autism, and Second Language Learners, and give reading superpowers to professionals all over the world&lt;/li&gt;
+&lt;li&gt;Work in one of the fastest growing sectors of tech: Intersection of Artificial Intelligence and Audio&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Think you’re a good fit for this job?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Tell us more about yourself and why you&#39;re interested in the role when you apply. &lt;br&gt;And don’t forget to include links to your portfolio and LinkedIn.&lt;/p&gt;
@@ -3111,7 +3001,7 @@
                 </td>
                 <td width="300">
                     <h5>Speechify</h5>
-                    <h3>Staff Software Engineer, AI Inference</h3>
+                    <h3>Software Engineer, Platform</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -3120,42 +3010,165 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/speechify/jobs/5287658004" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/speechify/jobs/5058944004" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                &lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Speechify is the easiest way to listen to the world’s information.&lt;/strong&gt; Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.&lt;/p&gt;
-&lt;p&gt;What streaming services have done for audio entertainment, we’re doing for audio information. And whatever we’re doing seems to be working. We’re #1 in our category, and experiencing exponential growth.&lt;/p&gt;
+                &lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;
+&lt;p&gt;Over 30 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
+&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p data-speechify-sentence=&quot;&quot;&gt;As Speechify expands, our AI team seeks a Staff Backend Engineer. This role is central to ensuring our infrastructure scales efficiently, optimizing key product flows, and constructing resilient end-to-end systems. If you are passionate about strategizing, enjoy high-paced environments, and are eager to take ownership of product decisions, we’d love to hear from you.&lt;/p&gt;
-&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;What You’ll Do&lt;/strong&gt;&lt;/div&gt;
-&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Work alongside machine learning researchers, engineers, and product managers to bring our AI Voices to their customers for a diverse range of use cases.&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Deploy and operate the core ML inference workloads for our AI Voices serving pipeline.&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Introduce new techniques, tools, and architecture that improve the performance, latency, throughput, and efficiency of our deployed models.&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Build tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues.&lt;/li&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.&lt;/p&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.&lt;/p&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&amp;nbsp;&lt;/p&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;Our interview process involves several technical interviews and we aim to complete them within 1 week.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What Yo&lt;/strong&gt;&lt;strong&gt;u’&lt;/strong&gt;&lt;strong&gt;ll Do&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;An Ideal Candidate Should Have&lt;/strong&gt;&lt;/div&gt;
-&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experience shipping Python-based services&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experience being responsible for the successful operation of a critical production service&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experience with public cloud environments, GCP preferred&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experience with Infrastructure such as Code, Docker, and containerized deployments.&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Preferred: Experience deploying high-availability applications on Kubernetes.&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Preferred: Experience deploying ML models to production&lt;/li&gt;
+&lt;p&gt;&lt;strong&gt;An Ideal Candidate Should Have&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Proven experience in backend development: TS/Node (required)&lt;/li&gt;
+&lt;li&gt;Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers&lt;/li&gt;
+&lt;li&gt;Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact&lt;/li&gt;
+&lt;li&gt;Preferred: Experience with Docker and containerized deployments&lt;/li&gt;
+&lt;li&gt;Preferred: Proficiency in deploying high availability applications on Kubernetes&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p data-speechify-sentence=&quot;&quot;&gt;&lt;strong&gt;What We Offer &lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;A dynamic environment where your contributions shape the company and its products.&lt;/li&gt;
-&lt;li&gt;A team that values innovation, intuition, and drive.&lt;/li&gt;
-&lt;li&gt;Autonomy, fostering focus and creativity.&lt;/li&gt;
-&lt;li&gt;The opportunity to have a significant impact in a revolutionary industry.&lt;/li&gt;
-&lt;li&gt;Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture.&lt;/li&gt;
-&lt;li&gt;The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more.&lt;/li&gt;
-&lt;li&gt;An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain.&lt;/li&gt;
+&lt;li&gt;A dynamic environment where your contributions shape the company and its products&lt;/li&gt;
+&lt;li&gt;A team that values innovation, intuition, and drive&lt;/li&gt;
+&lt;li&gt;Autonomy, fostering focus and creativity&lt;/li&gt;
+&lt;li&gt;The opportunity to have a significant impact in a revolutionary industry&lt;/li&gt;
+&lt;li&gt;Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture&lt;/li&gt;
+&lt;li&gt;The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more&lt;/li&gt;
+&lt;li&gt;An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Think you’re a good fit for this job?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tell us more about yourself and why you&#39;re interested in the role when you apply. &lt;br&gt;And don’t forget to include links to your portfolio and LinkedIn.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Not looking but know someone who would make a great fit?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Refer them!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.&lt;/p&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/32529485?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Speechify</h5>
+                    <h3>Software Engineer, Studio   </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/speechify/jobs/5058947004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;
+&lt;p&gt;Over 30 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
+&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Speechify&#39;s Studio is one of our latest products addressing creators&#39; needs to create human-sounding voiceovers with AI text-to-speech, dub videos, clone their voice and more.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.&lt;/p&gt;
+&lt;p&gt;We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Our interview process involves several technical interviews and we aim to complete them within 1 week.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What Yo&lt;/strong&gt;&lt;strong&gt;u’&lt;/strong&gt;&lt;strong&gt;ll Do&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Build and maintain Speechify&#39;s Creator Studio found at speechify.com/studio&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Integrate AI models to provide state of the art voiceovers, dubbing, voice cloning and more&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Build the future of&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;An Ideal Candidate Should Have&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with AWS/GCS and be able to build service architectures leveraging these services&lt;/li&gt;
+&lt;li&gt;Experience building scalable architectures using micro services&lt;/li&gt;
+&lt;li&gt;Experience writing testable code and pushing the bar higher on testing infrastructure&lt;/li&gt;
+&lt;li&gt;Proficiency with React and modern React stack, or NodeJS, or both&lt;/li&gt;
+&lt;li&gt;Understanding low-level JS and be able to profile and optimize SPA FE/backend performance&lt;/li&gt;
+&lt;li&gt;Preferred: video and audio processing experience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;&lt;strong&gt;What We Offer &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A dynamic environment where your contributions shape the company and its products&lt;/li&gt;
+&lt;li&gt;A team that values innovation, intuition, and drive&lt;/li&gt;
+&lt;li&gt;Autonomy, fostering focus and creativity&lt;/li&gt;
+&lt;li&gt;The opportunity to have a significant impact in a revolutionary industry&lt;/li&gt;
+&lt;li&gt;Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture&lt;/li&gt;
+&lt;li&gt;The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more&lt;/li&gt;
+&lt;li&gt;An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Think you’re a good fit for this job?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tell us more about yourself and why you&#39;re interested in the role when you apply. &lt;br&gt;And don’t forget to include links to your portfolio and LinkedIn.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Not looking but know someone who would make a great fit?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Refer them!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.&lt;/p&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/32529485?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Speechify</h5>
+                    <h3>Software Engineer, Web Core Product & Chrome Extension</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/speechify/jobs/4658498004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;
+&lt;p&gt;Over 30 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
+&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&lt;/p&gt;
+&lt;p&gt;This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.&lt;/p&gt;
+&lt;p&gt;We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Our interview process involves several technical interviews and we aim to complete them within 1 week.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What Yo&lt;/strong&gt;&lt;strong&gt;u’&lt;/strong&gt;&lt;strong&gt;ll Do&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Actively ship production code to the web products&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Work closely with your dedicated product team&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Participate in product discussions to shape the product roadmap&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Have the opportunity to work on new and exciting features that will impact millions of lives&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;An Ideal Candidate Should Have&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Experience. You&#39;ve built and ship products that have scaled to thousands or millions of users&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Customer obsession. You are passionate about the field and have the desire to build high quality product that serves customer needs&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Speed. You work quickly to generate ideas and know how to decide which things can ship now and what things need time&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Focus. We’re a high-growth startup with a busy, remote team. You know how and when to engage or be heads down&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Collaboration. You know how to inspire, play, and negotiate with opinionated designers, marketers, and PMs&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Tech Stack: Vanilla JS, ReactJS, Redux, Firebase, Typescript&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;&lt;strong&gt;What We Offer &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;A fast-growing environment where you can help shape the culture&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;An entrepreneurial crew that supports risk, intuition, and hustle&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;A hands-off approach so you can focus and do your best work&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;The opportunity to make an impact in a transformative industry&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;A competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Think you’re a good fit for this job?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Tell us more about yourself and why you&#39;re interested in the role when you apply. &lt;br&gt;And don’t forget to include links to your portfolio and LinkedIn.&lt;/p&gt;
