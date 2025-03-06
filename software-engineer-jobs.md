@@ -231,6 +231,114 @@
                 </td>
                 <td width="300">
                     <h5>Sourcegraph</h5>
+                    <h3>Software Engineer [IC1]</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/sourcegraph91/jobs/5463379004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Our mission at Sourcegraph is to make it so that &lt;a href=&quot;https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4&quot;&gt;everyone can code&lt;/a&gt;, not just ~0.1% of the population.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We are transforming how the world’s most important companies build software by industrializing development with AI. Today, most professional developers spend a disproportionate amount of time understanding code and performing repetitive, low-level tasks—leaving less time for innovation and meaningful impact.&lt;/p&gt;
+&lt;p&gt;We’re changing that. Sourcegraph brings AI-powered search and agents to the enterprise, helping teams automate the mundane and amplify what developers do best— solving hard problems and creating great products.&lt;/p&gt;
+&lt;p&gt;Here’s how we’re making a difference:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Accelerating developers &lt;/strong&gt;with AI agents that deliver insights and precision—enabling 5x faster test creation, 30% increase in merge requests, and saving 20 minutes per developer daily.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automating repetitive tasks,&lt;/strong&gt; from remediating vulnerabilities (saving teams 1,000+ hours annually) to speeding up migrations that would take years to months.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enabling innovation&lt;/strong&gt; by addressing complex problems like automated bug triage, vulnerability detection, and AI-driven code reviews seamlessly integrated into workflows.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Trusted by 7/10 top software companies by market cap, 4/6 top US banks and many of the companies leading global innovation, like Stripe, Indeed, Tesla, and 1Password, and with $225M in funding from investors like &lt;a href=&quot;https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/&quot;&gt;a16z&lt;/a&gt;, &lt;a href=&quot;https://about.sourcegraph.com/blog/series-c-with-sequoia/&quot;&gt;Sequoia&lt;/a&gt;, and &lt;a href=&quot;https://www.redpoint.com/companies/sourcegraph/&quot;&gt;Redpoint&lt;/a&gt;, we are building the tools that will define the next era of enterprise software development.&lt;/p&gt;
+&lt;p&gt;If you’re passionate about solving the hardest problems in software and shaping the future of technology, join us. Let’s build something extraordinary together.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Devs and interns wanted&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For arduous journey, building late into night or early morning, working by screenlight, grinding to remake the world of code, to build and accelerate the engines of bits that move the world, competitive wages, but true reward is what you build—the code that makes the code for 7 out of 10 top software companies by market cap&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Hours &amp;amp; location&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;🌎 While we hire &lt;a href=&quot;https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4&quot;&gt;almost anywhere&lt;/a&gt; in the world, we have office hubs in select locations and expect this person to reside in San Francisco to be able to work from one of our office locations for several days per week.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Required locations:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;San Francisco, CA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We do not subscribe to “I do my best work when I work 40 hours a week.”&amp;nbsp; People we hire at Sourcegraph believe that building outstanding things means working very hard — smarter and more hours than the competition.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Why this job is exciting&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;You will contribute to various aspects of our software development cycle, impacting the growth and effectiveness of our products. You will work closely with a talented team of engineers, product managers, and designers to build features that enhance the capabilities of Sourcegraph&#39;s entire platform.&lt;/p&gt;
+&lt;p&gt;📅 Within one month, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design and implement new features in collaboration with your team.&lt;/li&gt;
+&lt;li&gt;Directly enhance product functionality, leading to improved user satisfaction and increased adoption rates.&lt;/li&gt;
+&lt;li&gt;Have high productivity and output, with frequent and meaningful commits.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📅 Within three months, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Contribute to code reviews, maintain high coding standards, and improve existing codebase for better performance and scalability.&lt;/li&gt;
+&lt;li&gt;Elevate the quality and maintainability of the code, reducing bugs and facilitating future feature development.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📅 Within six months, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deliver clearly defined projects of small to medium technical risk.&lt;/li&gt;
+&lt;li&gt;Apply diligence through the entire software lifecycle: planning, coding, documenting, shipping, demoing, supporting, and improving your software over time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📅 Within one year, you will…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Directly contribute to achieving Sourcegraph’s strategic goals and long-term success.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;About you&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;You are driven to do your best work by working smarter and harder than everyone else. You thrive in fast-paced environments. You have a knack for juggling competing priorities. You get stuff done.&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You have a CS degree from a top engineering school&lt;/li&gt;
+&lt;li&gt;You have an interest or experience in Go, TypeScript, or similar programming languages.&lt;/li&gt;
+&lt;li&gt;You have strong problem-solving skills and a passion for technology.&lt;/li&gt;
+&lt;li&gt;Excellent communication and teamwork abilities.&lt;/li&gt;
+&lt;li&gt;You always look for ways to uplevel your skills.&lt;/li&gt;
+&lt;li&gt;You seek out work, rather than waiting for work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nice to haves:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SWE experience on a large engineering team,&lt;/li&gt;
+&lt;li&gt;Open source contributions.&lt;/li&gt;
+&lt;li&gt;A project that showed up on Hacker News.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;📊 This job is an IC1.&amp;nbsp; You can read more about &lt;a href=&quot;https://www.notion.so/sourcegraph/Leveling-Guide-0e1b5c76ada64b9caac387f8b7c4fc66&quot;&gt;our job leveling philosophy&lt;/a&gt; in our Handbook.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;💸 We pay you an above-average salary&lt;/strong&gt; because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an &lt;a href=&quot;https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d&quot;&gt;open and transparent&lt;/a&gt; company that values &lt;a href=&quot;https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4&quot;&gt;competitive compensation&lt;/a&gt;, our compensation ranges are visible to every single Sourcegraph teammate.&lt;/p&gt;
+&lt;p&gt;Your salary is determined by your pay band for the IC1 job level. For determining pay bands, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that the salaries below may be adjusted in the future.&lt;/p&gt;
+&lt;p&gt;💰 The target compensation for this role is based on the IC1 pay band for your zone. The start of the IC1 pay band is $129,500.&lt;/p&gt;
+&lt;p&gt;Please speak with a recruiter for additional information regarding zone locations.&lt;/p&gt;
+&lt;p&gt;📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba&quot;&gt;perks &amp;amp; benefits&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Interview process&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Below is the interview process you can expect for this role (you can read more about &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/Types-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7&quot;&gt;&lt;em&gt;the types of interviews&lt;/em&gt;&lt;/a&gt;&lt;em&gt; in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We expect the interview process to take 3.5 hours in total&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;👋 Introduction Stage&lt;/strong&gt; - we have initial conversations to get to know you better…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[30m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13&quot;&gt;Recruiter Screen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[15m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#1919882c0cf147c487eb1df40db8a694&quot;&gt;Hiring Manager Screen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;🧑‍💻 Team Interview Stage&lt;/strong&gt; - we then schedule an all-day onsite interview to delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[60m] &lt;a href=&quot;https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#e83edd987754460e839138a4bbfd592e&quot;&gt;Coding Exercise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[60m] &lt;a href=&quot;https://www.notion.so/sourcegraph/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3?pvs=4#b37f3b535e894775b9c64f53675b5549&quot;&gt;System Design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[45m] &lt;a href=&quot;https://sourcegraph.notion.site/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7#cb00697e95304550a146c32563c0255d&quot;&gt;Cross-functional Team Collaboration Interview&lt;/a&gt; /&lt;a href=&quot;https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd&quot;&gt; Values Interview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;We check references and conduct a background check&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Learn more about us&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;You can learn more about what it is like to work at Sourcegraph by reading &lt;a href=&quot;https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0&quot;&gt;our handbook&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are an ambitious team who are collectively working hard to build the most influential company in the world.&amp;nbsp; You can read more about our &lt;a href=&quot;https://sourcegraph.notion.site/What-it-s-like-working-at-Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115&quot;&gt;culture&lt;/a&gt;, &lt;a href=&quot;https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74&quot;&gt;competitive compensation&lt;/a&gt; and &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74&quot;&gt;benefits&lt;/a&gt; here.&lt;/p&gt;
+&lt;p&gt;Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Sourcegraph participates in &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107&quot;&gt;&lt;em&gt;E-Verify&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for U.S. Employees. &lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/3979584?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sourcegraph</h5>
                     <h3>Software Engineer - Search Platform [IC4]</h3>
                 </td>
                 <td width="300">
@@ -2387,6 +2495,30 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p style="min-height:1.5em">This is a fully remote role, allowing you to work from anywhere in the world.</p><p style="min-height:1.5em"></p><h1><strong>About Synthflow</strong></h1><p style="min-height:1.5em">At <a target="_blank" rel="noopener noreferrer nofollow" href="http://synthflow.ai/">Synthflow</a> we’re building the easiest way for businesses to create AI-powered phone agents. No coding, no fuss—just smarter automation. We’re passionate about delivering the future of voice technology with lightning-fast, scalable solutions. It’s an exciting time at Synthflow: we’re early, fast-growing, and laser-focused on impact. Join us to do the best work of your career while helping businesses thrive.</p><p style="min-height:1.5em"></p><h1><strong>About the role</strong></h1><p style="min-height:1.5em">We’re looking for a Senior Python Engineer to craft reliable, production-ready software for AI tools.</p><p style="min-height:1.5em"></p><h2><strong>Your responsibilities will include:</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Develop and maintain our backend infrastructure</strong>, focusing on scalability, performance, and reliability.</p></li><li><p style="min-height:1.5em"><strong>Implement new features</strong> in collaboration with our engineering team.</p></li><li><p style="min-height:1.5em"><strong>Participate in the entire software development lifecycle</strong>, including requirements analysis, design, implementation, testing, and deployment.</p></li><li><p style="min-height:1.5em"><strong>Apply Test-Driven Development (TDD) practices</strong> to ensure robust and reliable code.</p></li><li><p style="min-height:1.5em"><strong>Engage in Pair Programming</strong> to enhance code quality and foster team collaboration.</p></li><li><p style="min-height:1.5em"><strong>Implement and maintain Continuous Integration/Continuous Deployment (CI/CD) pipelines</strong> to streamline development and deployment processes.</p></li><li><p style="min-height:1.5em"><strong>Conduct code reviews</strong>, providing constructive feedback to maintain high standards of code quality and best practices.</p></li><li><p style="min-height:1.5em"><strong>Stay updated with the latest trends in software development</strong>, sharing knowledge and contributing to continuous improvement.</p></li></ul><p style="min-height:1.5em"></p><h1><strong>You have:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">A <strong>minimum of 5 years of experience</strong> as a Python developer.</p></li><li><p style="min-height:1.5em">Strong experience in <strong>building scalable and extensible data infrastructure</strong>.</p></li><li><p style="min-height:1.5em">Proficiency in <strong>infrastructure containerization, DevOps &amp; MLOps</strong> (preferably GCP or AWS).</p></li><li><p style="min-height:1.5em">Experience in <strong>building and maintaining enterprise-grade APIs</strong> (e.g., with FastAPI).</p></li><li><p style="min-height:1.5em">Demonstrated experience with <strong>TDD, pair programming, and CI/CD practices</strong>.</p></li></ul><p style="min-height:1.5em"></p><h1><strong>Beyond the basics:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Familiarity with <strong>voice technologies</strong> like WebRTC and Twilio.</p></li><li><p style="min-height:1.5em">Knowledge of <strong>AI</strong>, particularly Large Language Models (LLMs), Speech To Text and Voice Synthesis models.</p></li><li><p style="min-height:1.5em">Experience in <strong>AI-related fields</strong> like low-latency audio stream processing or building applications with LLMs.</p></li><li><p style="min-height:1.5em">Familiarity with <strong>AI frameworks</strong> such as LangChain, LlamaIndex, etc.</p></li><li><p style="min-height:1.5em">Experience with <strong>large-scale distributed computing and cloud infrastructure</strong>.</p></li></ul><h3></h3><h1><strong>What we offer:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Autonomy at speed: </strong>High-ownership roles in a fast-moving startup.</p></li><li><p style="min-height:1.5em"><strong>Remote-first flexibility: </strong>Contribute from anywhere, on your schedule.</p></li><li><p style="min-height:1.5em"><strong>Cutting-edge technology:</strong> Work on what interests you most.</p></li><li><p style="min-height:1.5em"><strong>Career growth: </strong>Scale your impact as the company grows.</p></li><li><p style="min-height:1.5em"><strong>Rewarding package: </strong>Competitive pay, equity options, and comprehensive benefits that reflect your skills and experience. </p></li></ul>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1879924055165272064/o-V7OZKb_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Synthflow</h5>
+                    <h3>Senior Full-Stack Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.ashbyhq.com/synthflow/011b1ed3-f877-4327-89c7-15160f497fac" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height:1.5em">This is a fully remote role, allowing you to work from anywhere in the world.</p><p style="min-height:1.5em"></p><h1><strong>About Synthflow</strong></h1><p style="min-height:1.5em">At <a target="_blank" rel="noopener noreferrer nofollow" href="http://synthflow.ai/">Synthflow</a> we’re building the easiest way for businesses to create AI-powered phone agents. No coding, no fuss—just smarter automation. We’re passionate about delivering the future of voice technology with lightning-fast, scalable solutions. It’s an exciting time at Synthflow: we’re early, fast-growing, and laser-focused on impact. Join us to do the best work of your career while helping businesses thrive.</p><p style="min-height:1.5em"></p><h1><strong>About the role</strong></h1><p style="min-height:1.5em">We’re looking for a Senior Full-Stack Engineer to build and scale Synthflow’s core platform.</p><p style="min-height:1.5em"></p><h2><strong>Your responsibilities will include:</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Build and maintain our full-stack architecture</strong> using React/Next.js, Node.js, and to deliver a robust, scalable, and high-performance platform.</p></li><li><p style="min-height:1.5em"><strong>Implement user-facing features and backend services</strong> that support our evolving product.</p></li><li><p style="min-height:1.5em"><strong>Collaborate closely</strong> with designers, product managers, and other engineers to deliver high-quality, user-friendly solutions.</p></li><li><p style="min-height:1.5em"><strong>Optimize SQL queries and database interactions</strong> to ensure efficiency across our application stack.</p></li><li><p style="min-height:1.5em"><strong>Leverage your experience in automated testing and CI/CD pipelines</strong> to drive quality and streamline deployment.</p></li><li><p style="min-height:1.5em"><strong>Work in a fast-paced, startup environment</strong> where innovation, speed, and scalability are key.</p></li></ul><p style="min-height:1.5em"></p><h1><strong>You Have:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">A <strong>minimum of 4 years of professional experience</strong> as a Full-Stack Engineer with a strong focus on JavaScript/TypeScript</p></li><li><p style="min-height:1.5em">Extensive experience with <strong>React, Node.js, TypeScript, CSS, and Next.js</strong>.</p></li><li><p style="min-height:1.5em">Strong proficiency in <strong>SQL</strong> and optimizing complex queries.</p></li><li><p style="min-height:1.5em"><strong>Experience with cloud platforms</strong> such as GCP or AWS.</p></li><li><p style="min-height:1.5em">Familiarity with <strong>DevOps and containerization</strong> tools like Docker.</p></li><li><p style="min-height:1.5em">Strong verbal and written communication skills, with a track record of effective collaboration in cross-functional teams.</p></li><li><p style="min-height:1.5em"><strong>Contribute to a culture of learning and knowledge-sharing,</strong> participating in code reviews and pair programming.</p></li></ul><h3></h3><h1>Beyond the basics:</h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Experience with <strong>Redis</strong> and relational databases for caching and data handling.</p></li><li><p style="min-height:1.5em">Experience with AI Tooling and Framework like Langchain or OpenAI SDK</p></li><li><p style="min-height:1.5em"><strong>Early-stage startup experience</strong> is a big plus, as we value adaptability and innovative problem-solving.</p><p style="min-height:1.5em"></p></li></ul><h1><strong>What We Offer:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Autonomy at speed: </strong>High-ownership roles in a fast-moving startup.</p></li><li><p style="min-height:1.5em"><strong>Remote-first flexibility: </strong>Contribute from anywhere, on your schedule.</p></li><li><p style="min-height:1.5em"><strong>Cutting-edge technology:</strong> Work on what interests you most.</p></li><li><p style="min-height:1.5em"><strong>Career growth: </strong>Scale your impact as the company grows.</p></li><li><p style="min-height:1.5em"><strong>Rewarding package: </strong>Competitive pay, equity options, and comprehensive benefits that reflect your skills and experience. </p></li></ul>
                 </details>
                 </td>
             </tr>,<tr>
