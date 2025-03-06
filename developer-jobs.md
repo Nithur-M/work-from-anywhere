@@ -986,30 +986,6 @@
                 </td>
                 <td width="300">
                     <h5>Synthflow</h5>
-                    <h3>Senior Bubble Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.ashbyhq.com/synthflow/56a8efc4-bda7-4ef4-b1d2-29d848ed2cd8" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="min-height:1.5em">Take a look at how we write job descriptions at Synthflow: This is a fully remote role, allowing you to work from anywhere in the world.</p><p style="min-height:1.5em"></p><h1><strong>About Synthflow</strong></h1><p style="min-height:1.5em">At Synthflow, we’re building the easiest way for businesses to create AI-powered phone agents. No coding, no fuss—just smarter automation. We’re passionate about delivering the future of voice technology with lightning-fast, scalable solutions. It’s an exciting time at Synthflow: we’re early, fast-growing, and laser-focused on impact. Join us to do the best work of your career while helping businesses thrive.</p><p style="min-height:1.5em"></p><h1><strong>About the Role</strong></h1><p style="min-height:1.5em">We are seeking a talented and passionate <strong>Senior Bubble Developer</strong> to lead the development of critical user-facing features and integrations within our no-code platform. </p><p style="min-height:1.5em"></p><h2>Your responsibilities will include:</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Designing, developing, and optimizing no-code applications using Bubble.</p></li><li><p style="min-height:1.5em">Collaborating with cross-functional teams to deliver seamless integrations and scalable solutions.</p></li><li><p style="min-height:1.5em">Building and maintaining custom workflows, database structures, and responsive designs.</p></li><li><p style="min-height:1.5em">Working with APIs to ensure reliable communication between systems.</p></li><li><p style="min-height:1.5em">Managing complex development tasks independently, with a high standard of quality and attention to detail.</p></li><li><p style="min-height:1.5em">Identifying areas for process improvement and implementing innovative solutions.</p></li><li><p style="min-height:1.5em">Staying up-to-date with Bubble best practices and no-code trends to enhance our platform capabilities.</p></li></ul><h1><strong>Who you are</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Senior-level expertise in Bubble development</strong>: Proven ability to build, scale, and optimize advanced applications.</p></li><li><p style="min-height:1.5em"><strong>Proficient in working with APIs</strong>: Experience integrating third-party services and building custom API workflows.</p></li><li><p style="min-height:1.5em"><strong>Self-directed and proactive</strong>: Thrives in an autonomous environment and consistently delivers high-quality work.</p></li><li><p style="min-height:1.5em"><strong>Strong problem-solving skills</strong>: Able to tackle complex challenges and adapt quickly to changing requirements.</p></li><li><p style="min-height:1.5em"><strong>Proficient in English</strong>: Excellent communication skills to collaborate effectively with a global team.</p></li><li><p style="min-height:1.5em">A passion for no-code development and enabling businesses to create innovative solutions without traditional coding.</p></li></ul><p style="min-height:1.5em"></p><h1><strong>Beyond the basics</strong>:</h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Experience working on large, complex Bubble projects.</p></li><li><p style="min-height:1.5em">Familiarity with asynchronous workflows and remote-first teams.</p></li><li><p style="min-height:1.5em">A strong portfolio showcasing world-class Bubble applications.</p></li></ul><p style="min-height:1.5em"></p><h1><strong>What We Offer</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Autonomy at speed</strong>: High-ownership roles in a fast-moving startup.</p></li><li><p style="min-height:1.5em"><strong>Remote-first flexibility</strong>: Contribute from anywhere, on your schedule.</p></li><li><p style="min-height:1.5em"><strong>Cutting-edge technology</strong>: Work on impactful projects that enhance your skills and portfolio.</p></li><li><p style="min-height:1.5em"><strong>Career growth</strong>: Scale your impact as the company grows.</p></li><li><p style="min-height:1.5em"><strong>Rewarding package</strong>: Competitive pay, equity options, and comprehensive benefits that reflect your skills and experience.</p></li></ul>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1879924055165272064/o-V7OZKb_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Synthflow</h5>
                     <h3>Senior Go Developer - Real-Time Voice Telephony AI</h3>
                 </td>
                 <td width="300">
