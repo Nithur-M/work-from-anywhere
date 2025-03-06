@@ -329,7 +329,7 @@
                 </td>
                 <td width="300">
                     <h5>Primer</h5>
-                    <h3>Backend Engineer -  Acceptance</h3>
+                    <h3>Backend Engineer</h3>
                 </td>
                 <td width="300">
                     <code></code>
