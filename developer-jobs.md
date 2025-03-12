@@ -1034,7 +1034,7 @@
                 </td>
                 <td width="300">
                     <h5>ília</h5>
-                    <h3>JR Backend Developer (Java) </h3>
+                    <h3>JR Back-end Developer (Java) </h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -1050,11 +1050,11 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 &lt;p&gt;Aqui na ília nossas vagas estão sempre abertas para todas as pessoas e não se restringem quanto a gênero, etnia, orientação sexual, fatores sociais, condições físicas ou intelectuais (PCD) etc. Incentivamos a candidatura de integrantes de todos os grupos minoritários!&lt;/p&gt;
-&lt;h3&gt;Sobre a ília&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;Sobre a ília&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;Somos especialistas em tecnologia, dados e design, impulsionando a transformação digital de grandes players do mercado há mais de 10 anos, nos setores financeiro, seguros e mobilidade. Com mais de 450 profissionais, estamos presentes no Brasil e Europa, atendendo aos mercados da América Latina, Europa e América do Norte, desenvolvendo produtos digitais de alta qualidade e com foco em resultados de negócios. Somos uma equipe inovadora, criativa e apaixonada por tecnologia.&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;Certificada pelo 5° ano consecutivo como Great Place to work aqui na ília acreditamos que pessoas mudam o mundo, e investimos nelas. Nossas awesome deliveries são feitas de pessoas para pessoas, afinal awesome people make awesome deliveries!&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;#Vempraília!&lt;/p&gt;
-&lt;h3&gt;Buscamos alguém com:&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;Requisitos:&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Inglês Avançado (fala, leitura e escrita);&lt;/li&gt;
 &lt;li&gt;Disponibilidade para viagens nacionais e internacionais esporádicas;&amp;nbsp;&lt;/li&gt;
@@ -1064,7 +1064,7 @@
 &lt;li&gt;Docker;&lt;/li&gt;
 &lt;li&gt;Git.&amp;nbsp;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Diferencial:&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;Diferenciais:&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Kubernetes;&lt;/li&gt;
 &lt;li&gt;Experiência com tecnologias de Filas (ex: RabbitMq, Kafka, Amazon SQS);&lt;/li&gt;
@@ -1075,7 +1075,7 @@
 &lt;li&gt;Protocolo MQTT;&lt;/li&gt;
 &lt;li&gt;Experiência com criação de microserviços.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Benefícios e Incentivos:&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;Benefícios e Incentivos:&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;Nossa contratação é CLT- 40h semanais com jornada flexível, sendo executada 100% de forma remota. Os benefícios da ília são pensados para proporcionar uma experiência AWESOME para cada ílian, abaixo você encontra os benefícios de forma resumida. #vempraília&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Para Saúde e bem-estar:&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -1107,7 +1107,7 @@
                 </td>
                 <td width="300">
                     <h5>ília</h5>
-                    <h3>PL Fullstack Developer (.net/react) </h3>
+                    <h3>PL Full Stack Developer (.Net/React) </h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -1122,15 +1122,14 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Aqui na ília nossas vagas estão sempre abertas para todas as pessoas e não se restringem quanto a gênero, etnia, orientação sexual, fatores sociais, condições físicas ou intelectuais (PCD) etc. Incentivamos a candidatura de integrantes de todos os grupos minoritários!&lt;/p&gt;
+                &lt;p&gt;Aqui na ília nossas vagas estão sempre abertas para todas as pessoas e não se restringem quanto a gênero, etnia, orientação sexual, fatores sociais, condições físicas ou intelectuais (PCD) etc. Incentivamos a candidatura de integrantes de todos os grupos minoritários!&lt;/p&gt;
 &lt;h3&gt;Sobre a ília&lt;/h3&gt;
 &lt;p&gt;Somos especialistas em tecnologia, dados e design, impulsionando a transformação digital de grandes players do mercado há mais de 10 anos, nos setores financeiro, seguros e mobilidade. Com mais de 450 profissionais, estamos presentes no Brasil e Europa, atendendo aos mercados da América Latina, Europa e América do Norte, desenvolvendo produtos digitais de alta qualidade e com foco em resultados de negócios. Somos uma equipe inovadora, criativa e apaixonada por tecnologia.&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;Certificada pelo 5° ano consecutivo como Great Place to work aqui na ília acreditamos que pessoas mudam o mundo, e investimos nelas. Nossas awesome deliveries são feitas de pessoas para pessoas, afinal awesome people make awesome deliveries!&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;#Vempraília!&lt;/p&gt;
-&lt;h3&gt;Sobre a vaga:&lt;br&gt;&lt;/h3&gt;
+&lt;h3&gt;Sobre a vaga:&lt;/h3&gt;
 &lt;p&gt;Nossos projetos em específico, tem como principal desafio a grandeza e o contato com clientes nacionais e internacionais. Conta com um time altamente capacitado em desenvolvimento de aplicações web e mobile em diferentes plataformas, onde o objetivo é entregar para o usuário uma plataforma que faça a diferença na vida das pessoas em qualquer hora e local.&lt;/p&gt;
-&lt;h3&gt;Buscamos alguém com:&lt;/h3&gt;
+&lt;h3&gt;Requisitos:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Inglês Avançado (fala, leitura e escrita);&lt;/li&gt;
 &lt;li&gt;Disponibilidade para viagens nacionais e internacionais esporádicas;&amp;nbsp;&lt;/li&gt;
@@ -1144,16 +1143,14 @@
 &lt;li&gt;Containerização/Orquestração (e.g. Docker e Kubernetes);&lt;/li&gt;
 &lt;li&gt;Git Flow.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h3&gt;Diferencial:&lt;/h3&gt;
+&lt;h3&gt;Diferenciais:&amp;nbsp;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Experiência com ferramentas de monitoramento e observabilidade (e.g. Kibana, Grafana, AWS Cloudwatch,...);&lt;/li&gt;
 &lt;li&gt;Experiência com Infrastructure as Code (IaC);&lt;/li&gt;
 &lt;li&gt;Experiência na utilização de Integração Contínua;&lt;/li&gt;
 &lt;li&gt;Experiência em alguma metodologia ágil.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h3&gt;Benefícios e Incentivos:&lt;br&gt;&lt;/h3&gt;
+&lt;h3&gt;Benefícios e Incentivos:&lt;/h3&gt;
 &lt;p&gt;Nossa contratação é CLT- 40h semanais com jornada flexível, sendo executada 100% de forma remota. Os benefícios da ília são pensados para proporcionar uma experiência AWESOME para cada ílian, abaixo você encontra os benefícios de forma resumida. #vempraília&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Para Saúde e bem-estar:&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
