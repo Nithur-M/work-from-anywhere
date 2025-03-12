@@ -52,6 +52,30 @@
                 </td>
                 <td width="300">
                     <h5>Empower</h5>
+                    <h3>Product Manager - Thrive</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.ashbyhq.com/empower%20finance/34e6509e-de93-4e6a-97e1-1736c86a4f7e" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height:1.5em"><strong>EMPOWER OVERVIEW</strong></p><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="http://empower.me/">Empower</a> is shaking up an outdated financial system by providing real opportunity for our customers: the opportunity to get the cash they need, to access fair credit, and to change their financial story. Today, we’re helping millions of people find financial security through machine learning models that evaluate creditworthiness using a more inclusive lens and mobile-first products: Cash Advance, Thrive line of credit, and Petal credit cards. Tomorrow? Creating even more financial paths for our customers (and their wallets) to succeed.</p><p style="min-height:1.5em">This year, Empower ranked #65 on Inc. 5000’s Fastest-Growing Private Companies list — our third year in a row cracking the top 100 — and was named by Forbes as one of the 25 Next Billion-Dollar Startups for 2024. Empower was also featured by Forbes on America’s Best Startup Employers list in 2023, and our Thrive line of credit product was named by Fast Company as one of 2022’s Next Big Things in Tech.</p><p style="min-height:1.5em">Empower is backed by Sequoia Capital, Blisce, and Icon Ventures. Ready to grow your impact and accelerate your career? Take a look at our open roles — we can’t wait to meet you.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>THE EMPOWER WAY</strong></p><p style="min-height:1.5em"><strong>Great Expectations</strong>: We come up with bold, audacious goals for ourselves and go all out for impact</p><p style="min-height:1.5em"><strong>Owner Mindset</strong>: We give every employee latitude to act independently, make smart choices, and move the business forward</p><p style="min-height:1.5em"><strong>Spirited Debate</strong>: We love skeptics and seek counter opinions to challenge our personal assumptions and expand our view</p><p style="min-height:1.5em"><strong>Customer Obsession:</strong> We listen to understand, empathize, and create a memorable, rewarding experience for our community</p><p style="min-height:1.5em"><strong>Inclusive Collaboration</strong>: We believe diverse teams make the best decisions, and we strive to give diverse voices a seat at the table</p><p style="min-height:1.5em"><strong>No Jerks Allowed</strong>: We value our relationships and take the time to build trust and connection and communicate respectfully</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>WHAT EMPOWER OFFERS</strong></p><p style="min-height:1.5em">Competitive salary</p><p style="min-height:1.5em">Generous equity package</p><p style="min-height:1.5em">Full healthcare benefits</p><p style="min-height:1.5em">Technology expense reimbursement</p><p style="min-height:1.5em">Virtual first environment</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>JOB DESCRIPTION</strong></p><p style="min-height:1.5em">We’re looking for extraordinary people to help lead product development as Empower continues to scale. Our product leaders are customer-centric, collaborate intensely with other key disciplines, and make decisions with an eye towards Empower’s business. Successful product managers are ambitious and resourceful -- willing to do whatever it takes to deliver value to our customers.</p><p style="min-height:1.5em">The PM in this role will support our Thrive line of credit product as we continue to enhance the value proposition for our current and prospective customers. The role requires an aptitude for data analysis, comfort in driving independent execution on a range of quality of life projects, and an appetite for driving financial services innovation as we explore new ways to deliver on our company’s mission.</p><p style="min-height:1.5em">Empower product managers are experts in cross-functional partnership, constantly engaging colleagues in Operations, Marketing, Finance, Compliance, Support, and other Product areas in order to deliver on their goals and maximize impact. If you’re looking for a role where you can have massive impact and a wide scope, you’ll find this role compelling, challenging, and rewarding.</p><p style="min-height:1.5em">Travel for company offsites is expected at a minimum 2 times a year.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>QUALIFICATIONS</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">We are looking for product managers and product leaders with varying levels of experience (minimum of 3+ years work experience in product management or management consulting/investment banking)</p></li><li><p style="min-height:1.5em">A strong analytical skillset, evidenced by proficiency in SQL (or equivalent programming experience), or a demonstrated comfort in independently analysing ambiguous data across data sets to draw actionable conclusions</p></li><li><p style="min-height:1.5em">Strong customer empathy and experience shaping product direction and execution based on customer needs</p></li><li><p style="min-height:1.5em">A get-it-done mindset; you’re resourceful and happy to be hands on and in the weeds</p></li><li><p style="min-height:1.5em">Experience delivering complex, cross-functional product initiatives </p></li><li><p style="min-height:1.5em">Strong strategic thinking, problem solving, and logical structuring abilities</p></li><li><p style="min-height:1.5em">Comfort with ambiguity; the ability to independently lay out and test clear hypotheses, and solve problems without well-defined direction</p></li><li><p style="min-height:1.5em">Excellent verbal and written communication skills</p></li></ul><p style="min-height:1.5em"><br /></p><p style="min-height:1.5em">At Empower, we hire for people that push themselves to understand others and seek out ways to challenge their personal assumptions. Our hope is that by fostering such an environment, we strengthen our business and relationships by putting people first. We are committed to building a diverse, inclusive, and equitable workspace where everyone (regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics) feels like they belong. Even if your experience doesn’t exactly match up to our job description, you should feel empowered to apply regardless!</p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/2e1a369c-b58f-41ac-8d86-4b0a77695e68-1687915522032.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Empower</h5>
                     <h3>Sr. Product Manager - México </h3>
                 </td>
                 <td width="300">
@@ -276,6 +300,78 @@
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Other requirements&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Passion for Bitcoin and a strong understanding of its role in financial freedom (orange-pilled mindset preferred!)&lt;/li&gt;
+&lt;li&gt;A dedicated workspace.&lt;/li&gt;
+&lt;li&gt;A reliable internet connection with the fastest speed possible in your area.&lt;/li&gt;
+&lt;li&gt;Devices and other essential equipment that meet minimal technical specifications.&lt;/li&gt;
+&lt;li&gt;Alignment with Our Values and the Xapo Values-Driven Leadership principles.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Why work for Xapo?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 500; font-size: 10pt;&quot;&gt;IMPACT GLOBALLY, WORK REMOTELY.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Shape the Future:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Improve lives through cutting-edge technology, work 100% remotely from anywhere in the world.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Great work-life balance:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Build amazing things with a balance of autonomy and collaborative teamwork. Set your own work schedule and make use of a flexible PTO plan when you need to recharge.&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Expect Excellence:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Collaborate, learn, and grow with a high-performance team. Learn&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; how you learn best - from books to conferences, you’ll get a yearly budget for your individual learning and development goals.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;At Xapo, we prioritize consumer protection and adhere to regulatory requirements by ensuring that all Xapiens are accountable for upholding principles of fair treatment, transparency, and ethical conduct in their interactions with customers and stakeholders.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/6930305?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Xapo Bank</h5>
+                    <h3>Web Product Manager (Remote - Work from Anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/xapo61/jobs/6306335003" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: 900;&quot;&gt;Work from anywhere, impact everywhere&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Diversity is at the heart of who we are at Xapo Bank. We’re a fully distributed team of over 140 Xapiens that work remotely from 40+ countries around the world.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Our beginning: A world that enjoys economic freedom and wealth protection, no matter where you live or who is running your country. This is the dream that drove Wences Casares, our Founder and Chairman, to quietly transform the world of banking.&lt;/p&gt;
+&lt;p&gt;To achieve that, we search the world for the best people for the job. We work hard, think globally, and inspire each other to learn and grow. We are committed to changing the way things are done.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Risk is inherent in all of our business activities and managing risk well is the responsibility of every Xapien. Sound risk management enables us to serve our customers and deliver value for our shareholders, and helps make Xapo a great place to work.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Although we are headquartered in Gibraltar, this is a full time, 100% remote position&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Work from anywhere!&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Position overview&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Xapo Bank is seeking an innovative expert to craft and optimize our website strategy, transforming it into a dynamic growth engine that drives traffic, engagement, and conversions while delivering an exceptional user experience. This role seamlessly blends analytical insights, backend expertise, and creative design, ensuring our website not only performs at the highest level but also aligns perfectly with the company’s ambitious objectives.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Responsibilities&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop and execute the strategy for optimizing Xapo’s website to maximize traffic, engagement, and conversions.&lt;/li&gt;
+&lt;li&gt;Work closely with product and engineering teams to implement and improve website analytics tracking, translating business analytics needs into technical requirements.&lt;/li&gt;
+&lt;li&gt;Apply technical SEO principles to ensure optimal organic search rankings and site performance.&lt;/li&gt;
+&lt;li&gt;Monitor website performance using analytics tools, making data-driven recommendations for improvement.&lt;/li&gt;
+&lt;li&gt;Create comprehensive reports on site performance, SEO performance, and key metrics to inform content and growth strategies.&lt;/li&gt;
+&lt;li&gt;Utilize content management systems (CMS) to create and manage website content effectively.&lt;/li&gt;
+&lt;li&gt;Enhance website UI/UX to provide a sticky and engaging user experience.&lt;/li&gt;
+&lt;li&gt;Collaborate with the design team to create and integrate design elements into the website.&lt;/li&gt;
+&lt;li&gt;Leverage web analytics tools (e.g., Google Analytics), CDPs (e.g., Segment), BI tools (e.g., Looker), and Google Tag Manager to track and analyze performance.&lt;/li&gt;
+&lt;li&gt;Web development skills (e.g., HTML, JavaScript) are a plus for implementing technical changes and enhancements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Skills needed&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Proven experience in website management, digital marketing, or related roles in the crypto industry.&lt;/li&gt;
+&lt;li&gt;Demonstrated expertise in website optimization, analytics, and SEO strategies.&lt;/li&gt;
+&lt;li&gt;Proficiency with web analytics tools (e.g., Google Analytics, Amplitude), CDPs (e.g., Segment), BI tools (e.g., Looker), and Google Tag Manager.&lt;/li&gt;
+&lt;li&gt;Fluent in technical SEO principles, including on-page, off-page, and backend optimization&lt;/li&gt;
+&lt;li&gt;Strong analytical mindset with the ability to translate data insights into actionable strategies.&lt;/li&gt;
+&lt;li&gt;Experience in creating detailed performance reports for website and SEO metrics.&lt;/li&gt;
+&lt;li&gt;Ability to align website strategy with broader business objectives and growth goals.&lt;/li&gt;
+&lt;li&gt;Experience working cross-functionally with product, engineering, and marketing teams to implement improvements.&lt;/li&gt;
+&lt;li&gt;Knowledge of UX/UI principles to enhance the user experience.&lt;/li&gt;
+&lt;li&gt;Familiarity with web development technologies (HTML, CSS, JavaScript) is a plus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Other requirements&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;A dedicated workspace.&lt;/li&gt;
 &lt;li&gt;A reliable internet connection with the fastest speed possible in your area.&lt;/li&gt;
 &lt;li&gt;Devices and other essential equipment that meet minimal technical specifications.&lt;/li&gt;
@@ -709,6 +805,71 @@
 &lt;li&gt;Understanding of the DeFi landscape, such as lending protocols, AMMs, Perps and stablecoins.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;&lt;/span&gt;: I hereby consent to my personal information being stored and processed by Demerzel Solutions Limited (t/a Nethermind) (the “Company”) for recruitment purposes in relation to both the selected job role and any other role the Company considers me a qualified candidate for. All data storing and processing by the Company takes place in accordance with the UK GDPR. Kindly refer to our privacy policy for more details.&amp;nbsp;&lt;/em&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;Your consent to share personal information is entirely voluntary, and you may withdraw your consent at any time. Should you have any questions about this process, or wish to withdraw your consent please contact: legalnotices@nethermind.io&amp;nbsp;&lt;/em&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;Keep up to date on what we are working on by following&amp;nbsp;&lt;span class=&quot;il&quot;&gt;us&lt;/span&gt;&amp;nbsp;on &lt;strong&gt;our social channels&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;https://twitter.com/nethermindeth&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png&quot; alt=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot;&gt;&lt;/a&gt; &amp;nbsp; &lt;a href=&quot;https://discord.com/invite/PaCMRFdvWT&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-1024.png&quot; alt=&quot;&quot; width=&quot;49&quot; height=&quot;49&quot;&gt;&lt;/a&gt; &amp;nbsp; &lt;a href=&quot;https://www.linkedin.com/company/nethermind/mycompany/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png&quot; alt=&quot;&quot; width=&quot;49&quot; height=&quot;49&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nethermind.io/legal&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Click here to view our Privacy Policy.&lt;/em&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/43478154?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Nethermind</h5>
+                    <h3>Product Manager, Agentic Products</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.eu.greenhouse.io/nethermind/jobs/4553011101" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;What are we all about?&lt;/h2&gt;
+&lt;p&gt;We are a team of builders and researchers on a mission to empower enterprises and developers worldwide to access and build on decentralized systems.&lt;/p&gt;
+&lt;p&gt;Our expertise covers several domains: Ethereum and Starknet protocol engineering, layer-2, AI, cryptography research, protocol research, decentralized finance (DeFi), security auditing, formal verification, real-time monitoring, smart contract development, and dapps and enterprise engineering.&lt;/p&gt;
+&lt;p&gt;Working to solve some of the most challenging problems in the blockchain space, we frequently collaborate with renowned companies, such as Ethereum Foundation, Starknet Foundation, Gnosis Chain, Flashbots, Forta Protocol, Lido, EigenLayer, Open Zeppelin, RISCZero, Aleph Zero, and many more.&lt;/p&gt;
+&lt;p&gt;Today, we are a 350+ strong team working remotely across 66+ countries.&lt;/p&gt;
+&lt;p&gt;View all our open positions here: &lt;a href=&quot;https://www.nethermind.io/open-roles&quot;&gt;https://www.nethermind.io/open-roles&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;What We Need&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A proactive and hands-on product manager to own and drive the development of Agentic AI products from concept to launch.&lt;/li&gt;
+&lt;li&gt;Demonstrable hands-on experience developing, managing, or implementing AI agents or related technologies (e.g., autonomous agents, reinforcement learning, LLM-based agents).&lt;/li&gt;
+&lt;li&gt;Strong understanding of AI concepts beyond casual or end-user familiarity, particularly related to agent-based systems.&lt;/li&gt;
+&lt;li&gt;Solid domain knowledge of the Ethereum ecosystem.&lt;/li&gt;
+&lt;li&gt;A willingness to work remotely with a globally distributed team of talented engineers, researchers, and industry-leading partners.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Role &amp;amp; Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Define and champion the mission and vision for assigned Agentic AI products.&lt;/li&gt;
+&lt;li&gt;Develop and execute the product strategy, collaborating with other product managers to align on broader portfolio goals.&lt;/li&gt;
+&lt;li&gt;Deeply understand our users’ needs by using our products, conducting research, and engaging with the community.&lt;/li&gt;
+&lt;li&gt;Create and manage a clear, prioritized roadmap, ensuring alignment with user needs, technical feasibility, and resource availability.&lt;/li&gt;
+&lt;li&gt;Work closely with UX/UI designers, project managers, engineers, marketing, and legal to ensure successful product development and launch.&lt;/li&gt;
+&lt;li&gt;Monitor and report on key financial metrics, such as burn rate, revenue projections, and unit economics, ensuring alignment with overall business goals.&lt;/li&gt;
+&lt;li&gt;Maintain deep insight into the ecosystems around the blockchains and AI technologies we are helping to build.&lt;/li&gt;
+&lt;li&gt;Demonstrate empathy with developers by writing clear, complete product requirements that enable productive development.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;At least two years of experience in the crypto industry.&lt;/li&gt;
+&lt;li&gt;At least two years of experience working in a product role.&lt;/li&gt;
+&lt;li&gt;Proven experience developing or managing at least one AI agent or autonomous system (e.g., autonomous agents, reinforcement learning, or LLM-based applications).&lt;/li&gt;
+&lt;li&gt;Strong English communication skills.&lt;/li&gt;
+&lt;li&gt;Hands-on experience in software development.&lt;/li&gt;
+&lt;li&gt;Bachelor’s degree or equivalent practical experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Nice to Have&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prior involvement in one or more Ethereum L2 blockchains.&lt;/li&gt;
+&lt;li&gt;Basic smart contract development experience.&lt;/li&gt;
+&lt;li&gt;Understanding of the DeFi landscape, including lending protocols, AMMs, perpetuals, and stablecoins.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;&lt;/span&gt;: I hereby consent to my personal information being stored and processed by Demerzel Solutions Limited (t/a Nethermind) (the “Company”) for recruitment purposes in relation to both the selected job role and any other role the Company considers me a qualified candidate for. All data storing and processing by the Company takes place in accordance with the UK GDPR. Kindly refer to our privacy policy for more details.&amp;nbsp;&lt;/em&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;Your consent to share personal information is entirely voluntary, and you may withdraw your consent at any time. Should you have any questions about this process, or wish to withdraw your consent please contact: legalnotices@nethermind.io&amp;nbsp;&lt;/em&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;Keep up to date on what we are working on by following&amp;nbsp;&lt;span class=&quot;il&quot;&gt;us&lt;/span&gt;&amp;nbsp;on &lt;strong&gt;our social channels&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;
 &lt;div&gt;&lt;a href=&quot;https://twitter.com/nethermindeth&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png&quot; alt=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot;&gt;&lt;/a&gt; &amp;nbsp; &lt;a href=&quot;https://discord.com/invite/PaCMRFdvWT&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-1024.png&quot; alt=&quot;&quot; width=&quot;49&quot; height=&quot;49&quot;&gt;&lt;/a&gt; &amp;nbsp; &lt;a href=&quot;https://www.linkedin.com/company/nethermind/mycompany/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png&quot; alt=&quot;&quot; width=&quot;49&quot; height=&quot;49&quot;&gt;&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nethermind.io/legal&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Click here to view our Privacy Policy.&lt;/em&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;
