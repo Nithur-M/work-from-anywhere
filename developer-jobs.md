@@ -1034,7 +1034,7 @@
                 </td>
                 <td width="300">
                     <h5>ília</h5>
-                    <h3>JR Back-end Developer (Java) </h3>
+                    <h3>JR Java Back-end Developer | Afirmativa para Pessoas com Deficiência (PCD) </h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -1043,7 +1043,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/ilia/jobs/5472120004" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/ilia/jobs/5475080004" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -1055,26 +1055,17 @@
 &lt;p&gt;Certificada pelo 5° ano consecutivo como Great Place to work aqui na ília acreditamos que pessoas mudam o mundo, e investimos nelas. Nossas awesome deliveries são feitas de pessoas para pessoas, afinal awesome people make awesome deliveries!&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;#Vempraília!&lt;/p&gt;
 &lt;h3&gt;&lt;strong&gt;Requisitos:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Inglês Avançado (fala, leitura e escrita);&lt;/li&gt;
-&lt;li&gt;Disponibilidade para viagens nacionais e internacionais esporádicas;&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Java (Spring ou Quarkus);&lt;/li&gt;
-&lt;li&gt;Experiência prévia com cloud AWS (Amazon Web Services);&lt;/li&gt;
-&lt;li&gt;Bancos relacionais e não relacionais (SQL e NoSQL);&lt;/li&gt;
-&lt;li&gt;Docker;&lt;/li&gt;
-&lt;li&gt;Git.&amp;nbsp;&lt;/li&gt;
+&lt;li data-start=&quot;0&quot; data-end=&quot;36&quot;&gt;Proficiência avançada em inglês;&lt;/li&gt;
+&lt;li data-start=&quot;37&quot; data-end=&quot;120&quot;&gt;Disponibilidade para viagens ocasionais, tanto nacionais quanto internacionais;&lt;/li&gt;
+&lt;li data-start=&quot;121&quot; data-end=&quot;182&quot;&gt;Experiência com Java e frameworks como Spring ou Quarkus;&lt;/li&gt;
+&lt;li data-start=&quot;183&quot; data-end=&quot;247&quot;&gt;Conhecimento em serviços de nuvem AWS (Amazon Web Services);&lt;/li&gt;
+&lt;li data-start=&quot;248&quot; data-end=&quot;330&quot;&gt;Familiaridade com bancos de dados relacionais e não relacionais (SQL e NoSQL);&lt;/li&gt;
+&lt;li data-start=&quot;331&quot; data-end=&quot;358&quot;&gt;Experiência com Docker;&lt;/li&gt;
+&lt;li data-start=&quot;359&quot; data-end=&quot;385&quot; data-is-last-node=&quot;&quot;&gt;Domínio do uso de Git.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;&lt;strong&gt;Diferenciais:&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Kubernetes;&lt;/li&gt;
-&lt;li&gt;Experiência com tecnologias de Filas (ex: RabbitMq, Kafka, Amazon SQS);&lt;/li&gt;
-&lt;li&gt;GitActions;&lt;/li&gt;
-&lt;li&gt;Authentication - JWT, oAuth - integração com ferramentas de login;&lt;/li&gt;
-&lt;li&gt;Angular;&lt;/li&gt;
-&lt;li&gt;Ferramentas de monitoramento e observabilidade (ex: grafana, kibana etc);&lt;/li&gt;
-&lt;li&gt;Protocolo MQTT;&lt;/li&gt;
-&lt;li&gt;Experiência com criação de microserviços.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;strong&gt;Benefícios e Incentivos:&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;Nossa contratação é CLT- 40h semanais com jornada flexível, sendo executada 100% de forma remota. Os benefícios da ília são pensados para proporcionar uma experiência AWESOME para cada ílian, abaixo você encontra os benefícios de forma resumida. #vempraília&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Para Saúde e bem-estar:&lt;/em&gt;&lt;/p&gt;
