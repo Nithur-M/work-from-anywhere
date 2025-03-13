@@ -10,7 +10,7 @@
                     <code>AWS,git,go,saas</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1980741" align="right" target="_blank">Apply</a>
@@ -262,16 +262,79 @@
 &lt;li&gt;Appreciation for deep dives into specific technical silos, with the capability to contribute effectively to broad architectural discussions and decisions.&lt;/li&gt;
 &lt;li&gt;Exposure to distributed system design and a solid understanding of its challenges and intricacies.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;p-rich_text_section&quot;&gt;The Graph team works maintains codebases in several different languages which you will be expected to contribute to:&lt;/div&gt;
-&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet p-rich_text_list--nested&quot; data-stringify-type=&quot;unordered-list&quot; data-list-tree=&quot;true&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Go&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;C++&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Java&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Typescript&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Rust&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;C#&lt;/li&gt;
+&lt;p&gt;The Graph team maintains codebases in several different languages&lt;/p&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;
+&lt;div class=&quot;p-client_container&quot;&gt;
+&lt;div class=&quot;p-ia4_client_container&quot;&gt;
+&lt;div class=&quot;p-ia4_client p-ia4_client--sidebar-wide&quot;&gt;
+&lt;div class=&quot;p-client_workspace_wrapper&quot;&gt;
+&lt;div class=&quot;p-client_workspace&quot;&gt;
+&lt;div class=&quot;p-client_workspace__layout&quot;&gt;
+&lt;div class=&quot;active-managed-focus-container&quot;&gt;
+&lt;div class=&quot;p-view_contents p-view_contents--primary&quot;&gt;
+&lt;div class=&quot;tabbed_channel__Abx5r&quot;&gt;
+&lt;div class=&quot;tabbed_channel__Abx5r&quot;&gt;
+&lt;div class=&quot;channel_tab_panel__zJ5Bt c-tabs__tab_panel c-tabs__tab_panel--active c-tabs__tab_panel--full_height&quot; data-qa=&quot;tabs_content_container&quot;&gt;
+&lt;div class=&quot;p-file_drag_drop__container&quot;&gt;
+&lt;div class=&quot;p-workspace__primary_view_body&quot;&gt;
+&lt;div class=&quot;p-message_pane p-message_pane--classic-nav p-message_pane--scrollbar-float-adjustment p-message_pane--with-bookmarks-bar&quot; data-qa=&quot;message_pane&quot;&gt;
+&lt;div&gt;
+&lt;div class=&quot;c-virtual_list c-virtual_list--scrollbar c-message_list c-message_list--floating c-message_list--dark c-scrollbar c-scrollbar--fade&quot;&gt;
+&lt;div class=&quot;c-scrollbar__hider&quot; data-qa=&quot;slack_kit_scrollbar&quot;&gt;
+&lt;div class=&quot;c-scrollbar__child&quot;&gt;
+&lt;div class=&quot;c-virtual_list__scroll_container&quot; data-qa=&quot;slack_kit_list&quot;&gt;
+&lt;div id=&quot;1741704974.018329&quot; class=&quot;c-virtual_list__item&quot; data-qa=&quot;virtual-list-item&quot; data-item-key=&quot;1741704974.018329&quot;&gt;
+&lt;div class=&quot;c-message_kit__background p-message_pane_message__message c-message_kit__message&quot; data-qa=&quot;message_container&quot; data-qa-unprocessed=&quot;false&quot; data-qa-placeholder=&quot;false&quot;&gt;
+&lt;div class=&quot;c-message_kit__hover&quot; data-qa-hover=&quot;true&quot;&gt;
+&lt;div class=&quot;c-message_kit__actions c-message_kit__actions--default&quot;&gt;
+&lt;div class=&quot;c-message_kit__gutter&quot;&gt;
+&lt;div class=&quot;c-message_kit__gutter__right&quot; data-qa=&quot;message_content&quot;&gt;
+&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;
+&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;
+&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;
+&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;
+&lt;div class=&quot;p-rich_text_block&quot;&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet p-rich_text_list--nested&quot; data-stringify-type=&quot;unordered-list&quot; data-list-tree=&quot;true&quot; data-indent=&quot;0&quot; data-border=&quot;1&quot; data-border-radius-top-cap=&quot;0&quot; data-border-radius-bottom-cap=&quot;0&quot;&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;1&quot;&gt;Go&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;1&quot;&gt;C++&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;1&quot;&gt;Java&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;1&quot;&gt;Typescript&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;1&quot;&gt;Rust&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;1&quot;&gt;C#&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Nice to haves:&lt;/p&gt;
+&lt;p&gt;You will contribute to multiple of these codebases&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Preferred qualifications:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Familiarity with compiler construction or integration is a significant plus.&lt;/li&gt;
 &lt;/ul&gt;
@@ -2233,6 +2296,30 @@
                 </td>
                 <td width="300">
                     <h5>Sardine</h5>
+                    <h3>Software Engineer - AI Products</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.ashbyhq.com/sardine/f1d28d19-16d4-44af-85dd-3a5277a09375" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height:1.5em"><strong>Who we are:</strong></p><p style="min-height:1.5em">We are a leader in fraud prevention and AML compliance. Our platform uses device intelligence, behavior biometrics, machine learning, and AI to stop fraud before it happens. Today, over 300 banks, retailers, and fintechs worldwide use Sardine to stop identity fraud, payment fraud, account takeovers, and social engineering scams. We have raised $145M from world-class investors, including Andreessen Horowitz, Activant, Visa, Experian, FIS, and Google Ventures.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Our culture:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">We have hubs in the Bay Area, NYC, Austin, and Toronto. However, we maintain a remote-first work culture. #WorkFromAnywhere</p></li><li><p style="min-height:1.5em">We hire talented, self-motivated individuals with extreme ownership and high growth orientation. </p></li><li><p style="min-height:1.5em">We value performance and not hours worked. We believe you shouldn't have to miss your family dinner, your kid's school play, friends get-together, or doctor's appointments for the sake of adhering to an arbitrary work schedule.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>About the role:</strong></p><p style="min-height:1.5em">We’re looking for a full-stack software engineer who’s excited to bring AI-powered products to life. You’ll work across backend and frontend systems to help evolve our platform and integrate AI into real customer-facing features.</p><p style="min-height:1.5em">This is a high-impact role where you’ll take ownership of complex problems, collaborate closely with the team, and help build AI agents already used by customers. Your work will directly help clients safeguard their assets and protect against malicious threats and fraudsters.</p><p style="min-height:1.5em">We’re looking for someone who thrives in a fast-paced, evolving environment. You’ll have the independence to drive projects forward and the ownership to shape solutions from start to finish. Your intense curiosity and eagerness to explore new technologies will be instrumental in safeguarding our clients' assets against malicious threats and fraudsters.</p><p style="min-height:1.5em">If you love building meaningful products, enjoy solving open-ended problems, and want to work at the forefront of AI, we’d love to hear from you.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What you’ll be doing:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Design, build, and maintain robust full-stack applications that power AI-driven products.</p></li><li><p style="min-height:1.5em">Work closely with AI and product teams to integrate AI directly into customer-facing applications.</p></li><li><p style="min-height:1.5em">Troubleshoot production issues, including running SQL queries and validating datasets.</p></li><li><p style="min-height:1.5em">Own projects from idea to launch, helping shape product direction along the way.</p></li><li><p style="min-height:1.5em">Collaborate with a cross-functional team of designers, engineers, and product leaders.</p></li><li><p style="min-height:1.5em">Stay curious, keep up with the latest AI developments, and bring fresh ideas to the team.</p><p style="min-height:1.5em"></p></li></ul><p style="min-height:1.5em"><strong>What you’ll need:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">5+ years of full-stack engineering experience, with strong backend focus and production-level frontend development.</p></li><li><p style="min-height:1.5em">Solid experience with backend language (we use Go and Python) and modern frontend frameworks, React + TypeScript.</p></li><li><p style="min-height:1.5em">Comfortable working with SQL and relational databases to troubleshoot and validate data.</p></li><li><p style="min-height:1.5em">Proven ability to solve complex, open-ended problems independently.</p></li><li><p style="min-height:1.5em">Genuine curiosity and excitement for AI, with a strong desire to learn and grow in this space.</p></li><li><p style="min-height:1.5em">Strong communication and collaboration skills, with a track record of working effectively in globally distributed remote cross-functional teams.</p></li><li><p style="min-height:1.5em">Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent practical experience.</p><p style="min-height:1.5em"></p></li></ul><p style="min-height:1.5em"><strong>Nice to Haves:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Experience in fraud, risk, or compliance domains is a significant plus.</p></li><li><p style="min-height:1.5em">Demonstrated ability to implement solutions that reduce operational inefficiencies while enhancing security and protection against potential threats.</p></li><li><p style="min-height:1.5em">Experience with version control systems, CI/CD pipelines, and cloud platforms (AWS, GCP, or Azure) is a plus.</p></li><li><p style="min-height:1.5em">Demonstrated ability to leverage large language models for innovative product development.</p></li></ul><p style="min-height:1.5em"><strong>Compensation:</strong> Base pay range of $170,000 - $220,000 + equity with tremendous upside potential + Attractive benefits. </p><p style="min-height:1.5em"></p><p style="min-height:1.5em">The compensation offered for this role will depend on various factors, including the candidate's location, qualifications, work history, and interview performance, and may differ from the stated range.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Benefits we offer:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Generous compensation in cash and equity</p></li><li><p style="min-height:1.5em">Early exercise for all options, including pre-vested</p></li><li><p style="min-height:1.5em">Work from anywhere: Remote-first Culture</p></li><li><p style="min-height:1.5em">Flexible paid time off, Year-end break, Self care days off</p></li><li><p style="min-height:1.5em">Health insurance, dental, and vision coverage for employees and dependents - <em>US and Canada specific</em></p></li><li><p style="min-height:1.5em">4% matching in 401k / RRSP - <em>US and Canada specific</em></p></li><li><p style="min-height:1.5em">MacBook Pro delivered to your door</p></li><li><p style="min-height:1.5em">One-time stipend to set up a home office — desk, chair, screen, etc.</p></li><li><p style="min-height:1.5em">Monthly meal stipend</p></li><li><p style="min-height:1.5em">Monthly social meet-up stipend</p></li><li><p style="min-height:1.5em">Annual health and wellness stipend</p></li><li><p style="min-height:1.5em">Annual Learning stipend</p></li><li><p style="min-height:1.5em">Unlimited access to an expert financial advisory</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em">Join a fast-growing company with world-class professionals from around the world. If you are seeking a meaningful career, you found the right place, and we would love to hear from you.</p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/65879301?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sardine</h5>
                     <h3>Senior Software Engineer, Data Platform</h3>
                 </td>
                 <td width="300">
@@ -2305,7 +2392,7 @@
                 </td>
                 <td width="300">
                     <h5>Clutch</h5>
-                    <h3>Senior Software Engineer - Authentication </h3>
+                    <h3>Senior Front-End Software Engineer</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -2314,37 +2401,13 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://jobs.ashbyhq.com/withclutch/550d9c4f-875f-4a2b-add9-30511282ff87" align="right" target="_blank">Apply</a>
+                <a href="https://jobs.ashbyhq.com/withclutch/7054cba9-df82-4a07-80dd-5eae8005276a" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <h2><strong>About Clutch</strong></h2><p style="min-height:1.5em"><strong>Clutch</strong> is a revolutionary vertical SaaS company, proudly backed by Andreessen Horowitz (A16z), aimed at revolutionizing the way Credit Unions engage and change the lives of their members. As a champion of financial well-being, we address the urgent need for affordable lending solutions in an era where the average American grapples with over $155,000 in household debt.  Unlike traditional financial institutions, Clutch develops software to turn Credit Unions into FinTech lenders and leverage their balance sheets to responsibly lend to over 130M Americans. Our mission extends beyond mere financial transactions; we strive to fundamentally enhance the way credit unions interact with their members. By integrating cutting-edge technologies and user-centric designs, we help credit unions provide seamless digital experiences that are on par with leading tech companies. This approach not only preserves but revitalizes the longstanding tradition of community and member-focused service inherent to credit unions.</p><p style="min-height:1.5em"></p><h2>The Opportunity</h2><p style="min-height:1.5em">As a Backend Software Engineer on the Auth team, you will design, implement, and maintain scalable systems for Authentication, Authorization, and Session Management, ensuring secure and seamless access across all company platforms.</p><p style="min-height:1.5em">This role provides the opportunity to shape foundational security systems, enhance user experiences, and contribute to the company's mission of delivering innovative and secure solutions to our customers.</p><p style="min-height:1.5em"></p><h2><strong>About the Team</strong></h2><p style="min-height:1.5em">The team has skilled backend engineers who collaborate closely to tackle challenging problems. We foster a supportive and hands-on environment where everyone contributes to designing and building secure, scalable solutions.</p><p style="min-height:1.5em">Our team thrives on collaboration, innovation, and a shared commitment to standardizing our solutions across all company products in a secure and efficient way.</p><p style="min-height:1.5em"></p><h2><strong>What You’ll Do</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Work in collaboration with developers and other stakeholders to enhance our platform, ensuring high-quality code, and enabling the efficient delivery of features and improvements.</p></li><li><p style="min-height:1.5em">Write elegant, efficient, and testable code that is easy to maintain and debug</p></li><li><p style="min-height:1.5em">Take care of configurations and processes documentation so stakeholders understand how to use the platform</p></li><li><p style="min-height:1.5em">As a true teammate, continuously improve the team’s processes, brainstorm ideas, and communicate statuses, and progress</p></li><li><p style="min-height:1.5em">Mentor team members, provide feedback, and continuously improve as a professional</p></li><li><p style="min-height:1.5em">Learn the latest best practices, new concepts and technologies and apply them accordingly to our context</p></li></ul><p style="min-height:1.5em"></p><h2><strong>What You’ll Bring</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">5+ years in a fast-paced environment, preferably in SaaS and/or Fintech</p></li><li><p style="min-height:1.5em">Expertise in authentication and authorization protocols, including OAuth 2.0, OpenID Connect, and SAML, with a proven track record of implementing secure identity systems</p></li><li><p style="min-height:1.5em">Proficiency in backend development with a strong focus on scalable and reliable systems.</p></li><li><p style="min-height:1.5em">Knowledge of secure coding practices, token-based authentication (e.g., JWT), and session management strategies to enhance system security and performance.</p></li><li><p style="min-height:1.5em">Nice to have: Familiarity with <strong>graph-oriented databases</strong>, such as SpiceDB, and their application in <strong>Authorization systems</strong> to model and query complex relationships between users, roles, and resources in distributed environments.</p></li><li><p style="min-height:1.5em">Nice to have: Experience working with <strong>AuthZed</strong> or similar systems, with a strong understanding of authorization concepts inspired by Google Zanzibar’s approach to scalable and consistent access control.</p></li></ul><h2><strong>What’s In It For You?</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Remote Flexibility:</strong> Enjoy the freedom of remote work from anywhere, balancing life and career seamlessly.</p></li><li><p style="min-height:1.5em"><strong>Unforgettable Off-Sites:</strong> Twice a year, bond with colleagues in exciting destinations, fostering teamwork and fresh ideas.</p></li><li><p style="min-height:1.5em"><strong>Paid Time Off and National Holidays:</strong> Enjoy 20 PTO days yearly and the National Holidays for relaxation and rejuvenation.</p></li><li><p style="min-height:1.5em"><strong>Stock Options:</strong> Joining us means having a stake in our success, so you'll receive stock options as part of your compensation package.</p></li><li><p style="min-height:1.5em"><strong>Home Office Setup:</strong> Create your ideal workspace with a dedicated budget for home office essentials.</p></li><li><p style="min-height:1.5em"><strong>Work Trip Budget:</strong> Grow personally and professionally with a budget for work-related trips and co-working.</p></li></ul><h2></h2><p style="min-height:1.5em"><strong>Please note:</strong> This position is offered on a contractor basis. Applicants must have the necessary documentation and authorization to work in the country where the job is located. Clutch cannot provide sponsorship or assist with obtaining work permits for this role.</p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://app.ashbyhq.com/api/images/org-theme-logo/87f6e542-ae68-4ff1-ab48-f05e9dab1964/e24aecd5-3955-404a-8728-c08806c78730.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clutch</h5>
-                    <h3>Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.ashbyhq.com/withclutch/cf081b8f-3342-47f4-afc3-bda0b70ffd40" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h1><strong>About Us</strong></h1><p style="min-height:1.5em"><strong>Clutch</strong> is a revolutionary vertical SaaS company, proudly backed by Andreessen Horowitz (A16z), aimed at revolutionizing the way Credit Unions engage and change the lives of their members. As a champion of financial well-being, we address the urgent need for affordable lending solutions in an era where the average American grapples with over $155,000 in household debt.  Unlike traditional financial institutions, Clutch develops software to turn Credit Unions into FinTech lenders and leverage their balance sheets to responsibly lend to over 130M Americans. Our mission extends beyond mere financial transactions; we strive to fundamentally enhance the way credit unions interact with their members. By integrating cutting-edge technologies and user-centric designs, we help credit unions provide seamless digital experiences that are on par with leading tech companies. This approach not only preserves but revitalizes the longstanding tradition of community and member-focused service inherent to credit unions.</p><p style="min-height:1.5em"></p><h1><strong>About the Role</strong></h1><p style="min-height:1.5em">You will collaborate closely with the Product Manager and other engineers to develop a new product from the ground up. You'll contribute to discovery, technical design, and implementation, ensuring the product meets user needs and scales effectively.</p><p style="min-height:1.5em">You will be part of an agile team that thrives in ambiguity, focusing on iterating quickly and adapting to feedback as we shape the product roadmap together. Discovery skills, creativity, and a strong product mindset are essential.</p><p style="min-height:1.5em">This is a hands-on role where you'll make architectural decisions and implement scalable solutions.</p><p style="min-height:1.5em"></p><h1><strong>About the Team</strong></h1><p style="min-height:1.5em">Our team values collaboration and ownership, working closely with cross-functional partners to deliver impactful results. We believe in fostering open communication and learning from each other to solve complex challenges.</p><p style="min-height:1.5em">We prioritize building products that make a difference for our users. Each team member is empowered to bring their ideas to the table, with a strong emphasis on continuous improvement and personal growth.</p><p style="min-height:1.5em"></p><h1><strong>What You’ll Do</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Work in collaboration with developers and other stakeholders to enhance our platform, ensuring high-quality code and enabling the efficient delivery of features and improvements.</p></li><li><p style="min-height:1.5em">Write elegant, efficient, and testable code that is easy to maintain and debug</p></li><li><p style="min-height:1.5em">Take care of configurations and process documentation so stakeholders understand how to use the platform</p></li><li><p style="min-height:1.5em">As a true teammate, continuously improve the team’s processes, brainstorm ideas, communicate statuses, and progress</p></li><li><p style="min-height:1.5em">Mentor team members, provide feedback, and continuously improve as a professional</p></li><li><p style="min-height:1.5em">Learn the latest best practices, new concepts, and technologies and apply them accordingly to our context</p></li></ul><p style="min-height:1.5em"></p><h1><strong>What You’ll Bring</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>5+ years of experience in full-stack development</strong>, with expertise in a fast-paced environment, preferably in SaaS and/or Fintech.</p></li><li><p style="min-height:1.5em">Proven ability to work on <strong>early-stage products or startups</strong>, including experience in product discovery, rapid prototyping, and iterating based on user feedback.</p></li><li><p style="min-height:1.5em">Strong proficiency in <strong>modern frontend frameworks (e.g., React)</strong> and <strong>backend technologies (e.g., Node.js, Python)</strong>.</p></li><li><p style="min-height:1.5em"><strong>Product mindset</strong> with a focus on understanding user needs and delivering impactful solutions.</p></li><li><p style="min-height:1.5em">Familiarity with <strong>CI/CD pipelines</strong>, <strong>testing best practices</strong>, and <strong>agile methodologies</strong>.</p></li></ul><p style="min-height:1.5em"><em>Please note that this role may evolve as our business needs change, so we appreciate your flexibility and adaptability.</em></p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What’s In It For You?</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Remote Flexibility:</strong> Enjoy the freedom of remote work from anywhere, balancing life and career seamlessly.</p></li><li><p style="min-height:1.5em"><strong>Unforgettable Off-Sites:</strong> Twice a year, bond with colleagues in exciting destinations, fostering teamwork and fresh ideas.</p></li><li><p style="min-height:1.5em"><strong>Paid Time Off and National Holidays:</strong> Enjoy 20 PTO days yearly and the National Holidays for relaxation and rejuvenation.</p></li><li><p style="min-height:1.5em"><strong>Stock Options:</strong> Joining us means having a stake in our success, so you'll receive stock options as part of your compensation package.</p></li><li><p style="min-height:1.5em"><strong>Home Office Setup:</strong> Create your ideal workspace with a dedicated budget for home office essentials.</p></li><li><p style="min-height:1.5em"><strong>Work Trip Budget:</strong> Grow personally and professionally with a budget for work-related trips and co-working.</p><p style="min-height:1.5em"></p></li></ul><p style="min-height:1.5em"><strong>Please note:</strong> This position is offered on a contractor basis. Applicants must have the necessary documentation and authorization to work in the country where the job is located. Clutch cannot provide sponsorship or assist with obtaining work permits for this role.</p>
+                <h1><strong>About the Role</strong></h1><p style="min-height:1.5em">As a Frontend Software Engineer at the Engineering Platform team, you'll focus on building scalable, efficient, and reusable components, improving developer workflows, and ensuring seamless integration of frontend technologies across the platform. You'll collaborate with other software engineers and stakeholders, integrating both frontend and backend seamlessly to build great solutions for our business.</p><p style="min-height:1.5em"></p><h1><strong>About the Team</strong></h1><p style="min-height:1.5em">The Engineering Platform team creates and maintains the essential tools, components, and platforms that boost engineering efficiency. We focus on creating reusable solutions that will support the teams to build high-quality, secure and reliable products for Clutch’s clients.</p><p style="min-height:1.5em"></p><h1><strong>What You’ll Do</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Work in collaboration with developers and other stakeholders to enhance the developer experience, ensuring high-quality code, and enabling the efficient delivery of frontend features and improvements.</p></li><li><p style="min-height:1.5em">Write elegant, efficient, and testable code that is easy to maintain and debug</p></li><li><p style="min-height:1.5em">Take care of configurations and processes documentation so stakeholders understand how to use the platform</p></li><li><p style="min-height:1.5em">As a true teammate, continuously improve the team’s processes, brainstorm ideas, and communicate statuses, and progress</p></li><li><p style="min-height:1.5em">Mentor team members, provide feedback, and continuously improve as a professional</p></li><li><p style="min-height:1.5em">Learn the latest best practices, new concepts and technologies and apply them accordingly to our context</p></li></ul><p style="min-height:1.5em"></p><h1><strong>What You’ll Bring</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">6+ years of experience working with Software Development </p></li><li><p style="min-height:1.5em">Experience with front-end development using HTML, CSS, and at least one JavaScript framework like React.js, AngularJS, or Vue.js</p></li><li><p style="min-height:1.5em">Strong problem-solving skills and the ability to write clean, maintainable code</p></li><li><p style="min-height:1.5em">Experience in building accessible and reusable UI components</p></li><li><p style="min-height:1.5em">Experience in testing web applications using browser automation tools</p></li><li><p style="min-height:1.5em">Comprehensive understanding and vision of back-end (B2F vision)</p></li><li><p style="min-height:1.5em">Has experience with building CI/CD pipelines and developing automation solutions to help streamline processes</p></li><li><p style="min-height:1.5em">Experience building and contributing to a design system is a plus</p><p style="min-height:1.5em"></p></li></ul><p style="min-height:1.5em"><em>Please note that this role may evolve as our business needs change, so we appreciate your flexibility and adaptability.</em></p><p style="min-height:1.5em"><strong>What’s In It For You?</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Remote Flexibility:</strong> Enjoy the freedom of remote work from anywhere, balancing life and career seamlessly.</p></li><li><p style="min-height:1.5em"><strong>Unforgettable Off-Sites:</strong> Twice a year, bond with colleagues in exciting destinations, fostering teamwork and fresh ideas.</p></li><li><p style="min-height:1.5em"><strong>Paid Time Off and National Holidays:</strong> Enjoy 20 PTO days yearly and the National Holidays for relaxation and rejuvenation.</p></li><li><p style="min-height:1.5em"><strong>Stock Options:</strong> Joining us means having a stake in our success, so you'll receive stock options as part of your compensation package.</p></li><li><p style="min-height:1.5em"><strong>Home Office Setup:</strong> Create your ideal workspace with a dedicated budget for home office essentials.</p></li><li><p style="min-height:1.5em"><strong>Work Trip Budget:</strong> Grow personally and professionally with a budget for work-related trips and co-working.</p></li></ul><p style="min-height:1.5em"><strong>About Us</strong></p><p style="min-height:1.5em"><strong>Clutch</strong> is a revolutionary vertical SaaS company, proudly backed by Andreessen Horowitz (A16z), aimed at revolutionizing the way Credit Unions engage and change the lives of their members. As a champion of financial well-being, we address the urgent need for affordable lending solutions in an era where the average American grapples with over $155,000 in household debt.  Unlike traditional financial institutions, Clutch develops software to turn Credit Unions into FinTech lenders and leverage their balance sheets to responsibly lend to over 130M Americans. Our mission extends beyond mere financial transactions; we strive to fundamentally enhance the way credit unions interact with their members. By integrating cutting-edge technologies and user-centric designs, we help credit unions provide seamless digital experiences that are on par with leading tech companies. This approach not only preserves but revitalizes the longstanding tradition of community and member-focused service inherent to credit unions.</p><p style="min-height:1.5em"><strong>Please note:</strong> This position is offered on a contractor basis. Applicants must have the necessary documentation and authorization to work in the country where the job is located. Clutch cannot provide sponsorship or assist with obtaining work permits for this role.</p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -2774,70 +2837,6 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Alpaca is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;a href=&quot;https://files.alpaca.markets/disclosures/AlpacaRecruitmentPrivacyPolicy.pdf&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recruitment Privacy Policy&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/43478154?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Nethermind</h5>
-                    <h3>Software Engineer - Confidential Computing</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.eu.greenhouse.io/nethermind/jobs/4532989101" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;What are we all about?&lt;/h2&gt;
-&lt;p&gt;We are a team of builders and researchers on a mission to empower enterprises and developers worldwide to access and build on decentralized systems.&lt;/p&gt;
-&lt;p&gt;Our expertise covers several domains: Ethereum and Starknet protocol engineering, layer-2, AI, cryptography research, protocol research, decentralized finance (DeFi), security auditing, formal verification, real-time monitoring, smart contract development, and dapps and enterprise engineering.&lt;/p&gt;
-&lt;p&gt;Working to solve some of the most challenging problems in the blockchain space, we frequently collaborate with renowned companies, such as Ethereum Foundation, Starknet Foundation, Gnosis Chain, Flashbots, Forta Protocol, Lido, EigenLayer, Open Zeppelin, RISCZero, Aleph Zero, and many more.&lt;/p&gt;
-&lt;p&gt;Today, we are a 350+ strong team working remotely across 66+ countries.&lt;/p&gt;
-&lt;p&gt;View all our open positions here: &lt;a href=&quot;https://www.nethermind.io/open-roles&quot;&gt;https://www.nethermind.io/open-roles&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;The Nethermind team is seeking a experience Software engineer with a background in confidential computing. We offer a unique opportunity to work on a variety of diverse projects where strong experience, knowledge and understanding of secure computing platforms is a must. The candidate will be working cross-functionally across the company partnering with our product teams to implement solutions in secure environments in a broad array of applications of use cases from AI through to Finance. The role requires a balance of technical expertise, research mindset, as well as practical engineering skills to take innovative ideas into production.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;How to Know If You&#39;re the Right Fit&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;If you&#39;re driven by complex challenges and excited by the prospect of working with cutting-edge technologies, this role is for you. We&#39;re looking for individuals who are not just engineers but innovators—those who are eager to collaborate with the best minds in the industry and make a significant impact on the future of technology.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Why This Role Is Exciting&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Work with the Best:&lt;/strong&gt;&amp;nbsp;Collaborate with some of the brightest engineers and researchers in the industry.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Innovative Challenges:&lt;/strong&gt;&amp;nbsp;Tackle projects that require deep algorithmic thinking and advanced design.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Impactful Work:&lt;/strong&gt;&amp;nbsp;Contribute directly to the development of technologies that push the boundaries of what&#39;s possible.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Collaborative Environment:&lt;/strong&gt;&amp;nbsp;Partner with leading developers and researchers shaping the future of decentralized technologies.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Collaborating with engineers across the company on all stages of projects, through design, implementation and testing.&lt;/li&gt;
-&lt;li&gt;Partnering with teams across the company from Product through to Engineering to apply your skills to solutions integrating confidential computing.&lt;/li&gt;
-&lt;li&gt;Contribute to product documentation.&lt;/li&gt;
-&lt;li&gt;Maintain, test and release new and existing confidential compute infrastructure.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Skills:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Experienced shipping new products all the way through the product stack.&lt;/li&gt;
-&lt;li&gt;Proficiency with developing in C++.&lt;/li&gt;
-&lt;li&gt;Experience with Rust or JavaScript.&lt;/li&gt;
-&lt;li&gt;Knowledge of Trusted Execution Environments (e.g. SGX, TDX, TrustZone, NVIDIA Confidential Compute).&lt;/li&gt;
-&lt;li&gt;Familiarity with web protocols (HTTP, QUIC).&lt;/li&gt;
-&lt;li&gt;Understanding of the CI/CD developer pipeline and tools (Github, VSCode, Linux).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Nice to have:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Understanding of distributed consensus algorithms and cryptography concepts (e.g. Zero-Knowledge).&lt;/li&gt;
-&lt;li&gt;You can think independently, with drive and initiative, even when challenged and under pressure.&lt;/li&gt;
-&lt;li&gt;You can communicate complex concepts and ideas to a broad array of audiences.&lt;/li&gt;
-&lt;li&gt;You have a strong interest in distributed systems, privacy technologies, blockchains and cryptocurrencies.&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;&lt;/span&gt;: I hereby consent to my personal information being stored and processed by Demerzel Solutions Limited (t/a Nethermind) (the “Company”) for recruitment purposes in relation to both the selected job role and any other role the Company considers me a qualified candidate for. All data storing and processing by the Company takes place in accordance with the UK GDPR. Kindly refer to our privacy policy for more details.&amp;nbsp;&lt;/em&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;Your consent to share personal information is entirely voluntary, and you may withdraw your consent at any time. Should you have any questions about this process, or wish to withdraw your consent please contact: legalnotices@nethermind.io&amp;nbsp;&lt;/em&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;Keep up to date on what we are working on by following&amp;nbsp;&lt;span class=&quot;il&quot;&gt;us&lt;/span&gt;&amp;nbsp;on &lt;strong&gt;our social channels&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;
-&lt;div&gt;&lt;a href=&quot;https://twitter.com/nethermindeth&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png&quot; alt=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot;&gt;&lt;/a&gt; &amp;nbsp; &lt;a href=&quot;https://discord.com/invite/PaCMRFdvWT&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-1024.png&quot; alt=&quot;&quot; width=&quot;49&quot; height=&quot;49&quot;&gt;&lt;/a&gt; &amp;nbsp; &lt;a href=&quot;https://www.linkedin.com/company/nethermind/mycompany/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png&quot; alt=&quot;&quot; width=&quot;49&quot; height=&quot;49&quot;&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nethermind.io/legal&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Click here to view our Privacy Policy.&lt;/em&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
