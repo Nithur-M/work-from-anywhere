@@ -211,9 +211,9 @@
 &lt;p&gt;&lt;em&gt;Para Saúde e bem-estar:&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Plano de Saúde e Odontológico SulAmérica extensivo a dependentes;&lt;/li&gt;
-&lt;li&gt;Vale Alimentação/Refeição em cartão fléxivel Picpay benefícios&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Vale Alimentação/Refeição em cartão flexível Picpay benefícios&amp;nbsp;&lt;/li&gt;
 &lt;li&gt;Seguro de Vida;&lt;/li&gt;
-&lt;li&gt;Auxílio Home-Office em cartão fléxivel Picpay benefícios;&lt;/li&gt;
+&lt;li&gt;Auxílio Home-Office em cartão flexível Picpay benefícios;&lt;/li&gt;
 &lt;li&gt;Wellhub (Gympass)&lt;/li&gt;
 &lt;li&gt;TotalPass&lt;/li&gt;
 &lt;/ul&gt;
