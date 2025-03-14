@@ -337,4 +337,109 @@
 &lt;p&gt;If you are applying as a resident of the EU, please read our GDPR notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-gdpr&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/35933823?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ília</h5>
+                    <h3>PL Engenharia de Software Full Stack (React Native) | Afirmativa para Pessoas com Deficiência (PCD)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/ilia/jobs/5408880004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;&lt;strong data-start=&quot;478&quot; data-end=&quot;554&quot;&gt;Essa é uma vaga afirmativa exclusiva para pessoas com deficiência (PCD).&lt;/strong&gt; Aqui na ília, valorizamos a diversidade e acreditamos no poder da inclusão para construir times mais fortes e inovadores. Estamos comprometidos em criar um ambiente acessível, acolhedor e respeitoso para todas as pessoas.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Sobre a ília&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Somos especialistas em tecnologia, dados e design, impulsionando a transformação digital de grandes players do mercado há mais de 10 anos, nos setores financeiro, seguros e mobilidade. Com mais de 450 profissionais, estamos presentes no Brasil e Europa, atendendo aos mercados da América Latina, Europa e América do Norte, desenvolvendo produtos digitais de alta qualidade e com foco em resultados de negócios. Somos uma equipe inovadora, criativa e apaixonada por tecnologia.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Certificada pelo 5° ano consecutivo como Great Place to work aqui na ília acreditamos que pessoas mudam o mundo, e investimos nelas. Nossas awesome deliveries são feitas de pessoas para pessoas, afinal awesome people make awesome deliveries!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;#Vempraília!&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Sobre a Vaga:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Colaborar com equipes multifuncionais para definir, projetar e lançar novos recursos;&lt;/li&gt;
+&lt;li&gt;Elaborar e conduzir refinamentos técnicos de demandas trazidas pelo time de produtos;&lt;/li&gt;
+&lt;li&gt;Atuar na manutenção da saúde e qualidade do codebase, equilibrando novas funcionalidades com resolução de débitos técnicos;&lt;/li&gt;
+&lt;li&gt;Desenvolver soluções escaláveis e que irão ser utilizadas por milhões de usuários;&lt;/li&gt;
+&lt;li&gt;Ser crítico em relação a Observabilidade;&lt;/li&gt;
+&lt;li&gt;Atuar na manutenção dos testes automatizados, incluindo criação de novos;&lt;/li&gt;
+&lt;li&gt;Orientar desenvolvedores de menor senioridade e auxiliar no desenvolvimento destes;&lt;/li&gt;
+&lt;li&gt;Elaboração de documentação técnica de novas funcionalidades;&lt;/li&gt;
+&lt;li&gt;Traduzir designs em código de alta qualidade;&lt;/li&gt;
+&lt;li&gt;Participar das cerimônias junto com os demais integrantes da equipe.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Requisitos:&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Experiência com Java 17 (11, 8), Spring Boot e Hibernate;&lt;/li&gt;
+&lt;li&gt;Experiência com NodeJS + NestJS;&lt;/li&gt;
+&lt;li&gt;Experiência Bancos de Dados (SQL e NoSQL), Oracle , MongoDB, RDS;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Compreensão e entendimento de arquitetura de microsserviços;&lt;/li&gt;
+&lt;li&gt;Experiência com Design de APIs REST;&lt;/li&gt;
+&lt;li&gt;Experiência com Testes Unitários (jUnit 5), Integração e Contrato;&lt;/li&gt;
+&lt;li&gt;Experiência com Axway - API Gateway;&lt;/li&gt;
+&lt;li&gt;Experiência com Git e Versionamento de Código;&lt;/li&gt;
+&lt;li&gt;Experiência com comunicação por mensageria (RabbitMQ e SQS);&lt;/li&gt;
+&lt;li&gt;Experiência com Grafana e Dynatrace;&lt;/li&gt;
+&lt;li&gt;Conhecimento de Clean Code, Clean Architecture e Modularização;&lt;/li&gt;
+&lt;li&gt;Boas práticas de código, documentação e desenvolvimento de telas e componentes;&lt;/li&gt;
+&lt;li&gt;Experiência com em metodologias ágeis;&lt;/li&gt;
+&lt;li&gt;Experiência com Selenium + Cucumber ou framework&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&amp;nbsp;&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;Benefícios e Incentivos:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Nossa contratação é CLT- 40h semanais com jornada flexível, sendo executada 100% de forma remota. Os benefícios da ília são pensados para proporcionar uma experiência AWESOME para cada ílian, abaixo você encontra os benefícios de forma resumida.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Para Saúde e bem-estar:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plano de Saúde e Odontológico SulAmérica extensivo a dependentes;&lt;/li&gt;
+&lt;li&gt;Vale Alimentação/Refeição em cartão fléxivel Picpay benefíciosSeguro de Vida;&lt;/li&gt;
+&lt;li&gt;Auxílio Home-Office em cartão fléxivel Picpay benefícios;&lt;/li&gt;
+&lt;li&gt;Wellhub (Gympass);&lt;/li&gt;
+&lt;li&gt;TotalPass.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Para o seu Desenvolvimento:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ília University: Universidade Corporativa com mais de 20 mil cursos disponíveis para desenvolvimento pessoal e profissional;&lt;/li&gt;
+&lt;li&gt;Language Academy: Escola de idiomas para ílians;&lt;/li&gt;
+&lt;li&gt;í-talks e Chapter: Momentos e cerimônias em que o time compartilha práticas, estudos, projetos e ideias. Nas chapters ainda se reúnem pessoas com skills similares para compartilhamento de ideias, práticas e experiências;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Gostamos de ir além no cuidado com as nossas pessoas, então dispomos também de alguns benefícios não convencionais:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plano de Saúde PET - Guapeco;&lt;/li&gt;
+&lt;li&gt;Seu Niver, seu bolo!&lt;/li&gt;
+&lt;li&gt;Seu Networking Vale Prêmio -&amp;nbsp;Programa de premiação a indicação de novos funcionários.&lt;/li&gt;
+&lt;/ul&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1533245276764372993/AtyqkzHz_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Primer</h5>
+                    <h3>Full Stack Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.ashbyhq.com/primer.io/ab16c1c4-c81b-4b8e-bc2d-9d9a2ef12a2c" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height:1.5em"><strong>An Introduction to Primer</strong></p><p style="min-height:1.5em">The 21st century has witnessed remarkable expansion within the payments ecosystem with the introduction of new payment services, growth in cross-border commerce, and the development of multi-payment processor payment strategies.</p><p style="min-height:1.5em">The bottom line is that payment is no longer just another step in the purchasing funnel but a strategic asset that can drive business growth and innovation.</p><p style="min-height:1.5em">Enter Primer - the world's first unified payment infrastructure, empowering businesses worldwide to unleash their payment potential. By choosing our platform, merchants can take control over their payment stack, create unique commerce experiences, accelerate their roadmap and increase payment success.</p><p style="min-height:1.5em">Primer's enterprise-grade infrastructure, frameworks, and tooling allow merchants to unify their disparate payment solutions and services to build optimised payment flows tailored to their unique business needs with no code or additional complexity. We strive to make something complex incredibly simple and intuitive.</p><p style="min-height:1.5em">Our success so far has been reflected in the trust placed in us by category leaders such as Printify, NewLook, Voi, and Dabble, who are using Primer to transform their payments into a growth lever. Moreover, the world's top investors, including Accel, Balderton, Iconiq, and Tencent, have also invested in Primer's vision to rebuild payments and commerce from the ground up.</p><p style="min-height:1.5em">Join us in shaping the future of payments and commerce. Let's pave the way for a world where businesses can fully realise their payment potential.<br /><br /><strong>Our engineering teams work fully remotely across Europe but we are focusing our hiring strategy on these locations: UK </strong>🇬🇧<strong>, Hungary </strong>🇭🇺<strong>, Romania </strong>🇷🇴<strong>, Serbia </strong>🇷🇸<strong>, Turkey </strong>🇹🇷<strong>, Bosnia </strong>🇧🇦<strong>, and Greece </strong>🇬🇷<strong>.</strong></p><p style="min-height:1.5em"><strong>Unfortunately we are unable to offer VISA sponsorships or relocation packages at this time.</strong></p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What will the role involve?</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Improve and optimize fallback mechanisms to ensure seamless payment processing.</p></li><li><p style="min-height:1.5em">Enhance reliability by implementing smart routing and failover strategies.</p></li><li><p style="min-height:1.5em">Redesign data pipelines to improve monitoring, tracking, and real-time insights.</p></li><li><p style="min-height:1.5em">Ensure data accuracy and integrity across payment systems.</p></li><li><p style="min-height:1.5em">Build and refine an <strong>A/B testing framework</strong> to test different payment flows.</p></li><li><p style="min-height:1.5em">Develop <strong>if X, then Y</strong> decision-based logic to optimize transaction success rates.</p></li><li><p style="min-height:1.5em">Enable rapid iteration and data-driven improvements in the payments experience.</p></li></ul><p style="min-height:1.5em"><strong>What are we looking for?</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">A <strong>Full-Stack Developer</strong> with a strong focus on <strong>Frontend development</strong> (JavaScript/TypeScript + React).</p></li><li><p style="min-height:1.5em">Someone comfortable working across the stack, with <strong>some backend experience (Python preferred)</strong> but primarily frontend-heavy.</p></li><li><p style="min-height:1.5em">Experience with <strong>testing frameworks</strong> and a good approach to writing testable, maintainable code.</p></li><li><p style="min-height:1.5em">Be willing to set goals, success metrics, driving and setting up sprints and driving refinement sessions of the tickets and driving delivery side on a day to day basis.</p></li><li><p style="min-height:1.5em">In-depth understanding of the entire development process (design, development and deployment)</p></li><li><p style="min-height:1.5em">Highly motivated self-starter who values autonomy and getting things done</p></li><li><p style="min-height:1.5em">Excellent verbal and written communication skills</p></li><li><p style="min-height:1.5em">Experience working in a fast-paced environment.<br /><br /><strong>Our interview process</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">30 minute call with a Talent Partner</p></li><li><p style="min-height:1.5em">45 minute interview with an Engineering Manager</p></li><li><p style="min-height:1.5em">90 minute pair programming interview</p></li><li><p style="min-height:1.5em">60 minute systems design interview</p></li><li><p style="min-height:1.5em">60 minute final stage culture interview</p></li></ul></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What’s the culture like at Primer?</strong></p><p style="min-height:1.5em">We’re building a culture where people can come and do their best work and enjoy it. We want our people to be proud of the impact that they have at Primer, and of the work that they are doing. You will be working with a team of people who are mission-driven, smart, and reflective, and who are invested in building exceptional products and delivering success for our merchants <em>(and we also know how to have fun along the way).</em></p><p style="min-height:1.5em">We work remotely. We believe that building a successful, profitable company goes beyond proximity. We invest in our relationships with each other through great remote working practices and thoughtfully designed face-to-face time together. Our heads-together time comes in the form of workstations, our annual company retreat, and co-working space access worldwide.</p><p style="min-height:1.5em">Finally, let’s go ahead and say it. The work that we do is challenging. Startups are a challenge, building category defining products is a challenge. You should be prepared for a challenge at Primer. But, there’s a big difference between a challenge and a struggle. The key difference is that the right challenge comes with the right support structures, an acceptance that not everything always goes to plan, a collaborative environment, and a great team around you. It’s never a challenge that you will face alone.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Our benefits:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">We are fully remote</p></li><li><p style="min-height:1.5em">Competitive share options</p></li><li><p style="min-height:1.5em">Uncapped holiday, with 25 days minimum to be taken</p></li><li><p style="min-height:1.5em">Co-working space access</p></li><li><p style="min-height:1.5em">Workations &amp; company retreat</p></li><li><p style="min-height:1.5em">The best equipment for your role</p></li><li><p style="min-height:1.5em">£500 towards your home office setup</p></li><li><p style="min-height:1.5em">Generous learning budget</p></li><li><p style="min-height:1.5em">Medical insurance</p></li><li><p style="min-height:1.5em">A broad set of additional perks and benefits (<em>depending on location)</em></p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Don’t meet every single requirement?</strong></p><p style="min-height:1.5em">At Primer, we’re dedicated to building a diverse, inclusive, and authentic workplace. If you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply. You may be the right candidate for this or other roles. Primer is committed to the equal treatment of all current and prospective employees, regardless of background or beliefs—see our diversity commitment statement for more details</p><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.notion.so/Equity-diversity-inclusion-and-belonging-policy-7904d43d137848fda9cdc19772e43cec?pvs=21"><strong>Equity, diversity, inclusion and belonging policy</strong></a></p><p style="min-height:1.5em">Primer adopts a zero-tolerance approach to discrimination.</p><p style="min-height:1.5em">We are committed to providing equal opportunities to all current and prospective employees regardless of age, disability, sex, sexual orientation, pregnancy and maternity, race or ethnicity, religion or belief, gender identity, or marriage and civil partnership.</p>
+                </details>
+                </td>
             </tr></table>
