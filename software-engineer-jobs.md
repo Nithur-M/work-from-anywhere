@@ -1,92 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1980741/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>DNSfilter</h5>
-                    <h3>Senior Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>AWS,git,go,saas</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1980741" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class='"content-intro"'>
-<p>At DNSFilter we are making workplaces more secure through protective DNS and advanced content filtering—and we need your help! We’ve come a long way over the past few years. In 2021 we had a successful $30 million Series A funding round, in 2022 we became the fastest DNS security tool on the planet and acquired the privacy-focused VPN Guardian, and in 2023 we extended our Series A by $15M and added more global points of presence to our anycast network! </p>
-<p>As we continue our product-fueled growth by adding new features and broadening our solution to meet the needs of the global market, it's clear there's a missing piece. That's where you come in!</p>
-</div>
-<p>We are looking for a Senior Software Engineer specializing in Go development. As a Senior Software Engineer, you will work as part of the team building the query processor servicing all the incoming traffic requests. Our query processors serve billions of DNS requests daily, playing a core role in our product.</p>
-<p>Eligible candidates have and can work successfully in a remote environment and are familiar with working in a fast-paced hyper-growth SaaS start-up. This is a full-time remote role working with globally distributed teams. It is open to candidates anywhere in the United States and Canada who can work ET hours M-F.</p>
-<p>We recognize that people come with a wealth of experience and talent beyond just the technical requirements of a job. If you feel like this job is for you, please apply. We believe diversity of experience and skills, including transferable skills, combined with passion is a key to innovation and excellence; therefore we encourage people from all backgrounds to apply to our positions!</p>
-<p> </p>
-<p><strong>At DNSFilter You Will: </strong></p>
-<ul style="">
-<li style="">Be a key member of the Engineering team</li>
-<li style="">Build, modify and support applications implemented using languages such as Go &amp; Shell.</li>
-<li style="">You will collaborate with cross-functional teams to define, design, and ship new features</li>
-<li style="">You will contribute to the improvement of the development and deployment processes, ensuring that we continuously evolve to be better</li>
-<li style="">You will demonstrate strong ownership of your projects to their delivery</li>
-<li style="">Optimize software applications for maximum performance and efficiency, taking advantage of Go's concurrency capabilities, focusing on scalability and reliability</li>
-</ul>
-<p><strong><br>Requirements: </strong></p>
-<ul style="">
-<li style="">5+ years of recent experience as a Software Engineer developing and maintaining applications in Go</li>
-<li style="">Experience working at a fast-paced hypergrowth SaaS company</li>
-<li style="">Developed and maintained robust and scalable software solutions using the Go programming language, focusing on performance and reliability.</li>
-<li style="">Strong experience and understanding of building highly resilient distributed systems and ensuring they have at least 5 9s uptime</li>
-<li style="">Experience working with the open telemetry stack, including Prometheus</li>
-<li style="">Knowledge of networking fundamentals and beyond (TCP/IP, DNS, HTTP/S)</li>
-<li style="">Experience using Git or other code versioning tools</li>
-<li style="">Knowledge and experience in all aspects of SDLC</li>
-<li style="">Working knowledge of AWS and EKS</li>
-<li style="">Experience working remotely under minimal supervision</li>
-<li style="">Passion for product quality and attention to details</li>
-<li style="">A strong commitment to collaborative work in a remote environment</li>
-<li style="">The ability to keep work hours that overlap with 8 am - 12 pm EST timezone, M-F</li>
-</ul>
-<p><strong>Bonus points for: </strong></p>
-<ul style="">
-<li style="">Knowledge of other programming languages</li>
-<li style="">Knowledge of continuous integration systems, including GitHub workflows and Makefiles</li>
-<li style="">Experience with Kafka, Redis, and Relational databases</li>
-</ul>
-<div class='"content-pay-transparency"'>
-<div class='"pay-input"'>
-<div class='"title"'>U.S. hiring salary range</div>
-<div class='"pay-range"'>$135,000<span class='"divider"'>—</span>$170,000 USD</div>
-</div>
-</div>
-<div class='"content-conclusion"'>
-<p><strong>We Offer:</strong></p>
-<ul style="">
-<li style="">A 100% work-from-home position with a company that values and fosters personal and professional growth</li>
-<li style="">Pathway to promotion to additional organizational positions and responsibilities based upon results and performance - not just time in the chair.  You help us grow, we will help you grow.</li>
-<li style="">Passionate and intelligent colleagues who work hard and have a good time doing it</li>
-<li style="">Flexible Fridays</li>
-<li style="">Paid company-wide week off at the end of each year</li>
-<li style="">Flexible Vacation policy</li>
-<li style="">Awesome company swag</li>
-<li style="">Home office buildout allowance</li>
-<li style="">Medical, dental, and vision benefits for US, UK, and Canada based employees</li>
-<li style="">Full short-term disability and life benefits; available long-term disability</li>
-<li style="">Retirement savings account options with vested company matching for qualifying employees</li>
-<li style="">In-person annual gatherings. Last time we all spent a week on a beach in Cancun!</li>
-</ul>
-<p><em>DNSFilter is a pay for performance organization, which means there is the opportunity to advance your compensation with performance over time. The hiring base pay is dependent upon many factors such as level, function, training, transferable skills, work experience, business needs, and/or geographic location. As a fully remote company, our compensation reflects the cost of labor across several U.S. and global geographic markets. We pay differently based on those defined markets. Our Talent Team can share more about the specific salary range for the job location during the hiring process.<br><br><strong>At DNSFilter, we utilize sophisticated software and tools to identify and eliminate Deepfake candidates. This approach helps us maintain the integrity of our hiring process, ensuring that we select the most qualified and genuine individuals to join our team.</strong><br></em></p>
-</div>
-<img src="https://remotive.com/job/track/1980741/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/3979584?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -2311,7 +2224,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p style="min-height:1.5em"><strong>Who we are:</strong></p><p style="min-height:1.5em">We are a leader in fraud prevention and AML compliance. Our platform uses device intelligence, behavior biometrics, machine learning, and AI to stop fraud before it happens. Today, over 300 banks, retailers, and fintechs worldwide use Sardine to stop identity fraud, payment fraud, account takeovers, and social engineering scams. We have raised $145M from world-class investors, including Andreessen Horowitz, Activant, Visa, Experian, FIS, and Google Ventures.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Our culture:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">We have hubs in the Bay Area, NYC, Austin, and Toronto. However, we maintain a remote-first work culture. #WorkFromAnywhere</p></li><li><p style="min-height:1.5em">We hire talented, self-motivated individuals with extreme ownership and high growth orientation. </p></li><li><p style="min-height:1.5em">We value performance and not hours worked. We believe you shouldn't have to miss your family dinner, your kid's school play, friends get-together, or doctor's appointments for the sake of adhering to an arbitrary work schedule.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>About the role:</strong></p><p style="min-height:1.5em">We’re looking for a full-stack software engineer who’s excited to bring AI-powered products to life. You’ll work across backend and frontend systems to help evolve our platform and integrate AI into real customer-facing features.</p><p style="min-height:1.5em">This is a high-impact role where you’ll take ownership of complex problems, collaborate closely with the team, and help build AI agents already used by customers. Your work will directly help clients safeguard their assets and protect against malicious threats and fraudsters.</p><p style="min-height:1.5em">We’re looking for someone who thrives in a fast-paced, evolving environment. You’ll have the independence to drive projects forward and the ownership to shape solutions from start to finish. Your intense curiosity and eagerness to explore new technologies will be instrumental in safeguarding our clients' assets against malicious threats and fraudsters.</p><p style="min-height:1.5em">If you love building meaningful products, enjoy solving open-ended problems, and want to work at the forefront of AI, we’d love to hear from you.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What you’ll be doing:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Design, build, and maintain robust full-stack applications that power AI-driven products.</p></li><li><p style="min-height:1.5em">Work closely with AI and product teams to integrate AI directly into customer-facing applications.</p></li><li><p style="min-height:1.5em">Troubleshoot production issues, including running SQL queries and validating datasets.</p></li><li><p style="min-height:1.5em">Own projects from idea to launch, helping shape product direction along the way.</p></li><li><p style="min-height:1.5em">Collaborate with a cross-functional team of designers, engineers, and product leaders.</p></li><li><p style="min-height:1.5em">Stay curious, keep up with the latest AI developments, and bring fresh ideas to the team.</p><p style="min-height:1.5em"></p></li></ul><p style="min-height:1.5em"><strong>What you’ll need:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">5+ years of full-stack engineering experience, with strong backend focus and production-level frontend development.</p></li><li><p style="min-height:1.5em">Solid experience with backend language (we use Go and Python) and modern frontend frameworks, React + TypeScript.</p></li><li><p style="min-height:1.5em">Comfortable working with SQL and relational databases to troubleshoot and validate data.</p></li><li><p style="min-height:1.5em">Proven ability to solve complex, open-ended problems independently.</p></li><li><p style="min-height:1.5em">Genuine curiosity and excitement for AI, with a strong desire to learn and grow in this space.</p></li><li><p style="min-height:1.5em">Strong communication and collaboration skills, with a track record of working effectively in globally distributed remote cross-functional teams.</p></li><li><p style="min-height:1.5em">Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent practical experience.</p><p style="min-height:1.5em"></p></li></ul><p style="min-height:1.5em"><strong>Nice to Haves:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Experience in fraud, risk, or compliance domains is a significant plus.</p></li><li><p style="min-height:1.5em">Demonstrated ability to implement solutions that reduce operational inefficiencies while enhancing security and protection against potential threats.</p></li><li><p style="min-height:1.5em">Experience with version control systems, CI/CD pipelines, and cloud platforms (AWS, GCP, or Azure) is a plus.</p></li><li><p style="min-height:1.5em">Demonstrated ability to leverage large language models for innovative product development.</p></li></ul><p style="min-height:1.5em"><strong>Compensation:</strong> Base pay range of $170,000 - $220,000 + equity with tremendous upside potential + Attractive benefits. </p><p style="min-height:1.5em"></p><p style="min-height:1.5em">The compensation offered for this role will depend on various factors, including the candidate's location, qualifications, work history, and interview performance, and may differ from the stated range.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Benefits we offer:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Generous compensation in cash and equity</p></li><li><p style="min-height:1.5em">Early exercise for all options, including pre-vested</p></li><li><p style="min-height:1.5em">Work from anywhere: Remote-first Culture</p></li><li><p style="min-height:1.5em">Flexible paid time off, Year-end break, Self care days off</p></li><li><p style="min-height:1.5em">Health insurance, dental, and vision coverage for employees and dependents - <em>US and Canada specific</em></p></li><li><p style="min-height:1.5em">4% matching in 401k / RRSP - <em>US and Canada specific</em></p></li><li><p style="min-height:1.5em">MacBook Pro delivered to your door</p></li><li><p style="min-height:1.5em">One-time stipend to set up a home office — desk, chair, screen, etc.</p></li><li><p style="min-height:1.5em">Monthly meal stipend</p></li><li><p style="min-height:1.5em">Monthly social meet-up stipend</p></li><li><p style="min-height:1.5em">Annual health and wellness stipend</p></li><li><p style="min-height:1.5em">Annual Learning stipend</p></li><li><p style="min-height:1.5em">Unlimited access to an expert financial advisory</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em">Join a fast-growing company with world-class professionals from around the world. If you are seeking a meaningful career, you found the right place, and we would love to hear from you.</p>
+                <p style="min-height:1.5em"><strong>Who we are:</strong></p><p style="min-height:1.5em">We are a leader in fraud prevention and AML compliance. Our platform uses device intelligence, behavior biometrics, machine learning, and AI to stop fraud before it happens. Today, over 300 banks, retailers, and fintechs worldwide use Sardine to stop identity fraud, payment fraud, account takeovers, and social engineering scams. We have raised $145M from world-class investors, including Andreessen Horowitz, Activant, Visa, Experian, FIS, and Google Ventures.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Our culture:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">We have hubs in the Bay Area, NYC, Austin, and Toronto. However, we maintain a remote-first work culture. #WorkFromAnywhere</p></li><li><p style="min-height:1.5em">We hire talented, self-motivated individuals with extreme ownership and high growth orientation. </p></li><li><p style="min-height:1.5em">We value performance and not hours worked. We believe you shouldn't have to miss your family dinner, your kid's school play, friends get-together, or doctor's appointments for the sake of adhering to an arbitrary work schedule.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>About the role:</strong></p><p style="min-height:1.5em">We’re looking for a full-stack software engineer who’s excited to bring AI-powered products to life. You’ll work across backend and frontend systems to help evolve our platform and integrate AI into real customer-facing features.</p><p style="min-height:1.5em">This is a high-impact role where you’ll take ownership of complex problems, collaborate closely with the team, and help build AI agents already used by customers. Your work will directly help clients safeguard their assets and protect against malicious threats and fraudsters.</p><p style="min-height:1.5em">We’re looking for someone who thrives in a fast-paced, evolving environment. You’ll have the independence to drive projects forward and the ownership to shape solutions from start to finish. Your intense curiosity and eagerness to explore new technologies will be instrumental in safeguarding our clients' assets against malicious threats and fraudsters.</p><p style="min-height:1.5em">If you love building meaningful products, enjoy solving open-ended problems, and want to work at the forefront of AI, we’d love to hear from you.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What you’ll be doing:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Design, build, and maintain robust full-stack applications that power AI-driven products.</p></li><li><p style="min-height:1.5em">Work closely with AI and product teams to integrate AI directly into customer-facing applications.</p></li><li><p style="min-height:1.5em">Troubleshoot production issues, including running SQL queries and validating datasets.</p></li><li><p style="min-height:1.5em">Own projects from idea to launch, helping shape product direction along the way.</p></li><li><p style="min-height:1.5em">Collaborate with a cross-functional team of designers, engineers, and product leaders.</p></li><li><p style="min-height:1.5em">Stay curious, keep up with the latest AI developments, and bring fresh ideas to the team.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What you’ll need:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">5+ years of full-stack engineering experience, with strong backend focus and production-level frontend development.</p></li><li><p style="min-height:1.5em">Solid experience with backend language (we use Go and Python) and modern frontend frameworks, React + TypeScript.</p></li><li><p style="min-height:1.5em">Comfortable working with SQL and relational databases to troubleshoot and validate data.</p></li><li><p style="min-height:1.5em">Proven ability to solve complex, open-ended problems independently.</p></li><li><p style="min-height:1.5em">Genuine curiosity and excitement for AI, with a strong desire to learn and grow in this space.</p></li><li><p style="min-height:1.5em">Strong communication and collaboration skills, with a track record of working effectively in globally distributed remote cross-functional teams.</p></li><li><p style="min-height:1.5em">Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent practical experience.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Nice to Haves:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Experience in fraud, risk, or compliance domains is a significant plus.</p></li><li><p style="min-height:1.5em">Demonstrated ability to implement solutions that reduce operational inefficiencies while enhancing security and protection against potential threats.</p></li><li><p style="min-height:1.5em">Experience with version control systems, CI/CD pipelines, and cloud platforms (AWS, GCP, or Azure) is a plus.</p></li><li><p style="min-height:1.5em">Demonstrated ability to leverage large language models for innovative product development.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Compensation:</strong> Base pay range of $160,000 - $200,000 + equity with tremendous upside potential + Attractive benefits. </p><p style="min-height:1.5em"></p><p style="min-height:1.5em">The compensation offered for this role will depend on various factors, including the candidate's location, qualifications, work history, and interview performance, and may differ from the stated range.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Benefits we offer:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Generous compensation in cash and equity</p></li><li><p style="min-height:1.5em">Early exercise for all options, including pre-vested</p></li><li><p style="min-height:1.5em">Work from anywhere: Remote-first Culture</p></li><li><p style="min-height:1.5em">Flexible paid time off, Year-end break, Self care days off</p></li><li><p style="min-height:1.5em">Health insurance, dental, and vision coverage for employees and dependents - <em>US and Canada specific</em></p></li><li><p style="min-height:1.5em">4% matching in 401k / RRSP - <em>US and Canada specific</em></p></li><li><p style="min-height:1.5em">MacBook Pro delivered to your door</p></li><li><p style="min-height:1.5em">One-time stipend to set up a home office — desk, chair, screen, etc.</p></li><li><p style="min-height:1.5em">Monthly meal stipend</p></li><li><p style="min-height:1.5em">Monthly social meet-up stipend</p></li><li><p style="min-height:1.5em">Annual health and wellness stipend</p></li><li><p style="min-height:1.5em">Annual Learning stipend</p></li><li><p style="min-height:1.5em">Unlimited access to an expert financial advisory</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em">Join a fast-growing company with world-class professionals from around the world. If you are seeking a meaningful career, you found the right place, and we would love to hear from you.</p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -2622,6 +2535,85 @@
 &lt;li&gt;Experiência trabalhando com AWS&lt;/li&gt;
 &lt;li&gt;Experiência com aplicações web de alto tráfego&lt;/li&gt;
 &lt;li&gt;Compreensão de design de sistemas, estruturas de dados e algoritmos, além de experiência na criação e avaliação de documentos técnicos de design&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Diferenciais:&amp;nbsp;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Experiência trabalhando com equipes full-stack que suportam uma fatia vertical do produto&lt;/li&gt;
+&lt;li&gt;Experiência na construção de APIs REST backend usando Golang&lt;/li&gt;
+&lt;li&gt;Familiaridade com as melhores práticas de SRE (como SLOs, KPIs, post-mortems, gerenciamento de incidentes, redução de toil, etc.)&lt;/li&gt;
+&lt;li&gt;Compreensão de metodologias ágeis (preferencialmente Scrum) e disposição para adaptar e definir processos de desenvolvimento de software&lt;/li&gt;
+&lt;li&gt;Experiência na definição de roadmaps técnicos e iniciativas, além de liderança em guildas entre equipes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Benefícios e Incentivos:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Nossa contratação é CLT- 40h semanais com jornada flexível, sendo executada 100% de forma remota. Os benefícios da ília são pensados para proporcionar uma experiência AWESOME para cada ílian, abaixo você encontra os benefícios de forma resumida. #vempraília&lt;/p&gt;
+&lt;p&gt;Para Saúde e bem-estar:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plano de Saúde e Odontológico SulAmérica extensivo a dependentes;&lt;/li&gt;
+&lt;li&gt;Vale Alimentação/Refeição em cartão fléxivel Picpay benefícios&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Seguro de Vida;&lt;/li&gt;
+&lt;li&gt;Auxílio Home-Office em cartão fléxivel Picpay benefícios;&lt;/li&gt;
+&lt;li&gt;Wellhub (Gympass)&lt;/li&gt;
+&lt;li&gt;TotalPass&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Para o seu Desenvolvimento:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ília University: Universidade Corporativa com mais de 20 mil cursos disponíveis para desenvolvimento pessoal e profissional;&lt;/li&gt;
+&lt;li&gt;Language Academy: Escola de idiomas para ílians;&lt;/li&gt;
+&lt;li&gt;í-talks e Chapter: Momentos e cerimônias em que o time compartilha práticas, estudos, projetos e ideias. Nas chapters ainda se reúnem pessoas com skills similares para compartilhamento de ideias, práticas e experiências;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Gostamos de ir além no cuidado com as nossas pessoas, então dispomos também de alguns benefícios não convencionais:&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plano de Saúde PET- Guapeco&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;BYOD- Alugamos o seu notebook pessoal te pagando um valor mensal para que você o use, mas disponibilizamos também máquinas de trabalho para ílians. Você quem decide!&lt;/li&gt;
+&lt;li&gt;Seu Niver, seu bolo!&lt;/li&gt;
+&lt;li&gt;Seu Networking Vale Prêmio- Programa de premiação a indicação de novos funcionários.&lt;/li&gt;
+&lt;/ul&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/35933823?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ília</h5>
+                    <h3>SR Software Engineer (Node.js and React) | Afirmativa para Pessoas com Deficiência (PCD) </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/ilia/jobs/5470798004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;&lt;strong data-start=&quot;478&quot; data-end=&quot;554&quot;&gt;Essa é uma vaga afirmativa exclusiva para pessoas com deficiência (PCD).&lt;/strong&gt; Aqui na ília, valorizamos a diversidade e acreditamos no poder da inclusão para construir times mais fortes e inovadores. Estamos comprometidos em criar um ambiente acessível, acolhedor e respeitoso para todas as pessoas.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Sobre a ília&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Somos especialistas em tecnologia, dados e design, impulsionando a transformação digital de grandes players do mercado há mais de 10 anos, nos setores financeiro, seguros e mobilidade. Com mais de 450 profissionais, estamos presentes no Brasil e Europa, atendendo aos mercados da América Latina, Europa e América do Norte, desenvolvendo produtos digitais de alta qualidade e com foco em resultados de negócios. Somos uma equipe inovadora, criativa e apaixonada por tecnologia.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Certificada pelo 5° ano consecutivo como Great Place to work aqui na ília acreditamos que pessoas mudam o mundo, e investimos nelas. Nossas awesome deliveries são feitas de pessoas para pessoas, afinal awesome people make awesome deliveries!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;#Vempraília!&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Sobre a vaga:&lt;br&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Como FullStack, você será um membro fundamental de uma equipe de engenharia fullstack e multifuncional. Você colaborará com líderes de Engenharia, Design, Produto, QA e equipes de negócios para desenvolver e entregar soluções de software de alta qualidade, escaláveis e flexíveis. Além disso, terá a oportunidade de orientar engenheiros de nível júnior a pleno.&lt;/p&gt;
+&lt;p&gt;Nosso objetivo é fomentar uma cultura de Engenharia que valoriza equipes de desenvolvimento full stack, capacitando-as a tomar o máximo de decisões possível sobre sua direção técnica e processos.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Requisitos:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Disponibilidade para trabalhar no horário EST&lt;/li&gt;
+&lt;li&gt;Inglês Avançado para conversação, leitura e escrita.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Experiência profissional trabalhando em equipes de engenharia de software&lt;/li&gt;
+&lt;li&gt;5+ anos de experiência relevante em desenvolvimento web full-stack em produção, utilizando NodeJS/Typescript e React&lt;/li&gt;
+&lt;li&gt;Histórico de sucesso na execução de projetos&lt;/li&gt;
+&lt;li&gt;Experiência em dividir requisitos de produto em tarefas de engenharia gerenciáveis e trabalhar com a equipe para concluí-las&lt;/li&gt;
+&lt;li&gt;Disposição para transformar necessidades e problemas de negócios abstratos em tarefas concretas, em colaboração com os times de produto e engenharia&lt;/li&gt;
+&lt;li&gt;Disposição para defender as necessidades da equipe e se envolver em decisões estratégicas&lt;/li&gt;
+&lt;li&gt;Experiência sólida com tecnologias de API&lt;/li&gt;
+&lt;li&gt;Experiência sólida com tecnologias RDBMS&lt;/li&gt;
+&lt;li&gt;Experiência trabalhando com AWS&lt;/li&gt;
+&lt;li&gt;Experiência com aplicações web de alto tráfego&lt;/li&gt;
+&lt;li&gt;Compreensão de design de sistemas, estruturas de dados e algoritmos, além de experiência na criação e avaliação de documentos técnicos de design&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Diferenciais:&amp;nbsp;&lt;/h3&gt;
 &lt;ul&gt;
