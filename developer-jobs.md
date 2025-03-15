@@ -1,5 +1,78 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1984510/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Tether</h5>
+                    <h3>Senior Backend Developer (Node.js)</h3>
+                </td>
+                <td width="300">
+                    <code>backend,C++,javascript,mongoDB</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-node-js-1984510" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="sc-1fwbcuw-0 khAsaN"></p><p></p><p><strong><em>Join Tether and Shape the Future of Digital Finance</em></strong><br>At
+ Tether, we’re not just building products, we’re pioneering a global 
+financial revolution. Our cutting-edge solutions empower businesses—from
+ exchanges and wallets to payment processors and ATMs—to seamlessly 
+integrate reserve-backed tokens across blockchains. By harnessing the 
+power of blockchain technology, Tether enables you to store, send, and 
+receive digital tokens instantly, securely, and globally, all at a 
+fraction of the cost. Transparency is the bedrock of everything we do, 
+ensuring trust in every transaction.</p><p><strong><em><br></em></strong></p><p><strong><em>Innovate with Tether</em></strong><br><strong>Tether Finance: </strong>Our innovative product suite features the world’s most trusted stablecoin, <strong>USDT</strong>, relied upon by hundreds of millions worldwide, alongside pioneering digital asset tokenization services.<br>But that’s just the beginning:<strong><br></strong></p><p><strong>Tether Power: </strong>Driving
+ sustainable growth, our energy solutions optimize excess power for 
+Bitcoin mining using eco-friendly practices in state-of-the-art, 
+geo-diverse facilities.<br><strong>Tether Data: </strong>Fueling 
+breakthroughs in AI and peer-to-peer technology, we reduce 
+infrastructure costs and enhance global communications with cutting-edge
+ solutions like <strong>KEET</strong>, our flagship app that redefines secure and private data sharing.<br><strong>Tether Education</strong>:
+ Democratizing access to top-tier digital learning, we empower 
+individuals to thrive in the digital and gig economies, driving global 
+growth and opportunity.<br><strong>Tether Evolution</strong>: At the 
+intersection of technology and human potential, we are pushing the 
+boundaries of what is possible, crafting a future where innovation and 
+human capabilities merge in powerful, unprecedented ways.<strong><em><br></em></strong></p>
+<p><strong><em>Why Join Us?</em></strong><br>Our team is a global talent
+ powerhouse, working remotely from every corner of the world. If you’re 
+passionate about making a mark in the fintech space, this is your 
+opportunity to collaborate with some of the brightest minds, pushing 
+boundaries and setting new standards. We’ve grown fast, stayed lean, and
+ secured our place as a leader in the industry.<br>If you have excellent
+ English communication skills and are ready to contribute to the most 
+innovative platform on the planet, Tether is the place for you.<br>Are you ready to be part of the future?</p>
+<p dir="ltr"><strong><br>About the job</strong><br></p>
+<p dir="ltr">As a <strong>Senior Backend Developer,</strong> you will be a part of the team that works on the development of Tether backend components.</p><p dir="ltr"><br></p>
+<p dir="ltr"><strong>New Products and Features -</strong> Tether 
+continuously strives to create innovative new features in order to 
+provide the most professional trading experience for customers. These 
+are developed and deployed using agile methodologies, to ensure the user
+ experience remains the best in the industry.</p>
+<p dir="ltr"><br></p>
+<p dir="ltr"><strong>Scalability </strong>- all backend services that 
+power Tether must remain effortlessly smooth, responsive, and real-time 
+for customers as the platform continues to scale to accommodate new user
+ growth.</p>
+<p dir="ltr"><br></p>
+<p dir="ltr"><strong>Security -</strong> Security is the most important 
+feature. The Backend Development team is responsible for building all 
+the services and core processes with the highest security principles and
+ standard, in order to protect the safety of the entire user base.<br><br></p><div class="h2">Job requirements</div><p class="sc-1fwbcuw-0 khAsaN"></p><p></p><ul style=""><li dir="ltr" style=""><p dir="ltr">+6 years of experience working with Nodejs/JavaScript.</p></li><li dir="ltr" style=""><p dir="ltr">Familiar with microservices architecture</p></li><li dir="ltr" style=""><p dir="ltr">Have actively participated in the development of a complex platform</p></li><li dir="ltr" style=""><p dir="ltr">Familiar with Peer-to-Peer technologies</p></li><li dir="ltr" style=""><p dir="ltr">Good experience in interacting with databases (MySQL, MongoDB)</p></li><li dir="ltr" style=""><p dir="ltr">Ability to quickly learn new technologies</p></li><li dir="ltr" style=""><p dir="ltr">Good understanding of security practices</p></li></ul>
+<p><br></p>
+<div class="h4" dir="ltr"><strong>Nice to have</strong></div>
+<ul style=""><li dir="ltr" style=""><p dir="ltr">Experience with blockchain integration</p></li><li dir="ltr" style=""><p dir="ltr">Comfortable with high-availability concepts</p></li><li dir="ltr" style=""><p dir="ltr">Ruby, Rust or C++ skills are a plus</p></li><li dir="ltr" style=""><p dir="ltr">Other technologies of interest: Message queues (Redis), Caches and Job Queues</p></li></ul><p><br></p>
+<img src="https://remotive.com/job/track/1984510/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1983726/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +83,7 @@
                     <code>.Net,api,backend,C</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-typescript-1983726" align="right" target="_blank">Apply</a>
@@ -843,6 +916,126 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p><strong>Imunify360 Security Suite is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers.</strong> Imunify is an innovative security solution designed specifically for shared and VPS/Dedicated servers. The automated, easy-to-use solution with the six-layer approach to security delivers comprehensive and complete attack prevention. Check out our website for more information about our Imunify Product: <a href="https://www.imunify360.com/." target="_blank" rel="nofollow noreferrer noopener" class="external">https://www.imunify360.com/</a><strong>.</strong></p><p><strong>Our growing Imunify Team is looking for a skilled Senior Python Developer with a solid background in security. Be at the forefront of AI-driven cybersecurity, tackling sophisticated threats like malware and web shell attacks while safeguarding millions of servers worldwide.</strong> The position is fully remote with flexible hours, allowing you to plan your day and work from anywhere in the world. Join us and take your career to the next level!</p><p></p><p><strong>As a Python Developer on the Imunify Team, you will:</strong></p><ul> <li>Design and implement malware detection and remediation systems</li> <li>Develop high-performance, scalable code for processing large datasets efficiently</li> <li>Contribute to architectural decisions and maintaintechnical documentation</li> <li>Participate in brainstorming sessions and actively contribute to the team’s development backlog</li> <li> Analyze and prioritize data to streamline development efforts</li> <li>Troubleshoot and resolve issues reported by clients, partners, and support teams </li> </ul><p><strong>Requirements</strong></p><p><strong>What We’re Looking For (Qualifications):</strong></p><ul> <li>Several years of experience in Python development or similar engineering roles</li> <li>Passion for solving security challenges, such as detecting and mitigating malware, viruses, and web shells </li> <li>Experience in Linux server administration (preferred)</li> <li>Willingness to learn and work with technologies like PHP, JavaScript, and SQL (bonus points!)</li> <li>Knowledge of Apache Airflow, CI/CD systems, and automated testing tools (a plus)</li> <li>Proficiency in English above intermediate level </li> </ul><p></p><p><strong>Personal Attributes:</strong></p><ul> <li>Curious, with a hacker mindset and a love for solving complex puzzles</li> <li>Self-driven, focused on achieving key milestones</li> <li>Strong ability to prioritize and adapt in fast-paced environments</li> <li>Ability to analyze problems independently and provide effective solutions</li> <li>Comfortable with ambiguous requirements and capable of making autonomous decisions </li> <li>Collaborative and eager to work in a team-focused environment </li> </ul><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul> <li>A strong focus on professional development with opportunities for learning and growth</li> <ul> <li>Interesting and challenging projects</li> <li>Mentor and other knowledge-exchange programs</li> </ul> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves to ensure you maintain a healthy work-life balance</li> <li>Compensation for private medical insurance</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent, fostering a culture of creativity and innovation</li> </ul><p></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior Python/Full Stack Developer (Django-focused) (worldwide remote)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/j/CECD3E1F42" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>CloudLinux</strong> is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. </p><p>We are truly a great place to work!</p><p>Check out our website for more information - <a href="https://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/</a>&nbsp;</p><p></p><p>We are looking for a <strong>Senior Python/Full Stack Developer (Django-focused)</strong> to create an internal build &amp; automation system from scratch. The product is designed to expedite the delivery of security patches as part of Extended Lifecycle Support Services provided by CloudLinux.&nbsp;</p><p>Since the system will be established for internal use your end users will be colleagues working next to you. This is a great opportunity to bring value to fellow engineers!</p><p>The system is meant to be built from scratch, therefore a wide knowledge of the end-to-end pipeline of architecture/design phase, planning, development, and deployment is a must.</p><p></p><p><strong>Key Responsibilities:</strong></p><ul> <li>Design, develop, test, and deliver web applications using Django and related technologies.</li> <li>Technical ownership of the created application.</li> <li>Implement user interfaces using front-end technologies (especially JavaScript frameworks like Refine or React).</li> <li>Work with Linux-based systems for deployment and development, including container management (Docker, Kubernetes).</li> <li>Build pipelines for code testing and delivery.</li> <li>Ensure application security and data protection.</li> <li>Troubleshoot and debug code across the stack.</li> <li>Version control using Git, including branching, merging, and pull requests.</li> <li>Review your colleagues' code.</li> <li>Plan your work forward.</li> </ul><p><strong>Requirements</strong></p><p><strong>To thrive in this role, we are looking for someone who has:</strong></p><ul> <li>Minimum of 5 years of experience in Python (Django) or full-stack development.</li> <li>Proficiency in Django and Python for backend development.</li> <li>Strong experience with Linux as a development and deployment environment.</li> <li>Experience with front-end technologies like React, Vue.js, or Angular (at least 1 year).</li> <li>Proven experience in building web applications and scalable systems.</li> <li>Hands-on experience with containers, such as Docker, for development and production.</li> <li>Proficiency with Git for version control.</li> <li>Solid understanding of SQL and experience with relational databases (e.g., PostgreSQL, MySQL).</li> <li>Experience with libraries for managing background tasks like Celery or similar.</li> <li>Experience with tools for managing task queues like RabbitMQ or Kafka.</li> <li>Strong experience with building CI pipelines in tools like Gitlab or Jenkins.</li> <li>Strong problem-solving skills and attention to detail.</li> <li>An intermediate level of English language proficiency.</li> <li>Ability to work with vague requirements.</li> <li>You are a team player who can collaborate effectively.</li> </ul><p></p><p><strong>It would be great if you also have:</strong></p><ul> <li>Experience with test automation frameworks.</li> <li>Experience with Kubernetes, helm charts, and ArgoCD or similar.</li> </ul><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul> <li>A strong focus on professional development with opportunities for learning and growth:</li> <ul> <li>Interesting and challenging projects,</li> <li>Mentor and other knowledge-exchange programs;</li> </ul> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide;</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves to ensure you maintain a healthy work-life balance;</li> <li>Compensation for private medical insurance;</li> <li>Co-working and gym/sports reimbursement;</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent, fostering a culture of creativity and innovation.</li> </ul><p><br><br></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p><p></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior Python/Full Stack Developer (Django-focused) (worldwide remote)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/j/CECD3E1F42" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>CloudLinux</strong> is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. </p><p>We are truly a great place to work!</p><p>Check out our website for more information - <a href="https://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/</a>&nbsp;</p><p></p><p>We are looking for a <strong>Senior Python/Full Stack Developer (Django-focused)</strong> to create an internal build &amp; automation system from scratch. The product is designed to expedite the delivery of security patches as part of Extended Lifecycle Support Services provided by CloudLinux.&nbsp;</p><p>Since the system will be established for internal use your end users will be colleagues working next to you. This is a great opportunity to bring value to fellow engineers!</p><p>The system is meant to be built from scratch, therefore a wide knowledge of the end-to-end pipeline of architecture/design phase, planning, development, and deployment is a must.</p><p></p><p><strong>Key Responsibilities:</strong></p><ul> <li>Design, develop, test, and deliver web applications using Django and related technologies.</li> <li>Technical ownership of the created application.</li> <li>Implement user interfaces using front-end technologies (especially JavaScript frameworks like Refine or React).</li> <li>Work with Linux-based systems for deployment and development, including container management (Docker, Kubernetes).</li> <li>Build pipelines for code testing and delivery.</li> <li>Ensure application security and data protection.</li> <li>Troubleshoot and debug code across the stack.</li> <li>Version control using Git, including branching, merging, and pull requests.</li> <li>Review your colleagues' code.</li> <li>Plan your work forward.</li> </ul><p><strong>Requirements</strong></p><p><strong>To thrive in this role, we are looking for someone who has:</strong></p><ul> <li>Minimum of 5 years of experience in Python (Django) or full-stack development.</li> <li>Proficiency in Django and Python for backend development.</li> <li>Strong experience with Linux as a development and deployment environment.</li> <li>Experience with front-end technologies like React, Vue.js, or Angular (at least 1 year).</li> <li>Proven experience in building web applications and scalable systems.</li> <li>Hands-on experience with containers, such as Docker, for development and production.</li> <li>Proficiency with Git for version control.</li> <li>Solid understanding of SQL and experience with relational databases (e.g., PostgreSQL, MySQL).</li> <li>Experience with libraries for managing background tasks like Celery or similar.</li> <li>Experience with tools for managing task queues like RabbitMQ or Kafka.</li> <li>Strong experience with building CI pipelines in tools like Gitlab or Jenkins.</li> <li>Strong problem-solving skills and attention to detail.</li> <li>An intermediate level of English language proficiency.</li> <li>Ability to work with vague requirements.</li> <li>You are a team player who can collaborate effectively.</li> </ul><p></p><p><strong>It would be great if you also have:</strong></p><ul> <li>Experience with test automation frameworks.</li> <li>Experience with Kubernetes, helm charts, and ArgoCD or similar.</li> </ul><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul> <li>A strong focus on professional development with opportunities for learning and growth:</li> <ul> <li>Interesting and challenging projects,</li> <li>Mentor and other knowledge-exchange programs;</li> </ul> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide;</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves to ensure you maintain a healthy work-life balance;</li> <li>Compensation for private medical insurance;</li> <li>Co-working and gym/sports reimbursement;</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent, fostering a culture of creativity and innovation.</li> </ul><p><br><br></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p><p></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior Python/Full Stack Developer (Django-focused) (worldwide remote)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/j/CECD3E1F42" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>CloudLinux</strong> is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. </p><p>We are truly a great place to work!</p><p>Check out our website for more information - <a href="https://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/</a>&nbsp;</p><p></p><p>We are looking for a <strong>Senior Python/Full Stack Developer (Django-focused)</strong> to create an internal build &amp; automation system from scratch. The product is designed to expedite the delivery of security patches as part of Extended Lifecycle Support Services provided by CloudLinux.&nbsp;</p><p>Since the system will be established for internal use your end users will be colleagues working next to you. This is a great opportunity to bring value to fellow engineers!</p><p>The system is meant to be built from scratch, therefore a wide knowledge of the end-to-end pipeline of architecture/design phase, planning, development, and deployment is a must.</p><p></p><p><strong>Key Responsibilities:</strong></p><ul> <li>Design, develop, test, and deliver web applications using Django and related technologies.</li> <li>Technical ownership of the created application.</li> <li>Implement user interfaces using front-end technologies (especially JavaScript frameworks like Refine or React).</li> <li>Work with Linux-based systems for deployment and development, including container management (Docker, Kubernetes).</li> <li>Build pipelines for code testing and delivery.</li> <li>Ensure application security and data protection.</li> <li>Troubleshoot and debug code across the stack.</li> <li>Version control using Git, including branching, merging, and pull requests.</li> <li>Review your colleagues' code.</li> <li>Plan your work forward.</li> </ul><p><strong>Requirements</strong></p><p><strong>To thrive in this role, we are looking for someone who has:</strong></p><ul> <li>Minimum of 5 years of experience in Python (Django) or full-stack development.</li> <li>Proficiency in Django and Python for backend development.</li> <li>Strong experience with Linux as a development and deployment environment.</li> <li>Experience with front-end technologies like React, Vue.js, or Angular (at least 1 year).</li> <li>Proven experience in building web applications and scalable systems.</li> <li>Hands-on experience with containers, such as Docker, for development and production.</li> <li>Proficiency with Git for version control.</li> <li>Solid understanding of SQL and experience with relational databases (e.g., PostgreSQL, MySQL).</li> <li>Experience with libraries for managing background tasks like Celery or similar.</li> <li>Experience with tools for managing task queues like RabbitMQ or Kafka.</li> <li>Strong experience with building CI pipelines in tools like Gitlab or Jenkins.</li> <li>Strong problem-solving skills and attention to detail.</li> <li>An intermediate level of English language proficiency.</li> <li>Ability to work with vague requirements.</li> <li>You are a team player who can collaborate effectively.</li> </ul><p></p><p><strong>It would be great if you also have:</strong></p><ul> <li>Experience with test automation frameworks.</li> <li>Experience with Kubernetes, helm charts, and ArgoCD or similar.</li> </ul><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul> <li>A strong focus on professional development with opportunities for learning and growth:</li> <ul> <li>Interesting and challenging projects,</li> <li>Mentor and other knowledge-exchange programs;</li> </ul> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide;</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves to ensure you maintain a healthy work-life balance;</li> <li>Compensation for private medical insurance;</li> <li>Co-working and gym/sports reimbursement;</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent, fostering a culture of creativity and innovation.</li> </ul><p><br><br></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p><p></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior Python/Full Stack Developer (Django-focused) (worldwide remote)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/j/CECD3E1F42" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>CloudLinux</strong> is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. </p><p>We are truly a great place to work!</p><p>Check out our website for more information - <a href="https://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/</a>&nbsp;</p><p></p><p>We are looking for a <strong>Senior Python/Full Stack Developer (Django-focused)</strong> to create an internal build &amp; automation system from scratch. The product is designed to expedite the delivery of security patches as part of Extended Lifecycle Support Services provided by CloudLinux.&nbsp;</p><p>Since the system will be established for internal use your end users will be colleagues working next to you. This is a great opportunity to bring value to fellow engineers!</p><p>The system is meant to be built from scratch, therefore a wide knowledge of the end-to-end pipeline of architecture/design phase, planning, development, and deployment is a must.</p><p></p><p><strong>Key Responsibilities:</strong></p><ul> <li>Design, develop, test, and deliver web applications using Django and related technologies.</li> <li>Technical ownership of the created application.</li> <li>Implement user interfaces using front-end technologies (especially JavaScript frameworks like Refine or React).</li> <li>Work with Linux-based systems for deployment and development, including container management (Docker, Kubernetes).</li> <li>Build pipelines for code testing and delivery.</li> <li>Ensure application security and data protection.</li> <li>Troubleshoot and debug code across the stack.</li> <li>Version control using Git, including branching, merging, and pull requests.</li> <li>Review your colleagues' code.</li> <li>Plan your work forward.</li> </ul><p><strong>Requirements</strong></p><p><strong>To thrive in this role, we are looking for someone who has:</strong></p><ul> <li>Minimum of 5 years of experience in Python (Django) or full-stack development.</li> <li>Proficiency in Django and Python for backend development.</li> <li>Strong experience with Linux as a development and deployment environment.</li> <li>Experience with front-end technologies like React, Vue.js, or Angular (at least 1 year).</li> <li>Proven experience in building web applications and scalable systems.</li> <li>Hands-on experience with containers, such as Docker, for development and production.</li> <li>Proficiency with Git for version control.</li> <li>Solid understanding of SQL and experience with relational databases (e.g., PostgreSQL, MySQL).</li> <li>Experience with libraries for managing background tasks like Celery or similar.</li> <li>Experience with tools for managing task queues like RabbitMQ or Kafka.</li> <li>Strong experience with building CI pipelines in tools like Gitlab or Jenkins.</li> <li>Strong problem-solving skills and attention to detail.</li> <li>An intermediate level of English language proficiency.</li> <li>Ability to work with vague requirements.</li> <li>You are a team player who can collaborate effectively.</li> </ul><p></p><p><strong>It would be great if you also have:</strong></p><ul> <li>Experience with test automation frameworks.</li> <li>Experience with Kubernetes, helm charts, and ArgoCD or similar.</li> </ul><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul> <li>A strong focus on professional development with opportunities for learning and growth:</li> <ul> <li>Interesting and challenging projects,</li> <li>Mentor and other knowledge-exchange programs;</li> </ul> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide;</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves to ensure you maintain a healthy work-life balance;</li> <li>Compensation for private medical insurance;</li> <li>Co-working and gym/sports reimbursement;</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent, fostering a culture of creativity and innovation.</li> </ul><p><br><br></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p><p></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior Python/Full Stack Developer (Django-focused) (worldwide remote)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/j/CECD3E1F42" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>CloudLinux</strong> is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. </p><p>We are truly a great place to work!</p><p>Check out our website for more information - <a href="https://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/</a>&nbsp;</p><p></p><p>We are looking for a <strong>Senior Python/Full Stack Developer (Django-focused)</strong> to create an internal build &amp; automation system from scratch. The product is designed to expedite the delivery of security patches as part of Extended Lifecycle Support Services provided by CloudLinux.&nbsp;</p><p>Since the system will be established for internal use your end users will be colleagues working next to you. This is a great opportunity to bring value to fellow engineers!</p><p>The system is meant to be built from scratch, therefore a wide knowledge of the end-to-end pipeline of architecture/design phase, planning, development, and deployment is a must.</p><p></p><p><strong>Key Responsibilities:</strong></p><ul> <li>Design, develop, test, and deliver web applications using Django and related technologies.</li> <li>Technical ownership of the created application.</li> <li>Implement user interfaces using front-end technologies (especially JavaScript frameworks like Refine or React).</li> <li>Work with Linux-based systems for deployment and development, including container management (Docker, Kubernetes).</li> <li>Build pipelines for code testing and delivery.</li> <li>Ensure application security and data protection.</li> <li>Troubleshoot and debug code across the stack.</li> <li>Version control using Git, including branching, merging, and pull requests.</li> <li>Review your colleagues' code.</li> <li>Plan your work forward.</li> </ul><p><strong>Requirements</strong></p><p><strong>To thrive in this role, we are looking for someone who has:</strong></p><ul> <li>Minimum of 5 years of experience in Python (Django) or full-stack development.</li> <li>Proficiency in Django and Python for backend development.</li> <li>Strong experience with Linux as a development and deployment environment.</li> <li>Experience with front-end technologies like React, Vue.js, or Angular (at least 1 year).</li> <li>Proven experience in building web applications and scalable systems.</li> <li>Hands-on experience with containers, such as Docker, for development and production.</li> <li>Proficiency with Git for version control.</li> <li>Solid understanding of SQL and experience with relational databases (e.g., PostgreSQL, MySQL).</li> <li>Experience with libraries for managing background tasks like Celery or similar.</li> <li>Experience with tools for managing task queues like RabbitMQ or Kafka.</li> <li>Strong experience with building CI pipelines in tools like Gitlab or Jenkins.</li> <li>Strong problem-solving skills and attention to detail.</li> <li>An intermediate level of English language proficiency.</li> <li>Ability to work with vague requirements.</li> <li>You are a team player who can collaborate effectively.</li> </ul><p></p><p><strong>It would be great if you also have:</strong></p><ul> <li>Experience with test automation frameworks.</li> <li>Experience with Kubernetes, helm charts, and ArgoCD or similar.</li> </ul><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul> <li>A strong focus on professional development with opportunities for learning and growth:</li> <ul> <li>Interesting and challenging projects,</li> <li>Mentor and other knowledge-exchange programs;</li> </ul> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide;</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves to ensure you maintain a healthy work-life balance;</li> <li>Compensation for private medical insurance;</li> <li>Co-working and gym/sports reimbursement;</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent, fostering a culture of creativity and innovation.</li> </ul><p><br><br></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p><p></p>
                 </details>
                 </td>
             </tr>,<tr>
