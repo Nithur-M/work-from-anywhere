@@ -2257,6 +2257,30 @@
                 </td>
                 <td width="300">
                     <h5>Livekit</h5>
+                    <h3>Senior Software Engineer, Media</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.ashbyhq.com/livekit/744df57b-f71b-44bc-9400-f497c7b727d0" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height:1.5em">At LiveKit, we build open-source APIs to power the future of computing. We are a company of engineers building software stacks for other engineers.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>You'll thrive at LiveKit if you:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">obsess with crafting code that is fast, reliable and practical for the problem</p></li><li><p style="min-height:1.5em">are known as the go-to person for tackling tough technical problems</p></li><li><p style="min-height:1.5em">work hard and can both build <em>and</em> ship fast</p></li><li><p style="min-height:1.5em">can clearly explain complex technical concepts to others</p></li><li><p style="min-height:1.5em">are a fast learner, frequently picking up new languages and tools</p></li></ul><p style="min-height:1.5em">The best way to impress us is with thoughtful Issues and/or PRs on our Github repos 😊</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>About this role:</strong></p><p style="min-height:1.5em">Are you passionate about shaping the future of AI and technology? We’re looking for a talented engineer to join the Agents team. This is your chance to work on groundbreaking innovations in Agentic computing, contributing to the development of the software stack that will drive the next wave of technological advancement. If you're eager to make a lasting impact, we want to hear from you!</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What You'll Do</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Architect and build services like LiveKit Ingress, Egress, and SIP that bridge the LiveKit core infrastructure to the wider media and telecommunications ecosystems</p></li><li><p style="min-height:1.5em">Ideate new ways to incorporate low latency real time media into existing media workflows</p></li><li><p style="min-height:1.5em">Architect systems that anticipate failure and are resilient</p></li><li><p style="min-height:1.5em">Actively monitor, maintain, optimize and strengthen the long-term health of critical systems</p></li><li><p style="min-height:1.5em">Technologies you will work with include: Golang, <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/livekit/psrpc/">psrpc</a>, GStreamer, RTP, SIP, WHIP, HLS/DASH, media codecs such as H.264, HEVC, VP9, AV1, Opus</p></li></ul><p style="min-height:1.5em"><strong>Who you are</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">You are well versed in media processing and video encoding technologies and their trade offs</p></li><li><p style="min-height:1.5em">You are passionate about learning new media technologies and using them in novel ways</p></li><li><p style="min-height:1.5em">You are familiar with challenges of distributed consensus and synchronization and the specificities of distributed media processing systems</p></li><li><p style="min-height:1.5em">You strive to understand how systems work down to the bits</p></li><li><p style="min-height:1.5em">You can hold a lot of complexity in your head</p></li></ul><p style="min-height:1.5em"></p><h2>Our Commitments to You</h2><h3>We offer</h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">An opportunity to build something truly impactful to the world</p></li><li><p style="min-height:1.5em">Contribute to open source alongside world-class engineers</p></li><li><p style="min-height:1.5em">Competitive salary and equity package</p></li><li><p style="min-height:1.5em">Work anywhere in the world</p></li><li><p style="min-height:1.5em">Health, dental, and vision benefits</p></li><li><p style="min-height:1.5em">Flexible vacation policy</p></li></ul><p style="min-height:1.5em"></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Livekit</h5>
                     <h3>Senior Software Engineer, Agents Hosting</h3>
                 </td>
                 <td width="300">
@@ -2647,98 +2671,6 @@
 &lt;li&gt;Seu Niver, seu bolo!&lt;/li&gt;
 &lt;li&gt;Seu Networking Vale Prêmio- Programa de premiação a indicação de novos funcionários.&lt;/li&gt;
 &lt;/ul&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/30398729?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Alpaca</h5>
-                    <h3>Senior Software Engineer - Crypto</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/alpaca/jobs/5319640004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;
-&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;
-&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;
-&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;
-&lt;div class=&quot;p-rich_text_block&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Who We Are:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Alpaca is a US California headquartered brokerage infrastructure technology company and self-clearing broker-dealer, delivering execution and custody solutions for Stocks, ETFs, Options, Cryptocurrencies, and more, and has raised over $170 million in funding. Amongst our subsidiaries, Alpaca is a licensed financial services company in multiple countries, and we serve hundreds of financial institutions globally such as broker-dealers, investment advisors, hedge funds, and crypto exchanges.&lt;/p&gt;
-&lt;p&gt;Alpaca’s globally distributed team members bring in diverse experiences such as engineers, traders, and brokerage professionals to achieve our Mission of opening financial services to everyone on the planet. We are also deeply committed to open-source contributions and fostering a vibrant community. We will continue to enhance and improve our award-winning developer-friendly API and the infrastructure behind it.&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Our Team Members:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;We’re a team of 150+ globally distributed members who love working from our favorite places worldwide. Our team spans the USA, Canada, Japan, Hungary, Nigeria, Brazil, the United Kingdom, and more!&lt;/p&gt;
-&lt;p&gt;We’re looking for candidates eager to join Alpaca’s growing organization, who are excited about our Mission of “Open financial services to everyone on the planet and share our Values of “Stay Curious,” “Have Empathy,” and “Be Accountable.”&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;p&gt;As a Senior Engineer, you will be responsible for architecting, implementing, and maintaining the systems and services that form the foundation of Alpaca Crypto and empower millions of users who are trading billions of dollars worth of assets.&lt;/p&gt;
-&lt;p&gt;For this role, we are seeking an experienced engineer who is obsessed with delivering defect-free solutions, has proven experience architecting and building at scale, and who is not afraid of challenging conventions or voicing their opinions. In this role, you will have the autonomy to design and implement solutions to achieve defined goals while actively participating in defining those goals in cooperation with a cross-functional team.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Your Role:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This role is to lead all Crypto related engineering including our spot and derivatives exchanges licensed in the US and Bahamas.&lt;/p&gt;
-&lt;p&gt;Architect, spec and build the perpetual futures exchange including high-performance matching engine, collateral/liquidation/risk engine, public API, kyc/aml, regulatory reporting, settlement clearing and custody, banking, order management, accounting, analytics and compliance integrations.&lt;/p&gt;
-&lt;p&gt;Our vision for a regulated, centralized multi-asset exchange is designed with modern custody and risk management measures in mind as we prepare for how regulations will change in a post-FTX world. This is a blank canvas opportunity to design a state-of-the-art crypto exchange with the many synergies arising from our renowned securities brokerage with its unimpeachable track record in safeguarding customer assets. We are uniquely positioned to become the pre-eminent brand in global financial investment infrastructure for both crypto and tradfi combined.&lt;/p&gt;
-&lt;p&gt;Alpaca is 100% distributed and remote. &amp;nbsp;This role will be reporting directly to the Head of Crypto for the initial phase and then to the CTO once the product is more mature.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Things You Get To Do:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Design highly scalable, mission-critical crypto spot and derivatives exchange trading millions of dollars from day one&lt;/li&gt;
-&lt;li&gt;Implement backend services and web applications&lt;/li&gt;
-&lt;li&gt;Maintain good software quality and test coverage&lt;/li&gt;
-&lt;li&gt;Participate in code reviews&lt;/li&gt;
-&lt;li&gt;Troubleshoot incidents and reported bugs&lt;/li&gt;
-&lt;li&gt;You may be asked to be on-call to assist with engineering projects that are timely in nature&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Who You Are (Must-Haves):&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Experience building a CLOB exchange, HFT, market-making, high performance matching engines, margin/liquidation engines or other high-throughput &amp;amp; low-latency, regulated, fault-tolerant financial system&lt;/li&gt;
-&lt;li&gt;Experience in building crypto&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;BSc/MSc or equivalent experience in Computer Science or related field&lt;/li&gt;
-&lt;li&gt;*Minimum 4 years of experience of backend software development&lt;/li&gt;
-&lt;li&gt;Experience with at least one modern programming language like GoLang, Python, C/C++, NodeJS, Java, etc. Our platform is based in Golang&lt;/li&gt;
-&lt;li&gt;SQL or relational database skills&lt;/li&gt;
-&lt;li&gt;Hands-on knowledge with Bash, Linux &amp;amp; Docker. Kubernetes experience is a plus&lt;/li&gt;
-&lt;li&gt;Excited about what we are building at Alpaca&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;*The position level and title will vary according to candidate&#39;s experience and skills&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;strong&gt;Who You Might Be (Nice-to-Haves): &amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Experience with Kubernetes, CKA, CKAD certification&lt;/li&gt;
-&lt;li&gt;DevOps mindset is an asset&lt;/li&gt;
-&lt;li&gt;Experience with NoSQL&lt;/li&gt;
-&lt;li&gt;Experience with CI/CD&lt;/li&gt;
-&lt;li&gt;Good understanding of the financial market&lt;/li&gt;
-&lt;li&gt;Experience with major cloud platforms (AWS/GCP/Azure)&lt;/li&gt;
-&lt;li&gt;Knowledge of Agile/Scrum methodologies&lt;/li&gt;
-&lt;li&gt;Knowledge of microservice architectures&lt;/li&gt;
-&lt;li&gt;Knowledge of clean code principles&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;How We Take Care of You:&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive Salary &amp;amp; Stock Options&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Benefits: Health benefits start on day 1. In the US this includes Medical, Dental, Vision. In Canada, this includes supplemental health care. In Japan, you are offered local benefits. Internationally, this includes a stipend value to offset medical costs.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;New Hire Home-Office Setup: One-time USD $500&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Monthly Stipend: USD $150 per month via a Brex Card&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with awesome hard working people, super smart and cool clients and innovative partners from around the world&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Alpaca is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;a href=&quot;https://files.alpaca.markets/disclosures/AlpacaRecruitmentPrivacyPolicy.pdf&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recruitment Privacy Policy&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
