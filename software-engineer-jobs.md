@@ -31,11 +31,12 @@
 &lt;/ul&gt;
 &lt;p&gt;Trusted by 7/10 top software companies by market cap, 4/6 top US banks and many of the companies leading global innovation, like Stripe, Indeed, Tesla, and 1Password, and with $225M in funding from investors like &lt;a href=&quot;https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/&quot;&gt;a16z&lt;/a&gt;, &lt;a href=&quot;https://about.sourcegraph.com/blog/series-c-with-sequoia/&quot;&gt;Sequoia&lt;/a&gt;, and &lt;a href=&quot;https://www.redpoint.com/companies/sourcegraph/&quot;&gt;Redpoint&lt;/a&gt;, we are building the tools that will define the next era of enterprise software development.&lt;/p&gt;
 &lt;p&gt;If you’re passionate about solving the hardest problems in software and shaping the future of technology, join us. Let’s build something extraordinary together.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Location&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;🌎 While we hire &lt;a href=&quot;https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4&quot;&gt;almost anywhere&lt;/a&gt; in the world, we have a preference for someone to reside in the following locations for this role. However, if you feel qualified, we welcome you to apply regardless of location. No matter what, working hours must overlap with PST for at least 20 hours/week.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Preferred locations:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🌎 While we hire&amp;nbsp;&lt;a href=&quot;https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4&quot;&gt;almost anywhere&lt;/a&gt;&amp;nbsp;in the world, we have office hubs in select locations and expect this person to reside in San Francisco to be able to work from one of our office locations for several days per week.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Required locations:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Hybrid - San Francisco&lt;/li&gt;
+&lt;li&gt;San Francisco, CA&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;We do not subscribe to “I do my best work when I work 40 hours a week.” &amp;nbsp;People we hire at Sourcegraph believe that building outstanding things means working very hard — smarter and more hours than the competition.&lt;/p&gt;
 &lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Why this job is exciting&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
 &lt;p&gt;Imagine being part of a team where your work will redefine the coding experience for developers around the world. As a Software Engineer on the Cody Core team, you will work on Cody, an AI coding assistant that lives in your editor. You will work at the forefront of integrating advanced AI technologies into everyday coding practices. This role offers a unique opportunity to innovate and push the boundaries of what an AI coding assistant can achieve, all while working with a talented and passionate team. You&#39;ll have the chance to see your contributions directly impact developers, enhancing their productivity and transforming how they interact with their code.&lt;/p&gt;
 &lt;p&gt;📅 Within one month, you will…&lt;/p&gt;
@@ -80,7 +81,7 @@
 &lt;p&gt;Your salary is determined by your pay band for the IC4 job level. For determining pay bands, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that the salaries below may be adjusted in the future.&lt;/p&gt;
 &lt;p&gt;💰 The target compensation for this role is based on the IC4 pay band for your zone.&amp;nbsp;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Zone 1: $200,000 USD&lt;/li&gt;
+&lt;li&gt;Zone 1: $215,000 USD&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Please speak with a recruiter for additional information regarding zone locations.&lt;/p&gt;
 &lt;p&gt;📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba&quot;&gt;perks &amp;amp; benefits&lt;/a&gt;.&lt;/p&gt;
@@ -257,7 +258,12 @@
 &lt;p&gt;&lt;strong&gt;💸 We pay you an above-average salary&lt;/strong&gt; because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an &lt;a href=&quot;https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d&quot;&gt;open and transparent&lt;/a&gt; company that values &lt;a href=&quot;https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4&quot;&gt;competitive compensation&lt;/a&gt;, our compensation ranges are visible to every single Sourcegraph teammate.&lt;/p&gt;
 &lt;p&gt;Your salary is determined by your pay band for the IC3 &amp;nbsp;job level. For determining pay bands, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that the salaries below may be adjusted in the future.&lt;/p&gt;
 &lt;p&gt;💰 The target compensation for this role is based on the IC3 pay band for your zone. The start of the IC3 pay band for each zone is listed below:&lt;/p&gt;
-&lt;p&gt;Zone 1: $170,000 USD&lt;br&gt;Zone 2: $136,000 USD&lt;br&gt;Zone 3: $102,000 USD&lt;br&gt;Zone 4: $68,000 USD&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zone 1: $185,000 USD&lt;/li&gt;
+&lt;li&gt;Zone 2: $148,000 USD&lt;/li&gt;
+&lt;li&gt;Zone 3: $111,000 USD&lt;/li&gt;
+&lt;li&gt;Zone 4: $74,000 USD&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Please speak with a recruiter for additional information regarding zone locations.&lt;/p&gt;
 &lt;p&gt;📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba&quot;&gt;perks &amp;amp; benefits&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Interview process&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
@@ -385,8 +391,13 @@
 &lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;💸 We pay you an above-average salary&lt;/strong&gt; because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an &lt;a href=&quot;https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d&quot;&gt;open and transparent&lt;/a&gt; company that values &lt;a href=&quot;https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4&quot;&gt;competitive compensation&lt;/a&gt;, our compensation ranges are visible to every single Sourcegraph teammate.&lt;/p&gt;
 &lt;p&gt;Your salary is determined by your pay band for the IC4 &amp;nbsp;job level. For determining pay bands, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that the salaries below may be adjusted in the future.&lt;/p&gt;
-&lt;p&gt;💰 The target compensation for this role is based on the IC4 &amp;nbsp;pay band for your zone. The start of the IC4 pay band for each zone is listed below:&lt;/p&gt;
-&lt;p&gt;Zone 1: $200,000 USD&lt;br&gt;Zone 2: $160,000 USD &lt;br&gt;Zone 3: $120,000 USD &lt;br&gt;Zone 4: $80,000 USD&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;💰 The target compensation for this role is based on the IC4 pay band for your zone. The start of the IC4 pay band for each zone is listed below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zone 1: $215,000 USD&lt;/li&gt;
+&lt;li&gt;Zone 2: $172,000 USD&lt;/li&gt;
+&lt;li&gt;Zone 3: $129,000 USD&lt;/li&gt;
+&lt;li&gt;Zone 4: $86,000 USD&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Please speak with a recruiter for additional information regarding zone locations.&lt;/p&gt;
 &lt;p&gt;📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba&quot;&gt;perks &amp;amp; benefits&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Interview process&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
@@ -2486,85 +2497,6 @@
 &lt;li&gt;Experiência trabalhando com AWS&lt;/li&gt;
 &lt;li&gt;Experiência com aplicações web de alto tráfego&lt;/li&gt;
 &lt;li&gt;Compreensão de design de sistemas, estruturas de dados e algoritmos, além de experiência na criação e avaliação de documentos técnicos de design&lt;br&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Diferenciais:&amp;nbsp;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Experiência trabalhando com equipes full-stack que suportam uma fatia vertical do produto&lt;/li&gt;
-&lt;li&gt;Experiência na construção de APIs REST backend usando Golang&lt;/li&gt;
-&lt;li&gt;Familiaridade com as melhores práticas de SRE (como SLOs, KPIs, post-mortems, gerenciamento de incidentes, redução de toil, etc.)&lt;/li&gt;
-&lt;li&gt;Compreensão de metodologias ágeis (preferencialmente Scrum) e disposição para adaptar e definir processos de desenvolvimento de software&lt;/li&gt;
-&lt;li&gt;Experiência na definição de roadmaps técnicos e iniciativas, além de liderança em guildas entre equipes&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;strong&gt;Benefícios e Incentivos:&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Nossa contratação é CLT- 40h semanais com jornada flexível, sendo executada 100% de forma remota. Os benefícios da ília são pensados para proporcionar uma experiência AWESOME para cada ílian, abaixo você encontra os benefícios de forma resumida. #vempraília&lt;/p&gt;
-&lt;p&gt;Para Saúde e bem-estar:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Plano de Saúde e Odontológico SulAmérica extensivo a dependentes;&lt;/li&gt;
-&lt;li&gt;Vale Alimentação/Refeição em cartão fléxivel Picpay benefícios&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Seguro de Vida;&lt;/li&gt;
-&lt;li&gt;Auxílio Home-Office em cartão fléxivel Picpay benefícios;&lt;/li&gt;
-&lt;li&gt;Wellhub (Gympass)&lt;/li&gt;
-&lt;li&gt;TotalPass&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Para o seu Desenvolvimento:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ília University: Universidade Corporativa com mais de 20 mil cursos disponíveis para desenvolvimento pessoal e profissional;&lt;/li&gt;
-&lt;li&gt;Language Academy: Escola de idiomas para ílians;&lt;/li&gt;
-&lt;li&gt;í-talks e Chapter: Momentos e cerimônias em que o time compartilha práticas, estudos, projetos e ideias. Nas chapters ainda se reúnem pessoas com skills similares para compartilhamento de ideias, práticas e experiências;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Gostamos de ir além no cuidado com as nossas pessoas, então dispomos também de alguns benefícios não convencionais:&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Plano de Saúde PET- Guapeco&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;BYOD- Alugamos o seu notebook pessoal te pagando um valor mensal para que você o use, mas disponibilizamos também máquinas de trabalho para ílians. Você quem decide!&lt;/li&gt;
-&lt;li&gt;Seu Niver, seu bolo!&lt;/li&gt;
-&lt;li&gt;Seu Networking Vale Prêmio- Programa de premiação a indicação de novos funcionários.&lt;/li&gt;
-&lt;/ul&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/35933823?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>ília</h5>
-                    <h3>SR Software Engineer (Node.js and React) | Afirmativa para Pessoas com Deficiência (PCD) </h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/ilia/jobs/5470798004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;p&gt;&lt;strong data-start=&quot;478&quot; data-end=&quot;554&quot;&gt;Essa é uma vaga afirmativa exclusiva para pessoas com deficiência (PCD).&lt;/strong&gt; Aqui na ília, valorizamos a diversidade e acreditamos no poder da inclusão para construir times mais fortes e inovadores. Estamos comprometidos em criar um ambiente acessível, acolhedor e respeitoso para todas as pessoas.&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;Sobre a ília&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Somos especialistas em tecnologia, dados e design, impulsionando a transformação digital de grandes players do mercado há mais de 10 anos, nos setores financeiro, seguros e mobilidade. Com mais de 450 profissionais, estamos presentes no Brasil e Europa, atendendo aos mercados da América Latina, Europa e América do Norte, desenvolvendo produtos digitais de alta qualidade e com foco em resultados de negócios. Somos uma equipe inovadora, criativa e apaixonada por tecnologia.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Certificada pelo 5° ano consecutivo como Great Place to work aqui na ília acreditamos que pessoas mudam o mundo, e investimos nelas. Nossas awesome deliveries são feitas de pessoas para pessoas, afinal awesome people make awesome deliveries!&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;#Vempraília!&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;Sobre a vaga:&lt;br&gt;&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Como FullStack, você será um membro fundamental de uma equipe de engenharia fullstack e multifuncional. Você colaborará com líderes de Engenharia, Design, Produto, QA e equipes de negócios para desenvolver e entregar soluções de software de alta qualidade, escaláveis e flexíveis. Além disso, terá a oportunidade de orientar engenheiros de nível júnior a pleno.&lt;/p&gt;
-&lt;p&gt;Nosso objetivo é fomentar uma cultura de Engenharia que valoriza equipes de desenvolvimento full stack, capacitando-as a tomar o máximo de decisões possível sobre sua direção técnica e processos.&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;Requisitos:&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Disponibilidade para trabalhar no horário EST&lt;/li&gt;
-&lt;li&gt;Inglês Avançado para conversação, leitura e escrita.&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Experiência profissional trabalhando em equipes de engenharia de software&lt;/li&gt;
-&lt;li&gt;5+ anos de experiência relevante em desenvolvimento web full-stack em produção, utilizando NodeJS/Typescript e React&lt;/li&gt;
-&lt;li&gt;Histórico de sucesso na execução de projetos&lt;/li&gt;
-&lt;li&gt;Experiência em dividir requisitos de produto em tarefas de engenharia gerenciáveis e trabalhar com a equipe para concluí-las&lt;/li&gt;
-&lt;li&gt;Disposição para transformar necessidades e problemas de negócios abstratos em tarefas concretas, em colaboração com os times de produto e engenharia&lt;/li&gt;
-&lt;li&gt;Disposição para defender as necessidades da equipe e se envolver em decisões estratégicas&lt;/li&gt;
-&lt;li&gt;Experiência sólida com tecnologias de API&lt;/li&gt;
-&lt;li&gt;Experiência sólida com tecnologias RDBMS&lt;/li&gt;
-&lt;li&gt;Experiência trabalhando com AWS&lt;/li&gt;
-&lt;li&gt;Experiência com aplicações web de alto tráfego&lt;/li&gt;
-&lt;li&gt;Compreensão de design de sistemas, estruturas de dados e algoritmos, além de experiência na criação e avaliação de documentos técnicos de design&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Diferenciais:&amp;nbsp;&lt;/h3&gt;
 &lt;ul&gt;
