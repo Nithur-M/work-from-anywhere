@@ -10,7 +10,7 @@
                     <code>backend,C++,javascript,mongoDB</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-node-js-1984510" align="right" target="_blank">Apply</a>
@@ -83,7 +83,7 @@ the services and core processes with the highest security principles and
                     <code>.Net,api,backend,C</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-typescript-1983726" align="right" target="_blank">Apply</a>
@@ -224,7 +224,7 @@ the services and core processes with the highest security principles and
 &lt;p&gt;This job is an IC2-IC3.&amp;nbsp; You can read more about &lt;a href=&quot;https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/&quot;&gt;our job leveling philosophy&lt;/a&gt; in our Handbook.&lt;/p&gt;
 &lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;💸 We pay you an above-average salary&lt;/strong&gt; because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an &lt;a href=&quot;https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent&quot;&gt;open and transparent&lt;/a&gt; company that values competitive compensation, our &lt;a href=&quot;https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/&quot;&gt;compensation ranges are visible&lt;/a&gt; to every single Sourcegraph teammate. To determine your salary, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;💰 The target compensation for this role is $130,300 - $159,000 USD (depending on level &amp;amp; location).&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;💰 The target compensation for this role is $140,000 - $163,000 USD (depending on level &amp;amp; location).&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous &lt;a href=&quot;https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/&quot;&gt;perks &amp;amp; benefits&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Interview process&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Below is the interview process you can expect for this role (you can read more about &lt;/span&gt;&lt;/em&gt;&lt;a href=&quot;https://handbook.sourcegraph.com/talent/types_of_interviews&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;the types of interviews&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&amp;nbsp;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
