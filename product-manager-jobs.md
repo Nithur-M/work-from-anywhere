@@ -536,7 +536,7 @@
                 </td>
                 <td width="300">
                     <h5>Clutch</h5>
-                    <h3>Senior/Staff Product Manager, Omni-Channel/Branch</h3>
+                    <h3>Senior Product Manager, Omni-Channel/Branch</h3>
                 </td>
                 <td width="300">
                     <code></code>
