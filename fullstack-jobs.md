@@ -1,5 +1,52 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1987413/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Visuary</h5>
+                    <h3>Full Stack TypeScript + Golang 2D 3D floor plan editor</h3>
+                </td>
+                <td width="300">
+                    <code>backend,frontend,fullstack,golang</code>
+                </td>
+                <td width="200">
+                <text>3 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-typescript-golang-2d-3d-floor-plan-editor-1987413" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="p-rich_text_section">At VISUARY, we're building software that transforms how renovation professionals design and plan projects. Our cutting-edge web and mobile application combines a 2D/3D floor plan editor, an integrated product catalog, automatic cost estimation, and photorealistic renders—all in one seamless experience. Our mission? To make renovation planning intuitive, automated, and highly collaborative. Try it out: <a class="c-link" href="http://visuary.com/" rel="nofollow">visuary.com</a><br><br><strong>Why Join Us?</strong><br>We’re on a mission to make renovation planning intuitive and efficient by automating repetitive tasks and providing insightful visualization tools for all renovation stakeholders.<br>Our tech challenges are primarily frontend-focused, with the backend handling storage and data management. We structure development by features, not by stack, so we're looking for a Full-Stack Developer with strong TypeScript and Golang skills.We are an international team of eleven working fully remote.<br><br><strong>What you'll be working on:</strong><br>Join us at an exciting time—we’re scaling our product, refining our 3D tools, and tackling complex engineering challenges in a fast-moving startup environment. You’ll have the opportunity to work on cutting-edge 3D visualization, optimize real-time rendering, and help shape a tool used by renovation professionals worldwide. <br><br><strong>This job is made for you if you:</strong></p>
+<ul class="p-rich_text_list p-rich_text_list__bullet p-rich_text_list--nested" style="">
+<li style="">Have good knowledge of TypeScript + React</li>
+<li style="">Have good knowledge of Golang</li>
+<li style="">Have a good understanding of 2D and 3D geometry</li>
+<li style="">Are autonomous and proactive</li>
+<li style="">Like to work on a varied set of challenging problems</li>
+<li style="">Are fluent in English</li>
+<li style="">Like to find the simplest solution to a problem</li>
+<li style="">Like to write elegant and readable code</li>
+</ul>
+<p class="p-rich_text_section">Some three.js knowledge would be a plus.<br><br></p>
+<p class="p-rich_text_section"><strong>Perks:</strong></p>
+<ul class="p-rich_text_list p-rich_text_list__bullet p-rich_text_list--nested" style="">
+<li style="">Fair compensation - €30k to €60k per year based on experience</li>
+<li style="">35 paid days off per year</li>
+<li style="">Remote only with flexible hours</li>
+<li style="">Ownership &amp; impact: Work on key product features from day one</li>
+<li style="">Small, agile team → Less bureaucracy, more autonomy</li>
+<li style="">Latest tech stack<br><br></li>
+</ul>
+<p><!-- x-tinymce/html --></p>
+<p class="p-rich_text_section"><strong>Hiring process:</strong><br>Candidates who manage to apply on <a class="c-link" href="http://apply.visuary.com/" rel="nofollow">apply.visuary.com</a> will meet with the CEO for a fit interview, followed by a technical meeting with the CTO and a final meet with some other members. We expect the whole process to take a few weeks overall. We are a full remote startup with ambition, and therefore flexible on working conditions but demanding on the quality of the code. Daily meetings at 9AM UTC. <br><br>Join us and help shape the future of renovation software, we can’t wait to meet you! </p>
+<img src="https://remotive.com/job/track/1987413/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/476779?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -339,11 +386,11 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/35933823?s=200&v=4" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/67208791?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>ília</h5>
-                    <h3>PL Engenharia de Software Full Stack (React Native) | Afirmativa para Pessoas com Deficiência (PCD)</h3>
+                    <h5>Fingerprint</h5>
+                    <h3>Full Stack Engineer - Growth</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -352,70 +399,59 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/ilia/jobs/5408880004" align="right" target="_blank">Apply</a>
+                <a href="https://fingerprint.com/careers/jobs/apply/?gh_jid=5461337004" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                &lt;p&gt;&lt;strong data-start=&quot;478&quot; data-end=&quot;554&quot;&gt;Essa é uma vaga afirmativa para pessoas com deficiência (PCD).&lt;/strong&gt; Aqui na ília, valorizamos a diversidade e acreditamos no poder da inclusão para construir times mais fortes e inovadores. Estamos comprometidos em criar um ambiente acessível, acolhedor e respeitoso para todas as pessoas.&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;Sobre a ília&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Somos especialistas em tecnologia, dados e design, impulsionando a transformação digital de grandes players do mercado há mais de 10 anos, nos setores financeiro, seguros e mobilidade. Com mais de 450 profissionais, estamos presentes no Brasil e Europa, atendendo aos mercados da América Latina, Europa e América do Norte, desenvolvendo produtos digitais de alta qualidade e com foco em resultados de negócios. Somos uma equipe inovadora, criativa e apaixonada por tecnologia.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Certificada pelo 5° ano consecutivo como Great Place to work aqui na ília acreditamos que pessoas mudam o mundo, e investimos nelas. Nossas awesome deliveries são feitas de pessoas para pessoas, afinal awesome people make awesome deliveries!&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;#Vempraília!&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;Sobre a Vaga:&lt;/strong&gt;&lt;/h3&gt;
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Fingerprint&lt;/strong&gt;&amp;nbsp;empowers developers to stop online fraud at the source.&lt;/p&gt;
+&lt;p&gt;We work on turning radical new ideas in the fraud detection space into reality. Our products are developer-focused and our clients range from solo developers to publicly traded companies.&amp;nbsp;&lt;strong&gt;We are a globally dispersed, 100% remote company&lt;/strong&gt; with a strong open-source focus. Our flagship open-source project is &lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://github.com/fingerprintjs/fingerprintjs&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://github.com/fingerprintjs/fingerprintjs&quot; data-sk=&quot;tooltip_parent&quot;&gt;FingerprintJS&lt;/a&gt; (20K stars on GitHub).&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot; data-sk=&quot;tooltip_parent&quot;&gt;We have raised $77M&amp;nbsp;&lt;/a&gt;and are backed by Craft Ventures (previously invested in&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.tesla.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.tesla.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Tesla,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://facebook.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://facebook.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Facebook,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.airbnb.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.airbnb.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Airbnb&amp;nbsp;&lt;/a&gt;), Nexus Venture Partners (previously invested in &lt;a href=&quot;https://www.postman.com/&quot;&gt;Postman&lt;/a&gt;, &lt;a href=&quot;https://www.apollo.io/&quot;&gt;Apollo.io,&lt;/a&gt; &lt;a href=&quot;https://min.io/&quot;&gt;MinIO&lt;/a&gt;, Druva)&amp;nbsp;and Uncorrelated Ventures (previously invested in&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://redis.io/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://redis.io/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Redis,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://rollbar.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://rollbar.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Rollbar&amp;nbsp;&lt;/a&gt;&amp;amp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://gradle.org/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://gradle.org/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&amp;nbsp;Gradle&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates&#39; personal and financial information through fake interviews and offers. All Fingerprint recruiting email communications will always come from the @fingerprint.com domain. Any outreach claiming to be from Fingerprint via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;We are seeking a &lt;strong&gt;Full Stack Engineer&lt;/strong&gt;&amp;nbsp;to join our &lt;strong&gt;Growth team &lt;/strong&gt;to play a critical role in driving product-led growth through engineering initiatives. You will work closely with product managers, designers, and data scientists to build, iterate, and scale experiments that improve user activation, retention, and conversion.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What you’ll do:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Colaborar com equipes multifuncionais para definir, projetar e lançar novos recursos;&lt;/li&gt;
-&lt;li&gt;Elaborar e conduzir refinamentos técnicos de demandas trazidas pelo time de produtos;&lt;/li&gt;
-&lt;li&gt;Atuar na manutenção da saúde e qualidade do codebase, equilibrando novas funcionalidades com resolução de débitos técnicos;&lt;/li&gt;
-&lt;li&gt;Desenvolver soluções escaláveis e que irão ser utilizadas por milhões de usuários;&lt;/li&gt;
-&lt;li&gt;Ser crítico em relação a Observabilidade;&lt;/li&gt;
-&lt;li&gt;Atuar na manutenção dos testes automatizados, incluindo criação de novos;&lt;/li&gt;
-&lt;li&gt;Orientar desenvolvedores de menor senioridade e auxiliar no desenvolvimento destes;&lt;/li&gt;
-&lt;li&gt;Elaboração de documentação técnica de novas funcionalidades;&lt;/li&gt;
-&lt;li&gt;Traduzir designs em código de alta qualidade;&lt;/li&gt;
-&lt;li&gt;Participar das cerimônias junto com os demais integrantes da equipe.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Design, develop, and maintain &lt;strong&gt;full stack applications and growth experiments&lt;/strong&gt; that enhance onboarding, adoption, and user engagement.&lt;/li&gt;
+&lt;li&gt;Build and optimize &lt;strong&gt;experiment-driven features&lt;/strong&gt; like A/B tests, user flows, and UI/UX changes to maximize signups, activation rates, and conversions.&lt;/li&gt;
+&lt;li&gt;Develop and maintain our self-serve user experience, working on our dashboard, onboarding flows, pricing pages, and checkout systems.&lt;/li&gt;
+&lt;li&gt;Collaborate with the Growth, Product, and Data teams to analyze experiment results and iterate based on findings.&lt;/li&gt;
+&lt;li&gt;Implement and optimize &lt;strong&gt;tracking, analytics, and logging&lt;/strong&gt; to ensure we have clear visibility into user behavior.&lt;/li&gt;
+&lt;li&gt;Ensure a &lt;strong&gt;seamless integration&lt;/strong&gt; between frontend and backend services, working across our stack to ship end-to-end features efficiently.&lt;/li&gt;
+&lt;li&gt;Work on backend systems to improve API efficiency, authentication, and data processing to support scaling self-serve growth.&lt;/li&gt;
+&lt;li&gt;Actively contribute to improving engineering best practices, testing, and performance optimization.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;&lt;strong&gt;Requisitos:&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;What we’re looking for:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Experiência com Java 17 (11, 8), Spring Boot e Hibernate;&lt;/li&gt;
-&lt;li&gt;Experiência com NodeJS + NestJS;&lt;/li&gt;
-&lt;li&gt;Experiência Bancos de Dados (SQL e NoSQL), Oracle , MongoDB, RDS;&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Compreensão e entendimento de arquitetura de microsserviços;&lt;/li&gt;
-&lt;li&gt;Experiência com Design de APIs REST;&lt;/li&gt;
-&lt;li&gt;Experiência com Testes Unitários (jUnit 5), Integração e Contrato;&lt;/li&gt;
-&lt;li&gt;Experiência com Axway - API Gateway;&lt;/li&gt;
-&lt;li&gt;Experiência com Git e Versionamento de Código;&lt;/li&gt;
-&lt;li&gt;Experiência com comunicação por mensageria (RabbitMQ e SQS);&lt;/li&gt;
-&lt;li&gt;Experiência com Grafana e Dynatrace;&lt;/li&gt;
-&lt;li&gt;Conhecimento de Clean Code, Clean Architecture e Modularização;&lt;/li&gt;
-&lt;li&gt;Boas práticas de código, documentação e desenvolvimento de telas e componentes;&lt;/li&gt;
-&lt;li&gt;Experiência com em metodologias ágeis;&lt;/li&gt;
-&lt;li&gt;Experiência com Selenium + Cucumber ou framework&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;5+ years of experience&lt;/strong&gt; as a full stack engineer, with a strong foundation in both frontend and backend development.&lt;/li&gt;
+&lt;li&gt;Experience working with &lt;strong&gt;React, TypeScript, and Node.js&lt;/strong&gt; (or similar modern frontend and backend frameworks).&lt;/li&gt;
+&lt;li&gt;Experience designing and running &lt;strong&gt;experiments (A/B testing, feature flags, user cohorts)&lt;/strong&gt; using &lt;strong&gt;Amplitude, PostHog, or similar analytics platforms&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Familiarity with &lt;strong&gt;Stripe&lt;/strong&gt; or other payment platforms for checkout and billing improvements.&lt;/li&gt;
+&lt;li&gt;Proficiency in databases such as &lt;strong&gt;PostgreSQL, DynamoDB, Redis&lt;/strong&gt;, or similar.&lt;/li&gt;
+&lt;li&gt;Familiarity with &lt;strong&gt;cloud infrastructure (AWS, GCP, or Azure)&lt;/strong&gt; and CI/CD pipelines.&lt;/li&gt;
+&lt;li&gt;Strong understanding of &lt;strong&gt;product growth metrics&lt;/strong&gt; (activation rate, conversion rate, retention, etc.) and experience using data to drive engineering decisions.&lt;/li&gt;
+&lt;li&gt;Proficiency in working cross-functionally with &lt;strong&gt;Product, Design, and Data Science&lt;/strong&gt; teams to execute growth initiatives.&lt;/li&gt;
+&lt;li&gt;Excellent communication skills and ability to thrive in a fast-paced, remote-first environment.&lt;/li&gt;
+&lt;li&gt;BS Computer Science or similar degree.&amp;nbsp;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;&amp;nbsp;&lt;/h3&gt;
-&lt;h3&gt;&lt;strong&gt;Benefícios e Incentivos:&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Nossa contratação é CLT- 40h semanais com jornada flexível, sendo executada 100% de forma remota. Os benefícios da ília são pensados para proporcionar uma experiência AWESOME para cada ílian, abaixo você encontra os benefícios de forma resumida.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Para Saúde e bem-estar:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nice to Have:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Plano de Saúde e Odontológico SulAmérica extensivo a dependentes;&lt;/li&gt;
-&lt;li&gt;Vale Alimentação/Refeição em cartão fléxivel Picpay benefíciosSeguro de Vida;&lt;/li&gt;
-&lt;li&gt;Auxílio Home-Office em cartão fléxivel Picpay benefícios;&lt;/li&gt;
-&lt;li&gt;Wellhub (Gympass);&lt;/li&gt;
-&lt;li&gt;TotalPass.&lt;/li&gt;
+&lt;li&gt;Experience running&amp;nbsp;&lt;strong&gt;Amplitude Experiments&amp;nbsp;&lt;/strong&gt;preferred.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Prior &lt;strong&gt;Growth&lt;/strong&gt; &lt;strong&gt;team&lt;/strong&gt; experience.&lt;/li&gt;
+&lt;li&gt;Knowledge of&amp;nbsp;&lt;strong&gt;server-side rendering&lt;/strong&gt; and modern web performance optimizations.&lt;/li&gt;
+&lt;li&gt;Experience working on &lt;strong&gt;developer-focused or API-first products&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Experience with &lt;strong&gt;infrastructure-as-code (Terraform, AWS CloudFormation)&lt;/strong&gt; and containerization (Docker, Kubernetes).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Para o seu Desenvolvimento:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ília University: Universidade Corporativa com mais de 20 mil cursos disponíveis para desenvolvimento pessoal e profissional;&lt;/li&gt;
-&lt;li&gt;Language Academy: Escola de idiomas para ílians;&lt;/li&gt;
-&lt;li&gt;í-talks e Chapter: Momentos e cerimônias em que o time compartilha práticas, estudos, projetos e ideias. Nas chapters ainda se reúnem pessoas com skills similares para compartilhamento de ideias, práticas e experiências;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Gostamos de ir além no cuidado com as nossas pessoas, então dispomos também de alguns benefícios não convencionais:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Plano de Saúde PET - Guapeco;&lt;/li&gt;
-&lt;li&gt;Seu Niver, seu bolo!&lt;/li&gt;
-&lt;li&gt;Seu Networking Vale Prêmio -&amp;nbsp;Programa de premiação a indicação de novos funcionários.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;$125-175k OTE For cash compensation, we set standard ranges for all &lt;/em&gt;&lt;strong&gt;&lt;em&gt;US based roles based&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;&amp;nbsp;on function, level and geographic location, benchmarked against similar stage growth companies. In order to be compliant with local legislation, as well as to provide greater transparency to candidates, we share salary ranges on all job postings regardless of desired hiring location.&lt;/em&gt;&lt;strong&gt;&lt;em&gt;&amp;nbsp;Final offer amounts are determined by multiple factors including geographic location as well as candidate experience and expertise, and may vary from the amounts listed above.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates&#39; personal and financial information through fake interviews and offers. All Fingerprint recruiting email communications will always come from the @fingerprint.com domain. Any outreach claiming to be from Fingerprint via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Offers vary depending on, but not limited to, relevant experience, education, certifications/licenses, skills, training, and market conditions.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Due to regulatory and security reasons, there’s a small number of countries where we cannot have Fingerprint teammates based.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Additionally, because Fingerprint is an all-remote company and people can join our workforce from almost any country, we do not sponsor visas. Fingerprint teammates need to be authorized to work from their home location&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We are dedicated to creating an inclusive work environment for everyone. We embrace and celebrate the unique experiences, perspectives and cultural backgrounds that each employee brings to our workplace. Fingerprint strives to foster an environment where our employees feel respected, valued and empowered, and our team members are at the forefront in helping us promote and sustain an inclusive workplace. We highly encourage people from underrepresented groups in tech to apply.&lt;/p&gt;
+&lt;p&gt;If you are applying as a resident of California, please read our CCPA notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-ccpa&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you are applying as a resident of the EU, please read our GDPR notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-gdpr&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
