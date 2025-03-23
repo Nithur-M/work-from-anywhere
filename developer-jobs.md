@@ -10,7 +10,7 @@
                     <code>backend,C++,javascript,mongoDB</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-node-js-1984510" align="right" target="_blank">Apply</a>
@@ -83,7 +83,7 @@ the services and core processes with the highest security principles and
                     <code>.Net,api,backend,C</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-typescript-1983726" align="right" target="_blank">Apply</a>
@@ -1540,143 +1540,6 @@ the services and core processes with the highest security principles and
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p style="min-height:1.5em"><strong>Location:</strong> Fully Remote | <strong>Type:</strong> Full-time or Contract</p><p style="min-height:1.5em">Salary: $100 - $180k (DOE) + Stock</p><h2></h2><h1><strong>About Synthflow</strong></h1><p style="min-height:1.5em">At <a target="_blank" rel="noopener noreferrer nofollow" href="http://synthflow.ai/">Synthflow</a> we’re building the easiest way for businesses to create AI-powered phone agents. No coding, no fuss—just smarter automation. We’re passionate about delivering the future of voice technology with lightning-fast, scalable solutions. It’s an exciting time at Synthflow: we’re early, fast-growing, and laser-focused on impact. Join us to do the best work of your career while helping businesses thrive.</p><p style="min-height:1.5em"></p><h1><strong>About the role</strong></h1><p style="min-height:1.5em">We’re looking for a Senior Go Developer to build real-time voice AI systems that set the standard.</p><p style="min-height:1.5em"></p><h2><strong>Your responsibilities will include:</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Building &amp; Optimising</strong>: Develop and fine-tune our Go-based real-time, low-latency voice telephony AI service, ensuring it runs smoothly and efficiently. ⚙️</p></li><li><p style="min-height:1.5em"><strong>Scalable Solutions</strong>: Leverage Go’s powerful concurrency features—like goroutines and channels—to build scalable systems that can handle heavy traffic with ease. 📈</p></li><li><p style="min-height:1.5em"><strong>Cloud Infrastructure</strong>: Design and implement cloud infrastructure that supports flexible and reliable deployment models, ensuring our services are always available when our users need them. ☁️</p></li><li><p style="min-height:1.5em"><strong>Cross-Language Collaboration</strong>: Work closely with our backend teams to integrate Go services with Python components, creating a seamless experience across our platform. 🤝</p></li><li><p style="min-height:1.5em"><strong>Infrastructure-as-Code</strong>: Use Terraform to manage cloud deployments, ensuring that our infrastructure is scalable, consistent, and easy to maintain. 🛠️</p></li></ul><p style="min-height:1.5em"></p><h1><strong>What you bring:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Go Expertise</strong>: <strong>You have a strong proficiency in Go</strong>, with a deep understanding of concurrency, goroutines, and channels. You know how to use these tools to build efficient, scalable, and maintainable systems. 💪</p></li><li><p style="min-height:1.5em"><strong>Cloud Savvy</strong>: Extensive experience in cloud infrastructure, preferably across multiple providers like AWS, GCP, or Azure. 🌍</p></li><li><p style="min-height:1.5em"><strong>Terraform Pro</strong>: Skilled in using Terraform for infrastructure-as-code, making cloud deployments straightforward and reliable. 📜</p></li><li><p style="min-height:1.5em"><strong>Real-Time Systems Experience</strong>: Experience in developing and optimising real-time, low-latency systems, with a focus on performance and scalability. ⏱️</p></li><li><p style="min-height:1.5em"><strong>Python Knowledge</strong>: While Go is your primary tool, you’re also comfortable with Python and can contribute to cross-language integrations. 🐍</p></li><li><p style="min-height:1.5em"><strong>Voice Telephony or Audio Processing</strong>: Experience with voice telephony systems or audio processing is a big plus! 🎧</p></li></ul><p style="min-height:1.5em"></p><h1><strong>Who you are:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Problem Solver</strong>: You love tackling complex technical challenges and coming up with innovative solutions. 🧠</p></li><li><p style="min-height:1.5em"><strong>Team Player</strong>: You thrive in a collaborative environment and are excited to share ideas and learn from others. 🤗</p></li><li><p style="min-height:1.5em"><strong>Performance-Oriented</strong>: Always looking for ways to optimise systems and improve performance. 🚀</p></li><li><p style="min-height:1.5em"><strong>Communicator</strong>: Excellent communication skills, able to explain technical concepts clearly to both technical and non-technical team members. 💬</p></li></ul><p style="min-height:1.5em"></p><h1><strong>What We Offer:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Autonomy at speed: </strong>High-ownership roles in a fast-moving startup.</p></li><li><p style="min-height:1.5em"><strong>Remote-first flexibility: </strong>Contribute from anywhere, on your schedule.</p></li><li><p style="min-height:1.5em"><strong>Cutting-edge technology:</strong> Work on what interests you most.</p></li><li><p style="min-height:1.5em"><strong>Career growth: </strong>Scale your impact as the company grows.</p></li><li><p style="min-height:1.5em"><strong>Rewarding package: </strong>Competitive pay, equity options, and comprehensive benefits that reflect your skills and experience. </p></li></ul><h2></h2>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/35933823?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>ília</h5>
-                    <h3>JR Java Back-end Developer | Afirmativa para Pessoas com Deficiência (PCD) </h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/ilia/jobs/5475080004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;p&gt;&lt;strong data-start=&quot;478&quot; data-end=&quot;554&quot;&gt;Essa é uma vaga afirmativa para pessoas com deficiência (PCD).&lt;/strong&gt; Aqui na ília, valorizamos a diversidade e acreditamos no poder da inclusão para construir times mais fortes e inovadores. Estamos comprometidos em criar um ambiente acessível, acolhedor e respeitoso para todas as pessoas.&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;Sobre a ília&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Somos especialistas em tecnologia, dados e design, impulsionando a transformação digital de grandes players do mercado há mais de 10 anos, nos setores financeiro, seguros e mobilidade. Com mais de 450 profissionais, estamos presentes no Brasil e Europa, atendendo aos mercados da América Latina, Europa e América do Norte, desenvolvendo produtos digitais de alta qualidade e com foco em resultados de negócios. Somos uma equipe inovadora, criativa e apaixonada por tecnologia.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Certificada pelo 5° ano consecutivo como Great Place to work aqui na ília acreditamos que pessoas mudam o mundo, e investimos nelas. Nossas awesome deliveries são feitas de pessoas para pessoas, afinal awesome people make awesome deliveries!&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;#Vempraília!&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;Requisitos:&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li data-start=&quot;0&quot; data-end=&quot;36&quot;&gt;Proficiência avançada em inglês;&lt;/li&gt;
-&lt;li data-start=&quot;37&quot; data-end=&quot;120&quot;&gt;Disponibilidade para viagens ocasionais, tanto nacionais quanto internacionais;&lt;/li&gt;
-&lt;li data-start=&quot;121&quot; data-end=&quot;182&quot;&gt;Experiência com Java e frameworks como Spring ou Quarkus;&lt;/li&gt;
-&lt;li data-start=&quot;183&quot; data-end=&quot;247&quot;&gt;Conhecimento em serviços de nuvem AWS (Amazon Web Services);&lt;/li&gt;
-&lt;li data-start=&quot;248&quot; data-end=&quot;330&quot;&gt;Familiaridade com bancos de dados relacionais e não relacionais (SQL e NoSQL);&lt;/li&gt;
-&lt;li data-start=&quot;331&quot; data-end=&quot;358&quot;&gt;Experiência com Docker;&lt;/li&gt;
-&lt;li data-start=&quot;359&quot; data-end=&quot;385&quot; data-is-last-node=&quot;&quot;&gt;Domínio do uso de Git.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;strong&gt;Benefícios e Incentivos:&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Nossa contratação é CLT- 40h semanais com jornada flexível, sendo executada 100% de forma remota. Os benefícios da ília são pensados para proporcionar uma experiência AWESOME para cada ílian, abaixo você encontra os benefícios de forma resumida. #vempraília&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Para Saúde e bem-estar:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Plano de Saúde e Odontológico SulAmérica extensivo a dependentes;&lt;/li&gt;
-&lt;li&gt;Vale Alimentação/Refeição em cartão flexível Picpay benefícios&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Seguro de Vida;&lt;/li&gt;
-&lt;li&gt;Auxílio Home-Office em cartão flexível Picpay benefícios;&lt;/li&gt;
-&lt;li&gt;Wellhub (Gympass)&lt;/li&gt;
-&lt;li&gt;TotalPass&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Para o seu Desenvolvimento:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ília University: Universidade Corporativa com mais de 20 mil cursos disponíveis para desenvolvimento pessoal e profissional;&lt;/li&gt;
-&lt;li&gt;Language Academy: Escola de idiomas para ílians;&lt;/li&gt;
-&lt;li&gt;í-talks e Chapter: Momentos e cerimônias em que o time compartilha práticas, estudos, projetos e ideias. Nas chapters ainda se reúnem pessoas com skills similares para compartilhamento de ideias, práticas e experiências;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Gostamos de ir além no cuidado com as nossas pessoas, então dispomos também de alguns benefícios não convencionais:&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Plano de Saúde PET- Guapeco&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;BYOD- Alugamos o seu notebook pessoal te pagando um valor mensal para que você o use, mas disponibilizamos também máquinas de trabalho para ílians. Você quem decide!&lt;/li&gt;
-&lt;li&gt;Seu Niver, seu bolo!&lt;/li&gt;
-&lt;li&gt;Seu Networking Vale Prêmio- Programa de premiação a indicação de novos funcionários.&lt;/li&gt;
-&lt;/ul&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/35933823?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>ília</h5>
-                    <h3>PL Full Stack Developer (.Net/React) </h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/ilia/jobs/5465169004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;p&gt;Aqui na ília nossas vagas estão sempre abertas para todas as pessoas e não se restringem quanto a gênero, etnia, orientação sexual, fatores sociais, condições físicas ou intelectuais (PCD) etc. Incentivamos a candidatura de integrantes de todos os grupos minoritários!&lt;/p&gt;
-&lt;h3&gt;Sobre a ília&lt;/h3&gt;
-&lt;p&gt;Somos especialistas em tecnologia, dados e design, impulsionando a transformação digital de grandes players do mercado há mais de 10 anos, nos setores financeiro, seguros e mobilidade. Com mais de 450 profissionais, estamos presentes no Brasil e Europa, atendendo aos mercados da América Latina, Europa e América do Norte, desenvolvendo produtos digitais de alta qualidade e com foco em resultados de negócios. Somos uma equipe inovadora, criativa e apaixonada por tecnologia.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Certificada pelo 5° ano consecutivo como Great Place to work aqui na ília acreditamos que pessoas mudam o mundo, e investimos nelas. Nossas awesome deliveries são feitas de pessoas para pessoas, afinal awesome people make awesome deliveries!&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;#Vempraília!&lt;/p&gt;
-&lt;h3&gt;Sobre a vaga:&lt;/h3&gt;
-&lt;p&gt;Nossos projetos em específico, tem como principal desafio a grandeza e o contato com clientes nacionais e internacionais. Conta com um time altamente capacitado em desenvolvimento de aplicações web e mobile em diferentes plataformas, onde o objetivo é entregar para o usuário uma plataforma que faça a diferença na vida das pessoas em qualquer hora e local.&lt;/p&gt;
-&lt;h3&gt;Requisitos:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Inglês Avançado (fala, leitura e escrita);&lt;/li&gt;
-&lt;li&gt;Disponibilidade para viagens nacionais e internacionais esporádicas;&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Experiência com .Net Core;&lt;/li&gt;
-&lt;li&gt;Experiência com React.js ou Next.js;&lt;/li&gt;
-&lt;li&gt;CI/CD/DevOps tools (e.g. GitHub Actions, SonarQube, Artifactory,...);&lt;/li&gt;
-&lt;li&gt;Ferramentas de testes automatizados (e.g. Postman/Insomnia, XUnit/Moq para o backend e Jest/Testing Library/Cypress para o frontend);&lt;/li&gt;
-&lt;li&gt;Conhecimento em design patterns, refactoring e testes unitários;&lt;/li&gt;
-&lt;li&gt;Cloud services (preferencialmente AWS);&lt;/li&gt;
-&lt;li&gt;Desenvolvimento de APIs;&lt;/li&gt;
-&lt;li&gt;Containerização/Orquestração (e.g. Docker e Kubernetes);&lt;/li&gt;
-&lt;li&gt;Git Flow.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Diferenciais:&amp;nbsp;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Experiência com ferramentas de monitoramento e observabilidade (e.g. Kibana, Grafana, AWS Cloudwatch,...);&lt;/li&gt;
-&lt;li&gt;Experiência com Infrastructure as Code (IaC);&lt;/li&gt;
-&lt;li&gt;Experiência na utilização de Integração Contínua;&lt;/li&gt;
-&lt;li&gt;Experiência em alguma metodologia ágil.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Benefícios e Incentivos:&lt;/h3&gt;
-&lt;p&gt;Nossa contratação é CLT- 40h semanais com jornada flexível, sendo executada 100% de forma remota. Os benefícios da ília são pensados para proporcionar uma experiência AWESOME para cada ílian, abaixo você encontra os benefícios de forma resumida. #vempraília&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Para Saúde e bem-estar:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Plano de Saúde e Odontológico SulAmérica extensivo a dependentes;&lt;/li&gt;
-&lt;li&gt;Vale Alimentação/Refeição em cartão flexível Picpay benefícios&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Seguro de Vida;&lt;/li&gt;
-&lt;li&gt;Auxílio Home-Office em cartão flexível Picpay benefícios;&lt;/li&gt;
-&lt;li&gt;Wellhub (Gympass)&lt;/li&gt;
-&lt;li&gt;TotalPass&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Para o seu Desenvolvimento:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ília University: Universidade Corporativa com mais de 20 mil cursos disponíveis para desenvolvimento pessoal e profissional;&lt;/li&gt;
-&lt;li&gt;Language Academy: Escola de idiomas para ílians;&lt;/li&gt;
-&lt;li&gt;í-talks e Chapter: Momentos e cerimônias em que o time compartilha práticas, estudos, projetos e ideias. Nas chapters ainda se reúnem pessoas com skills similares para compartilhamento de ideias, práticas e experiências;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Gostamos de ir além no cuidado com as nossas pessoas, então dispomos também de alguns benefícios não convencionais:&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Plano de Saúde PET- Guapeco&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;BYOD- Alugamos o seu notebook pessoal te pagando um valor mensal para que você o use, mas disponibilizamos também máquinas de trabalho para ílians. Você quem decide!&lt;/li&gt;
-&lt;li&gt;Seu Niver, seu bolo!&lt;/li&gt;
-&lt;li&gt;Seu Networking Vale Prêmio- Programa de premiação a indicação de novos funcionários.&lt;/li&gt;
-&lt;/ul&gt;
                 </details>
                 </td>
             </tr>,<tr>
