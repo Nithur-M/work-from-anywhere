@@ -47,7 +47,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/v2/D560BAQHzAQXggf5uQg/company-logo_200_200/company-logo_200_200/0/1688643230676/bobtail_logo?e=1742428800&v=beta&t=P9gHgDHOknAHShwQR1JsLMYGaVscLGTzwmWViGMvnbE" width="38px" height="auto">
+                    <img src="https://www.bobtail.com/wp-content/uploads/2023/09/cropped-cropped-favicon-180x180.png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Bobtail</h5>
@@ -236,7 +236,7 @@
 &lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;B.S. in Computer Science, related technical field or equivalent experience&lt;/li&gt;
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;3+ years of experience in QA engineering, with a focus on Web testing.&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Proficiency in using automation tools and frameworks for Web, such as Playwright, JavaScript languag&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Proficiency in using automation tools and frameworks for Web, such as Playwright, JavaScript language&lt;/li&gt;
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Experience with continuous integration and continuous delivery (CI/CD) pipelines, such as Bitrise, CircleCI.&lt;/li&gt;
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Solid understanding of Agile methodologies and experience working in an Agile environment.&lt;/li&gt;
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Excellent troubleshooting and problem-solving skills, with the ability to identify, analyze, and resolve issues in a timely manner.&lt;/li&gt;
