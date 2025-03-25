@@ -1360,11 +1360,14 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 &lt;p&gt;Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world&#39;s leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;The company is founder-led, profitable, and growing.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;We are hiring Software Engineering Managers to lead technical teams in the various aspects of the delivery and ongoing support and maintenance of all Linux kernels provided by the Ubuntu Linux distribution.&amp;nbsp; As the Linux kernel itself is now quite broad, so are the technical domains and challenges involved, ranging from integrating support for bleeding-edge hardware into the latest Ubuntu kernels, to expanding the range of execution environments available to Ubuntu, to the complexities inherent in applying the latest fixes and updates to all of the &amp;gt;100 Ubuntu Linux kernels under active support during our Stable Release Update cycles.&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;This role would suit either an experienced manager of high performing software development teams, or a very proficient technical lead who is excited to take on a management responsibility. You will need to be passionate about Linux and aspire to be an integral part in its distribution to millions of users worldwide.&lt;/p&gt;
 &lt;p&gt;As an Engineering Manager at Canonical, your primary responsibility is to your team: helping them grow as engineers, do important and satisfying work, and have a great time while doing it. Technical leadership experience and a background in software engineering are necessary prerequisites for this role. You will be expected to lead, challenge, and develop strong engineers, positively influence the culture, facilitate technical delivery, and work with your team on strategy and execution.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Working from home, worldwide. &amp;nbsp; We have kernel teams and openings in every time zone and with the notable exception of Taipei, Taiwan, have no offices and therefore no pressure to work from an office.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Working from home, worldwide.&amp;nbsp; We have kernel teams and openings in every time zone and with the notable exception of Taipei, Taiwan, have no offices and therefore no pressure to work from an office.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;h2&gt;&lt;strong&gt;The role entails&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Leading a distributed team of software engineers in your geographic region in distinct aspects of delivery of all Linux kernels for the Ubuntu Linux distribution&lt;/li&gt;
@@ -1378,9 +1381,10 @@
 &lt;/ul&gt;
 &lt;li&gt;Engagement with other teams at Canonical, the open source community and commercial partners&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;h2&gt;&lt;strong&gt;What we are looking for in you&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Significant programming experience in C, with Python, Golang, or other like languages also highly regarded&lt;/li&gt;
+&lt;li&gt;Significant programming experience in C, with Python, Golang, or other like languages is also highly regarded&lt;/li&gt;
 &lt;li&gt;Substantial experience with operating system kernel internals and concepts, Linux would be highly regarded but not essential&lt;/li&gt;
 &lt;li&gt;Demonstrated experience managing or leading a team of software engineers&lt;/li&gt;
 &lt;li&gt;Ability to coordinate between multiple distinct teams of differing technical focus to achieve common goals&lt;/li&gt;
@@ -1389,6 +1393,7 @@
 &lt;li&gt;Professional written and spoken English with excellent presentation skills&lt;/li&gt;
 &lt;li&gt;Ability to travel internationally twice a year for company events up to two weeks long&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;h2&gt;&lt;strong&gt;Nice-to-have skills&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Demonstrated experience with kernel patching and debugging&lt;/li&gt;
