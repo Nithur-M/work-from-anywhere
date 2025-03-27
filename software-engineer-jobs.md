@@ -1,5 +1,84 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1989176/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Discourse</h5>
+                    <h3>Software Engineer - Infrastructure Team</h3>
+                </td>
+                <td width="300">
+                    <code>api,CSS,frontend,html</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-infrastructure-team-1989176" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><em style="color: var(--remotive-chocolate);">Salary depends on location and experience, able to provide up front</em></p>
+<p><em> </em></p>
+<p><em>When you send your resume also send a little intro for us to get to know you, with insight into why you want this job here at Discourse. Tell us about something you've made that you're proud of. Tell us something you think is interesting/cool about Discourse the software.</em></p>
+<p> </p>
+<p> </p>
+<p class="h2">About the job</p>
+<p>The infrastructure team at Discourse are computing-system generalists. In this role, you’ll work across all layers of our tech stack, focusing on building and maintaining systems for our hosting platform.</p>
+<p> </p>
+<p>Discourse is primarily a hosting company, and robust infrastructure is a core competency for us. You’ll develop tools to reduce toil, enhance reliability, and improve performance. Most deployments are served from our own bare metal, with AWS and other cloud services used as necessary.</p>
+<p> </p>
+<p>Applicants will have a 10-40 hour paid trial project (over 2-10 weeks) prior to joining the team. The trial project usually involves adding a feature to Discourse or a Discourse plugin.</p>
+<p> </p>
+<p class="h4">Your responsibilities will include:</p>
+<ul style="">
+<li style="">Applying fundamental computing theory to solve problems in sustainable space and time.</li>
+<li style="">When reasoning about infrastructure improvements, draw upon these combined skills to choose or build the right tool for the job.</li>
+<li style="">While stewarding code along the path from initial development to eventual retirement, support and document the system for the operators who depend on it.</li>
+</ul>
+<p> </p>
+<p class="h4">We’re looking for someone who: </p>
+<ul style="">
+<li style="">Has a well-rounded understanding of how applications interface with the operating system, how the operating system interfaces with the network.</li>
+<li style="">Can read C, and feels at home in Unix-like systems.</li>
+<li style="">Has fluency in at least one high-level programming language. We have a large amount of infrastructure tooling, primarily in Go and Ruby.</li>
+<li style="">Has experience with at least some of tools the we use: PostgreSQL, Docker, HAProxy, Prometheus, Grafana.</li>
+</ul>
+<p> </p>
+<p>At Discourse, the ability to communicate well in writing is paramount. We use our own software, Discourse, for most communication and most of your interaction with customers and team members will be in writing. In order to live these values, we look for folks who are:</p>
+<p> </p>
+<ul style="">
+<li style="">Detail-oriented, proactive, and organized</li>
+<li style="">Able to make decisions quickly and communicate effectively</li>
+<li style="">Work well independently and remotely</li>
+<li style="">Kind to their co-workers</li>
+<li style="">Highly driven with an execution focus and a strong belief in our mission to make the internet a better place</li>
+</ul>
+<p> </p>
+<p class="h2">About our Pay &amp; Benefits</p>
+<p>We believe that high-quality benefits make our team more effective. We’ve been thoughtful about our benefits package which includes a completely flexible schedule, 5 weeks of vacation per year, funding for a co-working stipend, and much more!</p>
+<p> </p>
+<p>Our Salary Framework is location and experience based, and we’re happy to provide a range up front. We also give every employee a stake in the success of the business, regardless of seniority or role. All full-time employees are eligible to receive equity options in the company as part of our equity incentive program.</p>
+<p> </p>
+<p>Lastly, we believe in having a welcoming workplace where people with diverse backgrounds and cultures can create something great together. We encourage you to apply, even if you don’t meet every qualification! Apply to <span style="color: var(--remotive-chocolate);">jobs@discourse.org.</span><span style="color: var(--remotive-chocolate);"> Send your resume and a little intro for us to get to know you, with insight into why you want this job here at Discourse.</span></p>
+<p><span style="color: var(--remotive-chocolate);"> </span></p>
+<p class="h2"><span style="color: var(--remotive-chocolate);">Important location info:</span></p>
+<p><span style="color: var(--remotive-chocolate);">Within Europe, we only hire from:</span></p>
+<p><span style="color: var(--remotive-chocolate);"> </span></p>
+<ul style="">
+<li style="">Austria</li>
+<li style="">Italy</li>
+<li style="">Poland</li>
+<li style="">Portugal</li>
+<li style="">Romania</li>
+<li style="">United Kingdom</li>
+</ul>
+<img src="https://remotive.com/job/track/1989176/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/3979584?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -1640,30 +1719,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Principal Python Software Engineer (worldwide remote, work anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/j/87C3E69B59" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. We are truly a great place to work.</p><p>Check out our website for more information - <a href="https://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/</a>&nbsp;</p><p></p><p>We are seeking an experienced and dynamic Principal Software Engineer to drive the development of an AI-Based Code Reviewer framework. This role requires a blend of strong technical expertise, product vision, and agile project management skills. You will lead the project from proof of concept (PoC) through internal testing across multiple R&amp;D teams, tailoring and configuring the solution to meet specific team and project needs.<br></p><p><strong>Key responsibilities:</strong></p><ul> <li>Lead the end-to-end development of the AI-Based Code Reviewer framework</li> <li>Prototype quickly to test hypotheses and iterate based on feedback</li> <li>Hire the right people and lead them</li> <li>Customize the framework for specific projects and development teams</li> <li>Collaborate with multiple R&amp;D teams to implement and refine the PoC</li> <li>Ensure rapid delivery while maintaining high-quality standards</li> <li>Communicate effectively with stakeholders at all levels</li> </ul><p></p><p><strong>Tech Stack:</strong></p><p><strong>Python</strong>:</p><ul> <li>FastAPI, NumPy, Pandas, scikit-learn</li> <li>Hugging Face Transformers for LLM integration</li> <li>OpenAI API / Anthropic API</li> </ul><p><strong>DB</strong>:</p><ul> <li>PostgreSQL for relational data</li> <li>MongoDB or similar for document storage</li> <li>Redis</li> </ul><p><strong>Code Analysis Tools:</strong></p><ul> <li>Language-specific</li> <li>AST (Abstract Syntax Tree)</li> <li>Tree Sitter </li> </ul><p><strong>Project Management &amp; Collaboration:</strong></p><ul> <li>Jira</li> <li>Slite</li> <li>Miro</li> </ul><p><strong>Other technologies: </strong></p><ul> <li>Git/Gerrit API</li> <li>Docker</li> <li>Gitlab/Jenkins</li> <li>Sentry</li> <li>Vector databases (like Pinecone or Weaviate) for code embeddings</li> </ul><p><strong>Requirements</strong></p><p><strong>To thrive in this role, we are looking for someone who has:</strong></p><ul> <li>Extensive Software Development Experience: Proven expertise in code development and delivery.</li> <li>Strong experience with Python and hands-on experience in other programming languages (preferably C/C++/PHP/Go), with an awareness of common design patterns, best practices, and typical pitfalls across various tech stacks.</li> <li>Project Leadership: Demonstrated ability to lead projects or teams in a software development environment.</li> <li>Prototyping Skills: Ability to quickly develop prototypes to validate concepts.</li> <li>Agile Mindset: Comfortable with rapid switching between tasks and adapting to changing requirements.</li> <li>Product Vision: Understanding of product management and the ability to align technical efforts with business goals.</li> <li>Communication Skills: Excellent verbal and written English communication abilities for effective collaboration.<br> </li> </ul><p><strong>Will be a plus:</strong></p><ul> <li>Experience with AI technologies, particularly in code analysis or automated code review tools.</li> <li>Startup Experience: Familiarity with startup environments and fast-paced project delivery.</li> <li>Customization Expertise: Experience tailoring software tools to meet specific team or project needs.</li> <li>R&amp;D Collaboration: Prior work across multiple R&amp;D teams.</li> <li>Code Review Knowledge: Deep understanding of code review best practices and tools.</li> <li>PoC Development: Background in developing and testing proof-of-concept projects internally.</li> </ul><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development</li> <li>Interesting and challenging projects</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves</li> <li>Compensation for private medical insurance</li> <li>Co-working and gym/sports reimbursement</li> <li>Budget for education</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/46490948?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -1709,8 +1764,9 @@
                 <details><summary>Description</summary>
                 &lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: 900;&quot;&gt;Work from anywhere, impact everywhere&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Diversity is at the heart of who we are at Xapo Bank. We’re a fully distributed team of over 140 Xapiens that work remotely from 40+ countries around the world.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Our beginning: A world that enjoys economic freedom and wealth protection, no matter where you live or who is running your country. This is the dream that drove Wences Casares, our Founder and Chairman, to quietly transform the world of banking.&lt;/p&gt;
+&lt;p&gt;Our beginning: A world that enjoys economic freedom and wealth protection, no matter where you live or who is running your country.&lt;/p&gt;
 &lt;p&gt;To achieve that, we search the world for the best people for the job. We work hard, think globally, and inspire each other to learn and grow. We are committed to changing the way things are done.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Risk is inherent in all of our business activities and managing risk well is the responsibility of every Xapien. Sound risk management enables us to serve our customers and deliver value for our shareholders, and helps make Xapo a great place to work.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Although we are headquartered in Gibraltar, this is a full time, 100% remote position&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Work from anywhere!&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
@@ -1798,8 +1854,9 @@
                 <details><summary>Description</summary>
                 &lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: 900;&quot;&gt;Work from anywhere, impact everywhere&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Diversity is at the heart of who we are at Xapo Bank. We’re a fully distributed team of over 140 Xapiens that work remotely from 40+ countries around the world.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Our beginning: A world that enjoys economic freedom and wealth protection, no matter where you live or who is running your country. This is the dream that drove Wences Casares, our Founder and Chairman, to quietly transform the world of banking.&lt;/p&gt;
+&lt;p&gt;Our beginning: A world that enjoys economic freedom and wealth protection, no matter where you live or who is running your country.&lt;/p&gt;
 &lt;p&gt;To achieve that, we search the world for the best people for the job. We work hard, think globally, and inspire each other to learn and grow. We are committed to changing the way things are done.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Risk is inherent in all of our business activities and managing risk well is the responsibility of every Xapien. Sound risk management enables us to serve our customers and deliver value for our shareholders, and helps make Xapo a great place to work.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Although we are headquartered in Gibraltar, this is a full time, 100% remote position&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Work from anywhere!&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
