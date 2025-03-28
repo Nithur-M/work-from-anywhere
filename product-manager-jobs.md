@@ -1,5 +1,77 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1988823/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Tabby</h5>
+                    <h3>Senior Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>product management</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/senior-product-manager-1988823" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><!--block--><strong>Tabby</strong> creates financial freedom in the way people shop, earn, and save, by reshaping their relationship with money.</div>
+<div><!--block--></div>
+<div><!--block-->The company’s flagship offering allows shoppers to split their payments online and in-store with no interest or fees. Over 32,000 global brands and small businesses, including Amazon, Noon, IKEA, and Shein use Tabby to accelerate growth and gain loyal customers by offering easy and flexible payments online and in stores.</div>
+<div><!--block--></div>
+<div><!--block-->Tabby has generated over $7 billion in transaction volume for its partner brands and is the highest-rated, most-reviewed, largest, and fastest-growing app of any fintech in the GCC region.</div>
+<div><!--block--></div>
+<div><!--block-->Tabby launched operations in 2020 and has raised +$1 billion in equity and debt funding from global and regional investors.<br><br></div>
+<div class="h3"><!--block--><strong>About the role</strong></div>
+<div><!--block-->We are looking for a <strong>Senior Product Manager</strong> to work in our Customer Happiness stream which is responsible for the internal tools and processes that help specialists and agents increase productivity and efficiency. We're working on internal solutions that help us to meet our high standards for customer service.</div>
+<div><!--block--></div>
+<div><!--block-->You’ll work in a fast-paced, data-driven environment, collaborating with Engineering, Customer Experience, Data Science, and other key stakeholders to deliver exceptional outcomes for our users.</div>
+<p><br><br></p>
+<div class="h3">Key Responsibilities</div>
+<ul style="">
+<li style=""><!--block-->Build an internal platform to organize the support workflows and journey;</li>
+<li style=""><!--block-->Provide the right tools to integrate internal processes into our internal platform;</li>
+<li style=""><!--block-->Implement solutions that help decrease the costs of visualizing business processes in the platform;</li>
+<li style=""><!--block-->Work with internal stakeholders and build products &amp; platforms to increase the efficiency of our Customer Support agents;</li>
+</ul>
+<p><br><br></p>
+<div class="h3">We’re looking for someone with:</div>
+<ul style="">
+<li style=""><!--block--><strong>Experience:</strong> <strong>4+</strong> years of Product Management experience, preferably in internal tools or operations-heavy products and processes;</li>
+<li style=""><!--block-->Experience in building platform solutions – has worked/built process automation and integrations;</li>
+<li style=""><!--block-->Strong understanding of Support / Customer Experience / Operations; knows how customer support works, understands the challenges of agents and users;</li>
+<li style=""><!--block--><strong>Strategic mindset:</strong> Can analyze requests and identify scalable solutions instead of just solving isolated issues;</li>
+<li style=""><!--block--><strong>Product &amp; tech knowledge:</strong> Understands APIs, basic integrations, and solution architecture;</li>
+<li style=""><!--block--><strong>Communication:</strong> Fluent in English with excellent communication skills to articulate vision and influence stakeholders;</li>
+<li style=""><!--block--><strong>Technical Aptitude:</strong> Familiarity with experimentation tools, analytics platforms, and product design frameworks;</li>
+<li style=""><!--block--><strong>Adaptability:</strong> Comfortable working in a fast-moving, dynamic environment;</li>
+<li style=""><!--block--><strong>Leadership:</strong> Proven ability to independently lead cross-functional teams and drive impactful results.</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Job Benefits</div>
+<div><!--block--><strong>Relocation and Employment</strong></div>
+<div><!--block--><br>We offer remote work from anywhere in the world (our schedule is based on Dubai time though) and are happy to work out an individual relocation plan for you.<br><br></div>
+<div><!--block-->Our employees have the opportunity to choose a country for registration; at the moment, those are Armenia, Georgia, Serbia, Portugal, Spain, the UAE, and Remote.</div>
+<div><!--block--></div>
+<div class="h3"><!--block--><strong>What you can expect</strong></div>
+<ul style="">
+<li style=""><!--block-->We offer flexible working hours and trust you to work enough hours to do your job well, at times that suit you and your team.</li>
+<li style=""><!--block-->A working environment that gives you autonomy and responsibility from day one.</li>
+<li style=""><!--block-->You should be comfortable with the idea that the quality of your work will influence the shape of your career.</li>
+<li style=""><!--block-->Participation in the company’s employee stock options program.</li>
+<li style=""><!--block-->Health Insurance</li>
+</ul>
+<div><!--block-->We are passionate about creating an inclusive, high-performing workplace that gives people from all backgrounds the support they need to thrive, grow, and meet their goals (whatever they may be).</div>
+<div><!--block--><br>If this sounds exciting to you, we’d love to hear from you!</div>
+<img src="https://remotive.com/job/track/1988823/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/43759528?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -284,7 +356,7 @@
 &lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Great work-life balance:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Build amazing things with a balance of autonomy and collaborative teamwork. Set your own work schedule and make use of a flexible PTO plan when you need to recharge.&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
 &lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Expect Excellence:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Collaborate, learn, and grow with a high-performance team. Learn&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; how you learn best - from books to conferences, you’ll get a yearly budget for your individual learning and development goals.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;At Xapo, we prioritize consumer protection and adhere to regulatory requirements by ensuring that all Xapiens are accountable for upholding principles of fair treatment, transparency, and ethical conduct in their interactions with customers and stakeholders.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;At Xapo, we prioritize consumer protection and adhere to regulatory requirements by ensuring that all Xapiens are accountable for upholding principles of fair treatment, transparency, and ethical conduct in their interactions with customers and stakeholders.&lt;br&gt;&lt;br&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Xapo Device Policy&lt;br&gt;&lt;/span&gt;&lt;/strong&gt;Consultants joining Xapo Bank must comply with the Xapo Device Policy, which governs the use of corporate-approved laptops under Corporate-Owned, Personally Purchased Device (reimbursed up to $1,500) or Corporate-Owned, Personally Enabled Device (personal device with enforced security controls).&lt;br&gt;All devices must meet security requirements, enroll in Xapo’s Mobile Device Management (MDM), and adhere to compliance rules. COPPD devices remain Xapo property with buyback options upon exit. COPED users agree to data control measures, including mandatory corporate data wipes.&lt;br&gt;Compliance with the Xapo Device Policy is mandatory for all consultants, onboarding will not proceed without adherence to the policy.&lt;strong&gt;&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
@@ -337,7 +409,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/v2/D4E0BAQEvDOFt9VDmfg/company-logo_200_200/company-logo_200_200/0/1714673337921/aiwyn_logo?e=1743033600&v=beta&t=0yqXd-p9YeUPxD_oaEkvrGENa6XLG5S4Q4dDXCettEY" width="38px" height="auto">
+                    <img src="https://www.aiwyn.ai/hubfs/Aiwyn%20Favicon.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Aiwyn</h5>
@@ -361,7 +433,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/v2/D4E0BAQEvDOFt9VDmfg/company-logo_200_200/company-logo_200_200/0/1714673337921/aiwyn_logo?e=1743033600&v=beta&t=0yqXd-p9YeUPxD_oaEkvrGENa6XLG5S4Q4dDXCettEY" width="38px" height="auto">
+                    <img src="https://www.aiwyn.ai/hubfs/Aiwyn%20Favicon.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Aiwyn</h5>
@@ -553,6 +625,30 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/63677130?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Zingtree</h5>
+                    <h3>Senior Product Manager - AI Solutions</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/zingtree/4e10af62-ee30-4d34-a577-0a4511942220" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>Zingtree is the next gen, intelligent process automation platform that reimagines customer experience operations for top Customer Support leaders. With over 500 customers, including global enterprises like Optum, Corpay, Sony, SharkNinja and Allianz, Zingtree transforms self-service, uncovers and implements automation opportunities, and makes every customer service agent an expert.</div><div><br></div><div>We are looking for a dynamic and experienced <b>Senior Product Manager</b> to drive the growth and innovation of our AI-powered process automation solutions. In this role, you will be responsible for expanding and enhancing our product portfolio, developing new AI-driven solutions that maximize customer value, and optimizing our existing offerings. Your work will directly contribute to delivering exceptional user experiences and measurable ROI for our customers. You’ll play a key role in identifying opportunities by deeply understanding our customers, prospects, and partners. This means analyzing market trends, assessing competitive dynamics, and leveraging AI advancements to shape Zingtree’s product strategy.</div><div><br></div><div>Success in this role requires strong interpersonal skills, a deep understanding of AI technologies, and experience in customer support, call centers, or process automation. You should be comfortable navigating a fast-paced, data-driven environment where strategic decision-making is backed by market insights and analytics.</div><div><br></div><div>If you’re passionate about AI, process automation, and building cutting-edge products that transform the way businesses operate, we’d love to hear from you!</div><div>Zingtree is the next gen, intelligent process automation platform that reimagines customer experience operations for top Customer Support leaders. With over 500 customers, including global enterprises like Optum, Corpay, Sony, SharkNinja and Allianz, Zingtree transforms self-service, uncovers and implements automation opportunities, and makes every customer service agent an expert.</div><div><br></div><div>We are looking for a dynamic and experienced <b>Senior Product Manager</b> to drive the growth and innovation of our AI-powered process automation solutions. In this role, you will be responsible for expanding and enhancing our product portfolio, developing new AI-driven solutions that maximize customer value, and optimizing our existing offerings. Your work will directly contribute to delivering exceptional user experiences and measurable ROI for our customers. You’ll play a key role in identifying opportunities by deeply understanding our customers, prospects, and partners. This means analyzing market trends, assessing competitive dynamics, and leveraging AI advancements to shape Zingtree’s product strategy.</div><div><br></div><div>Success in this role requires strong interpersonal skills, a deep understanding of AI technologies, and experience in customer support, call centers, or process automation. You should be comfortable navigating a fast-paced, data-driven environment where strategic decision-making is backed by market insights and analytics.</div><div><br></div><div>If you’re passionate about AI, process automation, and building cutting-edge products that transform the way businesses operate, we’d love to hear from you!</div><h3>What You'll Do</h3><li><b>Innovate and Build:</b> Play a key role in designing and developing new products and features that go beyond customer expectations, ensuring they deliver real value and a seamless user experience.</li><li><b>Collaborate with Engineering:</b> Work closely with the Engineering team to bring innovative products to market, optimize existing features, and ensure smooth integration of enhancements.</li><li><b>Understand Our Customers:</b> Deeply analyze Zingtree’s customer base, their needs, pain points, and behaviors to drive product decisions and strategic growth.</li><li><b>Develop Strategic Business Plans:</b> Identify and evaluate new opportunities, crafting data-driven business plans that align with market needs and company objectives.</li><li><b>Engage Cross-Functionally:</b> Work effectively with diverse teams—including sales, marketing, engineering, and customer success—to align goals and drive initiatives forward.</li><li><b>Gather and Apply Stakeholder Feedback:</b> Actively listen to customers, partners, and internal teams to refine products and ensure we’re meeting market demands.</li><li><b>Stay Ahead of AI Trends:</b> Keep up with the latest advancements in AI technology, identifying opportunities to incorporate cutting-edge innovations into our products.</li><li><b>Monitor Market and Competition:</b> Continuously assess the competitive landscape, industry trends, and key market shifts to inform strategic decisions.</li><li><b>Make Data-Driven Decisions:</b> Leverage data, analytics, and research to validate assumptions, optimize performance, and guide critical business strategies.</li><h3>Who You Are</h3><li><b>Experience &amp; Expertise:</b> 5+ years in roles such as Product Manager or Technical Product Manager, with a strong track record of driving product success.</li><li><b>AI Enablement &amp; Innovation:</b> Proven experience in leveraging AI capabilities, coordinating data flows, optimizing business processes, managing workflows, and integrating systems to enhance product functionality.</li><li><b>Technical Execution &amp; Collaboration:</b> Demonstrated ability to work closely with engineering teams to execute product roadmaps, ensuring seamless development and delivery.</li><li><b>B2B Product Success:</b> A history of developing, launching, and scaling successful B2B products, particularly in SaaS and enterprise environments.</li><li><b>AI &amp; Machine Learning Knowledge:</b> Strong understanding of AI technologies, including Large Language Models (LLMs), AI Agents, and modern machine learning techniques.</li><li><b>System Integrations:</b> Hands-on experience integrating with CRMs, CCaaS platforms, and other enterprise systems to create seamless user experiences.</li><li><b>Customer Engagement &amp; Communication:</b> Ability to effectively present and demo products to customers in both pre-sales and post-sales settings.</li><li><b>Market &amp; User Research:</b> Experience owning user research, conducting competitive market analysis, and translating insights into strategic product decisions.</li><li><b>Detail-Oriented Execution:</b> Strong focus on documentation, release management, and milestone tracking for both internal teams and external stakeholders.</li><li><b>Cross-Functional Leadership:</b> Exceptional communication skills with the ability to align and collaborate across engineering, sales, marketing, and customer success teams.</li><li><b>Business &amp; Analytical Acumen:</b> Strategic thinker with strong business instincts, data-driven decision-making skills, and technical fluency.</li><li><b>Industry Expertise:</b> Deep experience in SaaS, Customer Support, and Call Center/Contact Center technologies is required; experience in Process Automation is a plus.</li><li><b>Start-Up Mindset:</b> Prior experience in a fast-paced startup environment is a plus—thriving in a dynamic, high-growth setting where hustle, agility, and execution are key.</li><h3>What We Offer</h3><li>Competitive Compensation - We offer fair compensation packages&nbsp;</li><li>Comprehensive health insurance for employees and dependents</li><li>Provident Fund contributions in compliance with EPF guidelines</li><li>Generous Paid Parental Leave - Paid time off for parents to spend time with their new child</li><li>Unlimited PTO - Take the time you need to recharge and bring your best self to work&nbsp;</li><li>Flexible Remote Work - Work from anywhere</li><li>Home Office Stipend - Receive up to $500 to create a great work environment at home, and $100 a month for Internet, phone, etc.</li><li>Co-Working Reimbursement - Expense up to $200 a month on co-working space</li><h3>Our Values</h3><li><b>Lead with action:&nbsp;</b>We are doers. We move fast with purpose, fearlessly blaze new trails, and fail fast and learn quickly, to achieve positive outcomes for our customers and the business.&nbsp;</li><li><b>People really matter:&nbsp;</b>We win as a team. We care about all humans—our customers and our employees—achieving professional greatness&nbsp;and making a meaningful impact on the world.</li><li><b>Ownership leads to results:</b>&nbsp;When we say we’ll deliver, we deliver. We act responsibly with integrity, high standards, and hold ourselves accountable to the results of our actions.</li><li><b>Expertise creates value:</b>&nbsp;We are learners. We continuously build and share knowledge, invest in growing ourselves, and put expertise into action to fully realize our potential and goals.</li><li><b>Transparency builds trust:&nbsp;</b>We respectfully tell it as it is. We are direct, honest, and open with the information that matters, and communicate in a caring way that builds stronger trusted relationships with each other.</li>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/67208791?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -739,6 +835,30 @@
 &lt;li&gt;You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed.&amp;nbsp;&lt;/li&gt;
 &lt;li&gt;Share this! Don’t be afraid of friends or co-workers stealing this job! We will find a place for you if you are unique and intelligent. Check out our &lt;a href=&quot;https://boards.greenhouse.io/orderlynetwork/jobs/5170520003&quot; target=&quot;_blank&quot;&gt;External Referral Incentives Program&lt;/a&gt; as well.&amp;nbsp;&lt;/li&gt;
 &lt;/ul&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1533245276764372993/AtyqkzHz_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Primer</h5>
+                    <h3>Senior Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.ashbyhq.com/primer.io/6a5e6bfb-171d-4460-891e-78aa37463737" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h2><strong>An Introduction to Primer</strong></h2><p style="min-height:1.5em">The 21st century has witnessed remarkable expansion within the payments ecosystem with the introduction of new payment services, growth in cross-border commerce, and the development of multi-payment processor payment strategies.</p><p style="min-height:1.5em">The bottom line is that payment is no longer just another step in the purchasing funnel but a strategic asset that can drive business growth and innovation.</p><p style="min-height:1.5em">Enter Primer - the world's first unified payment infrastructure, empowering businesses worldwide to unleash their payment potential. By choosing our platform, merchants can take control over their payment stack, create unique commerce experiences, accelerate their roadmap and increase payment success.</p><p style="min-height:1.5em">Primer's enterprise-grade infrastructure, frameworks, and tooling allow merchants to unify their disparate payment solutions and services to build optimised payment flows tailored to their unique business needs with no code or additional complexity. We strive to make something complex incredibly simple and intuitive.</p><p style="min-height:1.5em">Our success so far has been reflected in the trust placed in us by category leaders such as Printify, NewLook, Voi, and Dabble, who are using Primer to transform their payments into a growth lever. Moreover, the world's top investors, including Accel, Balderton, Iconiq, and Tencent, have also invested in Primer's vision to rebuild payments and commerce from the ground up.</p><p style="min-height:1.5em">Join us in shaping the future of payments and commerce. Let's pave the way for a world where businesses can fully realise their payment potential.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What are we looking for?</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>A Senior Product Manager</strong> with deep domain knowledge in treasury, accounting, finance automation, and revenue operations, especially in areas like AR/AP and FX</p></li><li><p style="min-height:1.5em"><strong>Hands-on builder mentality</strong> to take a product from MVP to scale, owning the full product lifecycle in a high-impact, high-autonomy role</p></li><li><p style="min-height:1.5em"><strong>Strategic thinker and doer</strong> capable of defining and executing a multi-year product strategy in a high-potential area</p></li><li><p style="min-height:1.5em"><strong>End-to-end ownership</strong> of one of our two core product builds — you'll be the sole PM, shaping the roadmap, setting priorities, and driving delivery</p></li><li><p style="min-height:1.5em"><strong>Experience in early-stage product environments</strong> where ambiguity is embraced and customer feedback drives rapid iteration</p></li><li><p style="min-height:1.5em"><strong>Strong communicator and collaborator</strong> who can work with a domain-heavy team and bring clarity to complex product and technical decisions</p></li><li><p style="min-height:1.5em"><strong>Leadership potential</strong> - while this role is currently individual contributor and hands-on, there's room to grow into a team lead as the function scales</p></li><li><p style="min-height:1.5em"><strong>Prior experience in Integrations or Finance-related SaaS</strong> products is a huge plus, especially if you've worked in or adjacent to modern finance or accounting teams</p><p style="min-height:1.5em"></p><p style="min-height:1.5em">This position can be based <strong>ANYWHERE in Europe</strong>, working remotely 100% of the time</p><p style="min-height:1.5em">Our Product &amp; Engineering teams work fully remotely across Europe and operate within local timezones - if you are not based in Europe but would still like to apply please let us know in your application</p><p style="min-height:1.5em">Unfortunately we are unable to offer VISA sponsorships or relocation packages at this time<br /><br /><strong>Our interview process</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">30 minute call with a Talent Partner</p></li><li><p style="min-height:1.5em">45 minute interview with the Hiring Manager</p></li><li><p style="min-height:1.5em">Take home task, followed by a 1 hr presentation</p></li><li><p style="min-height:1.5em">60 minute final stage culture interview</p></li></ul></li></ul><p style="min-height:1.5em"></p><h2><strong>What’s the culture like at Primer?</strong></h2><p style="min-height:1.5em">We’re building a culture where people can come and do their best work and enjoy it. We want our people to be proud of the impact that they have at Primer, and of the work that they are doing. You will be working with a team of people who are mission-driven, smart, and reflective, and who are invested in building exceptional products and delivering success for our merchants <em>(and we also know how to have fun along the way).</em></p><p style="min-height:1.5em">We work remotely. We believe that building a successful, profitable company goes beyond proximity. We invest in our relationships with each other through great remote working practices and thoughtfully designed face-to-face time together. Our heads-together time comes in the form of workstations, our annual company retreat, and co-working space access worldwide.</p><p style="min-height:1.5em">Finally, let’s go ahead and say it. The work that we do is challenging. Startups are a challenge, building category defining products is a challenge. You should be prepared for a challenge at Primer. But, there’s a big difference between a challenge and a struggle. The key difference is that the right challenge comes with the right support structures, an acceptance that not everything always goes to plan, a collaborative environment, and a great team around you. It’s never a challenge that you will face alone.</p><p style="min-height:1.5em"></p><h2><strong>Our benefits:</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">We are fully remote</p></li><li><p style="min-height:1.5em">Competitive share options</p></li><li><p style="min-height:1.5em">Uncapped holiday, with 25 days minimum to be taken</p></li><li><p style="min-height:1.5em">Co-working space access</p></li><li><p style="min-height:1.5em">Workations &amp; company retreat</p></li><li><p style="min-height:1.5em">The best equipment for your role</p></li><li><p style="min-height:1.5em">£500 towards your home office setup</p></li><li><p style="min-height:1.5em">Generous learning budget</p></li><li><p style="min-height:1.5em">Medical insurance</p></li><li><p style="min-height:1.5em">A broad set of additional perks and benefits (<em>depending on location)</em></p></li></ul><p style="min-height:1.5em"></p><h2><strong>Don’t meet every single requirement?</strong></h2><p style="min-height:1.5em">At Primer, we’re dedicated to building a diverse, inclusive, and authentic workplace. If you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply. You may be the right candidate for this or other roles. Primer is committed to the equal treatment of all current and prospective employees, regardless of background or beliefs—see our diversity commitment statement for more details</p><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.notion.so/Equity-diversity-inclusion-and-belonging-policy-7904d43d137848fda9cdc19772e43cec?pvs=21"><strong>Equity, diversity, inclusion and belonging policy</strong></a></p><p style="min-height:1.5em">Primer adopts a zero-tolerance approach to discrimination.</p><p style="min-height:1.5em">We are committed to providing equal opportunities to all current and prospective employees regardless of age, disability, sex, sexual orientation, pregnancy and maternity, race or ethnicity, religion or belief, gender identity, or marriage and civil partnership.</p>
                 </details>
                 </td>
             </tr></table>
