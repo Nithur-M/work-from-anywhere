@@ -256,7 +256,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/v2/D560BAQHWkZ4dfdnqcQ/company-logo_200_200/company-logo_200_200/0/1667241664749/atticushq_logo?e=1743033600&v=beta&t=IKimC8hb4UT-bQFVefDOJ5jfW_yxRN7of8ZLj5GtZ4Q" width="38px" height="auto">
+                    <img src="https://images.atticus.com/images/www/media/favicon.png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Atticus</h5>
@@ -280,7 +280,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/v2/D560BAQHWkZ4dfdnqcQ/company-logo_200_200/company-logo_200_200/0/1667241664749/atticushq_logo?e=1743033600&v=beta&t=IKimC8hb4UT-bQFVefDOJ5jfW_yxRN7of8ZLj5GtZ4Q" width="38px" height="auto">
+                    <img src="https://images.atticus.com/images/www/media/favicon.png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Atticus</h5>
