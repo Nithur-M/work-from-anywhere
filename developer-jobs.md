@@ -10,7 +10,7 @@
                     <code>backend,C++,javascript,mongoDB</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-node-js-1984510" align="right" target="_blank">Apply</a>
@@ -83,7 +83,7 @@ the services and core processes with the highest security principles and
                     <code>.Net,api,backend,C</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-typescript-1983726" align="right" target="_blank">Apply</a>
@@ -1160,7 +1160,7 @@ the services and core processes with the highest security principles and
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEmydwDkZ6NPw/company-logo_200_200/company-logo_200_200/0/1711612675702/weareparadox_en_logo?e=1743033600&v=beta&t=w-Hh_tfeKg8KOPSA6AHYXlcEcUm84UVSnDoP8KaF7L0" width="38px" height="auto">
+                    <img src="https://cdn.prod.website-files.com/63ef5a85ffdee87c27e6573a/66e0418f9e22dd4e4cacb077_Black%20symbol%20(1)%20(2).png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Paradox</h5>
@@ -1184,7 +1184,7 @@ the services and core processes with the highest security principles and
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEmydwDkZ6NPw/company-logo_200_200/company-logo_200_200/0/1711612675702/weareparadox_en_logo?e=1743033600&v=beta&t=w-Hh_tfeKg8KOPSA6AHYXlcEcUm84UVSnDoP8KaF7L0" width="38px" height="auto">
+                    <img src="https://cdn.prod.website-files.com/63ef5a85ffdee87c27e6573a/66e0418f9e22dd4e4cacb077_Black%20symbol%20(1)%20(2).png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Paradox</h5>
@@ -1208,7 +1208,7 @@ the services and core processes with the highest security principles and
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEmydwDkZ6NPw/company-logo_200_200/company-logo_200_200/0/1711612675702/weareparadox_en_logo?e=1743033600&v=beta&t=w-Hh_tfeKg8KOPSA6AHYXlcEcUm84UVSnDoP8KaF7L0" width="38px" height="auto">
+                    <img src="https://cdn.prod.website-files.com/63ef5a85ffdee87c27e6573a/66e0418f9e22dd4e4cacb077_Black%20symbol%20(1)%20(2).png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Paradox</h5>
@@ -1232,7 +1232,7 @@ the services and core processes with the highest security principles and
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEmydwDkZ6NPw/company-logo_200_200/company-logo_200_200/0/1711612675702/weareparadox_en_logo?e=1743033600&v=beta&t=w-Hh_tfeKg8KOPSA6AHYXlcEcUm84UVSnDoP8KaF7L0" width="38px" height="auto">
+                    <img src="https://cdn.prod.website-files.com/63ef5a85ffdee87c27e6573a/66e0418f9e22dd4e4cacb077_Black%20symbol%20(1)%20(2).png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Paradox</h5>
@@ -1256,7 +1256,7 @@ the services and core processes with the highest security principles and
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEmydwDkZ6NPw/company-logo_200_200/company-logo_200_200/0/1711612675702/weareparadox_en_logo?e=1743033600&v=beta&t=w-Hh_tfeKg8KOPSA6AHYXlcEcUm84UVSnDoP8KaF7L0" width="38px" height="auto">
+                    <img src="https://cdn.prod.website-files.com/63ef5a85ffdee87c27e6573a/66e0418f9e22dd4e4cacb077_Black%20symbol%20(1)%20(2).png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Paradox</h5>
