@@ -10,7 +10,7 @@
                     <code>api,CSS,frontend,html</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-infrastructure-team-1989176" align="right" target="_blank">Apply</a>
@@ -137,7 +137,7 @@
 &lt;li&gt;Experience working with OLAP&amp;nbsp;&lt;/li&gt;
 &lt;li&gt;Experience with D3&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;Compensation + Perk + Benefits&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;strong&gt;Compensation + perk + benefits&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;Kit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 4 ($181,000), out of five levels. Level is determined based on experience and our interview process.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Perks + benefits include:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -161,7 +161,7 @@
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Four-week, paid sabbatical after five years with the team&lt;/li&gt;
 &lt;li&gt;Fantastic in-person or virtual retreats with the team twice a year&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;How to Apply&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;We know that most people hate interviewing (we relate!). We aim to make it as good of an experience as we can, and part of that includes keeping you informed during the process.&lt;/p&gt;
 &lt;p&gt;Here’s what you can expect from the process:&lt;/p&gt;
 &lt;ol&gt;
@@ -238,7 +238,7 @@
 &lt;li&gt;Experience working with OLAP&amp;nbsp;&lt;/li&gt;
 &lt;li&gt;Experience with D3&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;Compensation + Perk + Benefits&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;strong&gt;Compensation + perk + benefits&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;Kit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 4 ($181,000), out of five levels. Level is determined based on experience and our interview process.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Perks + benefits include:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -262,7 +262,7 @@
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Four-week, paid sabbatical after five years with the team&lt;/li&gt;
 &lt;li&gt;Fantastic in-person or virtual retreats with the team twice a year&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;How to Apply&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;We know that most people hate interviewing (we relate!). We aim to make it as good of an experience as we can, and part of that includes keeping you informed during the process.&lt;/p&gt;
 &lt;p&gt;Here’s what you can expect from the process:&lt;/p&gt;
 &lt;ol&gt;
@@ -1157,7 +1157,7 @@
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
-                    <h3>Python and Kubernetes Software Engineer - Data, AI/ML & Analytics</h3>
+                    <h3>Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -1173,10 +1173,10 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 &lt;p&gt;Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world&#39;s leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000+ colleagues in 70+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.&lt;/p&gt;
-&lt;p&gt;The company is founder led, profitable and growing. We are hiring&amp;nbsp;&lt;strong&gt;Python and Kubernetes Specialist Engineers focused on Data, AI/ML and Analytics Solutions &lt;/strong&gt;to join our teams building open source solutions for public cloud and private infrastructure.&lt;/p&gt;
-&lt;p&gt;As a software engineer on the team, you&#39;ll collaborate on an end-to-end data analytics and mlops solution composed of popular, open-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on workflow, ETL, data governance and visualization tools like Apache SuperSet, dbt, and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. Your team will own a solution from the analytics and machine learning space, and integrate with the solutions from other teams to build the world&#39;s best end-to-end data platform. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services.&lt;/p&gt;
+&lt;p&gt;The company is founder led, profitable and growing. We are hiring &lt;strong&gt;Python and Kubernetes Specialist Engineers focused on Data, Workflows, AI/ML and Analytics Solutions &lt;/strong&gt;to join our teams building open source solutions for public cloud and private infrastructure.&lt;/p&gt;
+&lt;p&gt;As a software engineer on the team, you&#39;ll collaborate on end-to-end data analytics and MLOps solutions composed of popular, open-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on ETL, data governance and visualization tools like Apache SuperSet, dbt, workflow orchestration tools such as Airflow and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services.&lt;/p&gt;
 &lt;p&gt;We serve the needs of individuals and community members as much as the needs of our Global 2000 and Fortune 500 customers; we make our primary work available free of charge and our Pro subscriptions are also available to individuals for personal use at no cost. Our goal is to enable more people to enjoy the benefits of open source, regardless of their circumstances.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Location: &lt;/strong&gt;This initiative spans many teams that are home-based and in multiple time zones. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hourse! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location: &lt;/strong&gt;This initiative spans many teams that are home-based and in multiple time zones. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hours! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What your day will look like&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer&lt;/li&gt;
@@ -1204,18 +1204,18 @@
 &lt;li&gt;Result-oriented, with a personal drive to meet commitments&amp;nbsp;&lt;/li&gt;
 &lt;li&gt;Ability to travel twice a year, for company events up to two weeks long&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Additional skills that would be nice to have&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Additional skills that would be nice to have&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The following skills may be helpful to you in the role, but we don&#39;t expect everyone to bring all of them.&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;Proven track record of building highly automated machine learning solutions, data pipelines, or orchestrating workflows for the cloud.&lt;/li&gt;
 &lt;li&gt;Hands-on experience with machine learning libraries, or tools.&lt;/li&gt;
-&lt;li&gt;Proven track record of building highly automated machine learning solutions for the cloud.&lt;/li&gt;
 &lt;li&gt;Experience with container technologies (Docker, LXD, Kubernetes, etc.)&lt;/li&gt;
 &lt;li&gt;Experience with public clouds (AWS, Azure, Google Cloud)&lt;/li&gt;
 &lt;li&gt;Working knowledge of cloud computing&lt;/li&gt;
 &lt;li&gt;Passionate about software quality and testing&lt;/li&gt;
 &lt;li&gt;Experience working on an open source project&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;What we offer colleagues&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;What we offer colleagues&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Distributed work environment with twice-yearly team sprints in person&lt;/li&gt;
@@ -1228,10 +1228,10 @@
 &lt;li&gt;Opportunity to travel to new locations to meet colleagues&lt;/li&gt;
 &lt;li&gt;Priority Pass, and travel upgrades for long haul company events&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;About Canonical&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;About Canonical&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Canonical is an equal opportunity employer&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. &lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt;Whatever your identity, we will give your application fair consideration.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt; Whatever your identity, we will give your application fair consideration.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#LI-remote&lt;/p&gt;
                 </details>
                 </td>
@@ -2035,120 +2035,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/6930305?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Xapo Bank</h5>
-                    <h3>Software Engineer (Remote - Work from Anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/xapo61/jobs/6482820003" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: 900;&quot;&gt;Work from anywhere, impact everywhere&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Diversity is at the heart of who we are at Xapo Bank. We’re a fully distributed team of over 140 Xapiens that work remotely from 40+ countries around the world.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Our beginning: A world that enjoys economic freedom and wealth protection, no matter where you live or who is running your country.&lt;/p&gt;
-&lt;p&gt;To achieve that, we search the world for the best people for the job. We work hard, think globally, and inspire each other to learn and grow. We are committed to changing the way things are done.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Risk is inherent in all of our business activities and managing risk well is the responsibility of every Xapien. Sound risk management enables us to serve our customers and deliver value for our shareholders, and helps make Xapo a great place to work.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Although we are headquartered in Gibraltar, this is a full time, 100% remote position&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Work from anywhere!&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;Position Overview:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Were looking for a Software Engineer to join our backend engineering function. At Xapo, we are&amp;nbsp;building truly cross-functional teams with full ownership of design, architecture, building, testing,&amp;nbsp;delivery, data, and operations.&amp;nbsp;You will collaborate closely with fellow team members from the product, apps, design, and QA&amp;nbsp;communities of practice. You will be part of the product team (we call them SATs, the Stream Aligned Teams, as in the Team Topologies) in charge of the Onboarding, Marketing and Customer&amp;nbsp;Service aspects of Xapo products.&lt;/p&gt;
-&lt;p&gt;As a Software Engineer, you will develop a high-impact service, provide solutions with good practices, and play an active role in the Development Community of practice. You will collaborate in discussions about architectural and technical patterns used in the company to solve problems for operational teams, improve UX, and create a WOW effect in the eyes of our members. With that in mind, you will immensely impact the future of finance &amp;amp; crypto.&lt;/p&gt;
-&lt;p&gt;Our main tech stack includes:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;AWS for all of our Infrastructure&lt;/li&gt;
-&lt;li&gt;Docker&lt;/li&gt;
-&lt;li&gt;Python Django, Flask)&lt;/li&gt;
-&lt;li&gt;MySQL&lt;/li&gt;
-&lt;li&gt;MongoDB&lt;/li&gt;
-&lt;li&gt;Redis&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;We use also:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;PostgreSQL&lt;/li&gt;
-&lt;li&gt;Node.js&lt;/li&gt;
-&lt;li&gt;Java&lt;/li&gt;
-&lt;li&gt;BigQuery&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Design, develop, and deploy robust and scalable backend services.&lt;/li&gt;
-&lt;li&gt;Collaborate effectively within a cross-functional team environment.&lt;/li&gt;
-&lt;li&gt;Work with operational teams to troubleshoot and resolve issues efficiently.&lt;/li&gt;
-&lt;li&gt;Contribute to a positive and productive work environment.&lt;/li&gt;
-&lt;li&gt;Take end-to-end responsibility for the services your team owns.&lt;/li&gt;
-&lt;li&gt;Develop innovative solutions on the edge of tech &amp;amp; marketing.&lt;/li&gt;
-&lt;li&gt;Actively participate in the Development Community of Practice, contributing to architectural&amp;nbsp;discussions and promoting best practices.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;Skills needed:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Solid software engineering experience in one or more general-purpose programming languages (Python preferred) - Demonstrable experience with Python (Django/Flask) is highly advantageous.&lt;/li&gt;
-&lt;li&gt;Strong understanding of software engineering principles and best practices.&lt;/li&gt;
-&lt;li&gt;Microservices architecture and containerization Docker.&lt;/li&gt;
-&lt;li&gt;Cloud-native patterns, particularly around fault tolerance.&lt;/li&gt;
-&lt;li&gt;CI/CD pipelines and best practices.&lt;/li&gt;
-&lt;li&gt;Building and deploying scalable, asynchronous software.&lt;/li&gt;
-&lt;li&gt;Monitoring and observability tools and techniques.&lt;/li&gt;
-&lt;li&gt;Excellent teamwork and communication skills, including the ability to create clear&amp;nbsp;documentation and designs.&lt;/li&gt;
-&lt;li&gt;A passion for learning and a proactive approach to problem-solving.&lt;/li&gt;
-&lt;li&gt;Genuine interest in Bitcoin and the cryptocurrency space.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Other requirements&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A dedicated workspace.&lt;/li&gt;
-&lt;li&gt;A reliable internet connection with the fastest speed possible in your area.&lt;/li&gt;
-&lt;li&gt;Devices and other essential equipment that meet minimal technical specifications.&lt;/li&gt;
-&lt;li&gt;Alignment with Our Values and the Xapo Values-Driven Leadership principles.&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Why work for Xapo?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 500; font-size: 10pt;&quot;&gt;IMPACT GLOBALLY, WORK REMOTELY.&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Shape the Future:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Improve lives through cutting-edge technology, work 100% remotely from anywhere in the world.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Great work-life balance:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Build amazing things with a balance of autonomy and collaborative teamwork. Set your own work schedule and make use of a flexible PTO plan when you need to recharge.&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Expect Excellence:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Collaborate, learn, and grow with a high-performance team. Learn&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; how you learn best - from books to conferences, you’ll get a yearly budget for your individual learning and development goals.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;At Xapo, we prioritize consumer protection and adhere to regulatory requirements by ensuring that all Xapiens are accountable for upholding principles of fair treatment, transparency, and ethical conduct in their interactions with customers and stakeholders.&lt;br&gt;&lt;br&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Xapo Device Policy&lt;br&gt;&lt;/span&gt;&lt;/strong&gt;Consultants joining Xapo Bank must comply with the Xapo Device Policy, which governs the use of corporate-approved laptops under Corporate-Owned, Personally Purchased Device (reimbursed up to $1,500) or Corporate-Owned, Personally Enabled Device (personal device with enforced security controls).&lt;br&gt;All devices must meet security requirements, enroll in Xapo’s Mobile Device Management (MDM), and adhere to compliance rules. COPPD devices remain Xapo property with buyback options upon exit. COPED users agree to data control measures, including mandatory corporate data wipes.&lt;br&gt;Compliance with the Xapo Device Policy is mandatory for all consultants, onboarding will not proceed without adherence to the policy.&lt;strong&gt;&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/1021150?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>HappyCo</h5>
-                    <h3>Senior Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/happyco/5a6f3f73-2c1c-4c69-8a23-2481e84f2d3d" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b style="font-size: 11pt">HappyCo is a company where people can grow their careers and work with like minded people, with no egos or politics. HappyCo is values driven and offers a flexible, supportive culture. Join HappyCo and <a class="postings-link" href="https://happy.co/media/make-work-happy">Make Work Happy</a>!</b>&nbsp;</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><span style="font-size: 11pt;">We’re looking for a </span><b><span style="font-size: 11pt;">Senior Software Engineer (Mobile)</span></b><span style="font-size: 11pt;"> to join our team.</span></div><div><br></div><div><b style="font-size: 11pt;">The Position</b></div><div><br></div><div><span style="font-size: 11pt;">As a Senior Engineer on our Mobile Team you will use your experience developing mobile applications to contribute to the growth of our mobile application experiences that meet our customers needs. At HappyCo we empower our teams to solve problems in ways our customers and partners love and that work for our business. Working alongside Product Managers, Designers and Engineers you will help advance us along our technology roadmap, leveraging your experience to uplift the technical capability within our Engineering team.</span></div><div><br></div><div><span style="font-size: 11pt;">Our Engineers are empowered to help contribute towards the design of solutions that solve customer problems, and as a Senior Engineer you will help identify potential problems and risks in both the code and feature design and communicate these with your peers. You will be able to take moderately complex products and features and break down work into tasks and deliver them in collaboration with your team, ensuring that value can be delivered to customers early. Our Mobile engineers primarily work on our Mobile Applications (Flutter) but are encouraged to develop end-to-end solutions by working across our full technical stack (React and Golang).</span></div><div><br></div><div><span style="font-size: 11pt;">We’re looking for a </span><b><span style="font-size: 11pt;">Senior Software Engineer (Mobile)</span></b><span style="font-size: 11pt;"> to join our team.</span></div><div><br></div><div><b style="font-size: 11pt;">The Position</b></div><div><br></div><div><span style="font-size: 11pt;">As a Senior Engineer on our Mobile Team you will use your experience developing mobile applications to contribute to the growth of our mobile application experiences that meet our customers needs. At HappyCo we empower our teams to solve problems in ways our customers and partners love and that work for our business. Working alongside Product Managers, Designers and Engineers you will help advance us along our technology roadmap, leveraging your experience to uplift the technical capability within our Engineering team.</span></div><div><br></div><div><span style="font-size: 11pt;">Our Engineers are empowered to help contribute towards the design of solutions that solve customer problems, and as a Senior Engineer you will help identify potential problems and risks in both the code and feature design and communicate these with your peers. You will be able to take moderately complex products and features and break down work into tasks and deliver them in collaboration with your team, ensuring that value can be delivered to customers early. Our Mobile engineers primarily work on our Mobile Applications (Flutter) but are encouraged to develop end-to-end solutions by working across our full technical stack (React and Golang).</span></div><h3>Week by Week - During your first week you will:</h3><li>Setup your Development Environment</li><li>Push your first Mobile change for review and deployment</li><li>Get to know our leadership, culture, and values</li><li>Familiarize yourself with our products, systems and tools</li><h3>Week by Week - During your first six weeks you will:</h3><li>Onboard with the product, design and engineering teamImplement well structured code aligned to our product architecture and engineering principles</li><li>Interact with our customers and customer representatives, either directly or asynchronously, to build an understanding of their needs and to increase your domain knowledge</li><li>Work with your Product Team to solve customer problems that will progress you towards achieving your team outcomes</li><li>Attend your first Company Wide Meeting (monthly)</li><h3>Week by Week - During your first six months you will:</h3><li>Assist in driving the improvement of software development processes ensuring the early delivery of value to our customers</li><li>Continue to develop your knowledge and technical skills to grow your mobile engineering capability</li><li>Champion our culture of transparency, success and happiness</li><h3>Required Qualifications & Skills:</h3><li>Relevant tertiary qualifications (e.g. Bachelor/Grad Dip. Science/Computer Science/Software Engineering, IT Certification or similar) or equivalent practical experience</li><li>At least 5 years proven working experience in software development</li><li>Experience developing Mobile applications using Flutter</li><li>Demonstrable experience in building solutions based on an understanding of your users and the objectives of the business</li><li>Demonstrable experience in taking complex solutions and breaking them into development iterations that provide early value to customers</li><li>Sound understanding of mobile design and architectural patterns, and coding practices</li><li>Experience with software development and quality processes, especially Agile development methodologies</li><li>Positive work attitude and a growth mindset</li><li>Ability to thrive in a fast-paced environment across multiple time zones (US and AUS) requiring effective asynchronous communication</li><h3>Desirable Qualifications, Skills & Experience:</h3><li>Familiarity with Mobile Application development technologies e.g. Swift, Kotlin, Java, Objective-C, React-Native</li><li>Familiarity with React, GoLang, GraphQLE</li><li>xperience working in a B2B / SaaS / Agency environment</li><div><b style="font-size: 11pt">Our HappyCo Culture &amp; Benefits</b></div><div><span style="font-size: 11pt">HappyCo strives to build better communities. So naturally, we are dedicated to making our own community an enjoyable place that lets us do our best work. We’re devoted to building an inclusive, supportive culture that empowers each HappyCo’er to succeed and grow. To learn more about our culture, check out our </span><a class="postings-link" style="font-size: 11pt" href="https://happy.co/company/careers">careers page!</a><span style="font-size: 11pt">&nbsp;</span></div><div><br></div><div><b>We Offer:</b></div><div>- Opportunity to work for one of the fastest growing technology companies in the PropTech industry</div><div>- Generous paid parental leave</div><div>- Competitive and equitable pay, including stock options</div><div>- Access to employee assistance programs to support both physical and mental wellness</div><div>- Monthly stipends to support Wellness and Home Office expenses</div><div><br></div><div>Find out more about our <a class="postings-link" href="https://happy.co/company/careers/employee-benefits-aus">AU Employee Benefits</a> here!</div><div><br></div><div><i style="font-size: 11pt">We believe in supporting people to do their best work and thrive, and building a diverse, equitable, and inclusive company is core to our mission. Our goal is to ensure that HappyCo upholds an inclusive environment where all people feel that they are equally respected and valued, whether they are applying for an open position or working at the company. We welcome applicants of any educational background, gender identity and expression, sexual orientation, religion, ethnicity, age, citizenship, socioeconomic status, disability, and veteran status. HappyCo is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures.</i></div><div><br></div><div><i style="font-size: 11pt">A note to Recruitment Agencies: Please don’t reach out to us about our roles -- we’ve got it covered. We don’t accept unsolicited agency resumes and HappyCo is not responsible for any fees related to unsolicited resumes.</i></div><div><b style="font-size: 11pt">HappyCo is a company where people can grow their careers and work with like minded people, with no egos or politics. HappyCo is values driven and offers a flexible, supportive culture. Join HappyCo and <a href="https://happy.co/media/make-work-happy" class="postings-link">Make Work Happy</a>!</b>&nbsp;</div><div><br></div><div><br></div><div><br></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/87661266?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -2240,7 +2126,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div>Metabase is the easiest way for people to get insights from their data, from tiny startups who get up and running quickly to major corporations with tens of thousands of users. That's why people <a class="postings-link" href="https://www.metabase.com/love">love us</a>.</div><div><br></div><div>We bring data tools with the elegance and simplicity of consumer products to the crufty world of enterprise business intelligence. We provide an opinionated open source starting point for how companies should measure, analyze and share their data, which is used by tens of thousands of companies.</div><div><br></div><div><span style="font-size: 18px;"><b>Come join us</b></span></div><div><span style="font-size: 16px;">Our business is thriving and we are thoughtfully expanding our engineering teams. We’re looking for exceptional software engineers to join our Applied AI engineering team in doing the hard work that makes our users’ lives easy. We run on a mix of Python, Clojure and TypeScript (React), and the ideal candidate has shipped production code in one or more of these languages. You’ll be expected to ship product features that leverage LLMs/generativeAI. You should have strong product sensibilities and deeply care about the end user experience.</span></div><div><br></div><div><span style="font-size: 18px;"><b>What we are looking for</b></span></div><div><span style="font-size: 16px;">- Strong generalist software engineer who likes shipping user facing features in a rapid and iterative manner.</span></div><div><span style="font-size: 16px;">- Solid CS background (acquired through either a CS program or shipping software in a production setting).</span></div><div><span style="font-size: 16px;">- You care about crafting responsible, user-centered systems. You have a collaborative, iterative working style where you build features that are both powerful and ethically sound, with particular attention to accuracy and fairness.</span></div><div><span style="font-size: 16px;">- You've worked on large and complex projects. Metabase is a large code base so the ability to adapt existing code and integrate new capabilities into established systems is important and you should feel comfortable digging in.</span></div><div><span style="font-size: 16px;">- Nice to have: Experience building product features and systems that use LLMs/generative AI technologies.</span></div><div><br></div><div><span style="font-size: 18px;"><b>What you would do at Metabase</b></span></div><div><span style="font-size: 16px;">- Ship innovative features in the Metabase software including those powered by LLMs/generative AI technologies. See </span><a href="https://www.metabase.com/releases"><span style="font-size: 16px;">our recent releases</span></a><span style="font-size: 16px;"> to get a sense of what these look like.</span></div><div><span style="font-size: 16px;">- Build LLM-powered natural language data interaction capabilities that allow users to ask questions about their data in plain English and receive accurate, contextual responses.</span></div><div><span style="font-size: 16px;">- Apply generative AI, ML, and data science techniques to enhance data understanding. Develop systems that can explain complex queries in plain English, and provide context-aware suggestions for data exploration.</span></div><div><span style="font-size: 16px;">- Work closely with product manager, product designer and other engineers in a collaborative, iterative, non-waterfall style of software development.</span></div><div><span style="font-size: 16px;">- Own the quality of the code you write and the areas of infrastructure in your team's scope. Write unit and integration tests that thoroughly and thoughtfully test the systems you build. We take testing seriously across all components.</span></div><div><span style="font-size: 18px;"><b>Come join us</b></span></div><div><span style="font-size: 16px;">Our business is thriving and we are thoughtfully expanding our engineering teams. We’re looking for exceptional software engineers to join our Applied AI engineering team in doing the hard work that makes our users’ lives easy. We run on a mix of Python, Clojure and TypeScript (React), and the ideal candidate has shipped production code in one or more of these languages. You’ll be expected to ship product features that leverage LLMs/generativeAI. You should have strong product sensibilities and deeply care about the end user experience.</span></div><div><br></div><div><span style="font-size: 18px;"><b>What we are looking for</b></span></div><div><span style="font-size: 16px;">- Strong generalist software engineer who likes shipping user facing features in a rapid and iterative manner.</span></div><div><span style="font-size: 16px;">- Solid CS background (acquired through either a CS program or shipping software in a production setting).</span></div><div><span style="font-size: 16px;">- You care about crafting responsible, user-centered systems. You have a collaborative, iterative working style where you build features that are both powerful and ethically sound, with particular attention to accuracy and fairness.</span></div><div><span style="font-size: 16px;">- You've worked on large and complex projects. Metabase is a large code base so the ability to adapt existing code and integrate new capabilities into established systems is important and you should feel comfortable digging in.</span></div><div><span style="font-size: 16px;">- Nice to have: Experience building product features and systems that use LLMs/generative AI technologies.</span></div><div><br></div><div><span style="font-size: 18px;"><b>What you would do at Metabase</b></span></div><div><span style="font-size: 16px;">- Ship innovative features in the Metabase software including those powered by LLMs/generative AI technologies. See </span><a href="https://www.metabase.com/releases"><span style="font-size: 16px;">our recent releases</span></a><span style="font-size: 16px;"> to get a sense of what these look like.</span></div><div><span style="font-size: 16px;">- Build LLM-powered natural language data interaction capabilities that allow users to ask questions about their data in plain English and receive accurate, contextual responses.</span></div><div><span style="font-size: 16px;">- Apply generative AI, ML, and data science techniques to enhance data understanding. Develop systems that can explain complex queries in plain English, and provide context-aware suggestions for data exploration.</span></div><div><span style="font-size: 16px;">- Work closely with product manager, product designer and other engineers in a collaborative, iterative, non-waterfall style of software development.</span></div><div><span style="font-size: 16px;">- Own the quality of the code you write and the areas of infrastructure in your team's scope. Write unit and integration tests that thoroughly and thoughtfully test the systems you build. We take testing seriously across all components.</span></div><div>We're a global team (50% outside the US), fully distributed (from Thailand to California), who get things done asynchronously, with plenty of uninterrupted time, supporting each other to do the best work of our careers. We offer flexibility (define your own schedule and work from wherever you want), autonomy, and an environment that fosters growth, learning, and development. We're relentlessly user-focused and believe in building long-term value, not short-term hacks. And we raised a $30M Series B to take our approach to the next level for years to come.</div><div><br></div><div><span style="font-size: 10px">For U.S. applicants: Metabase participates in the federal E-Verify program, which confirms employment authorization of newly hired U.S. based employees. E-Verify is not used as a tool to pre-screen candidates and is only initiated upon hire.</span></div><div><br></div><div><span style="font-size: 10px"><a href="https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf"><u>E-Verify Participation Notice</u></a> (English/Spanish)</span></div><div><span style="font-size: 10px"><a href="https://www.e-verify.gov/sites/default/files/everify/posters/IER_RightToWorkPoster%20Eng_Es.pdf"><u>Right to Work Notice</u></a> (English/Spanish)</span></div><div>Metabase is the easiest way for people to get insights from their data, from tiny startups who get up and running quickly to major corporations with tens of thousands of users. That's why people <a href="https://www.metabase.com/love" class="postings-link">love us</a>.</div><div><br></div><div>We bring data tools with the elegance and simplicity of consumer products to the crufty world of enterprise business intelligence. We provide an opinionated open source starting point for how companies should measure, analyze and share their data, which is used by tens of thousands of companies.</div>
+                <div>Metabase is the easiest way for people to get insights from their data, from tiny startups who get up and running quickly to major corporations with tens of thousands of users. That's why people <a class="postings-link" href="https://www.metabase.com/love">love us</a>.</div><div><br></div><div>We bring data tools with the elegance and simplicity of consumer products to the crufty world of enterprise business intelligence. We provide an opinionated open source starting point for how companies should measure, analyze and share their data, which is used by tens of thousands of companies.</div><div><br></div><div><b><span style="font-size: 18px;">Come join us</span></b></div><div><br></div><div><span style="font-size: 16px;">Our business is thriving and we are thoughtfully expanding our engineering teams. We’re looking for exceptional software engineers to join our Applied AI engineering team in doing the hard work that makes our users’ lives easy. We run on a mix of Python, Clojure and TypeScript (React), and the ideal candidate has shipped production code in one or more of these languages. You’ll be expected to ship product features that leverage LLMs/generativeAI. You should have strong product sensibilities and deeply care about the end user experience.</span></div><div><b><span style="font-size: 18px;">Come join us</span></b></div><div><br></div><div><span style="font-size: 16px;">Our business is thriving and we are thoughtfully expanding our engineering teams. We’re looking for exceptional software engineers to join our Applied AI engineering team in doing the hard work that makes our users’ lives easy. We run on a mix of Python, Clojure and TypeScript (React), and the ideal candidate has shipped production code in one or more of these languages. You’ll be expected to ship product features that leverage LLMs/generativeAI. You should have strong product sensibilities and deeply care about the end user experience.</span></div><h3>What we are looking for</h3><li>Strong generalist software engineer who likes shipping user facing features in a rapid and iterative manner.</li><li>Solid CS background (acquired through either a CS program or shipping software in a production setting).</li><li>You care about crafting responsible, user-centered systems. You have a collaborative, iterative working style where you build features that are both powerful and ethically sound, with particular attention to accuracy and fairness.</li><li>You've worked on large and complex projects. Metabase is a large code base so the ability to adapt existing code and integrate new capabilities into established systems is important and you should feel comfortable digging in.</li><li>Nice to have: Experience building product features and systems that use LLMs/generative AI technologies.</li><h3>What you would do at Metabase</h3><li>Ship innovative features in the Metabase software including those powered by LLMs/generative AI technologies. See <a rel="noopener noreferrer" class="postings-link" href="https://www.metabase.com/releases">our recent releases</a> to get a sense of what these look like.</li><li>Build LLM-powered natural language data interaction capabilities that allow users to ask questions about their data in plain English and receive accurate, contextual responses.</li><li>Apply generative AI, ML, and data science techniques to enhance data understanding. Develop systems that can explain complex queries in plain English, and provide context-aware suggestions for data exploration.</li><li>Work closely with product manager, product designer and other engineers in a collaborative, iterative, non-waterfall style of software development.</li><li>Own the quality of the code you write and the areas of infrastructure in your team's scope. Write unit and integration tests that thoroughly and thoughtfully test the systems you build. We take testing seriously across all components.</li><div>We're a global team (50% outside the US), fully distributed (from Thailand to California), who get things done asynchronously, with plenty of uninterrupted time, supporting each other to do the best work of our careers. We offer flexibility (define your own schedule and work from wherever you want), autonomy, and an environment that fosters growth, learning, and development. We're relentlessly user-focused and believe in building long-term value, not short-term hacks. And we raised a $30M Series B to take our approach to the next level for years to come.</div><div><br></div><div><span style="font-size: 10px">For U.S. applicants: Metabase participates in the federal E-Verify program, which confirms employment authorization of newly hired U.S. based employees. E-Verify is not used as a tool to pre-screen candidates and is only initiated upon hire.</span></div><div><br></div><div><span style="font-size: 10px"><a href="https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf"><u>E-Verify Participation Notice</u></a> (English/Spanish)</span></div><div><span style="font-size: 10px"><a href="https://www.e-verify.gov/sites/default/files/everify/posters/IER_RightToWorkPoster%20Eng_Es.pdf"><u>Right to Work Notice</u></a> (English/Spanish)</span></div><div>Metabase is the easiest way for people to get insights from their data, from tiny startups who get up and running quickly to major corporations with tens of thousands of users. That's why people <a href="https://www.metabase.com/love" class="postings-link">love us</a>.</div><div><br></div><div>We bring data tools with the elegance and simplicity of consumer products to the crufty world of enterprise business intelligence. We provide an opinionated open source starting point for how companies should measure, analyze and share their data, which is used by tens of thousands of companies.</div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -2594,7 +2480,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/alpaca/jobs/5389091004" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/alpaca/jobs/5389091004" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
