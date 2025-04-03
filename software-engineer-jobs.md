@@ -1,5 +1,88 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1991695/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Webicient</h5>
+                    <h3>Senior Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>.Net,javascript,python,saas</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1991695" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="h1">Work With the Worlds Fastest Growing Teams</p>
+<p><strong> </strong></p>
+<div class="h2"><strong>TL;DR:</strong></div>
+<p>We match elite tech talent with funded SaaS startups across Europe &amp; North America.<br>No fluff. No recruiter spam. Just fast-moving teams who need real builders. If you love tech, AI and want to provide high class code, we want you. </p>
+<p> </p>
+<div class="h2">What You Get:</div>
+<ul style="">
+<li style=""><strong>Consistent, long-term work</strong> with top-tier SaaS companies</li>
+<li style="">Fully remote — work from anywhere</li>
+<li style=""><strong>AI tools to make you love your work</strong></li>
+<li style="">Competitive hourly rates: <strong>€25–€65/hour. Based on experience and test results</strong></li>
+<li style=""><strong>Get paid on time, every time</strong> — no weird delays</li>
+<li style="">Dev-first support: you focus on shipping, we handle the business</li>
+<li style="">Access to our Discord talent tech pool for future job postings</li>
+<li style="">Bonuses when passing 6 or 12 month marks</li>
+<li style="">Remote work from wherever you want</li>
+</ul>
+<p> </p>
+<div class="h2">What We Look For:</div>
+<ul style="">
+<li style=""><strong>5+ years of professional dev experience</strong></li>
+<li style="">Proven experience in SaaS product environments</li>
+<li style="">Fluent in at least 2-3 tech stacks (Javascript, Python and .NET)</li>
+<li style="">You love to use AI-tools when working e.g: <strong>ChatGPT, Cursor, Codium, Phind, etc.</strong></li>
+<li style="">English proficiency</li>
+<li style="">Comfortable with working with our clients timezone</li>
+<li style="">High speed internet - <strong>IMPORTANT!</strong></li>
+<li style="">High resolution camera - <strong>IMPORTANT!</strong></li>
+</ul>
+<p><span style="color: #000000;"><strong> </strong></span></p>
+<div class="h2">Bonus if you have (Not a must):</div>
+<ul style="">
+<li style="">Led sprints or shipped major product updates</li>
+<li style="">Experience with agile remote teams</li>
+<li style="">Built tooling or optimized CI/CD pipelines</li>
+<li style="">Have a degree in engineering or computer science </li>
+<li style="">StartUp experience</li>
+<li style="">Have had multiple responsibilities in previous work</li>
+<li style="">Experience with LLM:</li>
+</ul>
+<p> </p>
+<div class="h2">How It Works:</div>
+<ol style="">
+<li style="">Apply once → We vet you and contact you for an interview</li>
+<li style="">Once you pass that and our tests, your are added to our talent pool</li>
+<li style="">We match you with SaaS teams that need your exact skillset</li>
+<li style="">You can say <strong>yes/no</strong> to every opportunity. We believe in devs loving their work.</li>
+<li style="">Once placed, you get paid hourly through our platform (with monthly payouts)</li>
+</ol>
+<p> </p>
+<p class="h3"> </p>
+<div class="h2" style="box-sizing: border-box; border: 0px solid; margin: 0px; font-weight: inherit; line-height: 1.2; color: #532a21; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">How It Works:</div>
+<ol style="">
+<li style="">Apply through the link</li>
+<li style="">We'll send you a quick AI-readiness check and ask for a short Loom video. If you pass, you're in the pool. Simple. And you will always be there</li>
+</ol>
+<p> </p>
+<p><strong>Note:</strong><br>This is <em>not</em> for junior devs or people who need hand-holding. It’s for builders who know how to ship and want to join real teams without corporate BS.</p>
+<p><strong>Ready to work smarter, faster — and get paid well for it? Please apply</strong></p>
+<img src="https://remotive.com/job/track/1991695/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1989176/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +93,7 @@
                     <code>api,CSS,frontend,html</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-infrastructure-team-1989176" align="right" target="_blank">Apply</a>
@@ -2463,96 +2546,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div>Are you ready to embark on an exciting adventure? Are you looking for an opportunity that breaks the mold and lets you unleash your creativity and talent? You’ve come to the right place!</div><div><br></div><div>🚀 About Us 🚀</div><div>We’re a team of innovators, ambitious and mission-driven people who are always striving to do better. We value diversity, embrace quirks and celebrate uniqueness. Together, we’re on a mission to revolutionize the global real estate capital markets.  At Altrio, we are building real estate investment software designed to help our clients invest faster, smarter, and more confidently for some of the biggest global real estate investors, including Brookfield Properties, QuadReal Property Group and Hines.</div><div><br></div><div>🏢 The Opportunity 🏢 </div><div><span style="font-size: 11pt;">We are currently looking for an Intermediate Software Engineer (Ruby on Rails) to join the team. The ideal candidate will have a strong understanding of Ruby on Rails, as well as experience building and maintaining web applications. In this role, you will be responsible for working on a variety of projects, including new feature development, bug fixing, and performance optimization.</span></div><div><span style="font-size: 11pt;">We’re using both client and server-side technologies; Javascript, React and Tailwind CSS along with modern Rails; Stimulus and Hotwire to deliver experiences our customers love. We’re strong proponents of </span><a rel="noopener noreferrer" class="postings-link" style="font-size: 11pt;" href="https://dev.37signals.com/vanilla-rails-is-plenty/">vanilla rails</a><span style="font-size: 11pt;"> and endeavour to really lean into the framework.</span></div><div><br></div><div>Are you ready to embark on an exciting adventure? Are you looking for an opportunity that breaks the mold and lets you unleash your creativity and talent? You’ve come to the right place!</div><div><br></div><div>🚀 About Us 🚀</div><div>We’re a team of innovators, ambitious and mission-driven people who are always striving to do better. We value diversity, embrace quirks and celebrate uniqueness. Together, we’re on a mission to revolutionize the global real estate capital markets.  At Altrio, we are building real estate investment software designed to help our clients invest faster, smarter, and more confidently for some of the biggest global real estate investors, including Brookfield Properties, QuadReal Property Group and Hines.</div><div><br></div><div>🏢 The Opportunity 🏢 </div><div><span style="font-size: 11pt;">We are currently looking for an Intermediate Software Engineer (Ruby on Rails) to join the team. The ideal candidate will have a strong understanding of Ruby on Rails, as well as experience building and maintaining web applications. In this role, you will be responsible for working on a variety of projects, including new feature development, bug fixing, and performance optimization.</span></div><div><span style="font-size: 11pt;">We’re using both client and server-side technologies; Javascript, React and Tailwind CSS along with modern Rails; Stimulus and Hotwire to deliver experiences our customers love. We’re strong proponents of </span><a href="https://dev.37signals.com/vanilla-rails-is-plenty/" style="font-size: 11pt;" class="postings-link" target="_blank" rel="noopener noreferrer">vanilla rails</a><span style="font-size: 11pt;"> and endeavour to really lean into the framework.</span></div><div><br></div><h3>🔥 What You'll Do 🔥</h3><li>Design, develop and ship major features for existing and new products using Ruby on Rails</li><li>Write clean, maintainable, and efficient code</li><li>Collaborate with other developers, designers, and stakeholders to deliver high-quality products</li><li>Troubleshoot and debug issues as they arise</li><li>Stay up-to-date with the latest industry trends and technologies</li><li>Mentor junior developers and lead best practices across the team</li><li>Deeply understand the needs of our business and its clients</li><li>Have the opportunity to work full stack</li><li>Help shape our engineering culture, tooling and processes </li><h3>💡 What You Bring to the Team 💡</h3><li>2+ years of professional software engineering experience</li><li>Have delivered impactful projects from design to production with Ruby on Rails</li><li>Familiarity with Git and other version control tools</li><li>Strong problem-solving, analytical, debugging and troubleshooting skills</li><li>Practitioner of best practices in code health, testability, maintainability, scalability</li><li>Effective communicator who is comfortable seeking and receiving feedback</li><li>Highly collaborative with low ego</li><li>Results-oriented developer who takes pride in their craft</li><h3>🌟 Perks and Benefits 🌟</h3><li><b>Stake in the Company:</b> Empowering and amplifying the voices and work of our employees is important to us, and that’s why we provide employee stock options. We want the whole team to share in our successes and victories, and have hard work pay off in more ways than a paycheque.</li><li><b>Continuous Learning:</b> We believe that investing in our employees’ growth and development is essential to our long-term success as a company. By providing financial support for continuing education and skill-building opportunities, we empower our employees to stay up-to-date with the latest trends and best practices in their field, and develop new skills.</li><li><b>Health Coverage:</b> Ensuring our employees feel valued, supported and empowered to prioritize their health and well-being is our top priority. We offer comprehensive healthcare coverage to provide the support and resources our employees need to take care of themselves and their families, so they can come to work healthy, focused, and ready to take on the day.</li><li><b>Work from Anywhere:</b> We give our team the flexibility and ownership to choose to work from wherever they’re most productive, whether that be at home, the Toronto HQ, or anywhere else. We want our team to feel productive, and balance their lives however works best for them.</li><li><b>Rest &amp; Recharge:</b> We provide ample vacation days, personal days and other forms of paid leave, our employees should feel free prioritize their well-being, spend time with their loved ones, and experience new places and activities</li><div><span style="font-size: 16px;">We are committed to creating an inclusive and accessible work environment for all candidates. If you require accommodations to participate in the application process or have any specific needs throughout the hiring process, please contact us at people@altrio.com. </span></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/30398729?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Alpaca</h5>
-                    <h3>Senior Software Engineer - Platform </h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/alpaca/jobs/5389091004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;
-&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;
-&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;
-&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;
-&lt;div class=&quot;p-rich_text_block&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Who We Are:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Alpaca is a US California headquartered brokerage infrastructure technology company and self-clearing broker-dealer, delivering execution and custody solutions for Stocks, ETFs, Options, Cryptocurrencies, and more, and has raised over $170 million in funding. Amongst our subsidiaries, Alpaca is a licensed financial services company in multiple countries, and we serve hundreds of financial institutions globally such as broker-dealers, investment advisors, hedge funds, and crypto exchanges.&lt;/p&gt;
-&lt;p&gt;Alpaca’s globally distributed team members bring in diverse experiences such as engineers, traders, and brokerage professionals to achieve our Mission of opening financial services to everyone on the planet. We are also deeply committed to open-source contributions and fostering a vibrant community. We will continue to enhance and improve our award-winning developer-friendly API and the infrastructure behind it.&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Our Team Members:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;We’re a team of 150+ globally distributed members who love working from our favorite places worldwide. Our team spans the USA, Canada, Japan, Hungary, Nigeria, Brazil, the United Kingdom, and more!&lt;/p&gt;
-&lt;p&gt;We’re looking for candidates eager to join Alpaca’s growing organization, who are excited about our Mission of “Open financial services to everyone on the planet and share our Values of “Stay Curious,” “Have Empathy,” and “Be Accountable.”&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Your Role:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;As a senior software engineer, you will help build and scale the systems and services that form Alpaca&#39;s foundation and empower millions of users who trade billions of dollars worth of assets.&lt;/p&gt;
-&lt;p&gt;The platform team is responsible for improving Alpaca&#39;s overall internal architecture and overseeing the public API’s structure. The team is responsible for building a cohesive developer-first API and tasked with building, ideating, experimenting, and productionize new services, internal tooling and libraries that overcome some of our greatest technical challenges as we continue to scale rapidly,&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;We are looking for senior or staff+ engineers who are keen on providing quality solutions, have great fundamentals, have proven experience building and architecting at scale, and are not afraid of challenging conventions. This demanding team also requires a deep understanding of POSIX, such as operating systems, modern infrastructure, and orchestration practices.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Things You Get To Do:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Influence the overall architecture of Alpaca’s systems&lt;/li&gt;
-&lt;li&gt;Design a highly scalable, mission-critical brokerage system.&lt;/li&gt;
-&lt;li&gt;Obsess over latency (every nanosecond counts)&lt;/li&gt;
-&lt;li&gt;Implement backend services and lead architecture where scalability and resilience matter.&lt;/li&gt;
-&lt;li&gt;Maintain good software quality and test coverage&lt;/li&gt;
-&lt;li&gt;Participate in code reviews&lt;/li&gt;
-&lt;li&gt;Troubleshooting on incidents and reported bugs&lt;/li&gt;
-&lt;li&gt;You may be asked to be on-call to assist with engineering projects that are timely in nature&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;strong&gt;Who You Are (Must-Haves):&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;At least 4 years of experience working on systems at scale&lt;/li&gt;
-&lt;li&gt;Experience with at least compiled imperative languages (ex: Go, C, C++, Rust, Zig) or functional languages (Haskell, Clojure, Erlang, Elixir, Scala). Most of our critical services are written in Go&lt;/li&gt;
-&lt;li&gt;SQL or relational database skills&lt;/li&gt;
-&lt;li&gt;Familiarity with message brokers and message queues&lt;/li&gt;
-&lt;li&gt;Proficient with Linux/BSD, shell scripting.&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Excited about what we are building at Alpaca&lt;/li&gt;
-&lt;li&gt;Proven track record of architecting and leading medium-scale projects involving multiple teams&lt;/li&gt;
-&lt;li&gt;Experience with Kubernetes or other workload orchestration and scheduling systems (we primarily use Kubernetes via GKE)&lt;/li&gt;
-&lt;li&gt;Experience with major cloud platforms (we primarily use GCP)&lt;/li&gt;
-&lt;li&gt;A passion for financial markets&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Who You Might Be&lt;/strong&gt; (&lt;strong&gt;Nice-to-Haves):&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Knowledge of microservice architectures&lt;/li&gt;
-&lt;li&gt;Knowledge of clean code principles&lt;/li&gt;
-&lt;li&gt;DevOps mindset is an asset&lt;/li&gt;
-&lt;li&gt;Networking experience (BGP, VPC peering, TCP/UDP)&lt;/li&gt;
-&lt;li&gt;Experience with distributed Key Value stores&lt;/li&gt;
-&lt;li&gt;Experience with CI/CD&lt;/li&gt;
-&lt;li&gt;A passion for financial markets or the desire to learn&lt;/li&gt;
-&lt;li&gt;Knowledge of Agile/Scrum methodologies&lt;/li&gt;
-&lt;li&gt;Experience with observability, tracing, continuous profiling&lt;/li&gt;
-&lt;li&gt;Experience with capacity planning and benchmarking&lt;/li&gt;
-&lt;li&gt;Knowledge of eBPF&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;How We Take Care of You:&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive Salary &amp;amp; Stock Options&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Benefits: Health benefits start on day 1. In the US this includes Medical, Dental, Vision. In Canada, this includes supplemental health care. In Japan, you are offered local benefits. Internationally, this includes a stipend value to offset medical costs.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;New Hire Home-Office Setup: One-time USD $500&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Monthly Stipend: USD $150 per month via a Brex Card&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with awesome hard working people, super smart and cool clients and innovative partners from around the world&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Alpaca is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;a href=&quot;https://files.alpaca.markets/disclosures/AlpacaRecruitmentPrivacyPolicy.pdf&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recruitment Privacy Policy&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
