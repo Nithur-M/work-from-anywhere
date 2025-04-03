@@ -316,7 +316,7 @@
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
-                    <h3>Senior Site Reliability Engineer (SRE) for Release Engineering (remote-only)</h3>
+                    <h3>Senior Site Reliability Engineer (worldwide remote, work anywhere)</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -340,7 +340,7 @@
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
-                    <h3>Senior Site Reliability Engineer (SRE) for Release Engineering (remote-only)</h3>
+                    <h3>Senior Site Reliability Engineer (worldwide remote, work anywhere)</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -364,7 +364,7 @@
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
-                    <h3>Senior Site Reliability Engineer (SRE) for Release Engineering (remote-only)</h3>
+                    <h3>Senior Site Reliability Engineer (worldwide remote, work anywhere)</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -388,7 +388,7 @@
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
-                    <h3>Senior Site Reliability Engineer (SRE) for Release Engineering (remote-only)</h3>
+                    <h3>Senior Site Reliability Engineer (worldwide remote, work anywhere)</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -412,7 +412,7 @@
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
-                    <h3>Senior Site Reliability Engineer (SRE) for Release Engineering (remote-only)</h3>
+                    <h3>Senior Site Reliability Engineer (worldwide remote, work anywhere)</h3>
                 </td>
                 <td width="300">
                     <code></code>
