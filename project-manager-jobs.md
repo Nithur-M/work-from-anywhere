@@ -1,5 +1,73 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1991197/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Teramind</h5>
+                    <h3>Technical Project Manager</h3>
+                </td>
+                <td width="300">
+                    <code>AI/ML</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/project-management/technical-project-manager-1991197" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Teramind </strong>is a hybrid, global workforce building the next-generation Insider Risk Management and User Behavior Analytics platform.</p>
+<p>Join our team of innovators who are redefining insider risk management through cutting-edge technology. More than 10,000 organizations across the globe have used' Teramind to mitigate insider threats and protect their sensitive company data with the most robust, enterprise-grade software on the market.</p>
+<p>As a global team, Teramind embraces an inclusive and flexible work environment and team culture. We win together, learn from each other and respect each other while delivering best-in-class security solutions.</p>
+<p> </p>
+<p><strong>Position Overview:</strong></p>
+<p>We're seeking a <strong>Technical Project Manager</strong> to coordinate the development of many new platform features. You'll manage project timelines, resources, and communication across multiple specialized teams to ensure successful delivery of this complex initiative.</p>
+<p> </p>
+<p><strong>Key Responsibilities:</strong></p>
+<ul style="">
+<li style="">Manage day-to-day project execution and coordination</li>
+<li style="">Develop and maintain project plans, timelines, and milestones</li>
+<li style="">Facilitate communication between technical teams and stakeholders</li>
+<li style="">Track project progress and report status to leadership</li>
+<li style="">Identify and mitigate project risks and dependencies</li>
+<li style="">Coordinate resource allocation across teams</li>
+</ul>
+<p><strong>Requirements</strong></p>
+<ul style="">
+<li style="">7+ years of project management experience in software development</li>
+<li style="">Experience managing AI/ML or security product development preferred</li>
+<li style="">Strong technical background with understanding of ML development lifecycle</li>
+<li style="">Excellent communication and stakeholder management skills</li>
+<li style="">PMP certification or equivalent experience</li>
+<li style="">Agile methodology expertise</li>
+</ul>
+<p><strong>Benefits</strong></p>
+<p>This is a remote job. Work from anywhere!</p>
+<p>We’re a global, distributed team looking for the finest talent. We’ve been thriving as a fully-remote team since 2014. To us, remote work means flexibility and having truly diverse, global teams.</p>
+<p>At Teramind, we’re a collaborative, forward-thinking team where new ideas come to life, experience is valued and talent is incubated.</p>
+<ul style="">
+<li style="">Competitive salary with a focus on a global market</li>
+<li style="">Career-growth opportunities</li>
+<li style="">Flexible Time Off and Paid Time Off benefits</li>
+<li style="">Ongoing training and development opportunities</li>
+</ul>
+<p> </p>
+<p><strong>About our recruitment process</strong></p>
+<p>We don’t expect a perfect fit for every requirement we’ve outlined. If you can see yourself contributing to the team, we want to hear your story. </p>
+<p><strong>All roles require reference and background checks<br></strong><em>Teramind is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration without regard to race, age, religion, color, marital status, national origin, gender, gender identity or expression, sexual orientation, disability, or veteran status.</em></p>
+<p><br><br></p>
+<div class="h2">About the company</div>
+<p> </p>
+<p>Teramind is a hybrid, global workforce building the next-generation Insider Risk Management and User Behavior Analytics platform.</p>
+<p>Join our team of innovators who are redefining insider risk management through cutting edge technology. <br>More than 10,000 organizations across the globe use Teramind to mitigate insider threats and protect their sensitive company data with the most robust, enterprise-grade software on the market.</p>
+<img src="https://remotive.com/job/track/1991197/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
