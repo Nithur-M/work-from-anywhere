@@ -10,7 +10,7 @@
                     <code>.Net,javascript,python,saas</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1991695" align="right" target="_blank">Apply</a>
@@ -93,7 +93,7 @@
                     <code>api,CSS,frontend,html</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-infrastructure-team-1989176" align="right" target="_blank">Apply</a>
@@ -175,7 +175,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/kit/jobs/4692971007" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/kit/jobs/4698592007" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -189,9 +189,8 @@
 &lt;hr&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;The role&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
-&lt;p style=&quot;line-height: 1.5;&quot;&gt;We’re looking for a talented full stack engineer to help elevate and expand our reporting functionality, delivering powerful insights to our users. You’ll join a collaborative team of engineers responsible for providing in-app business analytics to our creators, building a scalable full-stack framework to power actionable insights used by multiple engineering teams.&lt;/p&gt;
-&lt;p style=&quot;line-height: 1.5;&quot;&gt;We’re looking for an engineer who has deep expertise in working with full stack with design and visualization libraries for large datasets, enjoys solving technical challenges at scale, and has a strong desire to share their expertise and knowledge with others. You’ll be working closely with design, product, and engineering to ensure the application’s event data is stored, presented, and visualized effectively and performantly, empowering creators to make informed decisions about their business growth.&lt;/p&gt;
-&lt;p style=&quot;line-height: 1;&quot;&gt;To learn more about how our engineering team works, you can peruse &lt;a href=&quot;https://engineering.kit.com/&quot;&gt;our engineering blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p style=&quot;line-height: 1.5;&quot;&gt;We are hiring a Senior Software Engineer who enjoys creating beautiful experiences and has empathy for the Creators we serve. You will be joining the Builders Squad, which is responsible for building the suite of tools Creators use to build their emails, landing pages, Creator Profile, and more. This squad builds and supports features that directly impact our growth, conversions, and churn.&lt;/p&gt;
+&lt;p style=&quot;line-height: 1.5;&quot;&gt;To learn more about how our engineering team works, you can peruse&amp;nbsp;&lt;a href=&quot;https://engineering.kit.com/&quot;&gt;our engineering blog&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Own solving problems across the full stack in collaboration with your team&lt;/li&gt;
@@ -202,26 +201,28 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Extensive experience with Ruby on Rails&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Experience with&lt;strong&gt; &lt;/strong&gt;React for building high-performance user interfaces&lt;/li&gt;
-&lt;li&gt;Experience working with Design Systems&lt;/li&gt;
-&lt;li&gt;Previous experience writing code that is accessible, scalable, maintainable, and performant&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Strong code reading comprehension skills&lt;/li&gt;
-&lt;li&gt;Ability to articulate and synthesize problems across written, visual, and auditory formats to effectively communicate and bring clarity to frontend development challenges.&lt;/li&gt;
-&lt;li&gt;Ability to query data and create clear, actionable data visualizations from initial analysis to final presentation&lt;/li&gt;
-&lt;li&gt;Ability to deliver feedback with empathy and come up with solutions&lt;/li&gt;
+&lt;li&gt;Expertise with modern frameworks like React and Tailwind for building high-performance user interfaces.&lt;/li&gt;
+&lt;li&gt;Experience with Ruby on Rails.&lt;/li&gt;
+&lt;li&gt;Previous experience writing code that is accessible, scalable, maintainable, and performant.&lt;/li&gt;
+&lt;li&gt;A keen interest in working closely with Product and Engineering managers on prioritization. That includes analyzing risks and dependencies for proposed features, and providing insight into scope we can cut while still meeting business goals.&lt;/li&gt;
+&lt;li&gt;A commitment to mentoring and teaching other engineers formally and informally.&lt;/li&gt;
+&lt;li&gt;The ability to dive deep into problems, especially in maintaining and improving legacy applications, ensuring long-term stability beyond quick fixes.&lt;/li&gt;
+&lt;li&gt;Ability to take on ambiguous tasks, propose solutions, and independently execute projects. Self-starters with strong initiative are key.&lt;/li&gt;
+&lt;li&gt;A strong growth mindset, leadership, and ownership with a drive to continuously improve and take on new challenges.&lt;/li&gt;
+&lt;li&gt;Strong written and verbal communication skills, with a focus on documenting technical work clearly and making it accessible to all stakeholders.&lt;/li&gt;
 &lt;li&gt;Be autonomous and self-motivated to work effectively in a 100% remote company.&lt;/li&gt;
 &lt;li&gt;Have enthusiasm for and belief in our&lt;a href=&quot;https://kit.com/mission&quot;&gt; mission, vision, and values&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Attend our bi-annual company retreats&lt;/li&gt;
-&lt;li&gt;At least a 4 hour overlap with teammates based in the east coast&lt;/li&gt;
+&lt;li&gt;Attend our bi-annual company retreats.&lt;/li&gt;
+&lt;li&gt;At least a 4 hour overlap with teammates based in the east coast.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Nice to haves&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Experience working with OLAP&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Experience with D3&lt;/li&gt;
+&lt;li&gt;Experience with Onboarding, Activation, and Experimentation. Working on onboarding flows and activation testing.&lt;/li&gt;
+&lt;li&gt;Building or contributing to rich text editors such as,&amp;nbsp;&lt;a href=&quot;https://docs.slatejs.org/&quot;&gt;SlateJS.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Experience building email templates.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;Compensation + perk + benefits&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;Kit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 4 ($181,000), out of five levels. Level is determined based on experience and our interview process.&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;Compensation + perks + benefits&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Kit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 3 ($147,000) or a level 4 ($174,000), out of five levels. Level is determined based on experience and our interview process.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Perks + benefits include:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;
@@ -229,7 +230,7 @@
 &lt;/li&gt;
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Kit equity&lt;/li&gt;
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;401k with a 5% match&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Monthly medical benefits up to $1,950 a month toward premiums. Dental and vision premiums covered 100%&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Monthly medical benefits up to $1,850 a month toward premiums. Dental and vision premiums covered 100%&lt;/li&gt;
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;$4,000 equipment allowance for your first two years, $3,000 budget every following two years&lt;/li&gt;
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Individual learning + development budget ($3,500/year)&lt;/li&gt;
 &lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Gender affirming benefits&lt;/li&gt;
@@ -251,7 +252,7 @@
 &lt;li&gt;30 min - Recruiter screen&lt;/li&gt;
 &lt;li&gt;45 min - Hiring manager screen&lt;/li&gt;
 &lt;li&gt;Work Sample&lt;/li&gt;
-&lt;li&gt;60 min - Technical interview&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;60 min - Technical Interview&lt;/li&gt;
 &lt;li&gt;60 min - Culture contribution chat&lt;/li&gt;
 &lt;li&gt;30 min - Hiring manager wrap-up&lt;/li&gt;
 &lt;/ol&gt;
@@ -321,7 +322,108 @@
 &lt;li&gt;Experience working with OLAP&amp;nbsp;&lt;/li&gt;
 &lt;li&gt;Experience with D3&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;Compensation + perk + benefits&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;strong&gt;Compensation + perks + benefits&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Kit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 4 ($181,000), out of five levels. Level is determined based on experience and our interview process.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Perks + benefits include:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;
+&lt;div&gt;&lt;a class=&quot;c-link&quot; href=&quot;https://www.linkedin.com/posts/nathanbarry_convertkit-compensation-model-activity-6991414959247147008-i9V3/?utm_source=share&amp;amp;utm_medium=member_desktop&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.linkedin.com/posts/nathanbarry_convertkit-compensation-model-activity-6991414959247147008-i9V3/?utm_source=share&amp;amp;utm_medium=member_desktop&quot; data-sk=&quot;tooltip_parent&quot;&gt;Profit Sharing&lt;/a&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Kit equity&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;401k with a 5% match&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Monthly medical benefits up to $1,950 a month toward premiums. Dental and vision premiums covered 100%&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;$4,000 equipment allowance for your first two years, $3,000 budget every following two years&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Individual learning + development budget ($3,500/year)&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Gender affirming benefits&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Childcare benefit up to $3,000 annually&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Twenty (20) days of paid time off during each year of employment&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Paid paid vacation: An after-tax bonus of $1,000 for taking five consecutive days of vacation where you’re fully unplugged from work&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Ten (10) paid holidays a year&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Two weeks of paid sick time each year, including mental health + well being days&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Twelve (12) weeks paid parental leave and flexible scheduling in your child’s first year&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Up to six weeks of paid bereavement leave, medical leave, and disaster after six months of employment, two weeks of each paid leave in your first six months&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Winter Break Closure: Kit closes for a week at the end of December, giving everyone a collective break to enjoy the holiday season.&amp;nbsp;&lt;em data-stringify-type=&quot;italic&quot;&gt;Essential support services remain available, with teams coordinating to ensure coverage during this period&lt;/em&gt;&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Four-week, paid sabbatical after five years with the team&lt;/li&gt;
+&lt;li&gt;Fantastic in-person or virtual retreats with the team twice a year&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;We know that most people hate interviewing (we relate!). We aim to make it as good of an experience as we can, and part of that includes keeping you informed during the process.&lt;/p&gt;
+&lt;p&gt;Here’s what you can expect from the process:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;30 min - Recruiter screen&lt;/li&gt;
+&lt;li&gt;45 min - Hiring manager screen&lt;/li&gt;
+&lt;li&gt;Work Sample&lt;/li&gt;
+&lt;li&gt;60 min - Technical interview&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;60 min - Culture contribution chat&lt;/li&gt;
+&lt;li&gt;30 min - Hiring manager wrap-up&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;To get started, complete this application, including answers to the questions on the next page.&lt;strong&gt; We read every single application, and your responses to our application questions help put your experience into context. &lt;/strong&gt;We’ll keep you informed through every step&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Kit is an equal opportunity employer. We value diversity in all of its forms, and we hire the best person we can for each role, no matter your personal background. Research tells us that applicants who are female or non-binary, as well as applicants who are people of color, are less likely to apply for roles they do not feel 100% qualified for. If you think you meet more than 50% of our requirements but fewer than 100% of them, please apply. We’re imperfect communicators, so think of our job postings as the starting point for discussion rather than proof that you shouldn’t apply.&lt;/p&gt;
+&lt;p&gt;Kit does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/10557747?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Kit</h5>
+                    <h3>Senior Software Engineer - Reporting</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/kit/jobs/4692971007" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h4&gt;Description&lt;/h4&gt;
+&lt;div&gt;
+&lt;p class=&quot;p1&quot;&gt;Kit is an email-first operating system for creators who mean business. We help creators grow and monetize their audience with ease. For coaches, YouTubers, authors, podcasters, and other creatives, there isn’t a better marketing hub to rely on to grow audiences, automate email marketing, and sell digital products - all within one platform. More importantly, there isn’t a team more committed to helping creators earn a living.&lt;/p&gt;
+&lt;p&gt;We’re on a mission to help creators earn $1 billion using our creator marketing platform. We have always been 100% independent and 100% remote. We are proud to have built a product that our customers love, and we look for people who have enthusiasm and belief in our mission, vision, and values to join our team.&lt;/p&gt;
+&lt;p&gt;The Kit culture is one where emotional intelligence is valued, radical candor is encouraged, and where everyone works together to uphold a set of shared team principles.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;The role&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
+&lt;p style=&quot;line-height: 1.5;&quot;&gt;We’re looking for a talented full stack engineer to help elevate and expand our reporting functionality, delivering powerful insights to our users. You’ll join a collaborative team of engineers responsible for providing in-app business analytics to our creators, building a scalable full-stack framework to power actionable insights used by multiple engineering teams.&lt;/p&gt;
+&lt;p style=&quot;line-height: 1.5;&quot;&gt;We’re looking for an engineer who has deep expertise in working with full stack with design and visualization libraries for large datasets, enjoys solving technical challenges at scale, and has a strong desire to share their expertise and knowledge with others. You’ll be working closely with design, product, and engineering to ensure the application’s event data is stored, presented, and visualized effectively and performantly, empowering creators to make informed decisions about their business growth.&lt;/p&gt;
+&lt;p style=&quot;line-height: 1;&quot;&gt;To learn more about how our engineering team works, you can peruse &lt;a href=&quot;https://engineering.kit.com/&quot;&gt;our engineering blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Own solving problems across the full stack in collaboration with your team&lt;/li&gt;
+&lt;li&gt;Actively participate in driving the technical direction of our codebase&lt;/li&gt;
+&lt;li&gt;Collaborate with team members across the organization&lt;/li&gt;
+&lt;li&gt;Proactive communication with product stakeholders&lt;/li&gt;
+&lt;li&gt;Staying up to date with current technical best practices&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Extensive experience with Ruby on Rails&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Experience with&lt;strong&gt; &lt;/strong&gt;React for building high-performance user interfaces&lt;/li&gt;
+&lt;li&gt;Experience working with Design Systems&lt;/li&gt;
+&lt;li&gt;Previous experience writing code that is accessible, scalable, maintainable, and performant&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Strong code reading comprehension skills&lt;/li&gt;
+&lt;li&gt;Ability to articulate and synthesize problems across written, visual, and auditory formats to effectively communicate and bring clarity to frontend development challenges.&lt;/li&gt;
+&lt;li&gt;Ability to query data and create clear, actionable data visualizations from initial analysis to final presentation&lt;/li&gt;
+&lt;li&gt;Ability to deliver feedback with empathy and come up with solutions&lt;/li&gt;
+&lt;li&gt;Be autonomous and self-motivated to work effectively in a 100% remote company.&lt;/li&gt;
+&lt;li&gt;Have enthusiasm for and belief in our&lt;a href=&quot;https://kit.com/mission&quot;&gt; mission, vision, and values&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Attend our bi-annual company retreats&lt;/li&gt;
+&lt;li&gt;At least a 4 hour overlap with teammates based in the east coast&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Nice to haves&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience working with OLAP&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Experience with D3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;&lt;strong&gt;Compensation + perks + benefits&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;Kit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 4 ($181,000), out of five levels. Level is determined based on experience and our interview process.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Perks + benefits include:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -1862,13 +1964,14 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                &lt;p&gt;Help us shape the future of open source IT, devops, and IS, from bare metal to containers. Our goal is to revolutionise open source application and infrastructure operations.&lt;/p&gt;
+                &lt;p&gt;Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world&#39;s leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.&lt;/p&gt;
+&lt;p&gt;The company is founder-led, profitable, and growing.&lt;/p&gt;
+&lt;p&gt;Help us shape the future of open source IT, devops, and IS, from bare metal to containers. Our goal is to revolutionise open source application and infrastructure operations.&lt;/p&gt;
 &lt;p&gt;We want to transform the world of software operations by enabling true model-driven operations via next-generation infrastructure-as-code. This will allow companies to run very efficient bare-metal operations for high-performance computing, private cloud, data lakes, AI/ML, and analytics. We need to invent some new technology, and we need to build some new products; we are therefore looking for someone who can lead and inspire a regional software engineering team to fulfill this initiative.&lt;/p&gt;
 &lt;p&gt;The Solutions Engineering team works in close collaboration with our managed infrastructure operations team, which runs many private OpenStack clouds and Kubernetes clusters for customers around the world. This enables us to improve our infra-as-code products based on our own real experience, mirroring that of our users and customers. We work in Python, creating open source automation capabilities that simplify operations for anybody, anywhere, who is building on Ubuntu.&lt;/p&gt;
 &lt;p&gt;Most of the team&#39;s work involves pure Python software development focused on enabling true DevOps workflows. We strive for high quality in both design, documentation, tests, and performance as we enhance operations code packages and Ubuntu itself in order to ensure our platform is the easiest, most robust, and best performing for driving your infrastructure.&lt;/p&gt;
 &lt;p&gt;This role is ideal for software engineers who want to work in a global team, have a passion for distributed systems and cloud computing, and an interest in the entire Linux stack - from kernel to networking to virtualization and containers.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h3&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What you’ll do&lt;/span&gt;&lt;/h3&gt;
+&lt;h3&gt;What you will do&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Work in Python and Golang to design and deliver open source software operations code&lt;/li&gt;
 &lt;li&gt;Work with the entire Linux stack, from kernel, networking, storage, to applications&lt;/li&gt;
@@ -1880,7 +1983,7 @@
 &lt;li&gt;Grow a healthy, collaborative engineering culture in line with the company values&lt;/li&gt;
 &lt;li&gt;Global travel up to 10% of time for internal and external events&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Who you are&lt;/span&gt;&lt;/h3&gt;
+&lt;h3&gt;Who you are&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;You are a passionate Python developer&lt;/li&gt;
 &lt;li&gt;You are organised and want your team to deliver timely, high quality software&lt;/li&gt;
@@ -1889,33 +1992,30 @@
 &lt;li&gt;You have practical knowledge of Linux and networking&lt;/li&gt;
 &lt;li&gt;You are a lifelong learner&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bonus points for&lt;/span&gt;&lt;/h3&gt;
+&lt;h3&gt;Bonus points for&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;You have graduated with a university degree in Computer Science or related software engineering field&lt;/li&gt;
 &lt;li&gt;Golang programming skills&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What you will learn&lt;/span&gt;&lt;/h3&gt;
+&lt;h3&gt;What we offer colleagues&lt;/h3&gt;
+&lt;p&gt;We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;OpenStack and Kubernetes in production&lt;/li&gt;
-&lt;li&gt;Thinking rigorously about application and infrastructure reliability&lt;/li&gt;
-&lt;li&gt;Wide range of open source applications and skills&lt;/li&gt;
-&lt;li&gt;Real-life and hands-on exposure to a wide range of emerging technologies and tools&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We offer:&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;100% work-from-home&lt;/li&gt;
-&lt;li&gt;Learning and development&lt;/li&gt;
-&lt;li&gt;Competitive salary&lt;/li&gt;
+&lt;li&gt;Distributed work environment with twice-yearly team sprints in person&lt;/li&gt;
+&lt;li&gt;Personal learning and development budget of USD 2,000 per year&lt;/li&gt;
+&lt;li&gt;Annual compensation review&lt;/li&gt;
 &lt;li&gt;Recognition rewards&lt;/li&gt;
-&lt;li&gt;Annual leave&lt;/li&gt;
-&lt;li&gt;Priority Pass for travel&lt;/li&gt;
+&lt;li&gt;Annual holiday leave&lt;/li&gt;
+&lt;li&gt;Maternity and paternity leave&lt;/li&gt;
+&lt;li&gt;Team Member Assistance Program &amp;amp; Wellness Platform&lt;/li&gt;
+&lt;li&gt;Opportunity to travel to new locations to meet colleagues&lt;/li&gt;
+&lt;li&gt;Priority Pass and travel upgrades for long-haul company events&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;&lt;strong&gt;About Canonical&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;Canonical is an equal opportunity employer&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. &lt;/span&gt;&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Whatever your identity, we will give your application fair consideration.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#Stack&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;About Canonical&lt;/h3&gt;
+&lt;p&gt;Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Canonical is an equal opportunity employer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt;&amp;nbsp;Whatever your identity, we will give your application fair consideration.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LI-remote&lt;/p&gt;
+&lt;h3&gt;&amp;nbsp;&lt;/h3&gt;
                 </details>
                 </td>
             </tr>,<tr>
