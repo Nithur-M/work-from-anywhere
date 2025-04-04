@@ -10,7 +10,7 @@
                     <code>backend,C++,javascript,mongoDB</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-node-js-1984510" align="right" target="_blank">Apply</a>
@@ -83,7 +83,7 @@ the services and core processes with the highest security principles and
                     <code>.Net,api,backend,C</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-typescript-1983726" align="right" target="_blank">Apply</a>
@@ -250,6 +250,72 @@ the services and core processes with the highest security principles and
 &lt;p&gt;We are an ambitious team who are collectively working hard to build the most influential company in the world.&amp;nbsp; You can read more about our &lt;a href=&quot;https://sourcegraph.notion.site/What-it-s-like-working-at-Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115&quot;&gt;culture&lt;/a&gt;, &lt;a href=&quot;https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74&quot;&gt;competitive compensation&lt;/a&gt; and &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74&quot;&gt;benefits&lt;/a&gt; here.&lt;/p&gt;
 &lt;p&gt;Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Sourcegraph participates in &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107&quot;&gt;&lt;em&gt;E-Verify&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for U.S. Employees. &lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/25003669?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Appwrite</h5>
+                    <h3>Developer Relations Intern – Video Content and Technical Writing</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.appwrite.careers/developer-relations-intern-video-content-and-technical-writing/en" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+<aside class="mask" style="opacity: 1;"></aside><div class="body" data-columns="1"><div class="article" style=";">
+<h2>About the job</h2>
+<p>We are hiring a Developer Advocate Intern to support our Developer Relations team, focusing on creating, editing, and repurposing technical content.</p>
+<p>This isn’t your typical DevRel internship, you won’t be travelling, speaking at conferences, or constantly creating brand-new tutorials. Instead, your main focus will be producing and editing developer-focused video content, such as product walkthroughs and technical tutorials. You'll also be responsible for repurposing existing content from the team into engaging short-form videos, blog posts, and social media clips to maximize reach and impact.</p>
+<p>You’ll work closely with both our engineering, growth, and product teams to ensure content is technically accurate and optimized for multiple platforms. If you’re a developer who enjoys working behind the scenes to amplify technical content and turn one great piece into many - this role is for you.</p>
+</div></div>
+<style>
+                @media only screen and (max-width: 767px) {
+                    #block-1 {
+                        padding-top: 25px !important; padding-bottom: 25px !important;
+                    }
+                }
+                </style>
+
+<aside class="mask" style="opacity: 1;"></aside><div class="body" data-columns="1"><div class="article" style=";">
+<h2>Responsibilities</h2>
+<ul>
+<li><p>Edit and produce technical video content - including product walkthroughs, tutorials, and demos for YouTube and other platforms.</p></li>
+<li><p>Transform long-form DevRel videos intMaximize co engaging short-form content for YouTube Shorts, TikTok, Instagram Reels, and other social media platforms.</p></li>
+<li><p>Maximize content reach by adapting and optimizing content for multiple platforms, including YouTube, Medium, <a target="_blank" rel="noopener noreferrer nofollow" href="http://Dev.to">Dev.to</a>, X/Twitter, LinkedIn, TikTok, Instagram, <a target="_blank" rel="noopener noreferrer nofollow" href="http://Daily.dev">Daily.dev</a>, and more.</p></li>
+<li><p>Support with demos and sample projects, occasionally build or modify simple technical demos tied to educational content</p></li>
+<li><p>Collaborate across teams, working closely with Developer Relations, Engineering, Growth, and Product teams to align content with goals and messaging.<br></p></li>
+</ul>
+<h2>Requirements</h2>
+<ul>
+<li><p>You have foundational video editing skills - this is the most important part of the role.</p></li>
+<li><p>You are a developer first - you love to code, build, and solve technical challenges.</p></li>
+<li><p>You have strong writing skills with experience in creating technical blog posts, documentation, or tutorials.</p></li>
+<li><p>You have experience building technical projects and demos.</p></li>
+<li><p>You have a passion for learning new technologies and sharing knowledge.</p></li>
+<li><p>You are comfortable working with cross-functional teams.</p></li>
+<li><p>You are proactive and self-motivated - you can manage your own time and work independently.</p></li>
+</ul>
+</div></div>
+<style>
+                @media only screen and (max-width: 767px) {
+                    #block-2 {
+                        padding-top: 25px !important; padding-bottom: 25px !important;
+                    }
+                }
+                </style>
+
                 </details>
                 </td>
             </tr>,<tr>
