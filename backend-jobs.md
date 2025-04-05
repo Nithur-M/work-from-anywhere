@@ -10,7 +10,7 @@
                     <code>api,AWS,backend,go</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-engineer-1987908" align="right" target="_blank">Apply</a>
@@ -244,7 +244,7 @@
                 </td>
                 <td width="300">
                     <h5>Primer</h5>
-                    <h3>Backend Engineer (Junior-Mid-Level)</h3>
+                    <h3>Backend Engineer E3</h3>
                 </td>
                 <td width="300">
                     <code></code>
