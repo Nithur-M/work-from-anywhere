@@ -1,5 +1,212 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1992485/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Flashbots.net</h5>
+                    <h3>Senior DevOps</h3>
+                </td>
+                <td width="300">
+                    <code>golang,kubernetes,automation,rust</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/senior-devops-1992485" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h1"><br><strong>About us</strong></div>
+<p style="min-height: 1.5em;">At Flashbots, we're building the foundations of the future Internet and financial system. As an <a href="https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752" rel="nofollow" target="_blank">R&amp;D organization</a>, we focus on MEV through our dual engines of <a href="https://writings.flashbots.net/" rel="nofollow" target="_blank">open research</a> and breakthrough product development – like <a class="notion-link-token notion-focusable-token notion-enable-hover" href="https://docs.flashbots.net/flashbots-auction/overview" rel="nofollow" target="_blank">mev-geth</a>, <a class="notion-link-token notion-focusable-token notion-enable-hover" href="https://protect.flashbots.net/" rel="nofollow" target="_blank">Flashbots Protect</a>, <a class="notion-link-token notion-focusable-token notion-enable-hover" href="https://collective.flashbots.net/t/merge-anniversary-a-year-in-review/2400" rel="nofollow" target="_blank">MEV-Boost</a>, <a class="notion-link-token notion-focusable-token notion-enable-hover" href="https://docs.flashbots.net/flashbots-protect/mev-share" rel="nofollow" target="_blank">MEV-Share</a>, <a class="notion-link-token notion-focusable-token notion-enable-hover" href="https://writings.flashbots.net/introducing-rollup-boost" rel="nofollow" target="_blank">Flashblocks</a>, and <a class="notion-link-token notion-focusable-token notion-enable-hover" href="https://buildernet.org/blog/introducing-buildernet" rel="nofollow" target="_blank">BuilderNet</a>.</p>
+<p style="min-height: 1.5em;">Our vibe is accelerationist, exceptional, kind, and independent. We are explorers, innovators, builders, and thinkers. We thrive on action, curiosity, and impact - driving the future in an iterative way while keeping an eye towards the long term version we want to see in the world.</p>
+<div style="text-align: left;"><img src="https://app.ashbyhq.com/api/images/user-content/2ae4651e-df3c-4045-827f-9016b44031f3/062530ef-3800-4d7e-9336-12ab0aeee361/Untitled design (7).png" style="max-width: 100%;" width="608"></div>
+<div class="h1"> </div>
+<div class="h1"><strong>About the role:</strong></div>
+<p style="min-height: 1.5em;">Flashbots is looking for a Senior DevOps Engineer to augment our small team. You will collaborate closely with our teams of scientists and engineers to support products like <a href="https://suave-alpha.flashbots.net/" rel="nofollow" target="_blank">SUAVE</a>, <a href="https://writings.flashbots.net/introducing-rollup-boost" rel="nofollow" target="_blank">Flashblocks, and Rollup-Boost</a>.</p>
+<p style="min-height: 1.5em;">Due to working with confidential data, you may be subject to trading restriction policies.<br><br></p>
+<div class="h1"><strong>What You’ll Do:</strong></div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Common DevOps tasks</p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Administrate Kubernetes clusters and deployments, servers, automation, and observability, always in IaC</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Partner with Engineers and Product Owners to support their work</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Create automation and tooling</p>
+</li>
+</ul>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Unique DevOps tasks</p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Collaborate closely with internal and external teams to develop at the cutting edge of TEE systems</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Contribute to and operate foundational infrastructure in blockchains and their rollups<br><br></p>
+</li>
+</ul>
+</li>
+</ul>
+<div class="h1"><strong>Who You Are:</strong></div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Genuine desire to understand the blockchain and MEV problem space.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Production experience with monitoring, alerting, and incident response.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Deep understanding of engineering principles and best practices.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Comfortable in a fast-paced, async, and remote environment.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Excellent communication and interpersonal skills.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Disposed to action, finding out, and showing; curiosity to get to the root of the problems.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Kind, independently motivated, accountable, and reliable.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">By default leave things better than you found them.<br><br></p>
+</li>
+</ul>
+<div class="h1"><strong>Nice-to-haves</strong></div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Contributions to open source projects</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Development of distributed systems</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience with:</p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Golang and Rust</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Public clouds and bare-metal hosting providers</p>
+</li>
+</ul>
+</li>
+</ul>
+<div class="h1"><br><strong>Details that matter</strong></div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Significantly above market rate equity compensation package</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Unlimited PTO with a high level of freedom and autonomy for your work</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Attractive health coverage package for US employees</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">$3000 Yearly budget for your individual learning and development goals</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Work alongside the brightest minds in the crypto space</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Help save the world by ensuring crypto remains decentralized, permissionless and censorship-resistant</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Remote working - work from anywhere in the world</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Paid travel - 2 x team on-site in different parts of the world per year plus periodic travel to events</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;">At Flashbots, we are committed to building a diverse and inclusive team. We welcome applications from all qualified candidates regardless of gender, race, ethnicity, religion, sexual orientation, age, or disability status.</p>
+<img src="https://remotive.com/job/track/1992485/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1990753/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ConsenSys</h5>
+                    <h3>Senior DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,azure,jira,github</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1990753" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Location: Global Remote (excluding France)</strong></p>
+<p>Consensys is the leading blockchain and web3 software company founded by Joe Lubin, CEO of Consensys and Co-Founder of Ethereum. Since 2014, Consensys has been at the forefront of innovation, pioneering technological developments within the web3 ecosystem.</p>
+<p>Through our product suite, including the MetaMask platform, Infura, Linea, Diligence, and our NFT toolkit Phosphor, we have become the trusted collaborator for users, creators, and developers on their path to build and belong in the world they want to see.</p>
+<p>Whether building a dapp, an NFT collection, a portfolio, or a better future, the instinct to build is universal. Consensys inspires and champions the builder instinct in everyone by making web3 universally easy to use and develop on.</p>
+<p>Our mission is to unlock the collaborative power of communities by making the decentralized web universally easy to access, use, and build on. </p>
+<p>You’ll get to work on the tools, infrastructure, and apps that scale these platforms to onboard one billion participants and 5 million developers. You’ll be constantly exposed to new concepts, ideas, and frameworks from your peers, and as you work on different projects — challenging you to stay at the top of your game. You’ll join a network of builders that reaches the edge of our ecosystem. Consensys alumni have moved on to become tech entrepreneurs, CEOs, and team leads at tech companies. </p>
+<p><strong>What you’ll do</strong></p>
+<ul style="">
+<li style="">Configure and manage cloud platforms, including AWS, Azure, GCP and Cloudflare</li>
+<li style="">Manage and administer our CI/CD pipelines with Github (GitHub Actions. AWS Land Zone)</li>
+<li style="">Maintain and improve our internal management systems</li>
+<li style="">Respond to IT incidents and requests through Jira Service Management to ensure minimal downtime and loss</li>
+<li style="">Enhance security infrastructure by using Okta for secure Identity management</li>
+<li style="">Document all DevOps and infrastructure-related processes within Confluence</li>
+</ul>
+<p><strong>Would be great if you brought this to the role</strong></p>
+<ul style="">
+<li style="">Good knowledge of AWS and/or Azure cloud computing platforms</li>
+<li style="">Experience with GitHub and understanding of version control concepts</li>
+<li style="">Experience with Security and Identity management tools, preferably Okta</li>
+<li style="">Knowledge of IT ticketing systems, preferably Jira Service Management</li>
+<li style="">Familiarity with Confluence or equivalent documentation tools</li>
+<li style="">Understanding of blockchain technologies and familiarity with Web3</li>
+<li style="">Good problem-solving methods and a proactive work ethos</li>
+<li style="">Effective communication skills, both written and verbal</li>
+<li style="">Strong team player with the ability to work independently when needed</li>
+</ul>
+<p><strong>Bonus Points</strong></p>
+<ul style="">
+<li style="">3+ years experience administering cloud platforms</li>
+<li style="">Certification in AWS, Azure or other Cloud platforms is beneficial</li>
+</ul>
+<p>Don't meet all the requirements? Don't sweat it. We’re passionate about building a diverse team of humans and as such, if you think you've got what it takes for our chaotic-but-fun, remote-friendly, start-up environment—apply anyway, detailing your relevant transferable skills in your cover letter. While we have a pretty good idea of what we need, we're ready for you to challenge our thinking on who needs to be in this role.</p>
+<p><em>It is a requirement of employment in this position that applicants will be required to submit to background checks including but not limited to employment, education and criminal record checks. Further details will be provided to applicants that successfully meet the criteria for the position as determined by the company in its sole discretion. By submitting an application for employment, you are acknowledging and consenting to this requirement.</em></p>
+<div class='"content-pay-transparency"'>
+<div class='"pay-input"'>
+<div class='"description"'>
+<p><em>The salary range for US-based candidates only will be determined throughout the interview process depending on experience and skills.</em></p>
+</div>
+<div class='"title"'>US pay range (not including bonus, equity or other benefits)</div>
+<div class='"pay-range"'>$102,000<span class='"divider"'>—</span>$178,000 USD</div>
+</div>
+</div>
+<div class='"content-conclusion"'>
+<p> </p>
+<p>In the rapidly evolving Web3 space, we believe that everyone is a builder. This expansive paradigm requires a range of backgrounds, talents, skills, and experiences to influence and shape the future. At Consensys, this diversity fuels our ability to shift control and redefine the realm of possibility. We are committed to ensuring that our technology empowers people and communities with economic and political agency through decentralized technologies. We welcome the range of perspectives and differences and celebrate them. We're excited to see how your unique skills as a builder can contribute to our vision, drive innovation, and help us shape a more inclusive Web3.</p>
+<p>Consensys is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. Consensys is aware of fraudulent recruitment practices and we encourage all applicants to review our best practices to protect yourself which can be found (<a href="%22https:/consensys.io/careers/best-practices-to-avoid-recruitment-fraud/)%22" rel="nofollow">https://consensys.io/careers/best-practices-to-avoid-recruitment-fraud/)</a>.</p>
+</div>
+<img src="https://remotive.com/job/track/1990753/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/1021150?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
