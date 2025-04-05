@@ -10,7 +10,7 @@
                     <code>backend,C++,javascript,mongoDB</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-node-js-1984510" align="right" target="_blank">Apply</a>
@@ -83,7 +83,7 @@ the services and core processes with the highest security principles and
                     <code>.Net,api,backend,C</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-typescript-1983726" align="right" target="_blank">Apply</a>
@@ -339,12 +339,14 @@ the services and core processes with the highest security principles and
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical seeks a Junior developer with a proven track record in Python and/or Go. As part of the Observability team, you will develop a cloud-native monitoring stack that composes best-in-class open-source monitoring tools. The stack is opinionated, resilient, and scalable, providing deep insights out of the box. The user experience is polished and seamless for the end-users, and its administrators will enjoy smooth, lightweight Day 1 and Day 2 operations.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+                &lt;p&gt;Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world&#39;s leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.&lt;/p&gt;
+&lt;p&gt;The company is founder-led, profitable, and growing.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are hiring a Junior developer with a proven track record in Python and/or Go. As part of the Observability team, you will develop a cloud-native monitoring stack that composes best-in-class open-source monitoring tools. The stack is opinionated, resilient, and scalable, providing deep insights out of the box. The user experience is polished and seamless for the end-users, and its administrators will enjoy smooth, lightweight Day 1 and Day 2 operations.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is an exciting opportunity for a software engineer passionate about open source software, Linux, Kubernetes, and Observability. Build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, the growing international software company behind Ubuntu.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The monitoring stack will monitor applications running on a mix of cloud technologies such as Kubernetes and OpenStack, as well as bare-metal, virtual machines and containers. The stack will be capable of monitoring applications and infrastructure irrespective of whether they are operated by Juju, and will leverage multiple data sources at various levels of the architecture, including Juju itself, to contextualize the collected telemetry and insights delivered to the end-users.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You can read more about the project &lt;/span&gt;&lt;a href=&quot;https://grafana.com/blog/2021/10/28/open-source-done-right-why-canonical-adopted-grafana-loki-and-grafana-agent-for-their-new-stack/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; and &lt;/span&gt;&lt;a href=&quot;https://juju.is/blog/model-driven-observability-part-1&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;Location: &lt;/strong&gt;&lt;em&gt;This role will be based remotely in the EMEA and Americas regions&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What your day will look like&lt;/span&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The role entails&lt;/span&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Collaborate proactively with a globally distributed team&lt;/span&gt;&lt;/li&gt;
 &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Write, test and document high quality code to create new features&lt;/span&gt;&lt;/li&gt;
@@ -362,25 +364,24 @@ the services and core processes with the highest security principles and
 &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have a working knowledge of Go&lt;/span&gt;&lt;/li&gt;
 &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have interest and experience with two or more of the following: Ubuntu Linux, container images, Debian packaging, snap, distributed systems.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What we offer you&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What we offer colleagues&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Fully remote working environment - we’ve been working remotely since 2004!&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Personal learning and development budget of 2,000USD per annum&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Annual compensation review&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recognition rewards&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Annual holiday leave&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Parental Leave&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Employee Assistance Programme&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Opportunity to travel to new locations to meet colleagues at ‘sprints’&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Priority Pass for travel and travel upgrades for long haul company events&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Distributed work environment with twice-yearly team sprints in person&lt;/li&gt;
+&lt;li&gt;Personal learning and development budget of USD 2,000 per year&lt;/li&gt;
+&lt;li&gt;Annual compensation review&lt;/li&gt;
+&lt;li&gt;Recognition rewards&lt;/li&gt;
+&lt;li&gt;Annual holiday leave&lt;/li&gt;
+&lt;li&gt;Maternity and paternity leave&lt;/li&gt;
+&lt;li&gt;Team Member Assistance Program &amp;amp; Wellness Platform&lt;/li&gt;
+&lt;li&gt;Opportunity to travel to new locations to meet colleagues&lt;/li&gt;
+&lt;li&gt;Priority Pass and travel upgrades for long-haul company events&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;About Canonical&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game.&lt;/p&gt;
 &lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical is an equal opportunity employer&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. &lt;/span&gt;&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Whatever your identity, we will give your application fair consideration.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt; Whatever your identity, we will give your application fair consideration.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-remote&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
                 </details>
                 </td>
