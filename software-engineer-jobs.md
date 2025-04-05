@@ -10,7 +10,7 @@
                     <code>.Net,javascript,python,saas</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1991695" align="right" target="_blank">Apply</a>
@@ -21,10 +21,10 @@
                 <details><summary>Description</summary>
                 <p class="h1">Work With the Worlds Fastest Growing Teams</p>
 <p><strong> </strong></p>
-<div class="h2"><strong>TL;DR:</strong></div>
+<p class="h2"><strong>TL;DR:</strong></p>
 <p>We match elite tech talent with funded SaaS startups across Europe &amp; North America.<br>No fluff. No recruiter spam. Just fast-moving teams who need real builders. If you love tech, AI and want to provide high class code, we want you. </p>
 <p> </p>
-<div class="h2">What You Get:</div>
+<p class="h2">What You Get:</p>
 <ul style="">
 <li style=""><strong>Consistent, long-term work</strong> with top-tier SaaS companies</li>
 <li style="">Fully remote — work from anywhere</li>
@@ -37,11 +37,11 @@
 <li style="">Remote work from wherever you want</li>
 </ul>
 <p> </p>
-<div class="h2">What We Look For:</div>
+<p class="h2">What We Look For:</p>
 <ul style="">
 <li style=""><strong>5+ years of professional dev experience</strong></li>
 <li style="">Proven experience in SaaS product environments</li>
-<li style="">Fluent in at least 2-3 tech stacks (Javascript, Python and .NET)</li>
+<li style="">Fluent in 1 front-end framework</li><li style="">Fluent in 1 back-end framework</li>
 <li style="">You love to use AI-tools when working e.g: <strong>ChatGPT, Cursor, Codium, Phind, etc.</strong></li>
 <li style="">English proficiency</li>
 <li style="">Comfortable with working with our clients timezone</li>
@@ -49,9 +49,9 @@
 <li style="">High resolution camera - <strong>IMPORTANT!</strong></li>
 </ul>
 <p><span style="color: #000000;"><strong> </strong></span></p>
-<div class="h2">Bonus if you have (Not a must):</div>
+<p class="h2">Bonus if you have (Not a must):</p>
 <ul style="">
-<li style="">Led sprints or shipped major product updates</li>
+<li style="">Experience with Next.JS, Supabase or frameworks related to Javascript</li><li style="">Led sprints or shipped major product updates</li>
 <li style="">Experience with agile remote teams</li>
 <li style="">Built tooling or optimized CI/CD pipelines</li>
 <li style="">Have a degree in engineering or computer science </li>
@@ -60,23 +60,16 @@
 <li style="">Experience with LLM:</li>
 </ul>
 <p> </p>
-<div class="h2">How It Works:</div>
+<p class="h2">How It Works:</p>
 <ol style="">
 <li style="">Apply once → We vet you and contact you for an interview</li>
 <li style="">Once you pass that and our tests, your are added to our talent pool</li>
 <li style="">We match you with SaaS teams that need your exact skillset</li>
 <li style="">You can say <strong>yes/no</strong> to every opportunity. We believe in devs loving their work.</li>
-<li style="">Once placed, you get paid hourly through our platform (with monthly payouts)</li>
+<li style="">Once placed, you get paid hourly through our platform (with monthly payouts)</li></ol><ol style="">
 </ol>
 <p> </p>
-<p class="h3"> </p>
-<div class="h2" style="box-sizing: border-box; border: 0px solid; margin: 0px; font-weight: inherit; line-height: 1.2; color: #532a21; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">How It Works:</div>
-<ol style="">
-<li style="">Apply through the link</li>
-<li style="">We'll send you a quick AI-readiness check and ask for a short Loom video. If you pass, you're in the pool. Simple. And you will always be there</li>
-</ol>
-<p> </p>
-<p><strong>Note:</strong><br>This is <em>not</em> for junior devs or people who need hand-holding. It’s for builders who know how to ship and want to join real teams without corporate BS.</p>
+<p><strong>Note:</strong><br>This is <em>not</em> for junior devs or people who need hand-holding. It’s for builders who know how to ship and want to join real teams without corporate BS. We recruit continiously so feel free to apply at any point of time!</p>
 <p><strong>Ready to work smarter, faster — and get paid well for it? Please apply</strong></p>
 <img src="https://remotive.com/job/track/1991695/blank.gif?source=public_api" alt=""/>
                 </details>
@@ -93,7 +86,7 @@
                     <code>api,CSS,frontend,html</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-infrastructure-team-1989176" align="right" target="_blank">Apply</a>
@@ -277,7 +270,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/kit/jobs/4692960007" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/kit/jobs/4692971007" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -378,7 +371,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/kit/jobs/4692971007" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/kit/jobs/4692960007" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -1909,7 +1902,9 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                &lt;p&gt;Our mission is to reinvent the way companies manage their open source information systems - on public clouds and in their own data centres. To achieve that we are building a new community around Python opscode for open source applications, running on Kubernetes. We want to move all of Canonical and Ubuntu IS onto this new, open source codebase.&lt;/p&gt;
+                &lt;p&gt;Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world&#39;s leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.&lt;/p&gt;
+&lt;p&gt;The company is founder-led, profitable, and growing.&lt;/p&gt;
+&lt;p&gt;Our mission is to reinvent the way companies manage their open source information systems - on public clouds and in their own data centres. To achieve that we are building a new community around Python opscode for open source applications, running on Kubernetes. We want to move all of Canonical and Ubuntu IS onto this new, open source codebase.&lt;/p&gt;
 &lt;p&gt;We are confident that we can dramatically improve the experience of running complex business operations - and then we can help our customers embrace those new techniques and products. Traditionally, IS is an inward-facing operation. We would like to transform our IS team into an extension of the product engineering capability at Canonical. Our internal workloads are in many cases the same open source workloads that our customers want to operate. This team will productise those workloads for real-time automated operations on Kubernetes.&lt;/p&gt;
 &lt;p&gt;This role is ideal for software engineers who enjoy Python, have a passion for distributed systems, and an interest in the entire Linux stack - from kernel to networking to virtualization and containers. It is a role that requires rigour in both code and customer interactions. Our engineers are technically astute open source enthusiasts who are excited about cloud computing and are ready to join a global team charged with delivering world class services to our customers.&lt;/p&gt;
 &lt;p&gt;Strong Python development skills and familiarity with Kubernetes are key requirements of this role. You’ll work closely with other teams in Canonical to ensure your products operate reliably, efficiently and scale to production sized workloads for our customers looking to adopt cutting-edge technology. You will participate and be responsible for ensuring sound software architecture and follow best practices in software quality, testing and documentation.&lt;/p&gt;
@@ -1938,9 +1933,10 @@
 &lt;li&gt;You are organized and want your team to deliver timely, high quality software&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;About Canonical&lt;/h3&gt;
-&lt;p&gt;Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, “the world’s best free software platform”. Our mission is to realise the potential of free software in the lives of individuals and organisations. Our services are helping individuals and businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. &lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot; target=&quot;_blank&quot;&gt;Whatever your identity&lt;/a&gt; we will give your application fair consideration.&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;#LI-Remote #Stack&lt;/p&gt;
+&lt;p&gt;Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Canonical is an equal opportunity employer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt;&amp;nbsp;Whatever your identity, we will give your application fair consideration.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#LI-remote&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
@@ -2039,23 +2035,26 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                &lt;p&gt;This is a fast-paced engineering role in Linux-based software-defined infrastructure and applications, covering all layers of the stack, including bare metal, virtualization (KVM) and containerization (Docker/LXC/LXD), storage (Ceph and Linux filesystems), networking (OVS, OVN and Core networking), up to OpenStack and Kubernetes, and the open source applications running on top of them. It will challenge you to show the breadth of engineering skill needed to work on almost any aspect of Ubuntu and the open source things people run with it.&amp;nbsp;&lt;/p&gt;
+                &lt;p&gt;Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world&#39;s leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.&lt;/p&gt;
+&lt;p&gt;The company is founder-led, profitable, and growing.&lt;/p&gt;
+&lt;p&gt;We are hiring a &lt;strong&gt;Software Engineer, Sustaining Engineering&lt;/strong&gt; for ...&lt;/p&gt;
+&lt;p&gt;...a fast-paced engineering role in Linux-based software-defined infrastructure and applications, covering all layers of the stack, including bare metal, virtualization (KVM) and containerization (Docker/LXC/LXD), storage (Ceph and Linux filesystems), networking (OVS, OVN and Core networking), up to OpenStack and Kubernetes, and the open source applications running on top of them. It will challenge you to show the breadth of engineering skill needed to work on almost any aspect of Ubuntu and the open source things people run with it.&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;This role is an opportunity for a technologist with a passion for Linux and open source to build a career with Canonical and drive success for our customers, community and the company. If you have an affinity for open source development, great communication skills, and a passion for troubleshooting and fixing issues in technology used by millions across the world, then you will enjoy working with some of the best people in the industry at Canonical.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; This is a remote role, we have teams in all time zones.&lt;/p&gt;
 &lt;p&gt;This role deals with critical issues in the open source stack that require software engineering for upstream bug fixes. Our engineers have to be able to work productively at any level of the stack above the kernel, in a wide range of languages, to understand and address the software issues at hand. Our group is critical to the success of our enterprise customers, partners and Ubuntu itself.&lt;/p&gt;
 &lt;p&gt;You will help with troubleshooting and driving issues to resolution with workarounds, guidance, and bug fixes to be released upstream and in Ubuntu.&lt;/p&gt;
-&lt;h3&gt;What your day will look like&lt;/h3&gt;
+&lt;h3&gt;This role entails&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Resolve complex customer problems related to Ubuntu, Kernel, Ceph, OpenStack, or Kubernetes and other open source software&lt;/li&gt;
-&lt;li&gt;Maintain a close working relationship with Canonical&#39;s field, support and product engineering teams&lt;/li&gt;
-&lt;li&gt;Participate in upstream communities&lt;/li&gt;
-&lt;li&gt;Develop bug fixes, backport patches, and work with upstream for inclusion&lt;/li&gt;
-&lt;li&gt;Review code produced by other engineers&lt;/li&gt;
-&lt;li&gt;Demonstrate good judgment in technical methods and techniques&lt;/li&gt;
-&lt;li&gt;Prioritize work and manage your time effectively against those priorities&lt;/li&gt;
-&lt;li&gt;Participate in team discussions to improve processes, tools, and documentation&lt;/li&gt;
-&lt;li&gt;Maintain clear, technical and concise communications&lt;/li&gt;
-&lt;li&gt;Work from home and travel internationally up to 10% of work time for team meetings, events and conferences&lt;/li&gt;
+&lt;li&gt;Resolving complex customer problems related to Ubuntu, Kernel, Ceph, OpenStack, or Kubernetes and other open source software&lt;/li&gt;
+&lt;li&gt;Maintaining a close working relationship with Canonical&#39;s Field, Support and product engineering teams&lt;/li&gt;
+&lt;li&gt;Participating in upstream communities&lt;/li&gt;
+&lt;li&gt;Developing bug fixes, backporting patches, and working with upstream for inclusion&lt;/li&gt;
+&lt;li&gt;Reviewing code produced by other engineers&lt;/li&gt;
+&lt;li&gt;Demonstrating good judgement in technical methods and techniques&lt;/li&gt;
+&lt;li&gt;Prioritizing work and managing your time effectively against those priorities&lt;/li&gt;
+&lt;li&gt;Participating in team discussions to improve processes, tools, and documentation&lt;/li&gt;
+&lt;li&gt;Maintaining clear, technical and concise communications&lt;/li&gt;
+&lt;li&gt;Working from home and travel internationally up to 10% of work time for team meetings, events and conferences&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;What we are looking for in you&lt;/h3&gt;
 &lt;ul&gt;
@@ -2072,14 +2071,14 @@
 &lt;li&gt;An exceptional academic track record&amp;nbsp;&lt;/li&gt;
 &lt;li&gt;Willingness to travel up to 4 times a year for internal events&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Additional skills that you might also bring&lt;/h3&gt;
+&lt;h3&gt;Nice-to-have skills&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;You love technology and working with brilliant people&lt;/li&gt;
 &lt;li&gt;You are curious, flexible, articulate, and accountable&lt;/li&gt;
 &lt;li&gt;You value soft skills and are passionate, enterprising, thoughtful, and self-motivated&lt;/li&gt;
 &lt;li&gt;You have interest in, and experience with most of the following: Ubuntu Linux - kernel or userspace, Kubernetes, OpenStack, Ceph, QEMU/KVM, LXC/LXD, Python, Go, C, Postgresql, Mongo, Debian packaging, distributed systems&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;What we offer you&lt;/h3&gt;
+&lt;h3&gt;What we offer colleagues&lt;/h3&gt;
 &lt;p&gt;We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!&lt;/li&gt;
@@ -2093,8 +2092,7 @@
 &lt;li&gt;Priority Pass for travel and travel upgrades for long haul company events&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;About Canonical&lt;/h3&gt;
-&lt;p&gt;Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.&lt;/p&gt;
-&lt;p&gt;Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.&lt;/p&gt;
+&lt;p&gt;Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game.&lt;/p&gt;
 &lt;h3&gt;Canonical is an equal opportunity employer&lt;/h3&gt;
 &lt;p&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt; Whatever your identity, we will give your application fair consideration.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -2406,30 +2404,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p style="min-height:1.5em"><strong>Who we are:</strong></p><p style="min-height:1.5em">We are a leader in fraud prevention and AML compliance. Our platform uses device intelligence, behavior biometrics, machine learning, and AI to stop fraud before it happens. Today, over 300 banks, retailers, and fintechs worldwide use Sardine to stop identity fraud, payment fraud, account takeovers, and social engineering scams. We have raised $145M from world-class investors, including Andreessen Horowitz, Activant, Visa, Experian, FIS, and Google Ventures.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Our culture:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">We have hubs in the Bay Area, NYC, Austin, and Toronto. However, we maintain a remote-first work culture. #WorkFromAnywhere</p></li><li><p style="min-height:1.5em">We hire talented, self-motivated individuals with extreme ownership and high growth orientation. </p></li><li><p style="min-height:1.5em">We value performance and not hours worked. We believe you shouldn't have to miss your family dinner, your kid's school play, friends get-together, or doctor's appointments for the sake of adhering to an arbitrary work schedule.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>About the role:</strong></p><p style="min-height:1.5em">We’re looking for a full-stack software engineer who’s excited to bring AI-powered products to life. You’ll work across backend and frontend systems to help evolve our platform and integrate AI into real customer-facing features.</p><p style="min-height:1.5em">This is a high-impact role where you’ll take ownership of complex problems, collaborate closely with the team, and help build AI agents already used by customers. Your work will directly help clients safeguard their assets and protect against malicious threats and fraudsters.</p><p style="min-height:1.5em">We’re looking for someone who thrives in a fast-paced, evolving environment. You’ll have the independence to drive projects forward and the ownership to shape solutions from start to finish. Your intense curiosity and eagerness to explore new technologies will be instrumental in safeguarding our clients' assets against malicious threats and fraudsters.</p><p style="min-height:1.5em">If you love building meaningful products, enjoy solving open-ended problems, and want to work at the forefront of AI, we’d love to hear from you.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What you’ll be doing:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Design, build, and maintain robust full-stack applications that power AI-driven products.</p></li><li><p style="min-height:1.5em">Work closely with AI and product teams to integrate AI directly into customer-facing applications.</p></li><li><p style="min-height:1.5em">Troubleshoot production issues, including running SQL queries and validating datasets.</p></li><li><p style="min-height:1.5em">Own projects from idea to launch, helping shape product direction along the way.</p></li><li><p style="min-height:1.5em">Collaborate with a cross-functional team of designers, engineers, and product leaders.</p></li><li><p style="min-height:1.5em">Stay curious, keep up with the latest AI developments, and bring fresh ideas to the team.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What you’ll need:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">5+ years of full-stack engineering experience, with strong backend focus and production-level frontend development.</p></li><li><p style="min-height:1.5em">Solid experience with backend language (we use Go and Python) and modern frontend frameworks, React + TypeScript.</p></li><li><p style="min-height:1.5em">Comfortable working with SQL and relational databases to troubleshoot and validate data.</p></li><li><p style="min-height:1.5em">Proven ability to solve complex, open-ended problems independently.</p></li><li><p style="min-height:1.5em">Genuine curiosity and excitement for AI, with a strong desire to learn and grow in this space.</p></li><li><p style="min-height:1.5em">Strong communication and collaboration skills, with a track record of working effectively in globally distributed remote cross-functional teams.</p></li><li><p style="min-height:1.5em">Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent practical experience.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Nice to Haves:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Experience in fraud, risk, or compliance domains is a significant plus.</p></li><li><p style="min-height:1.5em">Demonstrated ability to implement solutions that reduce operational inefficiencies while enhancing security and protection against potential threats.</p></li><li><p style="min-height:1.5em">Experience with version control systems, CI/CD pipelines, and cloud platforms (AWS, GCP, or Azure) is a plus.</p></li><li><p style="min-height:1.5em">Demonstrated ability to leverage large language models for innovative product development.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Compensation:</strong> Base pay range of $160,000 - $200,000 + equity with tremendous upside potential + Attractive benefits. </p><p style="min-height:1.5em"></p><p style="min-height:1.5em">The compensation offered for this role will depend on various factors, including the candidate's location, qualifications, work history, and interview performance, and may differ from the stated range.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Benefits we offer:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Generous compensation in cash and equity</p></li><li><p style="min-height:1.5em">Early exercise for all options, including pre-vested</p></li><li><p style="min-height:1.5em">Work from anywhere: Remote-first Culture</p></li><li><p style="min-height:1.5em">Flexible paid time off, Year-end break, Self care days off</p></li><li><p style="min-height:1.5em">Health insurance, dental, and vision coverage for employees and dependents - <em>US and Canada specific</em></p></li><li><p style="min-height:1.5em">4% matching in 401k / RRSP - <em>US and Canada specific</em></p></li><li><p style="min-height:1.5em">MacBook Pro delivered to your door</p></li><li><p style="min-height:1.5em">One-time stipend to set up a home office — desk, chair, screen, etc.</p></li><li><p style="min-height:1.5em">Monthly meal stipend</p></li><li><p style="min-height:1.5em">Monthly social meet-up stipend</p></li><li><p style="min-height:1.5em">Annual health and wellness stipend</p></li><li><p style="min-height:1.5em">Annual Learning stipend</p></li><li><p style="min-height:1.5em">Unlimited access to an expert financial advisory</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em">Join a fast-growing company with world-class professionals from around the world. If you are seeking a meaningful career, you found the right place, and we would love to hear from you.</p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/65879301?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sardine</h5>
-                    <h3>Senior Software Engineer, Data Platform</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.ashbyhq.com/sardine/76db8051-0efe-457d-82f2-11c06d312de8" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="min-height:1.5em"><strong>Who we are:</strong></p><p style="min-height:1.5em">We are a leader in fraud prevention and AML compliance. Our platform uses device intelligence, behavior biometrics, machine learning, and AI to stop fraud before it happens. Today, over 300 banks, retailers, and fintechs worldwide use Sardine to stop identity fraud, payment fraud, account takeovers, and social engineering scams. We have raised $145M from world-class investors, including Andreessen Horowitz, Activant, Visa, Experian, FIS, and Google Ventures.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Our culture:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">We have hubs in the Bay Area, NYC, Austin, and Toronto. However, we maintain a remote-first work culture. #WorkFromAnywhere</p></li><li><p style="min-height:1.5em">We hire talented, self-motivated individuals with extreme ownership and high growth orientation. </p></li><li><p style="min-height:1.5em">We value performance and not hours worked. We believe you shouldn't have to miss your family dinner, your kid's school play, friends get-together, or doctor's appointments for the sake of adhering to an arbitrary work schedule.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Location:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">United States / Canada - Remote</p></li><li><p style="min-height:1.5em">From Home / Beach / Mountain / Cafe / Anywhere!</p></li><li><p style="min-height:1.5em">We are a remote-first company with a globally distributed team. You can find your productive zone and work from there.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>About the role</strong></p><p style="min-height:1.5em">We are seeking a Senior Software Engineer, Data Platform to design and build scalable, data-intensive applications. This role requires expertise in ingesting and transforming large datasets, creating APIs for efficient data retrieval, and developing data products that drive business insights. You will be a key player in shaping our data platform while contributing to backend engineering initiatives.</p><p style="min-height:1.5em">The ideal candidate bridges the gap between traditional data engineering and backend development, building ETL pipelines, APIs, and data-driven solutions with a focus on performance and scalability.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What you'll be doing</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Design and implement ETL pipelines capable of processing terabytes of credit data efficiently.</p></li><li><p style="min-height:1.5em">Develop and optimize APIs to support fast and reliable data retrieval, including both exact and partial matches.</p></li><li><p style="min-height:1.5em">Architect and manage scalable storage solutions (e.g., Bigtable, BigQuery, ElasticSearch, or other NoSQL/SQL systems).</p></li><li><p style="min-height:1.5em">Collaborate with teams to turn raw data into actionable products, driving insights and business value.</p></li><li><p style="min-height:1.5em">Perform analysis on data to figure out the best use of data to provide value to clients</p></li><li><p style="min-height:1.5em">Work closely with both internal and external stakeholders, including data science, product, and operation</p></li><li><p style="min-height:1.5em">Document processes, architectures, and APIs. Mentor junior engineers and foster a culture of technical excellence.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What you'll need</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">5+ years of experience building scalable backend systems, designing high-performance APIs, and processing large-scale datasets.</p></li><li><p style="min-height:1.5em">Expertise in Go, Python, or Java, with a strong foundation in SQL and NoSQL databases (Bigtable, BigQuery, DynamoDB) for scalable storage solutions.</p></li><li><p style="min-height:1.5em">Hands-on experience with AWS or GCP, containerization (Docker, Kubernetes), and CI/CD pipelines to support efficient deployments.</p></li><li><p style="min-height:1.5em">Strong analytical skills, ability to work in a fast-paced, team-driven environment, and communicate complex technical concepts effectively.</p></li><li><p style="min-height:1.5em">Familiarity with credit or financial data and the regulatory considerations involved in handling sensitive information.</p></li></ul><p style="min-height:1.5em"><strong>Nice to have:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Proficiency with data processing tools (e.g., Apache Beam, Spark, Flink as well as orchestrators like Airflow).</p></li><li><p style="min-height:1.5em">Knowledge of data product lifecycle management.</p></li><li><p style="min-height:1.5em">Experience with schema design and managing data integrity in distributed systems.</p></li><li><p style="min-height:1.5em">Familiarity with modern monitoring and observability tools.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Compensation: </strong>Base pay range of $140,000 - $160,000 + Equity with tremendous upside potential + Attractive benefits</p><p style="min-height:1.5em"></p><p style="min-height:1.5em">The compensation offered for this role will depend on various factors, including the candidate's location, qualifications, work history, and interview performance, and may differ from the stated range.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Benefits we offer:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Generous compensation in cash and equity</p></li><li><p style="min-height:1.5em">Early exercise for all options, including pre-vested</p></li><li><p style="min-height:1.5em">Work from anywhere: Remote-first Culture</p></li><li><p style="min-height:1.5em">Flexible paid time off, Year-end break, Self care days off</p></li><li><p style="min-height:1.5em">Health insurance, dental, and vision coverage for employees and dependents - <em>US and Canada specific</em></p></li><li><p style="min-height:1.5em">4% matching in 401k / RRSP - <em>US and Canada specific</em></p></li><li><p style="min-height:1.5em">MacBook Pro delivered to your door</p></li><li><p style="min-height:1.5em">One-time stipend to set up a home office — desk, chair, screen, etc.</p></li><li><p style="min-height:1.5em">Monthly meal stipend</p></li><li><p style="min-height:1.5em">Monthly social meet-up stipend</p></li><li><p style="min-height:1.5em">Annual health and wellness stipend</p></li><li><p style="min-height:1.5em">Annual Learning stipend</p></li><li><p style="min-height:1.5em">Unlimited access to an expert financial advisory</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em">Join a fast-growing company with world-class professionals from around the world. If you are seeking a meaningful career, you found the right place, and we would love to hear from you.</p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -3031,7 +3005,6 @@
 &lt;ul&gt;
 &lt;li data-speechify-sentence=&quot;&quot;&gt;Build and maintain Speechify&#39;s Creator Studio found at speechify.com/studio&lt;/li&gt;
 &lt;li data-speechify-sentence=&quot;&quot;&gt;Integrate AI models to provide state of the art voiceovers, dubbing, voice cloning and more&lt;/li&gt;
-&lt;li data-speechify-sentence=&quot;&quot;&gt;Build the future of&amp;nbsp;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;An Ideal Candidate Should Have&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
