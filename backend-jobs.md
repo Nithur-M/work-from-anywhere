@@ -10,7 +10,7 @@
                     <code>api,AWS,backend,go</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-engineer-1987908" align="right" target="_blank">Apply</a>
@@ -144,7 +144,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://images.atticus.com/images/www/media/favicon.png" width="38px" height="auto">
+                    <img src="https://images.atticus.com/logos/og_logo.png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Atticus</h5>
@@ -168,7 +168,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://images.atticus.com/images/www/media/favicon.png" width="38px" height="auto">
+                    <img src="https://images.atticus.com/logos/og_logo.png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Atticus</h5>
