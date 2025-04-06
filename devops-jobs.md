@@ -1,5 +1,89 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1992812/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Zyte</h5>
+                    <h3>Senior DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>kubernetes,python,CI/CD,terraform</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1992812" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h3">About Us</div>
+<p>At Zyte, we eat data for breakfast and you can eat your breakfast anywhere and work for Zyte. Founded in 2010, we are a globally distributed team of over 250 Zytans working from over 28 countries who are on a mission to enable our customers to extract the data they need to continue to innovate and grow their businesses. We believe that all businesses deserve a smooth pathway to data</p>
+<p>For more than a decade, Zyte has led the way in building powerful, easy-to-use tools to collect, format, and deliver web data, quickly, dependably, and at scale. And today, the data we extract helps thousands of organizations make smarter business decisions, secure competitive advantage, and drive sustainable growth. Today, over 3,000 companies and 1 million developers rely on our tools and services to get the data they need from the web.</p>
+<p> </p>
+<div class="h3">About the Job</div>
+<p>Are you passionate about building automation that empowers developers and drives business value? As a DevOps Engineer, you will play a pivotal role in creating solutions that streamline development, deployment, and maintenance processes, making it easier for our teams to overcome challenges and deliver impactful results.</p>
+<p>Joining our Infrastructure Team, you’ll work with technologies like Kubernetes, Helm, Terraform, Prometheus, and Grafana, scaling and enhancing our robust tech stack. You’ll be responsible for maintaining the infrastructure that powers our products—spanning from cloud-hosted clusters to on-premises bare metal servers. With clusters exceeding 600 worker nodes, your expertise in automation and tooling will be critical for efficient management.</p>
+<p>Open Source is at the heart of our DNA, and we integrate it deeply into our workflows. We embrace innovation and value collaborative problem-solving, making our workplace an environment where your ideas can thrive.<br><br><strong>What We’re Looking For:</strong></p>
+<p>Proven experience with automation, CI/CD pipelines, and managing large-scale infrastructure.</p>
+<p>Strong proficiency in cloud platforms, Kubernetes, and Terraform.</p>
+<p>Passion for Open Source and collaborative development.</p>
+<p>Ability to handle challenges in dynamic environments with a problem-solving mindset.</p>
+<p>If you're ready to shape the future of DevOps and infrastructure at scale, join us in redefining what's possible!</p>
+<p><strong>Requirements</strong></p>
+<div class="h3">Roles &amp; Responsibilities:</div>
+<ul style="">
+<li style="">Architect, deploy, and manage Kubernetes clusters, both in managed cloud environments (e.g., GKE) and self-hosted on-premises setups.</li>
+<li style="">Develop and maintain Infrastructure as Code (IaC) solutions using tools such as Terraform and Helm Charts for efficient and consistent deployments.</li>
+<li style="">Automate provisioning, de-provisioning, and deployment processes using Python and establish robust CI/CD pipelines.</li>
+<li style="">Implement and enhance observability with tools like OpenTelemtry, Prometheus, and Grafana to ensure optimal system monitoring and troubleshooting.</li>
+<li style="">Collaborate with development and operations teams to optimize infrastructure in Google Cloud Platform (GCP) and Oracle Cloud Infrastructure (OCI) environments.</li>
+<li style="">Proactively identify opportunities to improve performance, reliability, and scalability across all layers of the infrastructure.</li>
+</ul>
+<p> </p>
+<div class="h3">Requirements:</div>
+<ul style="">
+<li style="">Extensive hands-on experience with Kubernetes in both cloud-managed and self-managed (on-prem) environments.</li>
+<li style="">Proficiency in IaC tools such as Terraform and expertise in managing Kubernetes application deployments with Helm Charts.</li>
+<li style="">Strong scripting skills in Python, with a focus on automation for infrastructure and deployment workflows.</li>
+<li style="">Deep understanding of observability and monitoring tools, including but not limited to Prometheus, Grafana, and Elasticsearch.</li>
+<li style="">Demonstrated experience with public cloud providers, especially GCP and/or OCI.</li>
+<li style="">Solid understanding of CI/CD pipelines and best practices for modern software delivery.</li>
+<li style="">Strong analytical and problem-solving abilities with a detail-oriented mindset.</li>
+</ul>
+<p><strong>Benefits</strong></p>
+<p>By joining the Zyte team, you will:</p>
+<ul style="">
+<li style="">Become part of a self-motivated, progressive, multi-cultural team.</li>
+<li style="">Have the freedom &amp; flexibility to work remotely.</li>
+<li style="">Get the chance to work with cutting-edge open source technologies and tools.</li>
+<li style="">Allocated hours for Open Source contributions </li>
+<li style="">35 paid time off per year </li>
+</ul>
+<p><br><br></p>
+<div class="h2">About the company</div>
+<p> </p>
+<p>At Zyte, we eat data for breakfast and you can eat your breakfast anywhere while you work for Zyte. Foun</p>
+<p>ded in 2010, we are a globally distributed team of over 200 Zytans working from over 28 countries. We are on a</p>
+<p><img alt="" height="192" src="https://workablehr.s3.amazonaws.com/uploads/photos/346174/7de2eccf157aa786285999df2d3eacba.png" style="float: right; width: 354px; height: 192px; margin: 0px 0px 10px 10px;" title="" width="354">mission to enable our customers to extract the data they need to continue to innovate and grow their businesses. We believe that all businesses deserve a smooth pathway to data.</p>
+<p>For more than a decade, Zyte has led the way in building powerful, easy-to-use tools to collect, format, and deliver web data, quickly, dependably, and at scale. And today, the data we extract helps thousands of organizations make smarter business decisions, secure competitive advantage, and drive sustainable growth. Today, over 3,000 companies and 1 million developers rely on our tools and services to get the data they need from the web.</p>
+<p> </p>
+<p> </p>
+<p>By joining the Zyte team, you will:</p>
+<p>Become part of a self-motivated, progressive, multi-cultural, and curious team that excel every day.</p>
+<ul style="">
+<li style="">When you need help there is always someone there who has your back.</li>
+<li style=""><img alt="" height="196" src="https://workablehr.s3.amazonaws.com/uploads/photos/346174/8199077a092fcc96c36f59df89e883b3.gif" style="width: 347px; height: 196px; float: right; margin: 0px 0px 10px 10px;" title="" width="347">Have the freedom &amp; flexibility to work remotely.</li>
+<li style="">We are committed to making our customers excited.We love to innovate and create new ways of doing things, always striving to do better and be better.</li>
+<li style="">Get the chance to work with cutting-edge technologies and tools.</li>
+</ul>
+<img src="https://remotive.com/job/track/1992812/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1992485/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +94,7 @@
                     <code>golang,kubernetes,automation,rust</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-1992485" align="right" target="_blank">Apply</a>
@@ -131,78 +215,6 @@
 </ul>
 <p style="min-height: 1.5em;">At Flashbots, we are committed to building a diverse and inclusive team. We welcome applications from all qualified candidates regardless of gender, race, ethnicity, religion, sexual orientation, age, or disability status.</p>
 <img src="https://remotive.com/job/track/1992485/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1990753/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>ConsenSys</h5>
-                    <h3>Senior DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>AWS,azure,jira,github</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1990753" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Location: Global Remote (excluding France)</strong></p>
-<p>Consensys is the leading blockchain and web3 software company founded by Joe Lubin, CEO of Consensys and Co-Founder of Ethereum. Since 2014, Consensys has been at the forefront of innovation, pioneering technological developments within the web3 ecosystem.</p>
-<p>Through our product suite, including the MetaMask platform, Infura, Linea, Diligence, and our NFT toolkit Phosphor, we have become the trusted collaborator for users, creators, and developers on their path to build and belong in the world they want to see.</p>
-<p>Whether building a dapp, an NFT collection, a portfolio, or a better future, the instinct to build is universal. Consensys inspires and champions the builder instinct in everyone by making web3 universally easy to use and develop on.</p>
-<p>Our mission is to unlock the collaborative power of communities by making the decentralized web universally easy to access, use, and build on. </p>
-<p>You’ll get to work on the tools, infrastructure, and apps that scale these platforms to onboard one billion participants and 5 million developers. You’ll be constantly exposed to new concepts, ideas, and frameworks from your peers, and as you work on different projects — challenging you to stay at the top of your game. You’ll join a network of builders that reaches the edge of our ecosystem. Consensys alumni have moved on to become tech entrepreneurs, CEOs, and team leads at tech companies. </p>
-<p><strong>What you’ll do</strong></p>
-<ul style="">
-<li style="">Configure and manage cloud platforms, including AWS, Azure, GCP and Cloudflare</li>
-<li style="">Manage and administer our CI/CD pipelines with Github (GitHub Actions. AWS Land Zone)</li>
-<li style="">Maintain and improve our internal management systems</li>
-<li style="">Respond to IT incidents and requests through Jira Service Management to ensure minimal downtime and loss</li>
-<li style="">Enhance security infrastructure by using Okta for secure Identity management</li>
-<li style="">Document all DevOps and infrastructure-related processes within Confluence</li>
-</ul>
-<p><strong>Would be great if you brought this to the role</strong></p>
-<ul style="">
-<li style="">Good knowledge of AWS and/or Azure cloud computing platforms</li>
-<li style="">Experience with GitHub and understanding of version control concepts</li>
-<li style="">Experience with Security and Identity management tools, preferably Okta</li>
-<li style="">Knowledge of IT ticketing systems, preferably Jira Service Management</li>
-<li style="">Familiarity with Confluence or equivalent documentation tools</li>
-<li style="">Understanding of blockchain technologies and familiarity with Web3</li>
-<li style="">Good problem-solving methods and a proactive work ethos</li>
-<li style="">Effective communication skills, both written and verbal</li>
-<li style="">Strong team player with the ability to work independently when needed</li>
-</ul>
-<p><strong>Bonus Points</strong></p>
-<ul style="">
-<li style="">3+ years experience administering cloud platforms</li>
-<li style="">Certification in AWS, Azure or other Cloud platforms is beneficial</li>
-</ul>
-<p>Don't meet all the requirements? Don't sweat it. We’re passionate about building a diverse team of humans and as such, if you think you've got what it takes for our chaotic-but-fun, remote-friendly, start-up environment—apply anyway, detailing your relevant transferable skills in your cover letter. While we have a pretty good idea of what we need, we're ready for you to challenge our thinking on who needs to be in this role.</p>
-<p><em>It is a requirement of employment in this position that applicants will be required to submit to background checks including but not limited to employment, education and criminal record checks. Further details will be provided to applicants that successfully meet the criteria for the position as determined by the company in its sole discretion. By submitting an application for employment, you are acknowledging and consenting to this requirement.</em></p>
-<div class='"content-pay-transparency"'>
-<div class='"pay-input"'>
-<div class='"description"'>
-<p><em>The salary range for US-based candidates only will be determined throughout the interview process depending on experience and skills.</em></p>
-</div>
-<div class='"title"'>US pay range (not including bonus, equity or other benefits)</div>
-<div class='"pay-range"'>$102,000<span class='"divider"'>—</span>$178,000 USD</div>
-</div>
-</div>
-<div class='"content-conclusion"'>
-<p> </p>
-<p>In the rapidly evolving Web3 space, we believe that everyone is a builder. This expansive paradigm requires a range of backgrounds, talents, skills, and experiences to influence and shape the future. At Consensys, this diversity fuels our ability to shift control and redefine the realm of possibility. We are committed to ensuring that our technology empowers people and communities with economic and political agency through decentralized technologies. We welcome the range of perspectives and differences and celebrate them. We're excited to see how your unique skills as a builder can contribute to our vision, drive innovation, and help us shape a more inclusive Web3.</p>
-<p>Consensys is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. Consensys is aware of fraudulent recruitment practices and we encourage all applicants to review our best practices to protect yourself which can be found (<a href="%22https:/consensys.io/careers/best-practices-to-avoid-recruitment-fraud/)%22" rel="nofollow">https://consensys.io/careers/best-practices-to-avoid-recruitment-fraud/)</a>.</p>
-</div>
-<img src="https://remotive.com/job/track/1990753/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
