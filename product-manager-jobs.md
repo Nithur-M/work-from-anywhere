@@ -433,7 +433,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://images.atticus.com/images/www/media/favicon.png" width="38px" height="auto">
+                    <img src="https://images.atticus.com/logos/og_logo.png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Atticus</h5>
@@ -457,7 +457,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://images.atticus.com/images/www/media/favicon.png" width="38px" height="auto">
+                    <img src="https://images.atticus.com/logos/og_logo.png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Atticus</h5>
@@ -481,7 +481,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://images.atticus.com/images/www/media/favicon.png" width="38px" height="auto">
+                    <img src="https://images.atticus.com/logos/og_logo.png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Atticus</h5>
