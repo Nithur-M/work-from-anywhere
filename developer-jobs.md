@@ -10,7 +10,7 @@
                     <code>backend,C++,javascript,mongoDB</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-node-js-1984510" align="right" target="_blank">Apply</a>
@@ -83,7 +83,7 @@ the services and core processes with the highest security principles and
                     <code>.Net,api,backend,C</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-typescript-1983726" align="right" target="_blank">Apply</a>
@@ -383,30 +383,6 @@ the services and core processes with the highest security principles and
 &lt;p&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt; Whatever your identity, we will give your application fair consideration.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-remote&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/4499761?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Collabora</h5>
-                    <h3>CI/Testing Infrastructure Developer (Remote/Anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/collabora/7dd88e28-ffd5-4d6c-b54b-8a6c42cd7e85" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>Collabora is currently looking for a very technically capable, enthusiastic and passionate Continuous Integration (CI) &amp; Testing Developer to join its ever-growing engineering team.</div><div><br></div><div>As a member of the CI &amp; Testing  team, your primary focus will be to participate in the development,  integration and deployment of Open Source Continuous Integration and  Automated Testing systems in upstream projects. The scope of the work ranges from hardware automation through LAVA, to systems like KernelCI and Mesa CI.</div><div>Collabora is currently looking for a very technically capable, enthusiastic and passionate Continuous Integration (CI) &amp; Testing Developer to join its ever-growing engineering team.</div><div><br></div><div>As a member of the CI &amp; Testing  team, your primary focus will be to participate in the development,  integration and deployment of Open Source Continuous Integration and  Automated Testing systems in upstream projects. The scope of the work ranges from hardware automation through LAVA, to systems like KernelCI and Mesa CI.</div><h3>Responsibilities</h3><li>Analyse  a project's needs for automated testing and design an implementation plan to discuss with the upstream community and Collabora's customers</li><li>Monitor and identify areas of improvement for existing upstream Continuous Integration systems</li><li>Implement  the CI system by integrating the required dependencies, building the  code at test, deploying it to the device under testing, executing the  tests and distributing and presenting the results</li><li>Represent Collabora at conferences and trade shows to demonstrate and promote our leadership in the open source arena</li><li>Understand client needs and reconcile time constraints, available technologies and resources, and Open Source best practices</li><h3>Desired Skills</h3><li>Good understanding of Continuous Integration systems</li><li>Experience with Gitlab CI/CD and/or GitHub Actions</li><li>Experience with Python and Python frameworks such as Django, Flask, FastAPI</li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written)</li><li>Ability to work and communicate in a fully distributed environment, completely online</li><h3>Additional Skills - for some projects, possessing any of these skills can be very helpful</h3><li>Familiarity with the upstream Linux kernel development workflow</li><li>Embedded development experience (firmware, bootloaders, kernel, BSP)</li><li>Knowledge about OpenGL and/or Vulkan GPU drivers</li><li>Sysadmin/DevOps experience</li><li>Fluency with Kubernetes</li><div>Collabora  is a software consultancy specialising in bringing companies and the  Open Source community together. We combine years of Open Source software  leadership with an understanding of the challenges that businesses, non-profits and governments face. Collabora brings deep technical expertise in  system integration &amp; architecture, graphics, multimedia, web engines  and communications to a number of market verticals, including mobile,  IVI / automotive, set top box / smart TV, and a range of other  specialised embedded applications.</div><div><br></div><div>Collabora  has the unique business model of enabling enterprises to leverage Open  Source software in their solutions. Having worked with notable industry  leading companies in the automotive, aerospace and handset mobile  verticals amongst many others, Collabora has established a broad  customer portfolio.</div><div><br></div><div>#LI-Remote</div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1327,6 +1303,30 @@ the services and core processes with the highest security principles and
                 </td>
                 <td width="300">
                     <h5>Blue Coding</h5>
+                    <h3>Senior Ruby on Rails Developer (VM)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/bluecoding/bd8cf6d8-7388-47e1-8dfa-9b1cb6102bba" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 24px;">What are we looking for?</b></div><div><br></div><div>In this opportunity, we are looking for a Senior Software Developer to work with one of our foreign clients, who is a market leader in the consultation, design, procurement, implementation, and ongoing managed services for technology services for mid to large global enterprises. As a Telecom Managed Service company, they partner with over 300 service providers globally to help customers with technology design and find the best solutions to meet their needs.</div><div><br></div><div>As a Senior Software Developer, you will use coding languages to write, compile, and test programs and applications aimed at delivering cellular cost optimization services for enterprises. Joining our client's team, you will be dedicated to helping reduce their clients' monthly cell phone bills and simplifying the management of their mobile device inventory and services.</div><div><br></div><div>If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Design, develop, and maintain enterprise-level software applications and systems.</li><li>Collaborate with cross-functional teams to identify and solve complex software problems.</li><li>Write clean, efficient, and well-documented code.</li><li>Test software through unit tests, integration tests and debugging tools.</li><li>Perform code reviews and ensure the highest code quality standards are met.</li><li>Stay current with emerging trends and technologies in software development</li><li>Participate in Agile development methodologies, including sprint planning, stand-ups, and retrospectives</li><li>Communicate effectively with stakeholders, including product managers, designers, and other engineers.</li><li>Contribute to the development of technical specifications and project plans.</li><li>Provide technical guidance and mentorship to junior engineers</li>,<h3>You will shine if you have:</h3><li>Bachelor's degree in Computer Science or a related field, or equivalent work experience.</li><li>5+ years of related work experience.</li><li>Thorough understanding of software design patterns and architecture principles</li><li>Extensive knowledge of coding languages and systems.</li><li>Skilled at developing front-end UX using CSS3, HTML5, and Bootstrap while delivering content from MSSQL via Ruby on Rails.</li><li>Experience with Cold Fusion to help support enhancement/bug backlog would be a great plus</li><li>Experience with agile development methodologies</li><li>Experience with cloud computing platforms, such as AWS.</li><li>Experience with database technologies, such as SQL or NoSQL</li><li>Experience with version control systems, such as Git.</li><li>Demonstrated problem-solving and analytical skills.</li><li>Excellent organizational skills, attention to detail, and time management skills.</li><li>Proficient with Microsoft Office Suite and related software</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://media.licdn.com/dms/image/C4D0BAQHlK67hgnhzQw/company-logo_200_200/0/1631346154820?e=2147483647&v=beta&t=_R2Ssj7L_f4xqmSCcq0nOLCyCz0QN2lFnHssxxhj3YY" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Blue Coding</h5>
                     <h3>Senior Salesforce Developer</h3>
                 </td>
                 <td width="300">
@@ -1495,30 +1495,6 @@ the services and core processes with the highest security principles and
                 </td>
                 <td width="300">
                     <h5>Livekit</h5>
-                    <h3>Developer Advocate</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.ashbyhq.com/livekit/e8499242-32c7-4d3a-a6f1-42bb2cdf5bfd" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h2><strong>LiveKit Developer Advocate</strong></h2><p style="min-height:1.5em">At LiveKit, we're seeking a Developer Advocate - a crucial role that sits at the intersection of engineering and community engagement. This position is for someone who finds fulfillment in empowering developers, facilitating their success, and serving as the vital link between our technology and its users. While many engineers focus on building complex systems, we're looking for someone passionate about building developer understanding and adoption.</p><p style="min-height:1.5em">As a Developer Advocate at LiveKit, you'll have a direct impact on our product direction and community growth. If you feel a sense of accomplishment when you see developers successfully integrate LiveKit, knowing you played a part in making it happen, this role is perfect for you.</p><p style="min-height:1.5em"></p><h3>As an Developer Advocate at LiveKit, you will:</h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Foster and grow our developer community through active engagement in forums, social media, and events.</p></li><li><p style="min-height:1.5em">Create and curate high-quality technical content including blog posts, tutorials, documentation, and sample applications.</p></li><li><p style="min-height:1.5em">Represent the developer voice within LiveKit, providing crucial feedback to our product and engineering teams.</p></li><li><p style="min-height:1.5em">Assist developers in understanding, implementing, and troubleshooting LiveKit, ensuring a positive experience with our platform.</p></li><li><p style="min-height:1.5em">Develop and deliver presentations, workshops, and demos to showcase LiveKit's capabilities and best practices.</p></li><li><p style="min-height:1.5em">Collaborate with marketing and partnerships teams to expand our reach and influence in the developer ecosystem.</p></li></ul><h2>About You</h2><h3>You'll thrive as an Developer Advocate if you:</h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">You are an engineer.</p></li><li><p style="min-height:1.5em">You don’t mind reading more code than you write.</p></li><li><p style="min-height:1.5em">You're comfortable with code across various languages and can quickly grasp new technologies.</p></li><li><p style="min-height:1.5em">You possess excellent written and verbal communication skills.</p></li><li><p style="min-height:1.5em">You find satisfaction in educating others and seeing them succeed with our technology.</p></li></ul><h3><strong>Bonus Points</strong></h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Previous experience in developer advocacy or developer relations.</p></li><li><p style="min-height:1.5em">Contributions to open-source projects.</p></li><li><p style="min-height:1.5em">Familiarity with real-time communication technologies or experience building with LiveKit.</p></li><li><p style="min-height:1.5em">Public speaking experience at tech conferences or meetups.</p></li></ul><p style="min-height:1.5em"></p><h2>Our Commitments to You</h2><h3>We offer</h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">An opportunity to build something truly impactful to the world</p></li><li><p style="min-height:1.5em">Competitive salary and equity package</p></li><li><p style="min-height:1.5em">Work anywhere in the world</p></li><li><p style="min-height:1.5em">Health, dental, and vision benefits</p></li><li><p style="min-height:1.5em">Flexible vacation policy</p></li></ul><h3>Ready to Apply?</h3><p style="min-height:1.5em">If you're passionate about championing developers in the realm of real-time communications and want to make a significant impact at a high-growth company, we'd love to hear from you. At LiveKit, your work as a Developer Advocate will be instrumental in our growth and success, bridging the gap between our technology and the developers who use it.</p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Livekit</h5>
                     <h3>Developer Success Engineer</h3>
                 </td>
                 <td width="300">
@@ -1583,6 +1559,75 @@ the services and core processes with the highest security principles and
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p style="min-height:1.5em"><strong>Location:</strong> Fully Remote | <strong>Type:</strong> Full-time or Contract</p><p style="min-height:1.5em">Salary: $100 - $180k (DOE) + Stock</p><h2></h2><h1><strong>About Synthflow</strong></h1><p style="min-height:1.5em">At <a target="_blank" rel="noopener noreferrer nofollow" href="http://synthflow.ai/">Synthflow</a> we’re building the easiest way for businesses to create AI-powered phone agents. No coding, no fuss—just smarter automation. We’re passionate about delivering the future of voice technology with lightning-fast, scalable solutions. It’s an exciting time at Synthflow: we’re early, fast-growing, and laser-focused on impact. Join us to do the best work of your career while helping businesses thrive.</p><p style="min-height:1.5em"></p><h1><strong>About the role</strong></h1><p style="min-height:1.5em">We’re looking for a Senior Go Developer to build real-time voice AI systems that set the standard.</p><p style="min-height:1.5em"></p><h2><strong>Your responsibilities will include:</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Building &amp; Optimising</strong>: Develop and fine-tune our Go-based real-time, low-latency voice telephony AI service, ensuring it runs smoothly and efficiently. ⚙️</p></li><li><p style="min-height:1.5em"><strong>Scalable Solutions</strong>: Leverage Go’s powerful concurrency features—like goroutines and channels—to build scalable systems that can handle heavy traffic with ease. 📈</p></li><li><p style="min-height:1.5em"><strong>Cloud Infrastructure</strong>: Design and implement cloud infrastructure that supports flexible and reliable deployment models, ensuring our services are always available when our users need them. ☁️</p></li><li><p style="min-height:1.5em"><strong>Cross-Language Collaboration</strong>: Work closely with our backend teams to integrate Go services with Python components, creating a seamless experience across our platform. 🤝</p></li><li><p style="min-height:1.5em"><strong>Infrastructure-as-Code</strong>: Use Terraform to manage cloud deployments, ensuring that our infrastructure is scalable, consistent, and easy to maintain. 🛠️</p></li></ul><p style="min-height:1.5em"></p><h1><strong>What you bring:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Go Expertise</strong>: <strong>You have a strong proficiency in Go</strong>, with a deep understanding of concurrency, goroutines, and channels. You know how to use these tools to build efficient, scalable, and maintainable systems. 💪</p></li><li><p style="min-height:1.5em"><strong>Cloud Savvy</strong>: Extensive experience in cloud infrastructure, preferably across multiple providers like AWS, GCP, or Azure. 🌍</p></li><li><p style="min-height:1.5em"><strong>Terraform Pro</strong>: Skilled in using Terraform for infrastructure-as-code, making cloud deployments straightforward and reliable. 📜</p></li><li><p style="min-height:1.5em"><strong>Real-Time Systems Experience</strong>: Experience in developing and optimising real-time, low-latency systems, with a focus on performance and scalability. ⏱️</p></li><li><p style="min-height:1.5em"><strong>Python Knowledge</strong>: While Go is your primary tool, you’re also comfortable with Python and can contribute to cross-language integrations. 🐍</p></li><li><p style="min-height:1.5em"><strong>Voice Telephony or Audio Processing</strong>: Experience with voice telephony systems or audio processing is a big plus! 🎧</p></li></ul><p style="min-height:1.5em"></p><h1><strong>Who you are:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Problem Solver</strong>: You love tackling complex technical challenges and coming up with innovative solutions. 🧠</p></li><li><p style="min-height:1.5em"><strong>Team Player</strong>: You thrive in a collaborative environment and are excited to share ideas and learn from others. 🤗</p></li><li><p style="min-height:1.5em"><strong>Performance-Oriented</strong>: Always looking for ways to optimise systems and improve performance. 🚀</p></li><li><p style="min-height:1.5em"><strong>Communicator</strong>: Excellent communication skills, able to explain technical concepts clearly to both technical and non-technical team members. 💬</p></li></ul><p style="min-height:1.5em"></p><h1><strong>What We Offer:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Autonomy at speed: </strong>High-ownership roles in a fast-moving startup.</p></li><li><p style="min-height:1.5em"><strong>Remote-first flexibility: </strong>Contribute from anywhere, on your schedule.</p></li><li><p style="min-height:1.5em"><strong>Cutting-edge technology:</strong> Work on what interests you most.</p></li><li><p style="min-height:1.5em"><strong>Career growth: </strong>Scale your impact as the company grows.</p></li><li><p style="min-height:1.5em"><strong>Rewarding package: </strong>Competitive pay, equity options, and comprehensive benefits that reflect your skills and experience. </p></li></ul><h2></h2>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/67208791?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Fingerprint</h5>
+                    <h3>Software Engineer, Integrations & Developer Experience team</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://fingerprint.com/careers/jobs/apply/?gh_jid=5484503004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Fingerprint&lt;/strong&gt;&amp;nbsp;empowers developers to stop online fraud at the source.&lt;/p&gt;
+&lt;p&gt;We work on turning radical new ideas in the fraud detection space into reality. Our products are developer-focused and our clients range from solo developers to publicly traded companies.&amp;nbsp;&lt;strong&gt;We are a globally dispersed, 100% remote company&lt;/strong&gt; with a strong open-source focus. Our flagship open-source project is &lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://github.com/fingerprintjs/fingerprintjs&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://github.com/fingerprintjs/fingerprintjs&quot; data-sk=&quot;tooltip_parent&quot;&gt;FingerprintJS&lt;/a&gt; (20K stars on GitHub).&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot; data-sk=&quot;tooltip_parent&quot;&gt;We have raised $77M&amp;nbsp;&lt;/a&gt;and are backed by Craft Ventures (previously invested in&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.tesla.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.tesla.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Tesla,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://facebook.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://facebook.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Facebook,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.airbnb.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.airbnb.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Airbnb&amp;nbsp;&lt;/a&gt;), Nexus Venture Partners (previously invested in &lt;a href=&quot;https://www.postman.com/&quot;&gt;Postman&lt;/a&gt;, &lt;a href=&quot;https://www.apollo.io/&quot;&gt;Apollo.io,&lt;/a&gt; &lt;a href=&quot;https://min.io/&quot;&gt;MinIO&lt;/a&gt;, Druva)&amp;nbsp;and Uncorrelated Ventures (previously invested in&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://redis.io/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://redis.io/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Redis,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://rollbar.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://rollbar.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Rollbar&amp;nbsp;&lt;/a&gt;&amp;amp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://gradle.org/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://gradle.org/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&amp;nbsp;Gradle&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates&#39; personal and financial information through fake interviews and offers. All Fingerprint recruiting email communications will always come from the @fingerprint.com domain. Any outreach claiming to be from Fingerprint via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;Software Engineer – Customer-Facing Integrations &amp;amp; Cloud Security&lt;/h3&gt;
+&lt;p&gt;As a Software Engineer on the Developer Experience and Integrations team, you will be responsible for building and maintaining customer-facing integrations between Fingerprint and third-party cloud providers, such as Cloudflare, AWS, Fastly, and Akamai. Your work will enable customers to seamlessly integrate Fingerprint’s device intelligence solutions into their existing infrastructure, enhancing security not only for authentication but for any critical action or transaction that requires protection.&lt;/p&gt;
+&lt;p&gt;You will contribute to both backend integrations (Cloudflare Workers, AWS Lambda, API-driven security measures) and customer-facing features in our dashboard, which is primarily written in React and Node.js, with some backend services in Go. Additionally, you will play a key role in maintaining and improving our open-source ecosystem, including a wide range of Server API SDKs, frontend libraries, and mobile libraries.&lt;/p&gt;
+&lt;p&gt;Your code will be executed millions of times daily, ensuring accurate device intelligence and seamless protection for our customers’ most sensitive workflows.&lt;/p&gt;
+&lt;h3&gt;Responsibilities:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop and maintain customer-facing integrations between Fingerprint and cloud platforms like Cloudflare, AWS, Akamai, and Fastly.&lt;/li&gt;
+&lt;li&gt;Enhance the Fingerprint dashboard (React, Node.js) to provide customers with intuitive ways to configure integrations.&lt;/li&gt;
+&lt;li&gt;Implement API-based and edge-based security logic, ensuring seamless communication between Fingerprint, cloud services, and customers’ infrastructure.&lt;/li&gt;
+&lt;li&gt;Maintain and improve our open-source ecosystem, including Server API SDKs, frontend libraries, and mobile libraries to ensure seamless developer adoption.&lt;/li&gt;
+&lt;li&gt;Work with SDKs and open-source projects that enable customers to integrate Fingerprint’s device intelligence into their workflows.&lt;/li&gt;
+&lt;li&gt;Collaborate with product managers, engineers, and designers to improve customer experience and technical performance.&lt;/li&gt;
+&lt;li&gt;Write internal and public documentation to guide customers in integrating Fingerprint with third-party cloud platforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Qualifications:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;3-5 years of experience with at least a subset of the following technologies: JavaScript, TypeScript, Node.js, React, Go.&lt;/li&gt;
+&lt;li&gt;2-3 years of experience working with Cloudflare Workers, AWS Lambda, or similar edge computing platforms.&lt;/li&gt;
+&lt;li&gt;Experience integrating third-party services and APIs.&lt;/li&gt;
+&lt;li&gt;Experience working on customer-facing products, such as dashboards, SDKs, or developer tools.&lt;/li&gt;
+&lt;li&gt;Familiarity with SDK and library development.&lt;/li&gt;
+&lt;li&gt;Ability to work asynchronously in a remote-based team, with excellent communication skills and attention to detail.&lt;/li&gt;
+&lt;li&gt;Deep interest in cloud platforms, open-source development, and developer experience.&lt;/li&gt;
+&lt;li style=&quot;font-weight: bold;&quot;&gt;&lt;strong&gt;To demonstrate your attention to detail, please include the current major version of the Fingerprint Pro Server Python SDK into the box below&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Nice to have:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience working with additional cloud platforms, such as Akamai, Fastly, Azure Functions.&lt;/li&gt;
+&lt;li&gt;Contributions to open-source projects or published technical content related to integrations.&lt;/li&gt;
+&lt;li&gt;Experience in technical writing for API and integration documentation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This role is ideal for someone passionate about customer-facing integrations, cloud security, edge computing, and developer experience, while also maintaining and improving our open-source ecosystem and existing integrations.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates&#39; personal and financial information through fake interviews and offers. All Fingerprint recruiting email communications will always come from the @fingerprint.com domain. Any outreach claiming to be from Fingerprint via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Offers vary depending on, but not limited to, relevant experience, education, certifications/licenses, skills, training, and market conditions.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Due to regulatory and security reasons, there’s a small number of countries where we cannot have Fingerprint teammates based.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Additionally, because Fingerprint is an all-remote company and people can join our workforce from almost any country, we do not sponsor visas. Fingerprint teammates need to be authorized to work from their home location&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We are dedicated to creating an inclusive work environment for everyone. We embrace and celebrate the unique experiences, perspectives and cultural backgrounds that each employee brings to our workplace. Fingerprint strives to foster an environment where our employees feel respected, valued and empowered, and our team members are at the forefront in helping us promote and sustain an inclusive workplace. We highly encourage people from underrepresented groups in tech to apply.&lt;/p&gt;
+&lt;p&gt;If you are applying as a resident of California, please read our CCPA notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-ccpa&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you are applying as a resident of the EU, please read our GDPR notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-gdpr&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
