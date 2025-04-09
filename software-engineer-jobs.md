@@ -10,7 +10,7 @@
                     <code>.Net,javascript,python,saas</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1991695" align="right" target="_blank">Apply</a>
@@ -86,7 +86,7 @@
                     <code>api,CSS,frontend,html</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-infrastructure-team-1989176" align="right" target="_blank">Apply</a>
@@ -2620,75 +2620,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div>Are you ready to embark on an exciting adventure? Are you looking for an opportunity that breaks the mold and lets you unleash your creativity and talent? You’ve come to the right place!</div><div><br></div><div>🚀 About Us 🚀</div><div>We’re a team of innovators, ambitious and mission-driven people who are always striving to do better. We value diversity, embrace quirks and celebrate uniqueness. Together, we’re on a mission to revolutionize the global real estate capital markets.  At Altrio, we are building real estate investment software designed to help our clients invest faster, smarter, and more confidently for some of the biggest global real estate investors, including Brookfield Properties, QuadReal Property Group and Hines.</div><div><br></div><div>🏢 The Opportunity 🏢 </div><div><span style="font-size: 11pt;">We are currently looking for an Intermediate Software Engineer (Ruby on Rails) to join the team. The ideal candidate will have a strong understanding of Ruby on Rails, as well as experience building and maintaining web applications. In this role, you will be responsible for working on a variety of projects, including new feature development, bug fixing, and performance optimization.</span></div><div><span style="font-size: 11pt;">We’re using both client and server-side technologies; Javascript, React and Tailwind CSS along with modern Rails; Stimulus and Hotwire to deliver experiences our customers love. We’re strong proponents of </span><a rel="noopener noreferrer" class="postings-link" style="font-size: 11pt;" href="https://dev.37signals.com/vanilla-rails-is-plenty/">vanilla rails</a><span style="font-size: 11pt;"> and endeavour to really lean into the framework.</span></div><div><br></div><div>Are you ready to embark on an exciting adventure? Are you looking for an opportunity that breaks the mold and lets you unleash your creativity and talent? You’ve come to the right place!</div><div><br></div><div>🚀 About Us 🚀</div><div>We’re a team of innovators, ambitious and mission-driven people who are always striving to do better. We value diversity, embrace quirks and celebrate uniqueness. Together, we’re on a mission to revolutionize the global real estate capital markets.  At Altrio, we are building real estate investment software designed to help our clients invest faster, smarter, and more confidently for some of the biggest global real estate investors, including Brookfield Properties, QuadReal Property Group and Hines.</div><div><br></div><div>🏢 The Opportunity 🏢 </div><div><span style="font-size: 11pt;">We are currently looking for an Intermediate Software Engineer (Ruby on Rails) to join the team. The ideal candidate will have a strong understanding of Ruby on Rails, as well as experience building and maintaining web applications. In this role, you will be responsible for working on a variety of projects, including new feature development, bug fixing, and performance optimization.</span></div><div><span style="font-size: 11pt;">We’re using both client and server-side technologies; Javascript, React and Tailwind CSS along with modern Rails; Stimulus and Hotwire to deliver experiences our customers love. We’re strong proponents of </span><a href="https://dev.37signals.com/vanilla-rails-is-plenty/" style="font-size: 11pt;" class="postings-link" target="_blank" rel="noopener noreferrer">vanilla rails</a><span style="font-size: 11pt;"> and endeavour to really lean into the framework.</span></div><div><br></div><h3>🔥 What You'll Do 🔥</h3><li>Design, develop and ship major features for existing and new products using Ruby on Rails</li><li>Write clean, maintainable, and efficient code</li><li>Collaborate with other developers, designers, and stakeholders to deliver high-quality products</li><li>Troubleshoot and debug issues as they arise</li><li>Stay up-to-date with the latest industry trends and technologies</li><li>Mentor junior developers and lead best practices across the team</li><li>Deeply understand the needs of our business and its clients</li><li>Have the opportunity to work full stack</li><li>Help shape our engineering culture, tooling and processes </li><h3>💡 What You Bring to the Team 💡</h3><li>2+ years of professional software engineering experience</li><li>Have delivered impactful projects from design to production with Ruby on Rails</li><li>Familiarity with Git and other version control tools</li><li>Strong problem-solving, analytical, debugging and troubleshooting skills</li><li>Practitioner of best practices in code health, testability, maintainability, scalability</li><li>Effective communicator who is comfortable seeking and receiving feedback</li><li>Highly collaborative with low ego</li><li>Results-oriented developer who takes pride in their craft</li><h3>🌟 Perks and Benefits 🌟</h3><li><b>Stake in the Company:</b> Empowering and amplifying the voices and work of our employees is important to us, and that’s why we provide employee stock options. We want the whole team to share in our successes and victories, and have hard work pay off in more ways than a paycheque.</li><li><b>Continuous Learning:</b> We believe that investing in our employees’ growth and development is essential to our long-term success as a company. By providing financial support for continuing education and skill-building opportunities, we empower our employees to stay up-to-date with the latest trends and best practices in their field, and develop new skills.</li><li><b>Health Coverage:</b> Ensuring our employees feel valued, supported and empowered to prioritize their health and well-being is our top priority. We offer comprehensive healthcare coverage to provide the support and resources our employees need to take care of themselves and their families, so they can come to work healthy, focused, and ready to take on the day.</li><li><b>Work from Anywhere:</b> We give our team the flexibility and ownership to choose to work from wherever they’re most productive, whether that be at home, the Toronto HQ, or anywhere else. We want our team to feel productive, and balance their lives however works best for them.</li><li><b>Rest &amp; Recharge:</b> We provide ample vacation days, personal days and other forms of paid leave, our employees should feel free prioritize their well-being, spend time with their loved ones, and experience new places and activities</li><div><span style="font-size: 16px;">We are committed to creating an inclusive and accessible work environment for all candidates. If you require accommodations to participate in the application process or have any specific needs throughout the hiring process, please contact us at people@altrio.com. </span></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/67208791?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Fingerprint</h5>
-                    <h3>Software Engineer, Integrations & Internal Firewall</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://fingerprint.com/careers/jobs/apply/?gh_jid=5484503004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Fingerprint&lt;/strong&gt;&amp;nbsp;empowers developers to stop online fraud at the source.&lt;/p&gt;
-&lt;p&gt;We work on turning radical new ideas in the fraud detection space into reality. Our products are developer-focused and our clients range from solo developers to publicly traded companies.&amp;nbsp;&lt;strong&gt;We are a globally dispersed, 100% remote company&lt;/strong&gt; with a strong open-source focus. Our flagship open-source project is &lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://github.com/fingerprintjs/fingerprintjs&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://github.com/fingerprintjs/fingerprintjs&quot; data-sk=&quot;tooltip_parent&quot;&gt;FingerprintJS&lt;/a&gt; (20K stars on GitHub).&lt;/p&gt;
-&lt;p&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot; data-sk=&quot;tooltip_parent&quot;&gt;We have raised $77M&amp;nbsp;&lt;/a&gt;and are backed by Craft Ventures (previously invested in&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.tesla.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.tesla.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Tesla,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://facebook.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://facebook.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Facebook,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.airbnb.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.airbnb.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Airbnb&amp;nbsp;&lt;/a&gt;), Nexus Venture Partners (previously invested in &lt;a href=&quot;https://www.postman.com/&quot;&gt;Postman&lt;/a&gt;, &lt;a href=&quot;https://www.apollo.io/&quot;&gt;Apollo.io,&lt;/a&gt; &lt;a href=&quot;https://min.io/&quot;&gt;MinIO&lt;/a&gt;, Druva)&amp;nbsp;and Uncorrelated Ventures (previously invested in&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://redis.io/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://redis.io/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Redis,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://rollbar.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://rollbar.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Rollbar&amp;nbsp;&lt;/a&gt;&amp;amp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://gradle.org/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://gradle.org/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&amp;nbsp;Gradle&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates&#39; personal and financial information through fake interviews and offers. All Fingerprint recruiting email communications will always come from the @fingerprint.com domain. Any outreach claiming to be from Fingerprint via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;Software Engineer – Customer-Facing Integrations &amp;amp; Cloud Security&lt;/h3&gt;
-&lt;p&gt;As a Software Engineer on the Developer Experience and Integrations team, you will be responsible for building and maintaining customer-facing integrations between Fingerprint and third-party cloud providers, such as Cloudflare, AWS, Fastly, and Akamai. Your work will enable customers to seamlessly integrate Fingerprint’s device intelligence solutions into their existing infrastructure, enhancing security not only for authentication but for any critical action or transaction that requires protection.&lt;/p&gt;
-&lt;p&gt;You will contribute to both backend integrations (Cloudflare Workers, AWS Lambda, API-driven security measures) and customer-facing features in our dashboard, which is primarily written in React and Node.js, with some backend services in Go. Additionally, you will play a key role in maintaining and improving our open-source ecosystem, including a wide range of Server API SDKs, frontend libraries, and mobile libraries.&lt;/p&gt;
-&lt;p&gt;Your code will be executed millions of times daily, ensuring accurate device intelligence and seamless protection for our customers’ most sensitive workflows.&lt;/p&gt;
-&lt;h3&gt;Responsibilities:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Develop and maintain customer-facing integrations between Fingerprint and cloud platforms like Cloudflare, AWS, Akamai, and Fastly.&lt;/li&gt;
-&lt;li&gt;Enhance the Fingerprint dashboard (React, Node.js) to provide customers with intuitive ways to configure integrations.&lt;/li&gt;
-&lt;li&gt;Implement API-based and edge-based security logic, ensuring seamless communication between Fingerprint, cloud services, and customers’ infrastructure.&lt;/li&gt;
-&lt;li&gt;Maintain and improve our open-source ecosystem, including Server API SDKs, frontend libraries, and mobile libraries to ensure seamless developer adoption.&lt;/li&gt;
-&lt;li&gt;Work with SDKs and open-source projects that enable customers to integrate Fingerprint’s device intelligence into their workflows.&lt;/li&gt;
-&lt;li&gt;Collaborate with product managers, engineers, and designers to improve customer experience and technical performance.&lt;/li&gt;
-&lt;li&gt;Write internal and public documentation to guide customers in integrating Fingerprint with third-party cloud platforms.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Qualifications:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;3-5 years of experience with at least a subset of the following technologies: JavaScript, TypeScript, Node.js, React, Go.&lt;/li&gt;
-&lt;li&gt;2-3 years of experience working with Cloudflare Workers, AWS Lambda, or similar edge computing platforms.&lt;/li&gt;
-&lt;li&gt;Experience integrating third-party services and APIs.&lt;/li&gt;
-&lt;li&gt;Experience working on customer-facing products, such as dashboards, SDKs, or developer tools.&lt;/li&gt;
-&lt;li&gt;Familiarity with SDK and library development.&lt;/li&gt;
-&lt;li&gt;Ability to work asynchronously in a remote-based team, with excellent communication skills and attention to detail.&lt;/li&gt;
-&lt;li&gt;Deep interest in cloud platforms, open-source development, and developer experience.&lt;/li&gt;
-&lt;li style=&quot;font-weight: bold;&quot;&gt;&lt;strong&gt;To demonstrate your attention to detail, please include the current major version of the Fingerprint Pro Server Python SDK into the box below&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Nice to have:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Experience working with additional cloud platforms, such as Akamai, Fastly, Azure Functions.&lt;/li&gt;
-&lt;li&gt;Contributions to open-source projects or published technical content related to integrations.&lt;/li&gt;
-&lt;li&gt;Experience in technical writing for API and integration documentation.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;This role is ideal for someone passionate about customer-facing integrations, cloud security, edge computing, and developer experience, while also maintaining and improving our open-source ecosystem and existing integrations.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates&#39; personal and financial information through fake interviews and offers. All Fingerprint recruiting email communications will always come from the @fingerprint.com domain. Any outreach claiming to be from Fingerprint via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Offers vary depending on, but not limited to, relevant experience, education, certifications/licenses, skills, training, and market conditions.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Due to regulatory and security reasons, there’s a small number of countries where we cannot have Fingerprint teammates based.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Additionally, because Fingerprint is an all-remote company and people can join our workforce from almost any country, we do not sponsor visas. Fingerprint teammates need to be authorized to work from their home location&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;We are dedicated to creating an inclusive work environment for everyone. We embrace and celebrate the unique experiences, perspectives and cultural backgrounds that each employee brings to our workplace. Fingerprint strives to foster an environment where our employees feel respected, valued and empowered, and our team members are at the forefront in helping us promote and sustain an inclusive workplace. We highly encourage people from underrepresented groups in tech to apply.&lt;/p&gt;
-&lt;p&gt;If you are applying as a resident of California, please read our CCPA notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-ccpa&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;If you are applying as a resident of the EU, please read our GDPR notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-gdpr&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
