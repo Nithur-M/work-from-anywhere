@@ -10,7 +10,7 @@
                     <code>backend,C++,javascript,mongoDB</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-node-js-1984510" align="right" target="_blank">Apply</a>
@@ -83,7 +83,7 @@ the services and core processes with the highest security principles and
                     <code>.Net,api,backend,C</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-typescript-1983726" align="right" target="_blank">Apply</a>
@@ -503,30 +503,6 @@ the services and core processes with the highest security principles and
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><span style="font-size: 14px;">Are you looking for a job as a Rust developer and advocate to promote and develop with the programming language within Open-Source projects?</span></div><div><br></div><div><span style="font-size: 14px;">The Rust programming language is increasingly gaining momentum and we, at Collabora, share the vision that it is going to have a bright future, with adoption across different OSS projects including but not limited to Operating Systems, GStreamer, the Linux Kernel and more.</span></div><div><br></div><div><span style="font-size: 14px;">As a result, we are looking for a Rust developer advocate who will help us shaping a strategy, growing its usage within the company across different SW components and layers, identifying and documenting the best practices, and the last but not the least helping our clients building safe, reliable and efficient Rust-enabled products.</span></div><div><span style="font-size: 14px;">Are you looking for a job as a Rust developer and advocate to promote and develop with the programming language within Open-Source projects?</span></div><div><br></div><div><span style="font-size: 14px;">The Rust programming language is increasingly gaining momentum and we, at Collabora, share the vision that it is going to have a bright future, with adoption across different OSS projects including but not limited to Operating Systems, GStreamer, the Linux Kernel and more.</span></div><div><br></div><div><span style="font-size: 14px;">As a result, we are looking for a Rust developer advocate who will help us shaping a strategy, growing its usage within the company across different SW components and layers, identifying and documenting the best practices, and the last but not the least helping our clients building safe, reliable and efficient Rust-enabled products.</span></div><h3>Key responsibilites</h3><li>Internally disseminate the knowledge and the expertise about the Rust programming language</li><li>Experience with Embedded Linux systems</li><li>Train the other Collaborans on Rust and help them adopting it for their respective projects whenever that makes sense</li><li>Shape a compelling strategy around Rust which would provide added value to our clients projects and open-source projects we are currently focusing on</li><li>Help connecting the engineering organization with the Rust ecosystem at large</li><li>Contribute publicly to open source Rust-based projects to ensure Collabora's continuing technical leadership</li><li>Discuss with and promote Rust-based solutions to our clients and represent Collabora at conferences and trade shows to demonstrate and promote our leadership in the open source arena</li><li>Gain working knowledge of customers’ products, applications, technical and business strengths and target markets</li><h3>Required skills</h3><li>Proficient in Rust and familiar with writing low and high-level code</li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Being passionate about helping other developers</li><li>Good English language skills (both verbal and written)</li><li>Ability to work and communicate in an online fully distributed environment</li><li>Strong collaboration and listening skills, able to solicit honest feedback early and often</li><h3>Desired skills</h3><li>Self learning skill to get sufficient knowledge of Collabora's services, business model, project delivery life cycle and other related technical domains</li><li>BS/BA or experience in the role of Engineer</li><div><span style="font-size: 14px;">Collabora is a software consultancy specializing in bringing companies and the Open Source community together. We combine years of Open Source software leadership with an understanding of the challenges that businesses, non-profits, and governments face. Collabora brings deep technical expertise in system integration &amp; architecture, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications.</span></div><div><span style="font-size: 14px;">Collabora has the unique business model of enabling enterprises to leverage Open Source software in their solutions. Having worked with notable industry leading companies in the automotive, aerospace and handset mobile verticals amongst many others, Collabora has established a broad customer portfolio.</span></div><div><br></div><div><br></div><div><br></div><div>#LI-Remote</div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/4499761?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Collabora</h5>
-                    <h3>Vulkan/OpenGL Software Developer (Remote/Anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/collabora/bd4a9eb8-528f-4553-a832-ca6949ab46bd" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>Collabora is looking for a passionate and enthusiastic open-source software developer, with good knowledge of at least one of OpenGL or Vulkan, to join our ever growing geographically-distributed Graphics domain team.</div><div>Collabora is looking for a passionate and enthusiastic open-source software developer, with good knowledge of at least one of OpenGL or Vulkan, to join our ever growing geographically-distributed Graphics domain team.</div><h3>Required Skills</h3><li>Good knowledge of at least one of the OpenGL or Vulkan APIs</li><li>Experience developing on Linux systems</li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written)&nbsp;</li><li>Ability to work and communicate in an online fully distributed environment </li><h3>Desirable Skills (The below are skills that to some degree will be useful at the start of your career within Collabora. Training and opportunities for development will be offered)</h3><li>Experience profiling and optimizing application's use of the GPU</li><li>Experience with developing GPU compilers</li><li>Direct contributions to the Mesa 3D Graphics Library</li><li>Experience leading teams to understand and define constraints, requirements and solutions</li><li>Good communication with customers and upstream communities</li><li>Self-learning skills to get sufficient knowledge of Collabora's services,&nbsp;business model, project delivery life cycle and other related technical domains</li><div><br></div><div>Collabora's Graphics team contributes to the entire Linux Graphics stack, from the Linux kernel up to the display servers, including but not  limited to GPU and display kernel drivers, Wayland/Weston, OpenGL, Vulkan and other open-source graphics drivers within the Mesa 3D Graphics Library for different customers’ projects in various market verticals.</div><div><br></div><div>#LI-Remote</div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1539,30 +1515,6 @@ the services and core processes with the highest security principles and
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1879924055165272064/o-V7OZKb_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Synthflow</h5>
-                    <h3>Senior Go Developer - Real-Time Voice Telephony AI</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.ashbyhq.com/synthflow/12c8a764-b1c4-49e6-a39a-178adcf0337e" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="min-height:1.5em"><strong>Location:</strong> Fully Remote | <strong>Type:</strong> Full-time or Contract</p><p style="min-height:1.5em">Salary: $100 - $180k (DOE) + Stock</p><h2></h2><h1><strong>About Synthflow</strong></h1><p style="min-height:1.5em">At <a target="_blank" rel="noopener noreferrer nofollow" href="http://synthflow.ai/">Synthflow</a> we’re building the easiest way for businesses to create AI-powered phone agents. No coding, no fuss—just smarter automation. We’re passionate about delivering the future of voice technology with lightning-fast, scalable solutions. It’s an exciting time at Synthflow: we’re early, fast-growing, and laser-focused on impact. Join us to do the best work of your career while helping businesses thrive.</p><p style="min-height:1.5em"></p><h1><strong>About the role</strong></h1><p style="min-height:1.5em">We’re looking for a Senior Go Developer to build real-time voice AI systems that set the standard.</p><p style="min-height:1.5em"></p><h2><strong>Your responsibilities will include:</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Building &amp; Optimising</strong>: Develop and fine-tune our Go-based real-time, low-latency voice telephony AI service, ensuring it runs smoothly and efficiently. ⚙️</p></li><li><p style="min-height:1.5em"><strong>Scalable Solutions</strong>: Leverage Go’s powerful concurrency features—like goroutines and channels—to build scalable systems that can handle heavy traffic with ease. 📈</p></li><li><p style="min-height:1.5em"><strong>Cloud Infrastructure</strong>: Design and implement cloud infrastructure that supports flexible and reliable deployment models, ensuring our services are always available when our users need them. ☁️</p></li><li><p style="min-height:1.5em"><strong>Cross-Language Collaboration</strong>: Work closely with our backend teams to integrate Go services with Python components, creating a seamless experience across our platform. 🤝</p></li><li><p style="min-height:1.5em"><strong>Infrastructure-as-Code</strong>: Use Terraform to manage cloud deployments, ensuring that our infrastructure is scalable, consistent, and easy to maintain. 🛠️</p></li></ul><p style="min-height:1.5em"></p><h1><strong>What you bring:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Go Expertise</strong>: <strong>You have a strong proficiency in Go</strong>, with a deep understanding of concurrency, goroutines, and channels. You know how to use these tools to build efficient, scalable, and maintainable systems. 💪</p></li><li><p style="min-height:1.5em"><strong>Cloud Savvy</strong>: Extensive experience in cloud infrastructure, preferably across multiple providers like AWS, GCP, or Azure. 🌍</p></li><li><p style="min-height:1.5em"><strong>Terraform Pro</strong>: Skilled in using Terraform for infrastructure-as-code, making cloud deployments straightforward and reliable. 📜</p></li><li><p style="min-height:1.5em"><strong>Real-Time Systems Experience</strong>: Experience in developing and optimising real-time, low-latency systems, with a focus on performance and scalability. ⏱️</p></li><li><p style="min-height:1.5em"><strong>Python Knowledge</strong>: While Go is your primary tool, you’re also comfortable with Python and can contribute to cross-language integrations. 🐍</p></li><li><p style="min-height:1.5em"><strong>Voice Telephony or Audio Processing</strong>: Experience with voice telephony systems or audio processing is a big plus! 🎧</p></li></ul><p style="min-height:1.5em"></p><h1><strong>Who you are:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Problem Solver</strong>: You love tackling complex technical challenges and coming up with innovative solutions. 🧠</p></li><li><p style="min-height:1.5em"><strong>Team Player</strong>: You thrive in a collaborative environment and are excited to share ideas and learn from others. 🤗</p></li><li><p style="min-height:1.5em"><strong>Performance-Oriented</strong>: Always looking for ways to optimise systems and improve performance. 🚀</p></li><li><p style="min-height:1.5em"><strong>Communicator</strong>: Excellent communication skills, able to explain technical concepts clearly to both technical and non-technical team members. 💬</p></li></ul><p style="min-height:1.5em"></p><h1><strong>What We Offer:</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Autonomy at speed: </strong>High-ownership roles in a fast-moving startup.</p></li><li><p style="min-height:1.5em"><strong>Remote-first flexibility: </strong>Contribute from anywhere, on your schedule.</p></li><li><p style="min-height:1.5em"><strong>Cutting-edge technology:</strong> Work on what interests you most.</p></li><li><p style="min-height:1.5em"><strong>Career growth: </strong>Scale your impact as the company grows.</p></li><li><p style="min-height:1.5em"><strong>Rewarding package: </strong>Competitive pay, equity options, and comprehensive benefits that reflect your skills and experience. </p></li></ul><h2></h2>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/67208791?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -1606,7 +1558,7 @@ the services and core processes with the highest security principles and
 &lt;/ul&gt;
 &lt;h3&gt;Qualifications:&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;3-5 years of experience with at least a subset of the following technologies: JavaScript, TypeScript, Node.js, React, Go.&lt;/li&gt;
+&lt;li&gt;3-5 years of experience with at least a subset of the following technologies: JavaScript, TypeScript, Node.js, React, Go, Java.&lt;/li&gt;
 &lt;li&gt;2-3 years of experience working with Cloudflare Workers, AWS Lambda, or similar edge computing platforms.&lt;/li&gt;
 &lt;li&gt;Experience integrating third-party services and APIs.&lt;/li&gt;
 &lt;li&gt;Experience working on customer-facing products, such as dashboards, SDKs, or developer tools.&lt;/li&gt;
@@ -1622,7 +1574,7 @@ the services and core processes with the highest security principles and
 &lt;li&gt;Experience in technical writing for API and integration documentation.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;This role is ideal for someone passionate about customer-facing integrations, cloud security, edge computing, and developer experience, while also maintaining and improving our open-source ecosystem and existing integrations.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates&#39; personal and financial information through fake interviews and offers. All Fingerprint recruiting email communications will always come from the @fingerprint.com domain. Any outreach claiming to be from Fingerprint via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates&#39; personal and financial information through fake interviews and offers. All Fingerprint recruiting email communications will always come from the @fingerprint.com domain. Any outreach claiming to be from Fingerprint via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Offers vary depending on, but not limited to, relevant experience, education, certifications/licenses, skills, training, and market conditions.&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;Due to regulatory and security reasons, there’s a small number of countries where we cannot have Fingerprint teammates based.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Additionally, because Fingerprint is an all-remote company and people can join our workforce from almost any country, we do not sponsor visas. Fingerprint teammates need to be authorized to work from their home location&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;We are dedicated to creating an inclusive work environment for everyone. We embrace and celebrate the unique experiences, perspectives and cultural backgrounds that each employee brings to our workplace. Fingerprint strives to foster an environment where our employees feel respected, valued and empowered, and our team members are at the forefront in helping us promote and sustain an inclusive workplace. We highly encourage people from underrepresented groups in tech to apply.&lt;/p&gt;
