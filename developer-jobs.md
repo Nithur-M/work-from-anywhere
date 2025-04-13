@@ -10,7 +10,7 @@
                     <code>backend,C++,javascript,mongoDB</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-node-js-1984510" align="right" target="_blank">Apply</a>
@@ -69,87 +69,6 @@ the services and core processes with the highest security principles and
 <div class="h4" dir="ltr"><strong>Nice to have</strong></div>
 <ul style=""><li dir="ltr" style=""><p dir="ltr">Experience with blockchain integration</p></li><li dir="ltr" style=""><p dir="ltr">Comfortable with high-availability concepts</p></li><li dir="ltr" style=""><p dir="ltr">Ruby, Rust or C++ skills are a plus</p></li><li dir="ltr" style=""><p dir="ltr">Other technologies of interest: Message queues (Redis), Caches and Job Queues</p></li></ul><p><br></p>
 <img src="https://remotive.com/job/track/1984510/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1983726/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Mimo GmbH</h5>
-                    <h3>Senior Backend Developer — Typescript</h3>
-                </td>
-                <td width="300">
-                    <code>.Net,api,backend,C</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-typescript-1983726" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We’re looking for someone based within the <strong>UTC 0 to UTC+2 time zones</strong>.</p>
-<p> </p>
-<p><strong>Our mission</strong></p>
-<p>At Mimo, we believe that coding can open doors to careers and opportunities like few other skills. We aim to provide the <strong>most accessible and enjoyable way to learn to code</strong> while providing our learners the tools to become <strong>creators on our platform</strong>.</p>
-<p><strong> </strong></p>
-<p><strong>About the team</strong></p>
-<p>We're looking for a <strong>Senior</strong> <strong>backend developer</strong> to join our cross-functional <strong>app team</strong>. You’ll build the backend to help us create a world where creating software is as easy and accessible as describing what you want and sharing your work is as simple as clicking a button.</p>
-<p> </p>
-<p><strong>What you’ll be doing</strong></p>
-<ul style="">
-<li style="">You’ll use <strong>TypeScript</strong> to design, build, and ship a <strong>completely new</strong> user-facing product in collaboration with product managers, designers, and developers.</li>
-<li style="">You’ll develop scalable backend infrastructure with <strong>Bun</strong>, <strong>Node.js,</strong> and <strong>K8s</strong>.</li>
-<li style="">You’ll build and operate <strong>APIs and infrastructure</strong>, taking operational ownership of the services.</li>
-</ul>
-<p> </p>
-<p><strong>You’ll thrive in this role if</strong></p>
-<ul style="">
-<li style=""><strong>You’re a seasoned developer</strong>. You have four (or more) years of experience as a backend developer shipping features for large-scale and real-time applications using <strong>Typescript</strong>, building consumer-facing products.</li>
-<li style=""><strong>You're framework-agnostic. </strong>You’re open to getting familiar with <strong>C# and .NET</strong> for parts of our backend stack.</li>
-<li style=""><strong>You have a bias for action.</strong> You have a strong sense of urgency; when you see a problem, you solve it. You don't have time to waste on analysis paralysis and prefer to learn from your mistakes as you go.</li>
-<li style=""><strong>You’re excited about AI and its potential.</strong> You’re deeply curious about AI and AI tooling and eager to explore how they can unlock new possibilities and make a real impact.</li>
-<li style=""><strong>You’ve built and maintained APIs.</strong> You hold yourself and others to a high bar when working with production systems, bringing a sound understanding of API design and best practices.</li>
-<li style=""><strong>You care about code quality.</strong> You follow engineering best practices, such as code reviews, to ensure and maintain excellent application performance and code quality.</li>
-<li style=""><strong>You take the lead to ensure reliability</strong>. Practical experience securing, monitoring, log analysis, and conducting investigations in cloud-based environments (we use GCP).</li>
-<li style=""><strong>You pay excellent attention to detail.</strong> When reasoning trade-offs, you’ll put the user first and care deeply about the details.</li>
-<li style=""><strong>You ooze the values of the DevOps mindset.</strong> You’re intensely curious and passionate about running software in DevOps environments and eager to explore DevOps and SRE more.</li>
-<li style=""><strong>You know a thing or two about architecture, containerization, and orchestration.</strong> You’re keen to learn/or use container systems like Docker, Kubernetes, and/or Platform as a Service.</li>
-<li style=""><strong>You bring a strong sense of ownership</strong>. You believe in solving a problem entirely rather than simply shipping a solution. You operate autonomously and follow through on your commitments.</li>
-</ul>
-<p> </p>
-<p><strong>How we work</strong></p>
-<ul style="">
-<li style="">We ask you to be in the time zone UTC ±0 to UTC +2 for this role.</li>
-<li style="">If you’re located outside this time zone range and want to move to the company’s official headquarters in Austria, we’ll handle the <strong>work permit process</strong> and cover travel expenses.</li>
-<li style="">If you prefer to work outside your home, we offer a physical location in Vienna and <strong>co-working stipends</strong> in other cities.</li>
-<li style="">We love <strong>working async.</strong> You can set your own pace and schedule.</li>
-</ul>
-<p> </p>
-<p><strong>Our global perks and benefits</strong></p>
-<ul style="">
-<li style="">We have a <strong>remote-first mentality</strong> and give everyone a home-office budget.</li>
-<li style=""><strong>25 days of paid vacation</strong> in addition to your local public holidays and <strong>paid sick leave</strong>.</li>
-<li style="">We sponsor <strong>team retreats</strong> throughout Europe and remote-friendly activities, like hack weeks and coffee breaks.</li>
-<li style="">To further develop yourself, use our <strong>€1k growth budget</strong> for books, online courses, conferences, or anything else that supports your development.</li>
-<li style="">To give our menstruating team members the time off to cater to their health when needed during their menstrual cycle, we offer up to <strong>2 days of paid menstrual leave</strong> per month.</li>
-<li style="">Depending on your level, your annual gross salary will be <strong>€74k</strong> (Senior), or <strong>€87k</strong> (Principal) gross annually, which will <strong>automatically increase by 5% yearly.</strong> No questions asked.</li>
-<li style="">The chance to build a world-class product, positively impact millions of aspiring developers, and be a virtual owner of the company with <strong>equity</strong> (phantom stock).</li>
-</ul>
-<p> </p>
-<p><strong>Our 4-step hiring process, in a nutshell</strong></p>
-<ul style="">
-<li style="">You’ll first have a video call with a member of the People team for a <strong>quick get-to-know chat.</strong></li>
-<li style="">Then, <strong>you’ll be given a take-home challenge</strong> to work on. Don’t worry; we know you have many things on your plate and good things take time. You won’t be given a deadline.</li>
-<li style="">Next <span style="box-sizing: border-box; margin: 0px; padding: 0px;">is the <strong>technical interview</strong> to show </span>your skills to the hiring manager.</li>
-<li style="">Lastly, you’ll meet your <strong>potential future peers</strong> for a laid-back conversation.</li>
-<li style="">If everything goes smoothly, you’ll receive an <strong>offer</strong> from us shortly after. Fingers crossed!</li>
-</ul>
-<img src="https://remotive.com/job/track/1983726/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
