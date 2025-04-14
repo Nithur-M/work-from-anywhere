@@ -10,7 +10,7 @@
                     <code>C,C++,javascript,blockchain</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-c-1996157" align="right" target="_blank">Apply</a>
@@ -70,117 +70,6 @@ transitioning models from research to production environments.</p></li><li style
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1995237/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Synthflow</h5>
-                    <h3>Senior Go Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>go,python</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-go-software-engineer-1995237" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="h1"><strong>About Synthflow</strong></div>
-<p style="min-height: 1.5em;">At <a href="http://synthflow.ai/" rel="nofollow" target="_blank">Synthflow</a> we’re building the easiest way for businesses to create AI-powered phone agents. No coding, no fuss—just smarter automation. We’re passionate about delivering the future of voice technology with lightning-fast, scalable solutions. It’s an exciting time at Synthflow: we’re early, fast-growing, and laser-focused on impact. Join us to do the best work of your career while helping businesses thrive.</p>
-<p style="min-height: 1.5em;"> </p>
-<div class="h1"><strong>About the role</strong></div>
-<p style="min-height: 1.5em;">We’re looking for a Senior Go Software Engineer to build real-time voice AI systems that set the standard.</p>
-<p style="min-height: 1.5em;"> </p>
-<div class="h2"><strong>Your responsibilities will include:</strong></div>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;"><strong>Design and enhance backend infrastructure</strong> focusing on scalability, performance, and reliability. Implement features and maintain the systems that power our next-generation products.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;"><strong>Expertly manage concurrency and parallelism</strong> in Go using goroutines, channels, and synchronization primitives like mutexes and wait groups.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;"><strong>Develop robust networking and streaming capabilities</strong>, including experience with network programming, sockets, and protocols like WebSockets and WebRTC.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;"><strong>Lead performance optimization initiatives</strong> by profiling Go code, reducing latency, and efficiently managing memory and garbage collection.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;"><strong>Build fault-tolerant systems</strong> with strong recovery mechanisms and failover strategies to maintain service continuity.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;"><strong>Implement comprehensive logging and tracing</strong> using tools such as zap, klog, OpenTelemetry, and Jaeger to enhance monitoring and troubleshooting.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;"><strong>Apply Test-Driven Development (TDD) and engage in Pair Programming</strong> to ensure high code quality and promote team collaboration.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;"><strong>Participate actively in code reviews</strong>, offering constructive feedback to uphold code quality and adhere to best practices.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;"><strong>Stay informed on the latest in software development</strong> and contribute to the team's continuous learning and improvement.</p>
-</li>
-</ul>
-<div class="h1"><strong>You have:</strong></div>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;"><strong>At least 5 years of professional experience</strong> with Go, along with a track record of developing scalable and extensible systems.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Additional proficiency in Python and familiarity with infrastructure containerization, DevOps &amp; MLOps tools (preferably GCP or AWS).</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Extensive experience in <strong>creating and maintaining robust APIs</strong> and implementing advanced CI/CD pipelines.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">A strong foundation in software engineering principles and a commitment to leading-edge practices including TDD, pair programming, and continuous integration.</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<div class="h1"><strong>Beyond the basics: </strong></div>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Exposure to <strong>voice technologies</strong> like WebRTC and Twilio.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">A background in <strong>AI</strong>, particularly around Large Language Models, Speech to Text, and Voice Synthesis applications.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Experience in <strong>AI-related fields</strong>, such as low-latency audio stream processing or leveraging LLMs in product environments.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Knowledge of <strong>distributed computing and cloud infrastructure</strong> at scale.</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<div class="h1"><strong>What We Offer:</strong></div>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;"><strong>Autonomy at speed: </strong>High-ownership roles in a fast-moving startup.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;"><strong>Remote-first flexibility: </strong>Contribute from anywhere, on your schedule.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;"><strong>Cutting-edge technology:</strong> Work on what interests you most.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;"><strong>Career growth: </strong>Scale your impact as the company grows.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;"><strong>Rewarding package: </strong>Competitive pay, equity options, and comprehensive benefits that reflect your skills and experience. </p>
-</li>
-</ul>
-<div class="h2"> </div>
-<img src="https://remotive.com/job/track/1995237/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1991695/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -191,7 +80,7 @@ transitioning models from research to production environments.</p></li><li style
                     <code>.Net,javascript,python,saas</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1991695" align="right" target="_blank">Apply</a>
@@ -267,7 +156,7 @@ transitioning models from research to production environments.</p></li><li style
                     <code>api,CSS,frontend,html</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-infrastructure-team-1989176" align="right" target="_blank">Apply</a>
@@ -332,6 +221,107 @@ transitioning models from research to production environments.</p></li><li style
 <li style="">United Kingdom</li>
 </ul>
 <img src="https://remotive.com/job/track/1989176/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/10557747?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Kit</h5>
+                    <h3>Senior Software Engineer - Reporting</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/kit/jobs/4698592007" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h4&gt;Description&lt;/h4&gt;
+&lt;div&gt;
+&lt;p class=&quot;p1&quot;&gt;Kit is an email-first operating system for creators who mean business. We help creators grow and monetize their audience with ease. For coaches, YouTubers, authors, podcasters, and other creatives, there isn’t a better marketing hub to rely on to grow audiences, automate email marketing, and sell digital products - all within one platform. More importantly, there isn’t a team more committed to helping creators earn a living.&lt;/p&gt;
+&lt;p&gt;We’re on a mission to help creators earn $1 billion using our creator marketing platform. We have always been 100% independent and 100% remote. We are proud to have built a product that our customers love, and we look for people who have enthusiasm and belief in our mission, vision, and values to join our team.&lt;/p&gt;
+&lt;p&gt;The Kit culture is one where emotional intelligence is valued, radical candor is encouraged, and where everyone works together to uphold a set of shared team principles.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;The role&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
+&lt;p style=&quot;line-height: 1.5;&quot;&gt;We’re looking for a talented full stack engineer to help elevate and expand our reporting functionality, delivering powerful insights to our users. You’ll join a collaborative team of engineers responsible for providing in-app business analytics to our creators, building a scalable full-stack framework to power actionable insights used by multiple engineering teams.&lt;/p&gt;
+&lt;p style=&quot;line-height: 1.5;&quot;&gt;We’re looking for an engineer who has deep expertise in working with full stack with design and visualization libraries for large datasets, enjoys solving technical challenges at scale, and has a strong desire to share their expertise and knowledge with others. You’ll be working closely with design, product, and engineering to ensure the application’s event data is stored, presented, and visualized effectively and performantly, empowering creators to make informed decisions about their business growth.&lt;/p&gt;
+&lt;p style=&quot;line-height: 1;&quot;&gt;To learn more about how our engineering team works, you can peruse &lt;a href=&quot;https://engineering.kit.com/&quot;&gt;our engineering blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Own solving problems across the full stack in collaboration with your team&lt;/li&gt;
+&lt;li&gt;Actively participate in driving the technical direction of our codebase&lt;/li&gt;
+&lt;li&gt;Collaborate with team members across the organization&lt;/li&gt;
+&lt;li&gt;Proactive communication with product stakeholders&lt;/li&gt;
+&lt;li&gt;Staying up to date with current technical best practices&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Extensive experience with Ruby on Rails&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Experience with&lt;strong&gt; &lt;/strong&gt;React for building high-performance user interfaces&lt;/li&gt;
+&lt;li&gt;Experience working with Design Systems&lt;/li&gt;
+&lt;li&gt;Previous experience writing code that is accessible, scalable, maintainable, and performant&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Strong code reading comprehension skills&lt;/li&gt;
+&lt;li&gt;Ability to articulate and synthesize problems across written, visual, and auditory formats to effectively communicate and bring clarity to frontend development challenges.&lt;/li&gt;
+&lt;li&gt;Ability to query data and create clear, actionable data visualizations from initial analysis to final presentation&lt;/li&gt;
+&lt;li&gt;Ability to deliver feedback with empathy and come up with solutions&lt;/li&gt;
+&lt;li&gt;Be autonomous and self-motivated to work effectively in a 100% remote company.&lt;/li&gt;
+&lt;li&gt;Have enthusiasm for and belief in our&lt;a href=&quot;https://kit.com/mission&quot;&gt; mission, vision, and values&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Attend our bi-annual company retreats&lt;/li&gt;
+&lt;li&gt;At least a 4 hour overlap with teammates based in the east coast&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Nice to haves&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience working with OLAP&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Experience with D3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;&lt;strong&gt;Compensation + perks + benefits&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Kit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 4 ($181,000), out of five levels. Level is determined based on experience and our interview process.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Perks + benefits include:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;
+&lt;div&gt;&lt;a class=&quot;c-link&quot; href=&quot;https://www.linkedin.com/posts/nathanbarry_convertkit-compensation-model-activity-6991414959247147008-i9V3/?utm_source=share&amp;amp;utm_medium=member_desktop&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.linkedin.com/posts/nathanbarry_convertkit-compensation-model-activity-6991414959247147008-i9V3/?utm_source=share&amp;amp;utm_medium=member_desktop&quot; data-sk=&quot;tooltip_parent&quot;&gt;Profit Sharing&lt;/a&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Kit equity&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;401k with a 5% match&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Monthly medical benefits up to $1,950 a month toward premiums. Dental and vision premiums covered 100%&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;$4,000 equipment allowance for your first two years, $3,000 budget every following two years&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Individual learning + development budget ($3,500/year)&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Gender affirming benefits&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Childcare benefit up to $3,000 annually&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Twenty (20) days of paid time off during each year of employment&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Paid paid vacation: An after-tax bonus of $1,000 for taking five consecutive days of vacation where you’re fully unplugged from work&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Ten (10) paid holidays a year&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Two weeks of paid sick time each year, including mental health + well being days&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Twelve (12) weeks paid parental leave and flexible scheduling in your child’s first year&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Up to six weeks of paid bereavement leave, medical leave, and disaster after six months of employment, two weeks of each paid leave in your first six months&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Winter Break Closure: Kit closes for a week at the end of December, giving everyone a collective break to enjoy the holiday season.&amp;nbsp;&lt;em data-stringify-type=&quot;italic&quot;&gt;Essential support services remain available, with teams coordinating to ensure coverage during this period&lt;/em&gt;&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Four-week, paid sabbatical after five years with the team&lt;/li&gt;
+&lt;li&gt;Fantastic in-person or virtual retreats with the team twice a year&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;We know that most people hate interviewing (we relate!). We aim to make it as good of an experience as we can, and part of that includes keeping you informed during the process.&lt;/p&gt;
+&lt;p&gt;Here’s what you can expect from the process:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;30 min - Recruiter screen&lt;/li&gt;
+&lt;li&gt;45 min - Hiring manager screen&lt;/li&gt;
+&lt;li&gt;Work Sample&lt;/li&gt;
+&lt;li&gt;60 min - Technical interview&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;60 min - Culture contribution chat&lt;/li&gt;
+&lt;li&gt;30 min - Hiring manager wrap-up&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;To get started, complete this application, including answers to the questions on the next page.&lt;strong&gt; We read every single application, and your responses to our application questions help put your experience into context. &lt;/strong&gt;We’ll keep you informed through every step&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Kit is an equal opportunity employer. We value diversity in all of its forms, and we hire the best person we can for each role, no matter your personal background. Research tells us that applicants who are female or non-binary, as well as applicants who are people of color, are less likely to apply for roles they do not feel 100% qualified for. If you think you meet more than 50% of our requirements but fewer than 100% of them, please apply. We’re imperfect communicators, so think of our job postings as the starting point for discussion rather than proof that you shouldn’t apply.&lt;/p&gt;
+&lt;p&gt;Kit does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
@@ -451,107 +441,6 @@ transitioning models from research to production environments.</p></li><li style
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://job-boards.greenhouse.io/kit/jobs/4692960007" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;h4&gt;Description&lt;/h4&gt;
-&lt;div&gt;
-&lt;p class=&quot;p1&quot;&gt;Kit is an email-first operating system for creators who mean business. We help creators grow and monetize their audience with ease. For coaches, YouTubers, authors, podcasters, and other creatives, there isn’t a better marketing hub to rely on to grow audiences, automate email marketing, and sell digital products - all within one platform. More importantly, there isn’t a team more committed to helping creators earn a living.&lt;/p&gt;
-&lt;p&gt;We’re on a mission to help creators earn $1 billion using our creator marketing platform. We have always been 100% independent and 100% remote. We are proud to have built a product that our customers love, and we look for people who have enthusiasm and belief in our mission, vision, and values to join our team.&lt;/p&gt;
-&lt;p&gt;The Kit culture is one where emotional intelligence is valued, radical candor is encouraged, and where everyone works together to uphold a set of shared team principles.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;The role&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
-&lt;p style=&quot;line-height: 1.5;&quot;&gt;We’re looking for a talented full stack engineer to help elevate and expand our reporting functionality, delivering powerful insights to our users. You’ll join a collaborative team of engineers responsible for providing in-app business analytics to our creators, building a scalable full-stack framework to power actionable insights used by multiple engineering teams.&lt;/p&gt;
-&lt;p style=&quot;line-height: 1.5;&quot;&gt;We’re looking for an engineer who has deep expertise in working with full stack with design and visualization libraries for large datasets, enjoys solving technical challenges at scale, and has a strong desire to share their expertise and knowledge with others. You’ll be working closely with design, product, and engineering to ensure the application’s event data is stored, presented, and visualized effectively and performantly, empowering creators to make informed decisions about their business growth.&lt;/p&gt;
-&lt;p style=&quot;line-height: 1;&quot;&gt;To learn more about how our engineering team works, you can peruse &lt;a href=&quot;https://engineering.kit.com/&quot;&gt;our engineering blog&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Own solving problems across the full stack in collaboration with your team&lt;/li&gt;
-&lt;li&gt;Actively participate in driving the technical direction of our codebase&lt;/li&gt;
-&lt;li&gt;Collaborate with team members across the organization&lt;/li&gt;
-&lt;li&gt;Proactive communication with product stakeholders&lt;/li&gt;
-&lt;li&gt;Staying up to date with current technical best practices&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Extensive experience with Ruby on Rails&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Experience with&lt;strong&gt; &lt;/strong&gt;React for building high-performance user interfaces&lt;/li&gt;
-&lt;li&gt;Experience working with Design Systems&lt;/li&gt;
-&lt;li&gt;Previous experience writing code that is accessible, scalable, maintainable, and performant&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Strong code reading comprehension skills&lt;/li&gt;
-&lt;li&gt;Ability to articulate and synthesize problems across written, visual, and auditory formats to effectively communicate and bring clarity to frontend development challenges.&lt;/li&gt;
-&lt;li&gt;Ability to query data and create clear, actionable data visualizations from initial analysis to final presentation&lt;/li&gt;
-&lt;li&gt;Ability to deliver feedback with empathy and come up with solutions&lt;/li&gt;
-&lt;li&gt;Be autonomous and self-motivated to work effectively in a 100% remote company.&lt;/li&gt;
-&lt;li&gt;Have enthusiasm for and belief in our&lt;a href=&quot;https://kit.com/mission&quot;&gt; mission, vision, and values&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Attend our bi-annual company retreats&lt;/li&gt;
-&lt;li&gt;At least a 4 hour overlap with teammates based in the east coast&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Nice to haves&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Experience working with OLAP&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Experience with D3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;Compensation + perks + benefits&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;Kit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 4 ($181,000), out of five levels. Level is determined based on experience and our interview process.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Perks + benefits include:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;
-&lt;div&gt;&lt;a class=&quot;c-link&quot; href=&quot;https://www.linkedin.com/posts/nathanbarry_convertkit-compensation-model-activity-6991414959247147008-i9V3/?utm_source=share&amp;amp;utm_medium=member_desktop&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.linkedin.com/posts/nathanbarry_convertkit-compensation-model-activity-6991414959247147008-i9V3/?utm_source=share&amp;amp;utm_medium=member_desktop&quot; data-sk=&quot;tooltip_parent&quot;&gt;Profit Sharing&lt;/a&gt;&lt;/div&gt;
-&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Kit equity&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;401k with a 5% match&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Monthly medical benefits up to $1,950 a month toward premiums. Dental and vision premiums covered 100%&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;$4,000 equipment allowance for your first two years, $3,000 budget every following two years&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Individual learning + development budget ($3,500/year)&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Gender affirming benefits&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Childcare benefit up to $3,000 annually&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Twenty (20) days of paid time off during each year of employment&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Paid paid vacation: An after-tax bonus of $1,000 for taking five consecutive days of vacation where you’re fully unplugged from work&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Ten (10) paid holidays a year&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Two weeks of paid sick time each year, including mental health + well being days&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Twelve (12) weeks paid parental leave and flexible scheduling in your child’s first year&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Up to six weeks of paid bereavement leave, medical leave, and disaster after six months of employment, two weeks of each paid leave in your first six months&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Winter Break Closure: Kit closes for a week at the end of December, giving everyone a collective break to enjoy the holiday season.&amp;nbsp;&lt;em data-stringify-type=&quot;italic&quot;&gt;Essential support services remain available, with teams coordinating to ensure coverage during this period&lt;/em&gt;&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Four-week, paid sabbatical after five years with the team&lt;/li&gt;
-&lt;li&gt;Fantastic in-person or virtual retreats with the team twice a year&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;We know that most people hate interviewing (we relate!). We aim to make it as good of an experience as we can, and part of that includes keeping you informed during the process.&lt;/p&gt;
-&lt;p&gt;Here’s what you can expect from the process:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;30 min - Recruiter screen&lt;/li&gt;
-&lt;li&gt;45 min - Hiring manager screen&lt;/li&gt;
-&lt;li&gt;Work Sample&lt;/li&gt;
-&lt;li&gt;60 min - Technical interview&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;60 min - Culture contribution chat&lt;/li&gt;
-&lt;li&gt;30 min - Hiring manager wrap-up&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;To get started, complete this application, including answers to the questions on the next page.&lt;strong&gt; We read every single application, and your responses to our application questions help put your experience into context. &lt;/strong&gt;We’ll keep you informed through every step&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Kit is an equal opportunity employer. We value diversity in all of its forms, and we hire the best person we can for each role, no matter your personal background. Research tells us that applicants who are female or non-binary, as well as applicants who are people of color, are less likely to apply for roles they do not feel 100% qualified for. If you think you meet more than 50% of our requirements but fewer than 100% of them, please apply. We’re imperfect communicators, so think of our job postings as the starting point for discussion rather than proof that you shouldn’t apply.&lt;/p&gt;
-&lt;p&gt;Kit does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.&lt;/p&gt;&lt;/div&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/10557747?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Kit</h5>
-                    <h3>Senior Software Engineer - Reporting</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/kit/jobs/4698592007" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
