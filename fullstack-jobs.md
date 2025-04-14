@@ -10,7 +10,7 @@
                     <code>backend,frontend,fullstack,golang</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-typescript-golang-2d-3d-floor-plan-editor-1987413" align="right" target="_blank">Apply</a>
