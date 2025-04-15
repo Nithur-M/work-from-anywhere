@@ -1,5 +1,281 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1995746/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Synthflow</h5>
+                    <h3>DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,docker,python</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/devops-engineer-1995746" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height: 1.5em;">Join <a href="http://Synthflow.ai" rel="nofollow" target="_blank"><strong>Synthflow.ai</strong></a>, where we're innovating in AI technology to make it accessible and actionable for businesses of all sizes. Our platform is a game-changer for B2B clients, enabling them to create customized solutions with ease. We're expanding our team and looking for a skilled Python Developer who is enthusiastic about contributing to our next-generation products.</p>
+<p style="min-height: 1.5em;"><strong>Role Summary:</strong> As a DevOps Engineer specializing in MLOps and LLM Ops, you will ensure the robustness and efficiency of our infrastructure that supports AI-driven speech technology platforms and large language models. You will collaborate closely with machine learning teams to streamline the deployment, monitoring, and maintenance of complex models that enhance our products' capabilities.</p>
+<p style="min-height: 1.5em;"><strong>Key Responsibilities:</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Develop and manage a scalable and secure infrastructure for deploying TTS, STT, and LLM applications.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Create and maintain CI/CD pipelines for continuous integration and deployment of various AI models.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Work alongside ML engineers to optimize the training, validation, and deployment of speech and language models.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Monitor and analyze system performance and resolve any issues to ensure reliability and efficiency.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Innovate and implement best practices in cloud technology, containerization, and MLOps/LLM Ops tools to advance our operational capabilities.</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"><strong>Who You Are:</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Experienced in DevOps, with a deep focus on MLOps and experience in LLM Ops.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Proficient with cloud services (AWS, GCP, Azure) specifically for deploying ML and LLM environments.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Expertise in container technologies such as Docker and orchestration tools like Kubernetes.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Strong communication skills, capable of collaborating effectively with both technical and non-technical teams.</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"><strong>Minimum Qualifications:</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Bachelor’s degree in Computer Science, Engineering, or a related technical field.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Minimum of 3 years experience in DevOps, with significant exposure to MLOps and preferably LLM Ops.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Strong programming and scripting skills in languages like Python.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Demonstrated ability in infrastructure management, DevOps, and operations for ML and LLM frameworks.</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"><strong>What We Offer:</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">A chance to be at the forefront of technological innovation in a fast-growing startup.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">A dynamic and supportive work environment where teamwork and creativity are encouraged.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Competitive salary, comprehensive health benefits, and equity options.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Flexible work arrangements, including remote work opportunities.</p>
+</li>
+</ul>
+<div class="h3"><strong>🚀 Why Build Your Career at Synthflow AI?</strong></div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;"><strong>Competitive Compensation:</strong> Every engineer on our team receives a comprehensive compensation package that includes stock options, ensuring you share in our collective success.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Direct Impact &amp; Ownership:</strong> As an integral part of our engineering team, you’ll have the autonomy to shape innovative projects from the ground up. Your work will directly influence the future of voice AI technology in a well-funded startup environment.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Cutting-Edge Technology:</strong> Join us in driving the next wave of advancements in the AI no-code space. You'll work on pioneering projects that revolutionize how users interact with technology through voice and language AI.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Collaborative Team Culture:</strong> At Synthflow, we value input from all team members and believe that everyone’s contribution is vital to our success. You'll be part of a team that embraces innovation and mutual respect.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Remote-First Flexibility:</strong> We are committed to a remote-first approach, allowing you to work from anywhere while contributing to projects that have a global impact. Our headquarters are in Berlin, Germany, but your role can be performed from anywhere in the world.</p>
+</li>
+</ul>
+<div class="h3"> </div>
+<img src="https://remotive.com/job/track/1995746/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1995753/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Growe - LinkedIn Postings</h5>
+                    <h3>DevOps Team Lead</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,CI/CD,terraform,scripting</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/devops-team-lead-1995753" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Growe is a leading business advisory and services group in iGaming and Entertainment.</strong> We are creators of strategies that work and solutions that scale. Combining strategic vision with hands-on expertise, we help businesses navigate the fast-evolving industry, seize new opportunities, enter new markets, and achieve sustainable growth.</p>
+<p><strong>Our expertise spans across key areas:</strong> from business and brand strategy development to market research, marketing solutions, IT customization, organizational structuring, and talent management. We partner with our clients to turn challenges into competitive advantages, ensuring successful market entries and long-term global expansion.</p>
+<p>At Growe, there are<strong> no limits to our ambitions</strong>! We boldly break stereotypes and strive for unparalleled achievements in an ever-changing industry.</p>
+<p>Are you ready to grow with us?</p>
+<div class="h5"><strong>Growe welcomes those who are excited to:</strong></div>
+<ul style="">
+<li style="">
+<p>Guide junior and mid-level engineers through technical challenges, career growth, and DevOps best practices;</p>
+</li>
+<li style="">
+<p>Act as a bridge between DevOps, development, and product teams to ensure smooth communication, clear priorities, and effective handoffs;</p>
+</li>
+<li style="">
+<p>Break down initiatives into actionable tasks, assign them based on skills and workload, and ensure timely delivery with regular check-ins;</p>
+</li>
+<li style="">
+<p>Design, document, and iterate on CI/CD pipelines, incident management processes, change control, and service deployment procedures;</p>
+</li>
+<li style="">
+<p>Standardize infrastructure and automation practices: Create reusable templates, guidelines, and playbooks for infrastructure-as-code, monitoring, logging, and environment setup across projects;</p>
+</li>
+<li style="">
+<p>Implement and manage infrastructure using tools such as Terraform to ensure scalability, security, and efficiency;</p>
+</li>
+<li style="">
+<p>Design, implement, and maintain CI/CD pipelines to automate the software delivery process, facilitating faster and more reliable releases;</p>
+</li>
+<li style="">
+<p>Develop and maintain automation scripts for deployment, configuration management, and monitoring;</p>
+</li>
+<li style="">
+<p>Implement robust monitoring and logging solutions to proactively identify and address issues, ensuring high availability and performance;</p>
+</li>
+<li style="">
+<p>Maintain security best practices in infrastructure and applications, conduct regular security audits, and collaborate with the security team to address vulnerabilities;</p>
+</li>
+<li style="">
+<p>Create and maintain comprehensive documentation for deployment processes, configurations, and troubleshooting procedures;</p>
+</li>
+<li style="">
+<p>Provide technical support and troubleshooting assistance for development and operations teams, ensuring the efficient resolution of issues.</p>
+</li>
+</ul>
+<div class="h5"><strong>We need your professional experience:</strong></div>
+<ul style="">
+<li style="">
+<p>Bachelor's degree in Computer Science, Information Technology, or related field;</p>
+</li>
+<li style="">
+<p>7+ years of experience in a DevOps role;</p>
+</li>
+<li style="">
+<p>Experience with team management project planning, have a strategic mindset and vision;</p>
+</li>
+<li style="">
+<p>Hands-on experience with AWS cloud and services such as EC2, S3, RDS, Lambda, DocDB, KMS, VPC, Route53, etc.;</p>
+</li>
+<li style="">
+<p>Proficiency with infrastructure as code tools such as Terraform, Terragrunt;</p>
+</li>
+<li style="">
+<p>Hands-on experience with CI/CD tool: GitLab CI;</p>
+</li>
+<li style="">
+<p>Scripting skills in languages like Python, Bash, or PowerShell;</p>
+</li>
+<li style="">
+<p>Experience with containerization and orchestration tools such as Docker and Kubernetes (AWS EKS);</p>
+</li>
+<li style="">
+<p>Solid understanding of networking, security, and cloud computing concepts;</p>
+</li>
+<li style="">
+<p>Relevant certifications (AWS, Terraform, Kubernetes, Helm) are a plus;</p>
+</li>
+<li style="">
+<p>Hands-on experience with monitoring and logging tools such as Prometheus, Victoria-metrics, Grafana, Alertmanager, and ELK stack.</p>
+</li>
+</ul>
+<div class="h5"><strong>We appreciate those skills and personal features:</strong></div>
+<ul style="">
+<li style="">
+<p>Self-discipline;</p>
+</li>
+<li style="">
+<p>Problem-solving and communication skills;</p>
+</li>
+<li style="">
+<p>Be smart and brave;</p>
+</li>
+<li style="">
+<p>Take ownership of your work.</p>
+</li>
+</ul>
+<div class="h5"><strong>We are seeking those who align with our core values:</strong></div>
+<ul style="">
+<li style="">
+<p>GROWE TOGETHER: Our team is our main asset. We work together and support each other to achieve our common goals;</p>
+</li>
+<li style="">
+<p>DRIVE RESULT OVER PROCESS: We set ambitious, clear, measurable goals in line with our strategy and driving Growe to success;</p>
+</li>
+<li style="">
+<p>BE READY FOR CHANGE: We see challenges as opportunities to grow and evolve. We adapt today to win tomorrow.</p>
+</li>
+</ul>
+<div class="h5"><strong>What we offer:</strong></div>
+<ul style="">
+<li style="">
+<p>Medical insurance and financial aid;</p>
+</li>
+<li style="">
+<p>Benefit Cafeteria (compensation for the gym/stomatology/psychological service &amp; etc.);</p>
+</li>
+<li style="">
+<p>100 % paid sick leaves;</p>
+</li>
+<li style="">
+<p>Paid vacation;</p>
+</li>
+<li style="">
+<p>Annual salary review (based on performance);</p>
+</li>
+<li style="">
+<p>Quarter bonuses according to the company’s policy;</p>
+</li>
+<li style="">
+<p>Individual annual training budget which allows to visit paid conferences, training sessions, English lessons, workshops, etc.;</p>
+</li>
+<li style="">
+<p>Growe University (Leadership Programs, Knowledge sharing, Webinars, etc.);</p>
+</li>
+<li style="">
+<p>Personal development plan;</p>
+</li>
+<li style="">
+<p>Corporate events and team-building activities;</p>
+</li>
+<li style="">
+<p>Growe Care (Well-being Program);</p>
+</li>
+<li style="">
+<p>Free lunches at the office.</p>
+</li>
+</ul><img src="https://remotive.com/job/track/1995753/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/1021150?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
