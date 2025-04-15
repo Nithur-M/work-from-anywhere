@@ -10,7 +10,7 @@
                     <code>C,C++,javascript,blockchain</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-c-1996157" align="right" target="_blank">Apply</a>
@@ -80,7 +80,7 @@ transitioning models from research to production environments.</p></li><li style
                     <code>.Net,javascript,python,saas</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1991695" align="right" target="_blank">Apply</a>
@@ -156,7 +156,7 @@ transitioning models from research to production environments.</p></li><li style
                     <code>api,CSS,frontend,html</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-infrastructure-team-1989176" align="right" target="_blank">Apply</a>
@@ -238,7 +238,7 @@ transitioning models from research to production environments.</p></li><li style
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/kit/jobs/4698592007" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/kit/jobs/4692960007" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -252,37 +252,60 @@ transitioning models from research to production environments.</p></li><li style
 &lt;hr&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;The role&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
-&lt;p style=&quot;line-height: 1.5;&quot;&gt;We’re looking for a talented full stack engineer to help elevate and expand our reporting functionality, delivering powerful insights to our users. You’ll join a collaborative team of engineers responsible for providing in-app business analytics to our creators, building a scalable full-stack framework to power actionable insights used by multiple engineering teams.&lt;/p&gt;
-&lt;p style=&quot;line-height: 1.5;&quot;&gt;We’re looking for an engineer who has deep expertise in working with full stack with design and visualization libraries for large datasets, enjoys solving technical challenges at scale, and has a strong desire to share their expertise and knowledge with others. You’ll be working closely with design, product, and engineering to ensure the application’s event data is stored, presented, and visualized effectively and performantly, empowering creators to make informed decisions about their business growth.&lt;/p&gt;
-&lt;p style=&quot;line-height: 1;&quot;&gt;To learn more about how our engineering team works, you can peruse &lt;a href=&quot;https://engineering.kit.com/&quot;&gt;our engineering blog&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We believe the creator economy is powered by genuine value creation. As our Senior Software Engineer, you&#39;ll help creators build more valuable businesses by leading the evolution of our reporting functionality, enabling them to gain powerful, actionable insights into their businesses. You&#39;ll join a collaborative team of engineers responsible for providing in-app business analytics to our creators, building a scalable full-stack framework to power actionable insights.&lt;/p&gt;
+&lt;p&gt;This is a hands-on role for someone who loves Ruby, thrives in legacy codebases, and thinks like a systems architect. You&#39;ll collaborate across product, engineering, and design to ship large, complex projects—everything from architecting scalable backend solutions to refining the frontend presentation of metrics and visualizations.&lt;/p&gt;
+&lt;p&gt;We need someone with a can-do attitude who can navigate complex technical challenges and push through obstacles. You&#39;ll encounter ambiguity and difficult problems, but your determination and resourcefulness will help you overcome these hurdles to deliver exceptional results for our creators.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;line-height: 1;&quot;&gt;&lt;strong&gt;Your support system&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You&#39;ll work closely with product, engineering, and design to build features end-to-end. From planning to implementation, deployment, and monitoring, you&#39;ll have partners throughout the organization focused on delivering value to creators. To learn more about how our engineering team works, you can peruse &lt;a href=&quot;https://engineering.kit.com/&quot;&gt;our engineering blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;First week:&lt;/strong&gt; Dive into our codebase, systems, and workflows. Take part in Get To Know You&#39;s (GTKYs) to meet our distributed team.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;First month:&lt;/strong&gt; Assess our current reporting functionality and architecture. Begin collaborating with teams to understand creator needs for actionable insights and identify opportunities for improvement.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;First three to six months:&lt;/strong&gt; Architect and implement robust, scalable full-stack solutions for reporting and data visualization. Navigate and improve our legacy Rails codebase while bringing a systems-thinking approach to building for scale and maintainability. Lead technical projects and migrations to completion. Continuously identify and resolve performance bottlenecks across the stack. Actively mentor engineers and share your knowledge with empathy. Drive innovation in how creators understand and grow their businesses through data.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;line-height: 1;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;What will S.E.T. you up for success&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Own solving problems across the full stack in collaboration with your team&lt;/li&gt;
-&lt;li&gt;Actively participate in driving the technical direction of our codebase&lt;/li&gt;
-&lt;li&gt;Collaborate with team members across the organization&lt;/li&gt;
-&lt;li&gt;Proactive communication with product stakeholders&lt;/li&gt;
-&lt;li&gt;Staying up to date with current technical best practices&lt;/li&gt;
+&lt;li&gt;Deep expertise in Ruby on Rails&lt;/li&gt;
+&lt;li&gt;Experience with React for building high-performance user interfaces&lt;/li&gt;
+&lt;li&gt;Knowledge of working with Design Systems&lt;/li&gt;
+&lt;li&gt;Passion for data visualization and turning raw data into clear, actionable insights&lt;/li&gt;
+&lt;li&gt;Ability to work with large datasets, ideally using OLAP systems or tools like D3&lt;/li&gt;
+&lt;li&gt;Confidence working across a legacy codebase and understanding how to evolve it safely&lt;/li&gt;
+&lt;li&gt;Experience across domains like databases, billing, or analytics&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Experiences&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Extensive experience with Ruby on Rails&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Experience with&lt;strong&gt; &lt;/strong&gt;React for building high-performance user interfaces&lt;/li&gt;
-&lt;li&gt;Experience working with Design Systems&lt;/li&gt;
-&lt;li&gt;Previous experience writing code that is accessible, scalable, maintainable, and performant&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Strong code reading comprehension skills&lt;/li&gt;
-&lt;li&gt;Ability to articulate and synthesize problems across written, visual, and auditory formats to effectively communicate and bring clarity to frontend development challenges.&lt;/li&gt;
-&lt;li&gt;Ability to query data and create clear, actionable data visualizations from initial analysis to final presentation&lt;/li&gt;
-&lt;li&gt;Ability to deliver feedback with empathy and come up with solutions&lt;/li&gt;
-&lt;li&gt;Be autonomous and self-motivated to work effectively in a 100% remote company.&lt;/li&gt;
-&lt;li&gt;Have enthusiasm for and belief in our&lt;a href=&quot;https://kit.com/mission&quot;&gt; mission, vision, and values&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Attend our bi-annual company retreats&lt;/li&gt;
-&lt;li&gt;At least a 4 hour overlap with teammates based in the east coast&lt;/li&gt;
+&lt;li&gt;Delivering large, complex technical projects, including migrations and system refactors&lt;/li&gt;
+&lt;li&gt;Writing code that is accessible, maintainable, and scalable&lt;/li&gt;
+&lt;li&gt;Building strong cross-functional partnerships, especially with Product and Design&lt;/li&gt;
+&lt;li&gt;Communicating clearly and concisely—tailoring messages to the audience and driving clarity&lt;/li&gt;
+&lt;li&gt;Delivering feedback with empathy and coming up with solutions&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Nice to haves&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Traits&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Experience working with OLAP&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Experience with D3&lt;/li&gt;
+&lt;li&gt;You&#39;re a systems thinker who considers architecture, performance, and long-term maintainability&lt;/li&gt;
+&lt;li&gt;You have a bias for action and take initiative to keep work moving&lt;/li&gt;
+&lt;li&gt;You&#39;re invested in team processes, documentation, mentoring, and pairing&lt;/li&gt;
+&lt;li&gt;You bring humility and care to your leadership and mentoring&lt;/li&gt;
+&lt;li&gt;You&#39;re curious, thoughtful, and enjoy solving complex challenges&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Nice to Haves&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Familiarity with D3 or other data visualization libraries&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What won&#39;t set you up for success&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Needing highly structured work with detailed specifications—we operate in a dynamic environment that requires adaptability and comfort with ambiguity&lt;/li&gt;
+&lt;li&gt;Preferring to work in isolation—our collaborative approach means regular interaction with cross-functional teams&lt;/li&gt;
+&lt;li&gt;Looking for a role where you can just write code without considering broader systems and business implications&lt;/li&gt;
+&lt;li&gt;Wanting to avoid legacy code—we value our codebase history and need engineers who can respectfully evolve rather than rewrite everything&lt;/li&gt;
+&lt;li&gt;Expecting to specialize in only frontend or backend—this full-stack role requires expertise across the entire application stack&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;h4&gt;&lt;strong&gt;Compensation + perks + benefits&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;Kit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 4 ($181,000), out of five levels. Level is determined based on experience and our interview process.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Perks + benefits include:&lt;/strong&gt;&lt;/p&gt;
@@ -353,37 +376,60 @@ transitioning models from research to production environments.</p></li><li style
 &lt;hr&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;The role&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
-&lt;p style=&quot;line-height: 1.5;&quot;&gt;We’re looking for a talented full stack engineer to help elevate and expand our reporting functionality, delivering powerful insights to our users. You’ll join a collaborative team of engineers responsible for providing in-app business analytics to our creators, building a scalable full-stack framework to power actionable insights used by multiple engineering teams.&lt;/p&gt;
-&lt;p style=&quot;line-height: 1.5;&quot;&gt;We’re looking for an engineer who has deep expertise in working with full stack with design and visualization libraries for large datasets, enjoys solving technical challenges at scale, and has a strong desire to share their expertise and knowledge with others. You’ll be working closely with design, product, and engineering to ensure the application’s event data is stored, presented, and visualized effectively and performantly, empowering creators to make informed decisions about their business growth.&lt;/p&gt;
-&lt;p style=&quot;line-height: 1;&quot;&gt;To learn more about how our engineering team works, you can peruse &lt;a href=&quot;https://engineering.kit.com/&quot;&gt;our engineering blog&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We believe the creator economy is powered by genuine value creation. As our Senior Software Engineer, you&#39;ll help creators build more valuable businesses by leading the evolution of our reporting functionality, enabling them to gain powerful, actionable insights into their businesses. You&#39;ll join a collaborative team of engineers responsible for providing in-app business analytics to our creators, building a scalable full-stack framework to power actionable insights.&lt;/p&gt;
+&lt;p&gt;This is a hands-on role for someone who loves Ruby, thrives in legacy codebases, and thinks like a systems architect. You&#39;ll collaborate across product, engineering, and design to ship large, complex projects—everything from architecting scalable backend solutions to refining the frontend presentation of metrics and visualizations.&lt;/p&gt;
+&lt;p&gt;We need someone with a can-do attitude who can navigate complex technical challenges and push through obstacles. You&#39;ll encounter ambiguity and difficult problems, but your determination and resourcefulness will help you overcome these hurdles to deliver exceptional results for our creators.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;line-height: 1;&quot;&gt;&lt;strong&gt;Your support system&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You&#39;ll work closely with product, engineering, and design to build features end-to-end. From planning to implementation, deployment, and monitoring, you&#39;ll have partners throughout the organization focused on delivering value to creators. To learn more about how our engineering team works, you can peruse &lt;a href=&quot;https://engineering.kit.com/&quot;&gt;our engineering blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;First week:&lt;/strong&gt; Dive into our codebase, systems, and workflows. Take part in Get To Know You&#39;s (GTKYs) to meet our distributed team.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;First month:&lt;/strong&gt; Assess our current reporting functionality and architecture. Begin collaborating with teams to understand creator needs for actionable insights and identify opportunities for improvement.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;First three to six months:&lt;/strong&gt; Architect and implement robust, scalable full-stack solutions for reporting and data visualization. Navigate and improve our legacy Rails codebase while bringing a systems-thinking approach to building for scale and maintainability. Lead technical projects and migrations to completion. Continuously identify and resolve performance bottlenecks across the stack. Actively mentor engineers and share your knowledge with empathy. Drive innovation in how creators understand and grow their businesses through data.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;line-height: 1;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;What will S.E.T. you up for success&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Own solving problems across the full stack in collaboration with your team&lt;/li&gt;
-&lt;li&gt;Actively participate in driving the technical direction of our codebase&lt;/li&gt;
-&lt;li&gt;Collaborate with team members across the organization&lt;/li&gt;
-&lt;li&gt;Proactive communication with product stakeholders&lt;/li&gt;
-&lt;li&gt;Staying up to date with current technical best practices&lt;/li&gt;
+&lt;li&gt;Deep expertise in Ruby on Rails&lt;/li&gt;
+&lt;li&gt;Experience with React for building high-performance user interfaces&lt;/li&gt;
+&lt;li&gt;Knowledge of working with Design Systems&lt;/li&gt;
+&lt;li&gt;Passion for data visualization and turning raw data into clear, actionable insights&lt;/li&gt;
+&lt;li&gt;Ability to work with large datasets, ideally using OLAP systems or tools like D3&lt;/li&gt;
+&lt;li&gt;Confidence working across a legacy codebase and understanding how to evolve it safely&lt;/li&gt;
+&lt;li&gt;Experience across domains like databases, billing, or analytics&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Experiences&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Extensive experience with Ruby on Rails&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Experience with&lt;strong&gt; &lt;/strong&gt;React for building high-performance user interfaces&lt;/li&gt;
-&lt;li&gt;Experience working with Design Systems&lt;/li&gt;
-&lt;li&gt;Previous experience writing code that is accessible, scalable, maintainable, and performant&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Strong code reading comprehension skills&lt;/li&gt;
-&lt;li&gt;Ability to articulate and synthesize problems across written, visual, and auditory formats to effectively communicate and bring clarity to frontend development challenges.&lt;/li&gt;
-&lt;li&gt;Ability to query data and create clear, actionable data visualizations from initial analysis to final presentation&lt;/li&gt;
-&lt;li&gt;Ability to deliver feedback with empathy and come up with solutions&lt;/li&gt;
-&lt;li&gt;Be autonomous and self-motivated to work effectively in a 100% remote company.&lt;/li&gt;
-&lt;li&gt;Have enthusiasm for and belief in our&lt;a href=&quot;https://kit.com/mission&quot;&gt; mission, vision, and values&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Attend our bi-annual company retreats&lt;/li&gt;
-&lt;li&gt;At least a 4 hour overlap with teammates based in the east coast&lt;/li&gt;
+&lt;li&gt;Delivering large, complex technical projects, including migrations and system refactors&lt;/li&gt;
+&lt;li&gt;Writing code that is accessible, maintainable, and scalable&lt;/li&gt;
+&lt;li&gt;Building strong cross-functional partnerships, especially with Product and Design&lt;/li&gt;
+&lt;li&gt;Communicating clearly and concisely—tailoring messages to the audience and driving clarity&lt;/li&gt;
+&lt;li&gt;Delivering feedback with empathy and coming up with solutions&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Nice to haves&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Traits&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Experience working with OLAP&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Experience with D3&lt;/li&gt;
+&lt;li&gt;You&#39;re a systems thinker who considers architecture, performance, and long-term maintainability&lt;/li&gt;
+&lt;li&gt;You have a bias for action and take initiative to keep work moving&lt;/li&gt;
+&lt;li&gt;You&#39;re invested in team processes, documentation, mentoring, and pairing&lt;/li&gt;
+&lt;li&gt;You bring humility and care to your leadership and mentoring&lt;/li&gt;
+&lt;li&gt;You&#39;re curious, thoughtful, and enjoy solving complex challenges&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Nice to Haves&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Familiarity with D3 or other data visualization libraries&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What won&#39;t set you up for success&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Needing highly structured work with detailed specifications—we operate in a dynamic environment that requires adaptability and comfort with ambiguity&lt;/li&gt;
+&lt;li&gt;Preferring to work in isolation—our collaborative approach means regular interaction with cross-functional teams&lt;/li&gt;
+&lt;li&gt;Looking for a role where you can just write code without considering broader systems and business implications&lt;/li&gt;
+&lt;li&gt;Wanting to avoid legacy code—we value our codebase history and need engineers who can respectfully evolve rather than rewrite everything&lt;/li&gt;
+&lt;li&gt;Expecting to specialize in only frontend or backend—this full-stack role requires expertise across the entire application stack&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;h4&gt;&lt;strong&gt;Compensation + perks + benefits&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;Kit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 4 ($181,000), out of five levels. Level is determined based on experience and our interview process.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Perks + benefits include:&lt;/strong&gt;&lt;/p&gt;
@@ -440,7 +486,7 @@ transitioning models from research to production environments.</p></li><li style
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/kit/jobs/4692960007" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/kit/jobs/4698592007" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -454,37 +500,60 @@ transitioning models from research to production environments.</p></li><li style
 &lt;hr&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;The role&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
-&lt;p style=&quot;line-height: 1.5;&quot;&gt;We’re looking for a talented full stack engineer to help elevate and expand our reporting functionality, delivering powerful insights to our users. You’ll join a collaborative team of engineers responsible for providing in-app business analytics to our creators, building a scalable full-stack framework to power actionable insights used by multiple engineering teams.&lt;/p&gt;
-&lt;p style=&quot;line-height: 1.5;&quot;&gt;We’re looking for an engineer who has deep expertise in working with full stack with design and visualization libraries for large datasets, enjoys solving technical challenges at scale, and has a strong desire to share their expertise and knowledge with others. You’ll be working closely with design, product, and engineering to ensure the application’s event data is stored, presented, and visualized effectively and performantly, empowering creators to make informed decisions about their business growth.&lt;/p&gt;
-&lt;p style=&quot;line-height: 1;&quot;&gt;To learn more about how our engineering team works, you can peruse &lt;a href=&quot;https://engineering.kit.com/&quot;&gt;our engineering blog&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We believe the creator economy is powered by genuine value creation. As our Senior Software Engineer, you&#39;ll help creators build more valuable businesses by leading the evolution of our reporting functionality, enabling them to gain powerful, actionable insights into their businesses. You&#39;ll join a collaborative team of engineers responsible for providing in-app business analytics to our creators, building a scalable full-stack framework to power actionable insights.&lt;/p&gt;
+&lt;p&gt;This is a hands-on role for someone who loves Ruby, thrives in legacy codebases, and thinks like a systems architect. You&#39;ll collaborate across product, engineering, and design to ship large, complex projects—everything from architecting scalable backend solutions to refining the frontend presentation of metrics and visualizations.&lt;/p&gt;
+&lt;p&gt;We need someone with a can-do attitude who can navigate complex technical challenges and push through obstacles. You&#39;ll encounter ambiguity and difficult problems, but your determination and resourcefulness will help you overcome these hurdles to deliver exceptional results for our creators.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;line-height: 1;&quot;&gt;&lt;strong&gt;Your support system&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You&#39;ll work closely with product, engineering, and design to build features end-to-end. From planning to implementation, deployment, and monitoring, you&#39;ll have partners throughout the organization focused on delivering value to creators. To learn more about how our engineering team works, you can peruse &lt;a href=&quot;https://engineering.kit.com/&quot;&gt;our engineering blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;First week:&lt;/strong&gt; Dive into our codebase, systems, and workflows. Take part in Get To Know You&#39;s (GTKYs) to meet our distributed team.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;First month:&lt;/strong&gt; Assess our current reporting functionality and architecture. Begin collaborating with teams to understand creator needs for actionable insights and identify opportunities for improvement.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;First three to six months:&lt;/strong&gt; Architect and implement robust, scalable full-stack solutions for reporting and data visualization. Navigate and improve our legacy Rails codebase while bringing a systems-thinking approach to building for scale and maintainability. Lead technical projects and migrations to completion. Continuously identify and resolve performance bottlenecks across the stack. Actively mentor engineers and share your knowledge with empathy. Drive innovation in how creators understand and grow their businesses through data.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style=&quot;line-height: 1;&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;What will S.E.T. you up for success&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Own solving problems across the full stack in collaboration with your team&lt;/li&gt;
-&lt;li&gt;Actively participate in driving the technical direction of our codebase&lt;/li&gt;
-&lt;li&gt;Collaborate with team members across the organization&lt;/li&gt;
-&lt;li&gt;Proactive communication with product stakeholders&lt;/li&gt;
-&lt;li&gt;Staying up to date with current technical best practices&lt;/li&gt;
+&lt;li&gt;Deep expertise in Ruby on Rails&lt;/li&gt;
+&lt;li&gt;Experience with React for building high-performance user interfaces&lt;/li&gt;
+&lt;li&gt;Knowledge of working with Design Systems&lt;/li&gt;
+&lt;li&gt;Passion for data visualization and turning raw data into clear, actionable insights&lt;/li&gt;
+&lt;li&gt;Ability to work with large datasets, ideally using OLAP systems or tools like D3&lt;/li&gt;
+&lt;li&gt;Confidence working across a legacy codebase and understanding how to evolve it safely&lt;/li&gt;
+&lt;li&gt;Experience across domains like databases, billing, or analytics&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Experiences&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Extensive experience with Ruby on Rails&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Experience with&lt;strong&gt; &lt;/strong&gt;React for building high-performance user interfaces&lt;/li&gt;
-&lt;li&gt;Experience working with Design Systems&lt;/li&gt;
-&lt;li&gt;Previous experience writing code that is accessible, scalable, maintainable, and performant&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Strong code reading comprehension skills&lt;/li&gt;
-&lt;li&gt;Ability to articulate and synthesize problems across written, visual, and auditory formats to effectively communicate and bring clarity to frontend development challenges.&lt;/li&gt;
-&lt;li&gt;Ability to query data and create clear, actionable data visualizations from initial analysis to final presentation&lt;/li&gt;
-&lt;li&gt;Ability to deliver feedback with empathy and come up with solutions&lt;/li&gt;
-&lt;li&gt;Be autonomous and self-motivated to work effectively in a 100% remote company.&lt;/li&gt;
-&lt;li&gt;Have enthusiasm for and belief in our&lt;a href=&quot;https://kit.com/mission&quot;&gt; mission, vision, and values&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Attend our bi-annual company retreats&lt;/li&gt;
-&lt;li&gt;At least a 4 hour overlap with teammates based in the east coast&lt;/li&gt;
+&lt;li&gt;Delivering large, complex technical projects, including migrations and system refactors&lt;/li&gt;
+&lt;li&gt;Writing code that is accessible, maintainable, and scalable&lt;/li&gt;
+&lt;li&gt;Building strong cross-functional partnerships, especially with Product and Design&lt;/li&gt;
+&lt;li&gt;Communicating clearly and concisely—tailoring messages to the audience and driving clarity&lt;/li&gt;
+&lt;li&gt;Delivering feedback with empathy and coming up with solutions&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Nice to haves&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Traits&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Experience working with OLAP&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Experience with D3&lt;/li&gt;
+&lt;li&gt;You&#39;re a systems thinker who considers architecture, performance, and long-term maintainability&lt;/li&gt;
+&lt;li&gt;You have a bias for action and take initiative to keep work moving&lt;/li&gt;
+&lt;li&gt;You&#39;re invested in team processes, documentation, mentoring, and pairing&lt;/li&gt;
+&lt;li&gt;You bring humility and care to your leadership and mentoring&lt;/li&gt;
+&lt;li&gt;You&#39;re curious, thoughtful, and enjoy solving complex challenges&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Nice to Haves&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Familiarity with D3 or other data visualization libraries&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What won&#39;t set you up for success&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Needing highly structured work with detailed specifications—we operate in a dynamic environment that requires adaptability and comfort with ambiguity&lt;/li&gt;
+&lt;li&gt;Preferring to work in isolation—our collaborative approach means regular interaction with cross-functional teams&lt;/li&gt;
+&lt;li&gt;Looking for a role where you can just write code without considering broader systems and business implications&lt;/li&gt;
+&lt;li&gt;Wanting to avoid legacy code—we value our codebase history and need engineers who can respectfully evolve rather than rewrite everything&lt;/li&gt;
+&lt;li&gt;Expecting to specialize in only frontend or backend—this full-stack role requires expertise across the entire application stack&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;h4&gt;&lt;strong&gt;Compensation + perks + benefits&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;Kit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 4 ($181,000), out of five levels. Level is determined based on experience and our interview process.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Perks + benefits include:&lt;/strong&gt;&lt;/p&gt;
@@ -2261,6 +2330,30 @@ transitioning models from research to production environments.</p></li><li style
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/1021150?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>HappyCo</h5>
+                    <h3>Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/happyco/2ac171b3-379f-4f88-8714-50b0aca1e0d4" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><b style="font-size: 11pt">HappyCo is a company where people can grow their careers and work with like minded people, with no egos or politics. HappyCo is values driven and offers a flexible, supportive culture. Join HappyCo and <a class="postings-link" href="https://happy.co/media/make-work-happy">Make Work Happy</a>!</b>&nbsp;</div><div><br></div><div><br></div><div><b style="font-size: 16px;">About the Role</b></div><div><br></div><div><span style="font-size: 16px;">HappyCo is seeking a Software Engineer to provide expert frontline support for our customers during product launch and beyond. In this role, you will develop automations to manual steps within our launch flow, debug and resolve technical issues, collaborate with internal teams to improve processes, and help customers integrate with HappyCo’s services. Your work will directly enhance customer satisfaction, accelerate launches, and reduce reliance on core engineering teams, allowing them to focus on product innovation.</span></div><div><b style="font-size: 16px;">About the Role</b></div><div><br></div><div><span style="font-size: 16px;">HappyCo is seeking a Software Engineer to provide expert frontline support for our customers during product launch and beyond. In this role, you will develop automations to manual steps within our launch flow, debug and resolve technical issues, collaborate with internal teams to improve processes, and help customers integrate with HappyCo’s services. Your work will directly enhance customer satisfaction, accelerate launches, and reduce reliance on core engineering teams, allowing them to focus on product innovation.</span></div><h3>Key Responsibilities</h3><li>Develop well-structured code to assist customers with seamless integrations into HappyCo’s services.</li><li>Provide specialist technical support to customers and properties during launch.</li><li>Investigate and debug reported issues, offering clear insights to both customers and internal teams.</li><li>Identify recurring issues and propose long-term solutions to improve product stability.</li><li>Proactively manage scope, delivery, and configuration of product changes to ensure smooth rollouts.</li><li>Contribute to product development and rollout strategies, providing feedback to improve processes.</li><li>Ensure launch ticket resolution meets and exceeds service level agreements (SLAs).</li><h3>Required Experience & Skills / Technical Skills:</h3><li>2+ years of experience in a software engineering role.</li><li>Strong debugging and troubleshooting skills, particularly in SaaS or cloud-based environments.</li><li>Proficiency in coding or scripting languages (e.g., Python, JavaScript, SQL, or similar) for issue diagnosis and integrations.</li><li>Experience with APIs, web services, and system integrations to assist customers with product implementation.</li><li>Familiarity with cloud platforms (e.g., AWS, Azure, or Google Cloud) and infrastructure concepts</li><h3>Required Experience & Skills / Customer-Facing & Problem-Solving Experience:</h3><li>Experience providing direct technical support to customers, troubleshooting software issues, and managing ticket resolution.</li><li>Ability to analyze trends in customer issues and work with product teams to implement long-term solutions.</li><li>Understanding of SLAs and incident management processes, ensuring timely response to critical customer issues.</li><h3>Required Experience & Skills / Soft Skills & Mindset</h3><li>Strong communication skills, able to explain technical concepts clearly to both engineers and non-technical stakeholders.</li><li>Problem-solving mindset, capable of working under pressure to diagnose and resolve technical issues.</li><li>A proactive approach to continuous improvement, identifying process enhancements to streamline support and launch operations.</li><li>Collaboration skills, working closely with product and engineering teams to improve overall customer experience.</li><h3>Preferred Experience & Nice-to-Haves</h3><li>Experience with monitoring and logging tools (e.g., Datadog, Splunk, or New Relic).</li><li>Prior work with CI/CD pipelines, DevOps practices, or software deployment processes.</li><li>Exposure to customer onboarding and implementation processes, particularly in a SaaS environment.</li><li>Background in working with B2B enterprise customers, especially in property management, real estate tech, or a related industry.</li><li>Previous experience in working in a global team working across time zones.</li><div><span style="font-size: 16px;">If you’re passionate about solving complex technical challenges, working closely with customers, and driving impactful solutions, we’d love to hear from you!</span></div><div><br></div><div><b style="font-size: 11pt">Our HappyCo Culture &amp; Benefits</b></div><div><span style="font-size: 11pt">HappyCo strives to build better communities. So naturally, we are dedicated to making our own community an enjoyable place that lets us do our best work. We’re devoted to building an inclusive, supportive culture that empowers each HappyCo’er to succeed and grow. To learn more about our culture, check out our</span><a class="postings-link" style="font-size: 11pt" href="https://www.glassdoor.com.au/Overview/Working-at-HappyCo-EI_IE1533158.11,18.htm">&nbsp;</a><a class="postings-link" style="font-size: 11pt" href="https://happy.co/company/careers">careers page!</a><span style="font-size: 11pt">&nbsp;</span></div><div><br></div><div><b>We Offer:</b></div><div>- Work from anywhere supported by a flexible company culture</div><div>- Opportunity to work for one of the fastest growing technology companies in the PropTech industry</div><div>- Generous paid parental leave</div><div>- Competitive and equitable pay, including stock options</div><div>- Access to employee assistance programs to support both physical and mental wellness</div><div>- Monthly stipends to support Wellness and Home Office expenses</div><div><br></div><div>Find out more about our <a class="postings-link" href="https://happy.co/company/careers/employee-benefits-aus">AU Employee Benefits</a> here!</div><div><br></div><div><i style="font-size: 11pt">We believe in supporting people to do their best work and thrive, and building a diverse, equitable, and inclusive company is core to our mission. Our goal is to ensure that HappyCo upholds an inclusive environment where all people feel that they are equally respected and valued, whether they are applying for an open position or working at the company. We welcome applicants of any educational background, gender identity and expression, sexual orientation, religion, ethnicity, age, citizenship, socioeconomic status, disability, and veteran status. HappyCo is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures.</i></div><div><br></div><div><i style="font-size: 11pt">A note to Recruitment Agencies: Please don’t reach out to us about our roles -- we’ve got it covered. We don’t accept unsolicited agency resumes and HappyCo is not responsible for any fees related to unsolicited resumes.</i></div><div><b style="font-size: 11pt">HappyCo is a company where people can grow their careers and work with like minded people, with no egos or politics. HappyCo is values driven and offers a flexible, supportive culture. Join HappyCo and <a href="https://happy.co/media/make-work-happy" class="postings-link">Make Work Happy</a>!</b>&nbsp;</div><div><br></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/87661266?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -3011,6 +3104,30 @@ transitioning models from research to production environments.</p></li><li style
 &lt;p&gt;Refer them!&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.&lt;/p&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1533245276764372993/AtyqkzHz_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Primer</h5>
+                    <h3>Senior Software Engineer - Cloud Infrastrcuture</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.ashbyhq.com/primer.io/c33376b0-278b-4087-a7b3-86e39c6e62c0" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h2>An Introduction to Primer</h2><p style="min-height:1.5em">We’re the world's first unified payment infrastructure, empowering businesses worldwide to unleash their payment potential. By choosing our platform, merchants can take control over their payment stack, create unique commerce experiences, accelerate their roadmap and increase payment success. We strive to make something complex incredibly simple and intuitive. The world's top investors, including Accel, Balderton, Iconiq, and Tencent, have invested in Primer's vision to rebuild payments and commerce from the ground up.</p><p style="min-height:1.5em">Join us in shaping the future of payments and commerce.</p><p style="min-height:1.5em"><strong>Our engineering teams work fully remotely across Europe but we are focusing our hiring strategy on these locations: UK </strong>🇬🇧<strong>, Hungary </strong>🇭🇺<strong>, Romania </strong>🇷🇴<strong>, Serbia </strong>🇷🇸<strong>, Turkey </strong>🇹🇷<strong>, Bosnia </strong>🇧🇦<strong>, and Greece </strong>🇬🇷<strong>.</strong></p><p style="min-height:1.5em"><strong>Unfortunately we are unable to offer VISA sponsorships or relocation packages at this time.</strong></p><p style="min-height:1.5em"></p><h2>What team will you be joining?</h2><p style="min-height:1.5em">Putting the ‘Infrastructure’ in Unified Payments Infrastructure!</p><p style="min-height:1.5em">Our Infrastructure team provides a stable, highly available, easy to use platform for Primer's customers and employees through well designed solutions backed by robust policies and procedures.</p><p style="min-height:1.5em">This team covers: Infrastructure Architecture, Networking, Day-to-day Operations, Incident Response/SRE, Monitoring &amp; Alerting, Data Infrastructure and Intermediate Modules</p><p style="min-height:1.5em">Our tech stack includes: Python, Golang, AWS, Typescript, React, Kubernetes and Terraform, amongst lots of other things.</p><p style="min-height:1.5em"></p><h2><strong>What will the role involve?</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Be a focal point for our cloud platform roadmap, infrastructure and best practices</p></li><li><p style="min-height:1.5em">Leading initiatives and acting as a 'pod lead' where you will own technical strategy, execution, tooling and best practices</p></li><li><p style="min-height:1.5em">Collaborate with multiple product teams and respective owners to design infrastructure as we scale</p></li><li><p style="min-height:1.5em">Building custom metrics and features to enhance Primer’s observability</p></li><li><p style="min-height:1.5em">Infrastructure as code (IaC) development</p></li><li><p style="min-height:1.5em">Writing processes and documentation for system design, troubleshooting and maintenance</p><p style="min-height:1.5em"></p></li></ul><h2><strong>What are we looking for?</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Strong experience with a cloud provider (AWS preferred but we’re open to Azure and GCP)</p></li><li><p style="min-height:1.5em">Use of Terraform as infrastructure as code</p></li><li><p style="min-height:1.5em">Comfortable using Python/Golang as a programming language</p></li><li><p style="min-height:1.5em">Experience around building and maintaining production-grade Kubernetes clusters </p></li><li><p style="min-height:1.5em">Knowledge of security best practices and the ability to implement security controls at the infrastructure level</p></li><li><p style="min-height:1.5em">Experience with monitoring and logging tools like DataDog or Grafana’s observability stack(Prometheus, Tempo, Loki, Grafana)</p></li><li><p style="min-height:1.5em">Familiarity with the open standard OpenTelemetry</p></li><li><p style="min-height:1.5em">Excellent written and verbal communication skills, we’re a collaborative team!</p><p style="min-height:1.5em"></p><p style="min-height:1.5em">This position can be based <strong>ANYWHERE in European time zones</strong>, working remotely 100% of the time</p><p style="min-height:1.5em">Our engineering teams work fully remotely across Europe and operate within local timezones - if you are not based in the above countries listed but would still like to apply please let us know in your application</p><p style="min-height:1.5em">Unfortunately we are unable to offer VISA sponsorships or relocation packages at this time<br /><br /><strong>Our interview process</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">30 minute call with a Talent Partner</p></li><li><p style="min-height:1.5em">45 minute interview with an Engineering Manager</p></li><li><p style="min-height:1.5em">Take-home task with a discussion to follow with the infrastructure team</p></li><li><p style="min-height:1.5em">60 minute final stage culture interview</p></li></ul></li></ul><p style="min-height:1.5em"></p><h2><strong>What’s the culture like at Primer?</strong></h2><p style="min-height:1.5em">We’re building a culture where people can come and do their best work and enjoy it. We want our people to be proud of the impact that they have at Primer, and of the work that they are doing. You will be working with a team of people who are mission-driven, smart, and reflective, and who are invested in building exceptional products and delivering success for our merchants <em>(and we also know how to have fun along the way).</em></p><p style="min-height:1.5em">We work remotely. We believe that building a successful, profitable company goes beyond proximity. We invest in our relationships with each other through great remote working practices and thoughtfully designed face-to-face time together. Our heads-together time comes in the form of workstations, our annual company retreat, and co-working space access worldwide.</p><p style="min-height:1.5em">Finally, let’s go ahead and say it. The work that we do is challenging. Startups are a challenge, building category defining products is a challenge. You should be prepared for a challenge at Primer. But, there’s a big difference between a challenge and a struggle. The key difference is that the right challenge comes with the right support structures, an acceptance that not everything always goes to plan, a collaborative environment, and a great team around you. It’s never a challenge that you will face alone.</p><p style="min-height:1.5em"></p><h2><strong>Our benefits:</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">We are fully remote</p></li><li><p style="min-height:1.5em">Competitive share options</p></li><li><p style="min-height:1.5em">Uncapped holiday, with 25 days minimum to be taken</p></li><li><p style="min-height:1.5em">Co-working space access</p></li><li><p style="min-height:1.5em">Workations &amp; company retreat</p></li><li><p style="min-height:1.5em">The best equipment for your role</p></li><li><p style="min-height:1.5em">£500 towards your home office setup</p></li><li><p style="min-height:1.5em">Generous learning budget</p></li><li><p style="min-height:1.5em">Medical insurance</p></li><li><p style="min-height:1.5em">A broad set of additional perks and benefits (<em>depending on location)</em></p></li></ul><p style="min-height:1.5em"></p><h2><strong>Don’t meet every single requirement?</strong></h2><p style="min-height:1.5em">At Primer, we’re dedicated to building a diverse, inclusive, and authentic workplace. If you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply. You may be the right candidate for this or other roles. Primer is committed to the equal treatment of all current and prospective employees, regardless of background or beliefs—see our diversity commitment statement for more details</p><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.notion.so/Equity-diversity-inclusion-and-belonging-policy-7904d43d137848fda9cdc19772e43cec?pvs=21"><strong>Equity, diversity, inclusion and belonging policy</strong></a></p><p style="min-height:1.5em">Primer adopts a zero-tolerance approach to discrimination.</p><p style="min-height:1.5em">We are committed to providing equal opportunities to all current and prospective employees regardless of age, disability, sex, sexual orientation, pregnancy and maternity, race or ethnicity, religion or belief, gender identity, or marriage and civil partnership.</p>
                 </details>
                 </td>
             </tr></table>
