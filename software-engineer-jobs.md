@@ -10,7 +10,7 @@
                     <code>C,C++,javascript,blockchain</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-c-1996157" align="right" target="_blank">Apply</a>
@@ -80,7 +80,7 @@ transitioning models from research to production environments.</p></li><li style
                     <code>.Net,javascript,python,saas</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1991695" align="right" target="_blank">Apply</a>
@@ -156,7 +156,7 @@ transitioning models from research to production environments.</p></li><li style
                     <code>api,CSS,frontend,html</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-infrastructure-team-1989176" align="right" target="_blank">Apply</a>
@@ -259,12 +259,11 @@ transitioning models from research to production environments.</p></li><li style
 &lt;p style=&quot;line-height: 1;&quot;&gt;&lt;strong&gt;Your support system&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;You&#39;ll work closely with product, engineering, and design to build features end-to-end. From planning to implementation, deployment, and monitoring, you&#39;ll have partners throughout the organization focused on delivering value to creators. To learn more about how our engineering team works, you can peruse &lt;a href=&quot;https://engineering.kit.com/&quot;&gt;our engineering blog&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;What you’ll do&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;First week:&lt;/strong&gt; Dive into our codebase, systems, and workflows. Take part in Get To Know You&#39;s (GTKYs) to meet our distributed team.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;First month:&lt;/strong&gt; Assess our current reporting functionality and architecture. Begin collaborating with teams to understand creator needs for actionable insights and identify opportunities for improvement.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;First three to six months:&lt;/strong&gt; Architect and implement robust, scalable full-stack solutions for reporting and data visualization. Navigate and improve our legacy Rails codebase while bringing a systems-thinking approach to building for scale and maintainability. Lead technical projects and migrations to completion. Continuously identify and resolve performance bottlenecks across the stack. Actively mentor engineers and share your knowledge with empathy. Drive innovation in how creators understand and grow their businesses through data.&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p style=&quot;line-height: 1;&quot;&gt;&amp;nbsp;&lt;/p&gt;
 &lt;h3&gt;&lt;strong&gt;What will S.E.T. you up for success&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -292,10 +291,12 @@ transitioning models from research to production environments.</p></li><li style
 &lt;li&gt;You bring humility and care to your leadership and mentoring&lt;/li&gt;
 &lt;li&gt;You&#39;re curious, thoughtful, and enjoy solving complex challenges&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Nice to Haves&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Familiarity with D3 or other data visualization libraries&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What won&#39;t set you up for success&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Needing highly structured work with detailed specifications—we operate in a dynamic environment that requires adaptability and comfort with ambiguity&lt;/li&gt;
@@ -304,7 +305,6 @@ transitioning models from research to production environments.</p></li><li style
 &lt;li&gt;Wanting to avoid legacy code—we value our codebase history and need engineers who can respectfully evolve rather than rewrite everything&lt;/li&gt;
 &lt;li&gt;Expecting to specialize in only frontend or backend—this full-stack role requires expertise across the entire application stack&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;h4&gt;&lt;strong&gt;Compensation + perks + benefits&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;Kit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 4 ($181,000), out of five levels. Level is determined based on experience and our interview process.&lt;/p&gt;
@@ -383,12 +383,11 @@ transitioning models from research to production environments.</p></li><li style
 &lt;p style=&quot;line-height: 1;&quot;&gt;&lt;strong&gt;Your support system&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;You&#39;ll work closely with product, engineering, and design to build features end-to-end. From planning to implementation, deployment, and monitoring, you&#39;ll have partners throughout the organization focused on delivering value to creators. To learn more about how our engineering team works, you can peruse &lt;a href=&quot;https://engineering.kit.com/&quot;&gt;our engineering blog&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;What you’ll do&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;First week:&lt;/strong&gt; Dive into our codebase, systems, and workflows. Take part in Get To Know You&#39;s (GTKYs) to meet our distributed team.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;First month:&lt;/strong&gt; Assess our current reporting functionality and architecture. Begin collaborating with teams to understand creator needs for actionable insights and identify opportunities for improvement.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;First three to six months:&lt;/strong&gt; Architect and implement robust, scalable full-stack solutions for reporting and data visualization. Navigate and improve our legacy Rails codebase while bringing a systems-thinking approach to building for scale and maintainability. Lead technical projects and migrations to completion. Continuously identify and resolve performance bottlenecks across the stack. Actively mentor engineers and share your knowledge with empathy. Drive innovation in how creators understand and grow their businesses through data.&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p style=&quot;line-height: 1;&quot;&gt;&amp;nbsp;&lt;/p&gt;
 &lt;h3&gt;&lt;strong&gt;What will S.E.T. you up for success&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -416,10 +415,12 @@ transitioning models from research to production environments.</p></li><li style
 &lt;li&gt;You bring humility and care to your leadership and mentoring&lt;/li&gt;
 &lt;li&gt;You&#39;re curious, thoughtful, and enjoy solving complex challenges&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Nice to Haves&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Familiarity with D3 or other data visualization libraries&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What won&#39;t set you up for success&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Needing highly structured work with detailed specifications—we operate in a dynamic environment that requires adaptability and comfort with ambiguity&lt;/li&gt;
@@ -428,7 +429,6 @@ transitioning models from research to production environments.</p></li><li style
 &lt;li&gt;Wanting to avoid legacy code—we value our codebase history and need engineers who can respectfully evolve rather than rewrite everything&lt;/li&gt;
 &lt;li&gt;Expecting to specialize in only frontend or backend—this full-stack role requires expertise across the entire application stack&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;h4&gt;&lt;strong&gt;Compensation + perks + benefits&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;Kit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 4 ($181,000), out of five levels. Level is determined based on experience and our interview process.&lt;/p&gt;
@@ -507,12 +507,11 @@ transitioning models from research to production environments.</p></li><li style
 &lt;p style=&quot;line-height: 1;&quot;&gt;&lt;strong&gt;Your support system&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;You&#39;ll work closely with product, engineering, and design to build features end-to-end. From planning to implementation, deployment, and monitoring, you&#39;ll have partners throughout the organization focused on delivering value to creators. To learn more about how our engineering team works, you can peruse &lt;a href=&quot;https://engineering.kit.com/&quot;&gt;our engineering blog&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;What you’ll do&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;First week:&lt;/strong&gt; Dive into our codebase, systems, and workflows. Take part in Get To Know You&#39;s (GTKYs) to meet our distributed team.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;First month:&lt;/strong&gt; Assess our current reporting functionality and architecture. Begin collaborating with teams to understand creator needs for actionable insights and identify opportunities for improvement.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;First three to six months:&lt;/strong&gt; Architect and implement robust, scalable full-stack solutions for reporting and data visualization. Navigate and improve our legacy Rails codebase while bringing a systems-thinking approach to building for scale and maintainability. Lead technical projects and migrations to completion. Continuously identify and resolve performance bottlenecks across the stack. Actively mentor engineers and share your knowledge with empathy. Drive innovation in how creators understand and grow their businesses through data.&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p style=&quot;line-height: 1;&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;strong&gt;What will S.E.T. you up for success&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -540,10 +539,12 @@ transitioning models from research to production environments.</p></li><li style
 &lt;li&gt;You bring humility and care to your leadership and mentoring&lt;/li&gt;
 &lt;li&gt;You&#39;re curious, thoughtful, and enjoy solving complex challenges&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Nice to Haves&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Familiarity with D3 or other data visualization libraries&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What won&#39;t set you up for success&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Needing highly structured work with detailed specifications—we operate in a dynamic environment that requires adaptability and comfort with ambiguity&lt;/li&gt;
@@ -552,7 +553,6 @@ transitioning models from research to production environments.</p></li><li style
 &lt;li&gt;Wanting to avoid legacy code—we value our codebase history and need engineers who can respectfully evolve rather than rewrite everything&lt;/li&gt;
 &lt;li&gt;Expecting to specialize in only frontend or backend—this full-stack role requires expertise across the entire application stack&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;h4&gt;&lt;strong&gt;Compensation + perks + benefits&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;Kit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 4 ($181,000), out of five levels. Level is determined based on experience and our interview process.&lt;/p&gt;
@@ -2240,96 +2240,6 @@ transitioning models from research to production environments.</p></li><li style
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/6930305?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Xapo Bank</h5>
-                    <h3>Software Engineer - CAO (Remote - Work from Anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/xapo61/jobs/6481917003" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: 900;&quot;&gt;Work from anywhere, impact everywhere&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Diversity is at the heart of who we are at Xapo Bank. We’re a fully distributed team of over 140 Xapiens that work remotely from 40+ countries around the world.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Our beginning: A world that enjoys economic freedom and wealth protection, no matter where you live or who is running your country.&lt;/p&gt;
-&lt;p&gt;To achieve that, we search the world for the best people for the job. We work hard, think globally, and inspire each other to learn and grow. We are committed to changing the way things are done.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Risk is inherent in all of our business activities and managing risk well is the responsibility of every Xapien. Sound risk management enables us to serve our customers and deliver value for our shareholders, and helps make Xapo a great place to work.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Although we are headquartered in Gibraltar, this is a full time, 100% remote position&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Work from anywhere!&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;Position Overview:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Were looking for a Software Engineer to join our backend engineering function. At Xapo, we are&amp;nbsp;building truly cross-functional teams with full ownership of design, architecture, building, testing,&amp;nbsp;delivery, data, and operations.&amp;nbsp;You will collaborate closely with fellow team members from the product, apps, design, and QA&amp;nbsp;communities of practice. You will be part of the product team (we call them SATs, the Stream Aligned Teams, as in the Team Topologies) in charge of the Onboarding, Marketing and Customer&amp;nbsp;Service aspects of Xapo products.&lt;/p&gt;
-&lt;p&gt;As a Software Engineer, you will develop a high-impact service, provide solutions with good practices, and play an active role in the Development Community of practice. You will collaborate in discussions about architectural and technical patterns used in the company to solve problems for operational teams, improve UX, and create a WOW effect in the eyes of our members. With that in mind, you will immensely impact the future of finance &amp;amp; crypto.&lt;/p&gt;
-&lt;p&gt;Our main tech stack includes:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;AWS for all of our Infrastructure&lt;/li&gt;
-&lt;li&gt;Docker&lt;/li&gt;
-&lt;li&gt;Python Django, Flask)&lt;/li&gt;
-&lt;li&gt;MySQL&lt;/li&gt;
-&lt;li&gt;MongoDB&lt;/li&gt;
-&lt;li&gt;Redis&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;We use also:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;PostgreSQL&lt;/li&gt;
-&lt;li&gt;Node.js&lt;/li&gt;
-&lt;li&gt;Java&lt;/li&gt;
-&lt;li&gt;BigQuery&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Design, develop, and deploy robust and scalable backend services.&lt;/li&gt;
-&lt;li&gt;Collaborate effectively within a cross-functional team environment.&lt;/li&gt;
-&lt;li&gt;Work with operational teams to troubleshoot and resolve issues efficiently.&lt;/li&gt;
-&lt;li&gt;Contribute to a positive and productive work environment.&lt;/li&gt;
-&lt;li&gt;Take end-to-end responsibility for the services your team owns.&lt;/li&gt;
-&lt;li&gt;Develop innovative solutions on the edge of tech &amp;amp; marketing.&lt;/li&gt;
-&lt;li&gt;Actively participate in the Development Community of Practice, contributing to architectural&amp;nbsp;discussions and promoting best practices.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;Skills needed:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Solid software engineering experience in one or more general-purpose programming languages (Python preferred) - Demonstrable experience with Python (Django/Flask) is highly advantageous.&lt;/li&gt;
-&lt;li&gt;Strong understanding of software engineering principles and best practices.&lt;/li&gt;
-&lt;li&gt;Microservices architecture and containerization Docker.&lt;/li&gt;
-&lt;li&gt;Cloud-native patterns, particularly around fault tolerance.&lt;/li&gt;
-&lt;li&gt;CI/CD pipelines and best practices.&lt;/li&gt;
-&lt;li&gt;Building and deploying scalable, asynchronous software.&lt;/li&gt;
-&lt;li&gt;Monitoring and observability tools and techniques.&lt;/li&gt;
-&lt;li&gt;Excellent teamwork and communication skills, including the ability to create clear&amp;nbsp;documentation and designs.&lt;/li&gt;
-&lt;li&gt;A passion for learning and a proactive approach to problem-solving.&lt;/li&gt;
-&lt;li&gt;Genuine interest in Bitcoin and the cryptocurrency space.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Other requirements&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A dedicated workspace.&lt;/li&gt;
-&lt;li&gt;A reliable internet connection with the fastest speed possible in your area.&lt;/li&gt;
-&lt;li&gt;Devices and other essential equipment that meet minimal technical specifications.&lt;/li&gt;
-&lt;li&gt;Alignment with Our Values and the Xapo Values-Driven Leadership principles.&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Why work for Xapo?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 500; font-size: 10pt;&quot;&gt;IMPACT GLOBALLY, WORK REMOTELY.&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Shape the Future:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Improve lives through cutting-edge technology, work 100% remotely from anywhere in the world.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Great work-life balance:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Build amazing things with a balance of autonomy and collaborative teamwork. Set your own work schedule and make use of a flexible PTO plan when you need to recharge.&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Expect Excellence:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Collaborate, learn, and grow with a high-performance team. Learn&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; how you learn best - from books to conferences, you’ll get a yearly budget for your individual learning and development goals.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;At Xapo, we prioritize consumer protection and adhere to regulatory requirements by ensuring that all Xapiens are accountable for upholding principles of fair treatment, transparency, and ethical conduct in their interactions with customers and stakeholders.&lt;br&gt;&lt;br&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Xapo Device Policy&lt;br&gt;&lt;/span&gt;&lt;/strong&gt;Consultants joining Xapo Bank must comply with the Xapo Device Policy, which governs the use of corporate-approved laptops under Corporate-Owned, Personally Purchased Device (reimbursed up to $1,500) or Corporate-Owned, Personally Enabled Device (personal device with enforced security controls).&lt;br&gt;All devices must meet security requirements, enroll in Xapo’s Mobile Device Management (MDM), and adhere to compliance rules. COPPD devices remain Xapo property with buyback options upon exit. COPED users agree to data control measures, including mandatory corporate data wipes.&lt;br&gt;Compliance with the Xapo Device Policy is mandatory for all consultants, onboarding will not proceed without adherence to the policy.&lt;strong&gt;&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/1021150?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -2454,6 +2364,30 @@ transitioning models from research to production environments.</p></li><li style
                 </td>
                 <td width="300">
                     <h5>Aiwyn</h5>
+                    <h3>Senior .NET Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/aiwyn/c0a6eab7-69e7-46d2-b4e5-0fa11a1ab3d2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><b>Who is Aiwyn and what do we do?</b></div><div><br></div><div>Aiwyn is the fastest-growing software company serving the accounting profession.&nbsp;Founded in 2020, we now work with 100+ of the largest CPA firms in the world.&nbsp;Our “Job to be done”: speed up cash flow, save Partner time, &amp; deliver best-in-class client experiences. We do this by automating day-to-day firm operations with our Practice Automation solutions. Aiwyn is led by serial entrepreneurs with multiple exits and funded by top-tier investors (Bessemer, KKR, &amp; Revolution). We're passionate about building a remarkable company with world-class people, processes, and technology.</div><div><br></div><div>To learn more, visit our <a rel="noopener noreferrer" class="postings-link" href="https://aiwyn.ai/"><b>website</b></a></div><div><b>Who is Aiwyn and what do we do?</b></div><div><br></div><div>Aiwyn is the fastest-growing software company serving the accounting profession.&nbsp;Founded in 2020, we now work with 100+ of the largest CPA firms in the world.&nbsp;Our “Job to be done”: speed up cash flow, save Partner time, &amp; deliver best-in-class client experiences. We do this by automating day-to-day firm operations with our Practice Automation solutions. Aiwyn is led by serial entrepreneurs with multiple exits and funded by top-tier investors (Bessemer, KKR, &amp; Revolution). We're passionate about building a remarkable company with world-class people, processes, and technology.</div><div><br></div><div>To learn more, visit our <a href="https://aiwyn.ai/" class="postings-link" target="_blank" rel="noopener noreferrer"><b>website</b></a></div><h3>What You'll Do:</h3><li><b>Design &amp; Develop: </b>Create robust, scalable software solutions using the Microsoft technology stack, while maintaining high code quality standards. You'll implement complex features in C#, contribute to architectural decisions, and help shape our cloud-native applications on Azure.</li><li><b>Collaborate &amp; Deliver: </b>Work within agile teams to deliver high-quality features, participate in code reviews, and contribute to technical discussions. You'll help identify and resolve technical challenges while ensuring timely delivery of solutions.</li><li><b>Problem Solve &amp; Innovate: </b>Tackle complex technical problems, propose innovative solutions, and contribute to improving our development practices, tooling, and system reliability.</li><h3>What We Need:</h3><li>5+ years of experience in C# and the .NET ecosystem (.NET 6 or later preferred).</li><li>Experience with Azure services including App Services, Azure Functions, Key Vault, and Azure DevOps.</li><li>Proficiency in working with Microsoft SQL Server, including designing schemas, writing stored procedures, and optimizing queries.</li><li>Solid understanding of object-oriented programming, asynchronous programming, and software design principles.</li><li>Ability to write clean, maintainable, and testable code.</li><li>Demonstrated ability to analyze and solve complex technical problems across cloud-based, distributed systems.</li><li>Capable of identifying performance bottlenecks and implementing effective solutions.</li><li>Strong commitment to code quality and automated testing.</li><li>Familiarity with testing frameworks such as xUnit/NUnit.</li><li>Experience implementing CI/CD pipelines in Azure DevOps or GitHub Actions.</li><li>Ability to clearly communicate technical concepts and decisions.</li><li>Active participant in code reviews and technical design discussions.</li><li>Effective team player with experience working in agile teams.</li><li>Willingness to mentor junior developers and share knowledge with peers.</li><li>Familiarity with event-driven systems and RESTful APIs.</li><li>Understanding of system monitoring and observability in Azure environments (e.g., Application Insights, Log Analytics).</li><h3>Preferred:</h3><li>Proficient with front-end frameworks (e.g., Angular, React, or Blazor).</li><li>Experience with Azure Data Factory, Logic Apps, or other data integration tools.</li><li>Capable of building UI automation processes for production use with tools like Selenium.</li><li>Actively involved with contributing to system architecture and design.</li><li>Adept at doing integrations with third-party systems&nbsp;</li><li>Track record of mentoring and growing engineering talent.</li><h3>Why Work at Aiwyn?</h3><li>The big-picture value proposition of this role is simple: join us, and you'll be paid competitively to have freedom in solving worthwhile, challenging problems alongside other A-players at a fast-growing SaaS startup led by an experienced and successful team with industry experience.</li><div><br></div><div>Other benefits include:</div><li><b>Adventure travel stipend</b> - you receive a $1,000 travel reimbursement on your work anniversary each year. We encourage our team to recharge and explore the world beyond their home office walls.</li><li><b>Remote, work-from-anywhere culture</b></li><li><b>Flexible PTO</b></li><li><b>World Class health benefits</b> - we believe in fostering flourishing teams by providing benefits that go beyond the usual standards - Health, vision, dental, HSA/FSA, and mental health support.</li><li><b>Stock options</b> - every Full Time Employee has ownership in Aiwyn's future and success.</li><li><b>401(k) matching</b></li><h3>Our Values:</h3><li><b>Trust</b> - We champion transparency, welcome differing perspectives, uphold accountability, and trust that others have good intentions</li><li><b>Courage</b> - We have the courage to take calculated risks and embrace change, knowing what worked in the past won’t always work in the future</li><li><b>Impact</b> - Rooted in determination and innovation, we chase extraordinary outcomes and impactful results</li><li><b>Relentlessness</b> - We approach challenges with an unwavering resolve, never settling for mediocrity, and always striving to surpass expectations</li><h3>Learn more about Aiwyn</h3><li><a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/about"><b>About us</b></a></li><li><a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/why-aiwyn"><b>Why Aiwyn</b></a></li><li><a rel="noopener noreferrer" class="postings-link" href="https://www.youtube.com/@AiwynAI"><b>YouTube page</b></a></li><div>Aiwyn is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.</div><div><br></div><div>Candidate information will be treated in accordance with our CCPA privacy notice which can be found here: <a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/ccpa">https://www.aiwyn.ai/ccpa</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://www.aiwyn.ai/hubfs/Aiwyn%20Favicon.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Aiwyn</h5>
                     <h3>Staff Angular Software Engineer</h3>
                 </td>
                 <td width="300">
@@ -2469,31 +2403,7 @@ transitioning models from research to production environments.</p></li><li style
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><b>Who is Aiwyn and what do we do?</b></div><div><br></div><div>Aiwyn is the fastest-growing software company serving the accounting profession.&nbsp;Founded in 2020, we now work with 100+ of the largest CPA firms in the world.&nbsp;Our “Job to be done”: speed up cash flow, save Partner time, &amp; deliver best-in-class client experiences. We do this by automating day-to-day firm operations with our Practice Automation solutions. Aiwyn is led by serial entrepreneurs with multiple exits and funded by top-tier investors (Bessemer, KKR, &amp; Revolution). We're passionate about building a remarkable company with world-class people, processes, and technology.</div><div><br></div><div>To learn more, visit our <b><a rel="noopener noreferrer" class="postings-link" href="https://aiwyn.ai/">website</a></b></div><div><b>Who is Aiwyn and what do we do?</b></div><div><br></div><div>Aiwyn is the fastest-growing software company serving the accounting profession.&nbsp;Founded in 2020, we now work with 100+ of the largest CPA firms in the world.&nbsp;Our “Job to be done”: speed up cash flow, save Partner time, &amp; deliver best-in-class client experiences. We do this by automating day-to-day firm operations with our Practice Automation solutions. Aiwyn is led by serial entrepreneurs with multiple exits and funded by top-tier investors (Bessemer, KKR, &amp; Revolution). We're passionate about building a remarkable company with world-class people, processes, and technology.</div><div><br></div><div>To learn more, visit our <b><a href="https://aiwyn.ai/" class="postings-link" target="_blank" rel="noopener noreferrer">website</a></b></div><h3>What You'll Do:</h3><li><b>Technical Strategy &amp; Vision</b> - Shape and drive the technical direction of our frontend platform across multiple teams. Make critical architectural decisions that affect the entire frontend ecosystem, establishing patterns and practices that scale across applications.</li><li><b>Design System Architecture</b> - Lead the evolution of our component library and design system architecture. Define standards for reusability, accessibility, and performance that impact all frontend applications.</li><li><b>Drive Innovation</b> - Identify and champion transformative frontend initiatives. Lead the adoption of new technologies and approaches that significantly improve developer productivity and application performance across teams.</li><li><b>Technical Leadership</b> - Provide technical leadership across teams, mentor senior engineers, and influence organization-wide frontend practices. Be a key technical advisor to product and engineering leadership.</li><h3>What We Need:</h3><li><b>Advanced Technical Expertise</b> - Deep mastery of Angular, RxJS, and modern frontend architecture patterns. Proven track record of solving complex technical challenges and introducing innovative solutions at scale. Expert-level understanding of JavaScript/TypeScript internals and performance optimization.</li><li><b>Enterprise Architecture</b> - Extensive experience designing and implementing large-scale Angular applications serving significant user bases. Deep understanding of micro-frontend architectures, module federation, and scalable state management approaches.</li><li><b>UI Architecture Excellence</b> - Expert knowledge of advanced CSS architecture patterns, design systems, and web performance optimization. Strong background in establishing standards for accessibility, responsive design, and cross-browser compatibility at an organizational level.</li><li><b>Quality &amp; Testing Leadership</b> - Proven ability to establish testing strategies and frameworks that scale across multiple teams. Experience building automated testing infrastructures and implementing effective testing patterns for complex Angular applications.</li><li><b>Performance &amp; Optimization</b> - Deep expertise in frontend performance optimization, bundle size management, and application scalability. Experience with advanced debugging and profiling techniques.</li><li><b>Technical Strategy</b> - Demonstrated ability to create and execute technical roadmaps that align with business objectives. Experience making architectural decisions that balance immediate needs with long-term technical health.</li><li><b>Cross-team Impact</b> - Track record of successfully leading technical initiatives that span multiple teams and applications. Ability to drive consensus on complex technical decisions across engineering organizations.</li><li>The ability to travel occasionally for onsite Company meetings</li><h3>Preferred:</h3><li>12+ years of software engineering experience</li><li>Deep expertise in GraphQL architecture patterns and implementation</li><li>Experience with Google Cloud Platform services and cloud-native architectures</li><li>Deep expertise in build tooling optimization and deployment strategies</li><li>Advanced knowledge of browser internals and web performance</li><li>Background in implementing large-scale design systems</li><li>Experience with advanced Angular patterns like custom decorators and meta-programming</li><li>Expertise in frontend security best practices and implementation</li><li>Track record of mentoring senior engineers and technical leads</li><li>Experience with frontend architecture in cloud-native environments</li><h3>Why Work at Aiwyn?</h3><li>The big-picture value proposition of this role is simple: join us, and you'll be paid competitively to have freedom in solving worthwhile, challenging problems alongside other A-players at a fast-growing SaaS startup led by an experienced and successful team with industry experience.</li><div><br></div><div>Other benefits include:</div><li><b>Adventure travel stipend</b> - you receive a $1,000 travel reimbursement on your work anniversary each year. We encourage our team to recharge and explore the world beyond their home office walls.</li><li><b>Remote, work-from-anywhere culture</b></li><li><b>Flexible PTO</b></li><li><b>World Class health benefits</b> - we believe in fostering flourishing teams by providing benefits that go beyond the usual standards - Health, vision, dental, HSA/FSA, and mental health support.</li><li><b>Stock options</b> - every Full Time Employee has ownership in Aiwyn's future and success.</li><li><b>401(k) matching</b></li><h3>Our Values:</h3><li><b>Trust</b> - We champion transparency, welcome differing perspectives, uphold accountability, and trust that others have good intentions</li><li><b>Courage</b> - We have the courage to take calculated risks and embrace change, knowing what worked in the past won’t always work in the future</li><li><b>Impact</b> - Rooted in determination and innovation, we chase extraordinary outcomes and impactful results</li><li><b>Relentlessness</b> - We approach challenges with an unwavering resolve, never settling for mediocrity, and always striving to surpass expectations</li><h3>Learn more about Aiwyn</h3><li><a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/about"><b>About us</b></a></li><li><a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/why-aiwyn"><b>Why Aiwyn</b></a></li><li><a rel="noopener noreferrer" class="postings-link" href="https://www.youtube.com/@AiwynAI"><b>YouTube page</b></a></li><div>Aiwyn is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.</div><div><br></div><div>Candidate information will be treated in accordance with our CCPA privacy notice which can be found here: <a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/ccpa">https://www.aiwyn.ai/ccpa</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://www.aiwyn.ai/hubfs/Aiwyn%20Favicon.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Aiwyn</h5>
-                    <h3>Staff Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/aiwyn/de4fa392-835d-43e5-8deb-225a309b0cf5" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b>Who is Aiwyn and what do we do?</b></div><div><br></div><div>Aiwyn is the fastest-growing software company serving the accounting profession.&nbsp;Founded in 2020, we now work with 100+ of the largest CPA firms in the world.&nbsp;Our “Job to be done”: speed up cash flow, save Partner time, &amp; deliver best-in-class client experiences. We do this by automating day-to-day firm operations with our Practice Automation solutions. Aiwyn is led by serial entrepreneurs with multiple exits and funded by top-tier investors (Bessemer, KKR, &amp; Revolution). We're passionate about building a remarkable company with world-class people, processes, and technology.</div><div><br></div><div>To learn more, visit our <a rel="noopener noreferrer" class="postings-link" href="https://aiwyn.ai/"><b>website</b></a></div><div><b>Who is Aiwyn and what do we do?</b></div><div><br></div><div>Aiwyn is the fastest-growing software company serving the accounting profession.&nbsp;Founded in 2020, we now work with 100+ of the largest CPA firms in the world.&nbsp;Our “Job to be done”: speed up cash flow, save Partner time, &amp; deliver best-in-class client experiences. We do this by automating day-to-day firm operations with our Practice Automation solutions. Aiwyn is led by serial entrepreneurs with multiple exits and funded by top-tier investors (Bessemer, KKR, &amp; Revolution). We're passionate about building a remarkable company with world-class people, processes, and technology.</div><div><br></div><div>To learn more, visit our <a href="https://aiwyn.ai/" class="postings-link" target="_blank" rel="noopener noreferrer"><b>website</b></a></div><h3>What You'll Do:</h3><li><b>Technical Strategy &amp; Vision</b> - Help define and drive technical strategy across multiple teams or systems. Shape architectural decisions that impact major portions of our platform while ensuring scalability, reliability, and maintainability of our software.</li><li><b>Design &amp; Mentor</b> - Lead the design of complex technical solutions spanning multiple services and data pipelines. Mentor senior engineers, influence engineering practices, and drive technical excellence across the organization.</li><li><b>Solve &amp; Scale</b> - Tackle our most challenging optimization problems. Identify systemic issues, implement solutions that scale, and drive improvements in performance, reliability, and engineering efficiency.</li><h3>What We Need:</h3><li><b>Technical Leadership</b> - Exceptional engineering skills with deep expertise in Java/Kotlin and Spring Boot solutions. Proven ability to deliver complex, large-scale technical solutions leveraging cloud services. Experience making high-impact technical decisions that affect multiple data processing systems and teams.</li><li><b>Strategic Thinking</b> - Demonstrated ability to understand business context and translate it into technical strategy for engineering teams. Experience in making architectural decisions that balance immediate needs with long-term technical health of an ecosystem.</li><li><b>System Design</b> - Deep understanding of distributed systems and data pipeline architectures. Proven track record of designing and implementing system-wide improvements to ETL processes and data validation frameworks that significantly impact engineering efficiency.</li><li><b>Technical Influence</b> - Strong ability to influence technical direction across teams through mentorship in software development, technical documentation, and leadership. Experience in driving adoption of engineering best practices and standards across multiple teams.</li><li><b>Quality &amp; Testing Excellence</b> - Relentless focus on quality with deep expertise in test automation. Experience building robust test frameworks, implementing comprehensive testing strategies, and fostering a test-first development culture.&nbsp;</li><li><b>Cross-team Collaboration</b> - Track record of successfully driving technical initiatives that span multiple teams working on different aspects of a software platform. Ability to build consensus around technical decisions and navigate complex trade-offs.</li><li><b>Engineering Excellence</b> - Deep understanding of software engineering principles, with particular emphasis on data processing patterns and practices. Proven ability to establish and maintain high engineering standards while driving innovation.</li><li>The ability to travel occasionally for onsite Company meetings</li><h3>Preferred:</h3><li>12+ years of software engineering experience</li><li>Kotlin expertise</li><li>Expertise with Angular or other front end technologies</li><li>Expertise with large-scale Spring Boot architectures</li><li>Expertise in Google Cloud Platform services including BigQuery</li><li>Expertise in designing and building PostgreSQL databases</li><li>Expertise with data pipelines and ETL processes</li><li>Expertise in GraphQL architecture patterns and implementation</li><li>Experience building solutions that leverage LLMs</li><li>Expertise with continuous integration and deployment practices</li><li>Experience in technical risk assessment and mitigation in data-intensive systems</li><li>Background in mentoring senior engineers</li><h3>Why Work at Aiwyn?</h3><li>The big-picture value proposition of this role is simple: join us, and you'll be paid competitively to have freedom in solving worthwhile, challenging problems alongside other A-players at a fast-growing SaaS startup led by an experienced and successful team with industry experience.</li><div><br></div><div>Other benefits include:</div><li><b>Adventure travel stipend</b> - you receive a $1,000 travel reimbursement on your work anniversary each year. We encourage our team to recharge and explore the world beyond their home office walls.</li><li><b>Remote, work-from-anywhere culture</b></li><li><b>Flexible PTO</b></li><li><b>World Class health benefits</b> - we believe in fostering flourishing teams by providing benefits that go beyond the usual standards - Health, vision, dental, HSA/FSA, and mental health support.</li><li><b>Stock options</b> - every Full Time Employee has ownership in Aiwyn's future and success.</li><li><b>401(k) matching</b></li><h3>Our Values:</h3><li><b>Trust</b> - We champion transparency, welcome differing perspectives, uphold accountability, and trust that others have good intentions</li><li><b>Courage</b> - We have the courage to take calculated risks and embrace change, knowing what worked in the past won’t always work in the future</li><li><b>Impact</b> - Rooted in determination and innovation, we chase extraordinary outcomes and impactful results</li><li><b>Relentlessness</b> - We approach challenges with an unwavering resolve, never settling for mediocrity, and always striving to surpass expectations</li><h3>Learn more about Aiwyn</h3><li><b><a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/about">About us</a></b></li><li><b><a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/why-aiwyn">Why Aiwyn</a></b></li><li><b><a rel="noopener noreferrer" class="postings-link" href="https://www.youtube.com/@AiwynAI">YouTube page</a></b></li><div>Aiwyn is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.</div><div><br></div><div>Candidate information will be treated in accordance with our CCPA privacy notice which can be found here: <a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/ccpa">https://www.aiwyn.ai/ccpa</a></div>
+                <div><b>Who is Aiwyn and what do we do?</b></div><div><br></div><div>Aiwyn is the fastest-growing software company serving the accounting profession.&nbsp;Founded in 2020, we now work with 100+ of the largest CPA firms in the world.&nbsp;Our “Job to be done”: speed up cash flow, save Partner time, &amp; deliver best-in-class client experiences. We do this by automating day-to-day firm operations with our Practice Automation solutions. Aiwyn is led by serial entrepreneurs with multiple exits and funded by top-tier investors (Bessemer, KKR, &amp; Revolution). We're passionate about building a remarkable company with world-class people, processes, and technology.</div><div><br></div><div>To learn more, visit our <a rel="noopener noreferrer" class="postings-link" href="https://aiwyn.ai/"><b>website</b></a></div><div><b>Who is Aiwyn and what do we do?</b></div><div><br></div><div>Aiwyn is the fastest-growing software company serving the accounting profession.&nbsp;Founded in 2020, we now work with 100+ of the largest CPA firms in the world.&nbsp;Our “Job to be done”: speed up cash flow, save Partner time, &amp; deliver best-in-class client experiences. We do this by automating day-to-day firm operations with our Practice Automation solutions. Aiwyn is led by serial entrepreneurs with multiple exits and funded by top-tier investors (Bessemer, KKR, &amp; Revolution). We're passionate about building a remarkable company with world-class people, processes, and technology.</div><div><br></div><div>To learn more, visit our <a href="https://aiwyn.ai/" class="postings-link" target="_blank" rel="noopener noreferrer"><b>website</b></a></div><h3>What You'll Do:</h3><li><b>Technical Strategy &amp; Vision</b> - Shape and drive the technical direction of our frontend platform across multiple teams. Make critical architectural decisions that affect the entire frontend ecosystem, establishing patterns and practices that scale across applications.</li><li><b>Design System Architecture</b> - Lead the evolution of our component library and design system architecture. Define standards for reusability, accessibility, and performance that impact all frontend applications.</li><li><b>Drive Innovation</b> - Identify and champion transformative frontend initiatives. Lead the adoption of new technologies and approaches that significantly improve developer productivity and application performance across teams.</li><li><b>Technical Leadership</b> - Provide technical leadership across teams, mentor senior engineers, and influence organization-wide frontend practices. Be a key technical advisor to product and engineering leadership.</li><h3>What We Need:</h3><li><b>Advanced Technical Expertise</b> - Deep mastery of Angular, RxJS, and modern frontend architecture patterns. Proven track record of solving complex technical challenges and introducing innovative solutions at scale. Expert-level understanding of JavaScript/TypeScript internals and performance optimization.</li><li><b>Enterprise Architecture</b> - Extensive experience designing and implementing large-scale Angular applications serving significant user bases. Deep understanding of micro-frontend architectures, module federation, and scalable state management approaches.</li><li><b>UI Architecture Excellence</b> - Expert knowledge of advanced CSS architecture patterns, design systems, and web performance optimization. Strong background in establishing standards for accessibility, responsive design, and cross-browser compatibility at an organizational level.</li><li><b>Quality &amp; Testing Leadership</b> - Proven ability to establish testing strategies and frameworks that scale across multiple teams. Experience building automated testing infrastructures and implementing effective testing patterns for complex Angular applications.</li><li><b>Performance &amp; Optimization</b> - Deep expertise in frontend performance optimization, bundle size management, and application scalability. Experience with advanced debugging and profiling techniques.</li><li><b>Technical Strategy</b> - Demonstrated ability to create and execute technical roadmaps that align with business objectives. Experience making architectural decisions that balance immediate needs with long-term technical health.</li><li><b>Cross-team Impact</b> - Track record of successfully leading technical initiatives that span multiple teams and applications. Ability to drive consensus on complex technical decisions across engineering organizations.</li><li>The ability to travel occasionally for onsite Company meetings</li><h3>Preferred:</h3><li>12+ years of software engineering experience</li><li>Deep expertise in GraphQL architecture patterns and implementation</li><li>Experience with Google Cloud Platform services and cloud-native architectures</li><li>Deep expertise in build tooling optimization and deployment strategies</li><li>Advanced knowledge of browser internals and web performance</li><li>Background in implementing large-scale design systems</li><li>Experience with advanced Angular patterns like custom decorators and meta-programming</li><li>Expertise in frontend security best practices and implementation</li><li>Track record of mentoring senior engineers and technical leads</li><li>Experience with frontend architecture in cloud-native environments</li><h3>Why Work at Aiwyn?</h3><li>The big-picture value proposition of this role is simple: join us, and you'll be paid competitively to have freedom in solving worthwhile, challenging problems alongside other A-players at a fast-growing SaaS startup led by an experienced and successful team with industry experience.</li><div><br></div><div>Other benefits include:</div><li><b>Adventure travel stipend</b> - you receive a $1,000 travel reimbursement on your work anniversary each year. We encourage our team to recharge and explore the world beyond their home office walls.</li><li><b>Remote, work-from-anywhere culture</b></li><li><b>Flexible PTO</b></li><li><b>World Class health benefits</b> - we believe in fostering flourishing teams by providing benefits that go beyond the usual standards - Health, vision, dental, HSA/FSA, and mental health support.</li><li><b>Stock options</b> - every Full Time Employee has ownership in Aiwyn's future and success.</li><li><b>401(k) matching</b></li><h3>Our Values:</h3><li><b>Trust</b> - We champion transparency, welcome differing perspectives, uphold accountability, and trust that others have good intentions</li><li><b>Courage</b> - We have the courage to take calculated risks and embrace change, knowing what worked in the past won’t always work in the future</li><li><b>Impact</b> - Rooted in determination and innovation, we chase extraordinary outcomes and impactful results</li><li><b>Relentlessness</b> - We approach challenges with an unwavering resolve, never settling for mediocrity, and always striving to surpass expectations</li><h3>Learn more about Aiwyn</h3><li><b><a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/about">About us</a></b></li><li><b><a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/why-aiwyn">Why Aiwyn</a></b></li><li><b><a rel="noopener noreferrer" class="postings-link" href="https://www.youtube.com/@AiwynAI">YouTube page</a></b></li><div>Aiwyn is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.</div><div><br></div><div>Candidate information will be treated in accordance with our CCPA privacy notice which can be found here: <a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/ccpa">https://www.aiwyn.ai/ccpa</a></div>
                 </details>
                 </td>
             </tr>,<tr>
