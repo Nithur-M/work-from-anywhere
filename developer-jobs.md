@@ -10,7 +10,7 @@
                     <code>.Net,api,backend,C</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-typescript-1983726" align="right" target="_blank">Apply</a>
@@ -430,6 +430,126 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><span style="font-size: 14px;">Are you looking for a job as a Rust developer and advocate to promote and develop with the programming language within Open-Source projects?</span></div><div><br></div><div><span style="font-size: 14px;">The Rust programming language is increasingly gaining momentum and we, at Collabora, share the vision that it is going to have a bright future, with adoption across different OSS projects including but not limited to Operating Systems, GStreamer, the Linux Kernel and more.</span></div><div><br></div><div><span style="font-size: 14px;">As a result, we are looking for a Rust developer advocate who will help us shaping a strategy, growing its usage within the company across different SW components and layers, identifying and documenting the best practices, and the last but not the least helping our clients building safe, reliable and efficient Rust-enabled products.</span></div><div><span style="font-size: 14px;">Are you looking for a job as a Rust developer and advocate to promote and develop with the programming language within Open-Source projects?</span></div><div><br></div><div><span style="font-size: 14px;">The Rust programming language is increasingly gaining momentum and we, at Collabora, share the vision that it is going to have a bright future, with adoption across different OSS projects including but not limited to Operating Systems, GStreamer, the Linux Kernel and more.</span></div><div><br></div><div><span style="font-size: 14px;">As a result, we are looking for a Rust developer advocate who will help us shaping a strategy, growing its usage within the company across different SW components and layers, identifying and documenting the best practices, and the last but not the least helping our clients building safe, reliable and efficient Rust-enabled products.</span></div><h3>Key responsibilites</h3><li>Internally disseminate the knowledge and the expertise about the Rust programming language</li><li>Experience with Embedded Linux systems</li><li>Train the other Collaborans on Rust and help them adopting it for their respective projects whenever that makes sense</li><li>Shape a compelling strategy around Rust which would provide added value to our clients projects and open-source projects we are currently focusing on</li><li>Help connecting the engineering organization with the Rust ecosystem at large</li><li>Contribute publicly to open source Rust-based projects to ensure Collabora's continuing technical leadership</li><li>Discuss with and promote Rust-based solutions to our clients and represent Collabora at conferences and trade shows to demonstrate and promote our leadership in the open source arena</li><li>Gain working knowledge of customers’ products, applications, technical and business strengths and target markets</li><h3>Required skills</h3><li>Proficient in Rust and familiar with writing low and high-level code</li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Being passionate about helping other developers</li><li>Good English language skills (both verbal and written)</li><li>Ability to work and communicate in an online fully distributed environment</li><li>Strong collaboration and listening skills, able to solicit honest feedback early and often</li><h3>Desired skills</h3><li>Self learning skill to get sufficient knowledge of Collabora's services, business model, project delivery life cycle and other related technical domains</li><li>BS/BA or experience in the role of Engineer</li><div><span style="font-size: 14px;">Collabora is a software consultancy specializing in bringing companies and the Open Source community together. We combine years of Open Source software leadership with an understanding of the challenges that businesses, non-profits, and governments face. Collabora brings deep technical expertise in system integration &amp; architecture, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications.</span></div><div><span style="font-size: 14px;">Collabora has the unique business model of enabling enterprises to leverage Open Source software in their solutions. Having worked with notable industry leading companies in the automotive, aerospace and handset mobile verticals amongst many others, Collabora has established a broad customer portfolio.</span></div><div><br></div><div><br></div><div><br></div><div>#LI-Remote</div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Java Developer (worldwide remote, work anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/j/A7474F7CFC" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>CloudLinux is a global, remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and&nbsp;we deliver high-volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. </p><p>We are truly a great place to work.&nbsp;</p><p>We are looking for a talented and passionate Java Developer to join our team. In this role, you will be working on the Endless Lifecycle team, where you will have the opportunity to make a significant impact by providing secure Java instrumentation for heterogeneous Java-based environments.</p><p>We are looking for someone with extensive expertise in Java tools and a fresh and revolutionary approach. This challenging mission requires a deep understanding of Java tools and a keen eye for creating groundbreaking solutions.</p><p></p><p><strong>As a Java Developer, you will:</strong></p><ul> <li>Analyze publicly disclosed vulnerabilities (CVEs) affecting Java open-source libraries and frameworks.</li> <li>Investigate and identify safe and compatible versions of third-party dependencies.</li> <li>Backport security patches from newer releases to older versions.</li> <li>Fix or mitigate vulnerabilities where no upstream patch exists.</li> <li>Write clean, maintainable, and well-documented code.</li> <li>Collaborate with other engineers and security specialists to deliver high-quality, production-ready updates.</li> </ul><p><strong>Requirements</strong></p><p><strong>To be successful, you should have:</strong></p><ul> <li>3+ years of experience in software development</li> <li>In-depth knowledge of Java Core&nbsp;</li> <li>Experience with dependency management tools (Maven, Gradle)</li> <li>Experience with Git, Jenkins/Gitlab for CI/CD</li> </ul><ul> <li>Experience with legacy systems and maintaining backward compatibility</li> <li>Experience with repository management systems, such as Nexus, is a plus</li> </ul><p><strong>Benefits</strong></p><p></p><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em><a href="https://apply.workable.com/cloudlinux-1/j/86ABCB0F5B/apply/" rel="nofollow noreferrer noopener" class="external"></a></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Java Developer (worldwide remote, work anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/j/A7474F7CFC" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>CloudLinux is a global, remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and&nbsp;we deliver high-volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. </p><p>We are truly a great place to work.&nbsp;</p><p>We are looking for a talented and passionate Java Developer to join our team. In this role, you will be working on the Endless Lifecycle team, where you will have the opportunity to make a significant impact by providing secure Java instrumentation for heterogeneous Java-based environments.</p><p>We are looking for someone with extensive expertise in Java tools and a fresh and revolutionary approach. This challenging mission requires a deep understanding of Java tools and a keen eye for creating groundbreaking solutions.</p><p></p><p><strong>As a Java Developer, you will:</strong></p><ul> <li>Analyze publicly disclosed vulnerabilities (CVEs) affecting Java open-source libraries and frameworks.</li> <li>Investigate and identify safe and compatible versions of third-party dependencies.</li> <li>Backport security patches from newer releases to older versions.</li> <li>Fix or mitigate vulnerabilities where no upstream patch exists.</li> <li>Write clean, maintainable, and well-documented code.</li> <li>Collaborate with other engineers and security specialists to deliver high-quality, production-ready updates.</li> </ul><p><strong>Requirements</strong></p><p><strong>To be successful, you should have:</strong></p><ul> <li>3+ years of experience in software development</li> <li>In-depth knowledge of Java Core&nbsp;</li> <li>Experience with dependency management tools (Maven, Gradle)</li> <li>Experience with Git, Jenkins/Gitlab for CI/CD</li> </ul><ul> <li>Experience with legacy systems and maintaining backward compatibility</li> <li>Experience with repository management systems, such as Nexus, is a plus</li> </ul><p><strong>Benefits</strong></p><p></p><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em><a href="https://apply.workable.com/cloudlinux-1/j/86ABCB0F5B/apply/" rel="nofollow noreferrer noopener" class="external"></a></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Java Developer (worldwide remote, work anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/j/A7474F7CFC" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>CloudLinux is a global, remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and&nbsp;we deliver high-volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. </p><p>We are truly a great place to work.&nbsp;</p><p>We are looking for a talented and passionate Java Developer to join our team. In this role, you will be working on the Endless Lifecycle team, where you will have the opportunity to make a significant impact by providing secure Java instrumentation for heterogeneous Java-based environments.</p><p>We are looking for someone with extensive expertise in Java tools and a fresh and revolutionary approach. This challenging mission requires a deep understanding of Java tools and a keen eye for creating groundbreaking solutions.</p><p></p><p><strong>As a Java Developer, you will:</strong></p><ul> <li>Analyze publicly disclosed vulnerabilities (CVEs) affecting Java open-source libraries and frameworks.</li> <li>Investigate and identify safe and compatible versions of third-party dependencies.</li> <li>Backport security patches from newer releases to older versions.</li> <li>Fix or mitigate vulnerabilities where no upstream patch exists.</li> <li>Write clean, maintainable, and well-documented code.</li> <li>Collaborate with other engineers and security specialists to deliver high-quality, production-ready updates.</li> </ul><p><strong>Requirements</strong></p><p><strong>To be successful, you should have:</strong></p><ul> <li>3+ years of experience in software development</li> <li>In-depth knowledge of Java Core&nbsp;</li> <li>Experience with dependency management tools (Maven, Gradle)</li> <li>Experience with Git, Jenkins/Gitlab for CI/CD</li> </ul><ul> <li>Experience with legacy systems and maintaining backward compatibility</li> <li>Experience with repository management systems, such as Nexus, is a plus</li> </ul><p><strong>Benefits</strong></p><p></p><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em><a href="https://apply.workable.com/cloudlinux-1/j/86ABCB0F5B/apply/" rel="nofollow noreferrer noopener" class="external"></a></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Java Developer (worldwide remote, work anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/j/A7474F7CFC" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>CloudLinux is a global, remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and&nbsp;we deliver high-volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. </p><p>We are truly a great place to work.&nbsp;</p><p>We are looking for a talented and passionate Java Developer to join our team. In this role, you will be working on the Endless Lifecycle team, where you will have the opportunity to make a significant impact by providing secure Java instrumentation for heterogeneous Java-based environments.</p><p>We are looking for someone with extensive expertise in Java tools and a fresh and revolutionary approach. This challenging mission requires a deep understanding of Java tools and a keen eye for creating groundbreaking solutions.</p><p></p><p><strong>As a Java Developer, you will:</strong></p><ul> <li>Analyze publicly disclosed vulnerabilities (CVEs) affecting Java open-source libraries and frameworks.</li> <li>Investigate and identify safe and compatible versions of third-party dependencies.</li> <li>Backport security patches from newer releases to older versions.</li> <li>Fix or mitigate vulnerabilities where no upstream patch exists.</li> <li>Write clean, maintainable, and well-documented code.</li> <li>Collaborate with other engineers and security specialists to deliver high-quality, production-ready updates.</li> </ul><p><strong>Requirements</strong></p><p><strong>To be successful, you should have:</strong></p><ul> <li>3+ years of experience in software development</li> <li>In-depth knowledge of Java Core&nbsp;</li> <li>Experience with dependency management tools (Maven, Gradle)</li> <li>Experience with Git, Jenkins/Gitlab for CI/CD</li> </ul><ul> <li>Experience with legacy systems and maintaining backward compatibility</li> <li>Experience with repository management systems, such as Nexus, is a plus</li> </ul><p><strong>Benefits</strong></p><p></p><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em><a href="https://apply.workable.com/cloudlinux-1/j/86ABCB0F5B/apply/" rel="nofollow noreferrer noopener" class="external"></a></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Java Developer (worldwide remote, work anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/j/A7474F7CFC" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>CloudLinux is a global, remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and&nbsp;we deliver high-volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. </p><p>We are truly a great place to work.&nbsp;</p><p>We are looking for a talented and passionate Java Developer to join our team. In this role, you will be working on the Endless Lifecycle team, where you will have the opportunity to make a significant impact by providing secure Java instrumentation for heterogeneous Java-based environments.</p><p>We are looking for someone with extensive expertise in Java tools and a fresh and revolutionary approach. This challenging mission requires a deep understanding of Java tools and a keen eye for creating groundbreaking solutions.</p><p></p><p><strong>As a Java Developer, you will:</strong></p><ul> <li>Analyze publicly disclosed vulnerabilities (CVEs) affecting Java open-source libraries and frameworks.</li> <li>Investigate and identify safe and compatible versions of third-party dependencies.</li> <li>Backport security patches from newer releases to older versions.</li> <li>Fix or mitigate vulnerabilities where no upstream patch exists.</li> <li>Write clean, maintainable, and well-documented code.</li> <li>Collaborate with other engineers and security specialists to deliver high-quality, production-ready updates.</li> </ul><p><strong>Requirements</strong></p><p><strong>To be successful, you should have:</strong></p><ul> <li>3+ years of experience in software development</li> <li>In-depth knowledge of Java Core&nbsp;</li> <li>Experience with dependency management tools (Maven, Gradle)</li> <li>Experience with Git, Jenkins/Gitlab for CI/CD</li> </ul><ul> <li>Experience with legacy systems and maintaining backward compatibility</li> <li>Experience with repository management systems, such as Nexus, is a plus</li> </ul><p><strong>Benefits</strong></p><p></p><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em><a href="https://apply.workable.com/cloudlinux-1/j/86ABCB0F5B/apply/" rel="nofollow noreferrer noopener" class="external"></a></p>
                 </details>
                 </td>
             </tr>,<tr>
