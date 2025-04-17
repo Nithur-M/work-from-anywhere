@@ -10,7 +10,7 @@
                     <code>backend,frontend,fullstack,golang</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-typescript-golang-2d-3d-floor-plan-editor-1987413" align="right" target="_blank">Apply</a>
@@ -270,6 +270,30 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/69215121?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Clutch</h5>
+                    <h3>Full Stack Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.ashbyhq.com/withclutch/502c851f-9b89-4ab1-98c1-7a4efa466ce0" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h1><strong>About the Role</strong></h1><p style="min-height:1.5em">As a <strong>Software Engineer on the DAO team</strong>, you will design, build, and maintain scalable systems that deliver a first-class experience for both Credit Union members and staff — ultimately driving the growth in newly opened accounts.</p><p style="min-height:1.5em">This role offers a unique opportunity to work closely with our <strong>Product and Design teams</strong>, as well as collaborate with <strong>external partners</strong>, giving you the chance to strengthen skills beyond engineering, such as <strong>communication, product thinking, and negotiation</strong>.</p><p style="min-height:1.5em"></p><h1><strong>About the Team</strong></h1><p style="min-height:1.5em"><strong>Credit Unions (CUs)</strong> strive to offer their members loans with competitive interest rates. To make this possible, the greater the members’ investment in the CUs, the more favorable the rates become. That’s why <strong>Digital Account Opening (DAO)</strong> plays such a critical role at Clutch — it enables customers to seamlessly open new accounts (e.g., Savings, Checking) and start investing their money, strengthening the overall financial ecosystem.</p><p style="min-height:1.5em">The team has skilled full stack engineers who collaborate closely to tackle challenging problems. We foster a supportive and hands-on environment where everyone contributes to designing and building secure, scalable solutions.</p><p style="min-height:1.5em">Our team thrives on collaboration, innovation, and a shared commitment to standardizing our solutions across all company products in a secure and efficient way.</p><p style="min-height:1.5em"></p><h1><strong>What You’ll Do</strong></h1><p style="min-height:1.5em"></p><h2>Within 3 months, you will:</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Be fully onboarded to your new team, familiarizing yourself with Clutch’s tools, processes, and culture.</p></li><li><p style="min-height:1.5em">Build strong relationships with your team members, leader, and cross-functional stakeholders.</p></li><li><p style="min-height:1.5em">Work in collaboration with developers and other stakeholders to enhance our platform.</p></li></ul><h2>Within 6 months, you will:</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Ensure high-quality code, and enabling the efficient delivery of features and improvements.</p></li><li><p style="min-height:1.5em">Write elegant, efficient, and testable code that is easy to maintain and debug.</p></li><li><p style="min-height:1.5em">Take care of configurations and processes documentation so stakeholders understand how to use the platform</p></li></ul><h2>Within 9 months, you will:</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">As a true teammate, continuously improve the team’s processes, brainstorm ideas, and communicate statuses, and progress</p></li><li><p style="min-height:1.5em">Deliver a lot of new stuff to our products</p></li><li><p style="min-height:1.5em">Start identifying opportunities to deliver faster, reliable solutions and make initial contributions to architectural improvements.</p></li></ul><p style="min-height:1.5em"></p><h1><strong>What You’ll Bring</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Strong problem-solving skills and the ability to write clean, maintainable code.</p></li><li><p style="min-height:1.5em">Proficiency in one or more technical languages, preferably TypeScript (both back-end and front-end), React, Node.js, Python, and AWS.</p></li><li><p style="min-height:1.5em">Proficiency in backend development with a strong focus on scalable and reliable systems.</p></li><li><p style="min-height:1.5em">You must have excellent English communication</p></li><li><p style="min-height:1.5em">Ability to work collaboratively in a remote-first environment.</p></li></ul><p style="min-height:1.5em"><em>Please note that this role may evolve as our business needs change, so we appreciate your flexibility and adaptability.</em></p><p style="min-height:1.5em"><strong>What’s In It For You?</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Remote Flexibility:</strong> Enjoy the freedom of remote work from anywhere, balancing life and career seamlessly.</p></li><li><p style="min-height:1.5em"><strong>Unforgettable Off-Sites:</strong> Twice a year, bond with colleagues in exciting destinations, fostering teamwork and fresh ideas.</p></li><li><p style="min-height:1.5em"><strong>Paid Time Off and National Holidays:</strong> Enjoy 20 PTO days yearly and the National Holidays for relaxation and rejuvenation.</p></li><li><p style="min-height:1.5em"><strong>Stock Options:</strong> Joining us means having a stake in our success, so you'll receive stock options as part of your compensation package.</p></li><li><p style="min-height:1.5em"><strong>Home Office Setup:</strong> Create your ideal workspace with a dedicated budget for home office essentials.</p></li><li><p style="min-height:1.5em"><strong>Work Trip Budget:</strong> Grow personally and professionally with a budget for work-related trips and co-working.</p></li></ul><p style="min-height:1.5em"><strong>About Us</strong></p><p style="min-height:1.5em"><strong>Clutch</strong> is a revolutionary vertical SaaS company, proudly backed by Andreessen Horowitz (A16z), aimed at revolutionizing the way Credit Unions engage and change the lives of their members. As a champion of financial well-being, we address the urgent need for affordable lending solutions in an era where the average American grapples with over $155,000 in household debt.  Unlike traditional financial institutions, Clutch develops software to turn Credit Unions into FinTech lenders and leverage their balance sheets to responsibly lend to over 130M Americans. Our mission extends beyond mere financial transactions; we strive to fundamentally enhance the way credit unions interact with their members. By integrating cutting-edge technologies and user-centric designs, we help credit unions provide seamless digital experiences that are on par with leading tech companies. This approach not only preserves but revitalizes the longstanding tradition of community and member-focused service inherent to credit unions.</p><p style="min-height:1.5em"><strong>Please note:</strong> This position is offered on a contractor basis. Applicants must have the necessary documentation and authorization to work in the country where the job is located. Clutch cannot provide sponsorship or assist with obtaining work permits for this role.</p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/14350668?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -353,76 +377,6 @@
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Compensation Range&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;$150k - 200k For cash compensation, we set standard ranges for all&amp;nbsp;&lt;/em&gt;&lt;strong&gt;&lt;em&gt;US based roles based&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;&amp;nbsp;on function, level and geographic location, benchmarked against similar stage growth companies. In order to be compliant with local legislation, as well as to provide greater transparency to candidates, we share salary ranges on all job postings regardless of desired hiring location.&lt;/em&gt;&lt;strong&gt;&lt;em&gt;&amp;nbsp;Final offer amounts are determined by multiple factors including geographic location as well as candidate experience and expertise, and may vary from the amounts listed above.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates&#39; personal and financial information through fake interviews and offers. All Fingerprint recruiting email communications will always come from the @fingerprint.com domain. Any outreach claiming to be from Fingerprint via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Offers vary depending on, but not limited to, relevant experience, education, certifications/licenses, skills, training, and market conditions.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Due to regulatory and security reasons, there’s a small number of countries where we cannot have Fingerprint teammates based.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Additionally, because Fingerprint is an all-remote company and people can join our workforce from almost any country, we do not sponsor visas. Fingerprint teammates need to be authorized to work from their home location&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;We are dedicated to creating an inclusive work environment for everyone. We embrace and celebrate the unique experiences, perspectives and cultural backgrounds that each employee brings to our workplace. Fingerprint strives to foster an environment where our employees feel respected, valued and empowered, and our team members are at the forefront in helping us promote and sustain an inclusive workplace. We highly encourage people from underrepresented groups in tech to apply.&lt;/p&gt;
-&lt;p&gt;If you are applying as a resident of California, please read our CCPA notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-ccpa&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;If you are applying as a resident of the EU, please read our GDPR notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-gdpr&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/67208791?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Fingerprint</h5>
-                    <h3>Full Stack Engineer - Growth</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://fingerprint.com/careers/jobs/apply/?gh_jid=5461337004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Fingerprint&lt;/strong&gt;&amp;nbsp;empowers developers to stop online fraud at the source.&lt;/p&gt;
-&lt;p&gt;We work on turning radical new ideas in the fraud detection space into reality. Our products are developer-focused and our clients range from solo developers to publicly traded companies.&amp;nbsp;&lt;strong&gt;We are a globally dispersed, 100% remote company&lt;/strong&gt; with a strong open-source focus. Our flagship open-source project is &lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://github.com/fingerprintjs/fingerprintjs&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://github.com/fingerprintjs/fingerprintjs&quot; data-sk=&quot;tooltip_parent&quot;&gt;FingerprintJS&lt;/a&gt; (20K stars on GitHub).&lt;/p&gt;
-&lt;p&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot; data-sk=&quot;tooltip_parent&quot;&gt;We have raised $77M&amp;nbsp;&lt;/a&gt;and are backed by Craft Ventures (previously invested in&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.tesla.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.tesla.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Tesla,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://facebook.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://facebook.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Facebook,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.airbnb.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.airbnb.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Airbnb&amp;nbsp;&lt;/a&gt;), Nexus Venture Partners (previously invested in &lt;a href=&quot;https://www.postman.com/&quot;&gt;Postman&lt;/a&gt;, &lt;a href=&quot;https://www.apollo.io/&quot;&gt;Apollo.io,&lt;/a&gt; &lt;a href=&quot;https://min.io/&quot;&gt;MinIO&lt;/a&gt;, Druva)&amp;nbsp;and Uncorrelated Ventures (previously invested in&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://redis.io/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://redis.io/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Redis,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://rollbar.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://rollbar.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Rollbar&amp;nbsp;&lt;/a&gt;&amp;amp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://gradle.org/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://gradle.org/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&amp;nbsp;Gradle&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates&#39; personal and financial information through fake interviews and offers. All Fingerprint recruiting email communications will always come from the @fingerprint.com domain. Any outreach claiming to be from Fingerprint via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;We are seeking a &lt;strong&gt;Full Stack Engineer&lt;/strong&gt;&amp;nbsp;to join our &lt;strong&gt;Growth team &lt;/strong&gt;to play a critical role in driving product-led growth through engineering initiatives. You will work closely with product managers, designers, and data scientists to build, iterate, and scale experiments that improve user activation, retention, and conversion.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What you’ll do:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Design, develop, and maintain &lt;strong&gt;full stack applications and growth experiments&lt;/strong&gt; that enhance onboarding, adoption, and user engagement.&lt;/li&gt;
-&lt;li&gt;Build and optimize &lt;strong&gt;experiment-driven features&lt;/strong&gt; like A/B tests, user flows, and UI/UX changes to maximize signups, activation rates, and conversions.&lt;/li&gt;
-&lt;li&gt;Develop and maintain our self-serve user experience, working on our dashboard, onboarding flows, pricing pages, and checkout systems.&lt;/li&gt;
-&lt;li&gt;Collaborate with the Growth, Product, and Data teams to analyze experiment results and iterate based on findings.&lt;/li&gt;
-&lt;li&gt;Implement and optimize &lt;strong&gt;tracking, analytics, and logging&lt;/strong&gt; to ensure we have clear visibility into user behavior.&lt;/li&gt;
-&lt;li&gt;Ensure a &lt;strong&gt;seamless integration&lt;/strong&gt; between frontend and backend services, working across our stack to ship end-to-end features efficiently.&lt;/li&gt;
-&lt;li&gt;Work on backend systems to improve API efficiency, authentication, and data processing to support scaling self-serve growth.&lt;/li&gt;
-&lt;li&gt;Actively contribute to improving engineering best practices, testing, and performance optimization.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;What we’re looking for:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;5+ years of experience&lt;/strong&gt; as a full stack engineer, with a strong foundation in both frontend and backend development.&lt;/li&gt;
-&lt;li&gt;Experience working with &lt;strong&gt;React, TypeScript, and Node.js&lt;/strong&gt; (or similar modern frontend and backend frameworks).&lt;/li&gt;
-&lt;li&gt;Experience designing and running &lt;strong&gt;experiments (A/B testing, feature flags, user cohorts)&lt;/strong&gt; using &lt;strong&gt;Amplitude, PostHog, or similar analytics platforms&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Familiarity with &lt;strong&gt;Stripe&lt;/strong&gt; or other payment platforms for checkout and billing improvements.&lt;/li&gt;
-&lt;li&gt;Proficiency in databases such as &lt;strong&gt;PostgreSQL, DynamoDB, Redis&lt;/strong&gt;, or similar.&lt;/li&gt;
-&lt;li&gt;Familiarity with &lt;strong&gt;cloud infrastructure (AWS, GCP, or Azure)&lt;/strong&gt; and CI/CD pipelines.&lt;/li&gt;
-&lt;li&gt;Strong understanding of &lt;strong&gt;product growth metrics&lt;/strong&gt; (activation rate, conversion rate, retention, etc.) and experience using data to drive engineering decisions.&lt;/li&gt;
-&lt;li&gt;Proficiency in working cross-functionally with &lt;strong&gt;Product, Design, and Data Science&lt;/strong&gt; teams to execute growth initiatives.&lt;/li&gt;
-&lt;li&gt;Excellent communication skills and ability to thrive in a fast-paced, remote-first environment.&lt;/li&gt;
-&lt;li&gt;BS Computer Science or similar degree.&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Nice to Have:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Experience running&amp;nbsp;&lt;strong&gt;Amplitude Experiments&amp;nbsp;&lt;/strong&gt;preferred.&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Prior &lt;strong&gt;Growth&lt;/strong&gt; &lt;strong&gt;team&lt;/strong&gt; experience.&lt;/li&gt;
-&lt;li&gt;Knowledge of&amp;nbsp;&lt;strong&gt;server-side rendering&lt;/strong&gt; and modern web performance optimizations.&lt;/li&gt;
-&lt;li&gt;Experience working on &lt;strong&gt;developer-focused or API-first products&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Experience with &lt;strong&gt;infrastructure-as-code (Terraform, AWS CloudFormation)&lt;/strong&gt; and containerization (Docker, Kubernetes).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;$125-175k OTE For cash compensation, we set standard ranges for all &lt;/em&gt;&lt;strong&gt;&lt;em&gt;US based roles based&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;&amp;nbsp;on function, level and geographic location, benchmarked against similar stage growth companies. In order to be compliant with local legislation, as well as to provide greater transparency to candidates, we share salary ranges on all job postings regardless of desired hiring location.&lt;/em&gt;&lt;strong&gt;&lt;em&gt;&amp;nbsp;Final offer amounts are determined by multiple factors including geographic location as well as candidate experience and expertise, and may vary from the amounts listed above.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates&#39; personal and financial information through fake interviews and offers. All Fingerprint recruiting email communications will always come from the @fingerprint.com domain. Any outreach claiming to be from Fingerprint via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Offers vary depending on, but not limited to, relevant experience, education, certifications/licenses, skills, training, and market conditions.&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;Due to regulatory and security reasons, there’s a small number of countries where we cannot have Fingerprint teammates based.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Additionally, because Fingerprint is an all-remote company and people can join our workforce from almost any country, we do not sponsor visas. Fingerprint teammates need to be authorized to work from their home location&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;We are dedicated to creating an inclusive work environment for everyone. We embrace and celebrate the unique experiences, perspectives and cultural backgrounds that each employee brings to our workplace. Fingerprint strives to foster an environment where our employees feel respected, valued and empowered, and our team members are at the forefront in helping us promote and sustain an inclusive workplace. We highly encourage people from underrepresented groups in tech to apply.&lt;/p&gt;
