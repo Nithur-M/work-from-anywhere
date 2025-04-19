@@ -1,64 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1996452/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Jump</h5>
-                    <h3>Global Software Engineering Contractor</h3>
-                </td>
-                <td width="300">
-                    <code>elixir,terraform,github</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/global-software-engineering-contractor-1996452" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Jump | Global | Software Engineer (Contractor) | Remote</p>
-<p><strong>Who are we?</strong></p>
-<p>Hi! We’re <a href="http://jumpapp.com" rel="nofollow" target="_blank">jumpapp.com</a> and we’re looking for contract software engineers to work on our app with us. Jump is one of the fastest growing startups in the US and we’re a lean mean engineering team. “Mean” as in super nice, friendly, and fast.</p>
-<p>Our tech stack is Elixir, Liveview, Postgres, Github, k8s, &amp; Terraform on Google Cloud. If you love Elixir or want to learn Elixir, we want to work with you!</p>
-<p><strong>What is the job?</strong></p>
-<p>This role pays $30-70/hr and is for global engineering contractors.</p>
-<p>You can work any hours from anywhere. Our code is clean, well tested, well architected and fun to work in. You’ll love how quickly you can ship stuff!</p>
-<p><strong>What is the hiring process?</strong></p>
-<p>We have a 2 step process: A paid real project &amp; a short interview.</p>
-<p>First, I’ll define a real-world app that I want built for me to use and you’ll have 72 hours to build it (Friday - Sunday). You can use any language or tech stack you want. I’ll do this in rounds and each round will be a different app. I’ll define a start time and a due time. Everyone who submits a finished/working app before the deadline will be paid $3000. It must be a complete working app with all requirements. If your code looks good, we’ll do a quick interview!</p>
-<p>About the app you’ll build:</p>
-<ul style="">
-<li style="">
-<p>I’ll send you the requirements at the start time</p>
-</li>
-<li style="">
-<p>It will be very ambitious and difficult to finish on time</p>
-</li>
-<li style="">
-<p>This is a real app I want to use so I’d like it deployed so I can try it. I might end up using the best one :)</p>
-</li>
-</ul>
-<p>Code will be judged by:</p>
-<ul style="">
-<li style="">
-<p>Clean organization/structure and elegant solutions</p>
-</li>
-<li style="">
-<p>Comments on non-obvious parts of the code</p>
-</li>
-<li style="">
-<p>Great tests</p>
-</li>
-</ul>
-<p>You SHOULD use AI to help you create this app as much as possible and write tests. We use AI extensively and want someone who can make the most of AI.</p>
-<img src="https://remotive.com/job/track/1996452/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1996157/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -69,7 +10,7 @@
                     <code>C,C++,javascript,blockchain</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-c-1996157" align="right" target="_blank">Apply</a>
@@ -139,7 +80,7 @@ transitioning models from research to production environments.</p></li><li style
                     <code>.Net,javascript,python,saas</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1991695" align="right" target="_blank">Apply</a>
@@ -215,7 +156,7 @@ transitioning models from research to production environments.</p></li><li style
                     <code>api,CSS,frontend,html</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-infrastructure-team-1989176" align="right" target="_blank">Apply</a>
