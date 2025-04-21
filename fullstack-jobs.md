@@ -1,52 +1,5 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1987413/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Visuary</h5>
-                    <h3>Full Stack TypeScript + Golang 2D 3D floor plan editor</h3>
-                </td>
-                <td width="300">
-                    <code>backend,frontend,fullstack,golang</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-typescript-golang-2d-3d-floor-plan-editor-1987413" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p class="p-rich_text_section">At VISUARY, we're building software that transforms how renovation professionals design and plan projects. Our cutting-edge web and mobile application combines a 2D/3D floor plan editor, an integrated product catalog, automatic cost estimation, and photorealistic renders—all in one seamless experience. Our mission? To make renovation planning intuitive, automated, and highly collaborative. Try it out: <a class="c-link" href="http://visuary.com/" rel="nofollow">visuary.com</a><br><br><strong>Why Join Us?</strong><br>We’re on a mission to make renovation planning intuitive and efficient by automating repetitive tasks and providing insightful visualization tools for all renovation stakeholders.<br>Our tech challenges are primarily frontend-focused, with the backend handling storage and data management. We structure development by features, not by stack, so we're looking for a Full-Stack Developer with strong TypeScript and Golang skills.We are an international team of eleven working fully remote.<br><br><strong>What you'll be working on:</strong><br>Join us at an exciting time—we’re scaling our product, refining our 3D tools, and tackling complex engineering challenges in a fast-moving startup environment. You’ll have the opportunity to work on cutting-edge 3D visualization, optimize real-time rendering, and help shape a tool used by renovation professionals worldwide. <br><br><strong>This job is made for you if you:</strong></p>
-<ul class="p-rich_text_list p-rich_text_list__bullet p-rich_text_list--nested" style="">
-<li style="">Have good knowledge of TypeScript + React</li>
-<li style="">Have good knowledge of Golang</li>
-<li style="">Have a good understanding of 2D and 3D geometry</li>
-<li style="">Are autonomous and proactive</li>
-<li style="">Like to work on a varied set of challenging problems</li>
-<li style="">Are fluent in English</li>
-<li style="">Like to find the simplest solution to a problem</li>
-<li style="">Like to write elegant and readable code</li>
-</ul>
-<p class="p-rich_text_section">Some three.js knowledge would be a plus.<br><br></p>
-<p class="p-rich_text_section"><strong>Perks:</strong></p>
-<ul class="p-rich_text_list p-rich_text_list__bullet p-rich_text_list--nested" style="">
-<li style="">Fair compensation - €30k to €60k per year based on experience</li>
-<li style="">35 paid days off per year</li>
-<li style="">Remote only with flexible hours</li>
-<li style="">Ownership &amp; impact: Work on key product features from day one</li>
-<li style="">Small, agile team → Less bureaucracy, more autonomy</li>
-<li style="">Latest tech stack<br><br></li>
-</ul>
-<p><!-- x-tinymce/html --></p>
-<p class="p-rich_text_section"><strong>Hiring process:</strong><br>Candidates who manage to apply on <a class="c-link" href="http://apply.visuary.com/" rel="nofollow">apply.visuary.com</a> will meet with the CEO for a fit interview, followed by a technical meeting with the CTO and a final meet with some other members. We expect the whole process to take a few weeks overall. We are a full remote startup with ambition, and therefore flexible on working conditions but demanding on the quality of the code. Daily meetings at 9AM UTC. <br><br>Join us and help shape the future of renovation software, we can’t wait to meet you! </p>
-<img src="https://remotive.com/job/track/1987413/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/476779?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
