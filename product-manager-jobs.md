@@ -529,11 +529,11 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/67208791?s=200&v=4" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/30398729?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Fingerprint</h5>
-                    <h3>Sr. Technical Product Manager, Mobile Device Intelligence</h3>
+                    <h5>Alpaca</h5>
+                    <h3>Lead Product Manager, Brokerage</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -542,62 +542,86 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://fingerprint.com/careers/jobs/apply/?gh_jid=5400732004" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/alpaca/jobs/5521363004" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Fingerprint&lt;/strong&gt;&amp;nbsp;empowers developers to stop online fraud at the source.&lt;/p&gt;
-&lt;p&gt;We work on turning radical new ideas in the fraud detection space into reality. Our products are developer-focused and our clients range from solo developers to publicly traded companies.&amp;nbsp;&lt;strong&gt;We are a globally dispersed, 100% remote company&lt;/strong&gt; with a strong open-source focus. Our flagship open-source project is &lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://github.com/fingerprintjs/fingerprintjs&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://github.com/fingerprintjs/fingerprintjs&quot; data-sk=&quot;tooltip_parent&quot;&gt;FingerprintJS&lt;/a&gt; (20K stars on GitHub).&lt;/p&gt;
-&lt;p&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot; data-sk=&quot;tooltip_parent&quot;&gt;We have raised $77M&amp;nbsp;&lt;/a&gt;and are backed by Craft Ventures (previously invested in&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.tesla.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.tesla.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Tesla,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://facebook.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://facebook.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Facebook,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.airbnb.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.airbnb.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Airbnb&amp;nbsp;&lt;/a&gt;), Nexus Venture Partners (previously invested in &lt;a href=&quot;https://www.postman.com/&quot;&gt;Postman&lt;/a&gt;, &lt;a href=&quot;https://www.apollo.io/&quot;&gt;Apollo.io,&lt;/a&gt; &lt;a href=&quot;https://min.io/&quot;&gt;MinIO&lt;/a&gt;, Druva)&amp;nbsp;and Uncorrelated Ventures (previously invested in&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://redis.io/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://redis.io/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Redis,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://rollbar.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://rollbar.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Rollbar&amp;nbsp;&lt;/a&gt;&amp;amp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://gradle.org/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://gradle.org/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&amp;nbsp;Gradle&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates&#39; personal and financial information through fake interviews and offers. All Fingerprint recruiting email communications will always come from the @fingerprint.com domain. Any outreach claiming to be from Fingerprint via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;
+&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;
+&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;
+&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;
+&lt;div class=&quot;p-rich_text_block&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Who We Are:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alpaca is a US California headquartered brokerage infrastructure technology company and self-clearing broker-dealer, delivering execution and custody solutions for Stocks, ETFs, Options, Cryptocurrencies, and more, and has raised over $170 million in funding. Amongst our subsidiaries, Alpaca is a licensed financial services company in multiple countries, and we serve hundreds of financial institutions globally such as broker-dealers, investment advisors, hedge funds, and crypto exchanges.&lt;/p&gt;
+&lt;p&gt;Alpaca’s globally distributed team members bring in diverse experiences such as engineers, traders, and brokerage professionals to achieve our Mission of opening financial services to everyone on the planet. We are also deeply committed to open-source contributions and fostering a vibrant community. We will continue to enhance and improve our award-winning developer-friendly API and the infrastructure behind it.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Our Team Members:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We’re a team of 150+ globally distributed members who love working from our favorite places worldwide. Our team spans the USA, Canada, Japan, Hungary, Nigeria, Brazil, the United Kingdom, and more!&lt;/p&gt;
+&lt;p&gt;We’re looking for candidates eager to join Alpaca’s growing organization, who are excited about our Mission of “Open financial services to everyone on the planet and share our Values of “Stay Curious,” “Have Empathy,” and “Be Accountable.”&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;hr&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;Your Role:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Our brokerage product team at Alpaca is looking for a Lead Product Manager to define and drive new product initiatives and manage a portfolio of existing products. In this role you will ideate and deliver brokerage features while closely collaborating with engineering, analytics, design, partnerships and many other cross-functional teams across Alpaca.&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;As a Senior Technical Product Manager, you will be responsible for scaling and building our Android and iOS mobile SDKs, developer apps, and device intelligence.&lt;/p&gt;
-&lt;p&gt;You have a passion for building and enabling safe and secure mobile app experiences for users, with experience working with various stakeholders to achieve this mission. You are able to move from the big picture to technical details easily as you work through user problems with engineering partners and stakeholders and communicate value to all internal constituents. You understand how high-velocity software development teams work and how engineers think.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What You’ll Be Doing:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Things You Get To Do:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Drive strategy and roadmap to make Fingerprint’s mobile SDKs the standard for mobile device intelligence, enabling leading organizations to build safe and seamless mobile app experiences.&lt;/li&gt;
-&lt;li&gt;Communicate roadmap and product updates effectively to internal and external stakeholders and cross-functional partners&lt;/li&gt;
-&lt;li&gt;Set success metrics for Android and iOS mobile SDKs. Lead the planning, scoping, and prioritization of projects to achieve those metric-based goals.&lt;/li&gt;
-&lt;li&gt;Capture and vividly convey customer needs and their jobs to be done.&lt;/li&gt;
-&lt;li&gt;Gather requirements, determine and prioritize features via RICE framework, write product specs, refine feedback, help write test plans, manage the backlog, and drive engineering to ship quality mobile SDKs quickly.&lt;/li&gt;
-&lt;li&gt;Help our research team prioritize their roadmap to fulfill your goals.&lt;/li&gt;
-&lt;li&gt;Write compelling, easy-to-understand documentation&lt;/li&gt;
-&lt;li&gt;Serve as an evangelist for Fingerprint’s mobile SDK offerings, including supporting app store marketing and evangelism for our Android Device Reputation Network.&lt;/li&gt;
+&lt;li&gt;Own brokerage products&lt;/li&gt;
+&lt;li&gt;Write product requirements and work with engineers to execute programs&lt;/li&gt;
+&lt;li&gt;Drive brokerage product strategy by analyzing ROI, market competition, and build-vs-buy scenarios&lt;/li&gt;
+&lt;li&gt;Improve the brokerage operation efficiency by providing solutions and owning the metrics&lt;/li&gt;
+&lt;li&gt;Contribute to the product roadmap and product strategy&lt;/li&gt;
+&lt;li&gt;Lead customer calls around brokerage process and product issues to gain insights and reduce&lt;/li&gt;
+&lt;li&gt;them to products&lt;/li&gt;
+&lt;li&gt;Participate in calls with external regulators to drive the product strategy and execution&lt;/li&gt;
+&lt;li&gt;Report timely and accurately on product status and results to internal and external stakeholders&lt;/li&gt;
+&lt;li&gt;Ad hoc duties and projects as assigned&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Who You Are (Must-Haves):&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;A Bachelor&#39;s Degree in a technical discipline or equivalent work experience&lt;/li&gt;
-&lt;li&gt;5+ years of experience in engineering and product management&lt;/li&gt;
-&lt;li&gt;Software Engineering with API management experience required (public facing API&#39;s)&lt;/li&gt;
-&lt;li&gt;Understanding of mobile architectures and design principles for iOS and Android&lt;/li&gt;
-&lt;li&gt;Deep knowledge of modern Engineering processes&lt;/li&gt;
-&lt;li&gt;Understanding of mobile app security &amp;amp; privacy practices&lt;/li&gt;
-&lt;li&gt;Experience navigating difficult situations with competing partner needs and across multiple audiences (individual contributors, managers, executives)&lt;/li&gt;
-&lt;li&gt;Experience with customer empathy and experience shaping product direction and execution based on customer needs&lt;/li&gt;
-&lt;li&gt;You will figure out solutions to hard problems with constraints, using sound judgment to assess risks; strong communication skills are required&lt;/li&gt;
-&lt;li&gt;Bonus Points:
-&lt;ul&gt;
-&lt;li&gt;You have experience product managing mobile SDKs, libraries or other products that help build security and/or identity management into mobile apps (such as Auth0, BioID, AppDome, ThreatMetrix, Zimperium, &lt;a href=&quot;http://Protectt.ai&quot;&gt;Protectt.ai&lt;/a&gt;, etc)&lt;/li&gt;
-&lt;li&gt;You have experience in programming languages like Swift, Objective - C, and/or Kotlin&lt;/li&gt;
-&lt;li&gt;You’ve created and published at least one mobile app to Google Play or App store&lt;/li&gt;
-&lt;li&gt;You have strong familiarity with Android Studio and/or iOS development tools (Xcode, CocoaPods, Swift Package Manager, CI/CD, Fastlane etc.)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;
+&lt;p&gt;Excited about what Alpaca is building&amp;nbsp;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bachelor&#39;s degree or equivalent 5+ years of experience in Product Management, Engineering, Consulting, and/or starting a startup&amp;nbsp;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Demonstrated interest in Brokerage and FinTech&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Experience analyzing data using SQL and relevant BI tool&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Strong communication skills, both written and verbal and collaboration skills&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Business acumen to understand tradeoffs between stakeholders and technology feasibility with time and budget constraints&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Compensation Range&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;$150,000 - $200,000 &lt;/em&gt;&lt;em&gt;For cash compensation, we set standard ranges for all&amp;nbsp;&lt;/em&gt;&lt;strong&gt;&lt;em&gt;US based roles based&lt;/em&gt;&lt;/strong&gt;&lt;em&gt; on function, level and geographic location, benchmarked against similar stage growth companies. In order to be compliant with local legislation, as well as to provide greater transparency to candidates, we share salary ranges on all job postings regardless of desired hiring location.&lt;/em&gt;&lt;strong&gt;&lt;em&gt; Final offer amounts are determined by multiple factors including geographic location as well as candidate experience and expertise, and may vary from the amounts listed above. &lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates&#39; personal and financial information through fake interviews and offers. All Fingerprint recruiting email communications will always come from the @fingerprint.com domain. Any outreach claiming to be from Fingerprint via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Offers vary depending on, but not limited to, relevant experience, education, certifications/licenses, skills, training, and market conditions.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Due to regulatory and security reasons, there’s a small number of countries where we cannot have Fingerprint teammates based.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Additionally, because Fingerprint is an all-remote company and people can join our workforce from almost any country, we do not sponsor visas. Fingerprint teammates need to be authorized to work from their home location&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;We are dedicated to creating an inclusive work environment for everyone. We embrace and celebrate the unique experiences, perspectives and cultural backgrounds that each employee brings to our workplace. Fingerprint strives to foster an environment where our employees feel respected, valued and empowered, and our team members are at the forefront in helping us promote and sustain an inclusive workplace. We highly encourage people from underrepresented groups in tech to apply.&lt;/p&gt;
-&lt;p&gt;If you are applying as a resident of California, please read our CCPA notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-ccpa&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;If you are applying as a resident of the EU, please read our GDPR notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-gdpr&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;strong&gt;Who You Might Be&lt;/strong&gt; (&lt;strong&gt;Nice-to-Haves):&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Experience and background working on and developing Brokerage products is a plus&amp;nbsp;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Technical background working with APIs&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;How We Take Care of You:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive Salary &amp;amp; Stock Options&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Benefits: Health benefits start on day 1. In the US this includes Medical, Dental, Vision. In Canada, this includes supplemental health care. In Japan, you are offered local benefits. Internationally, this includes a stipend value to offset medical costs.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;New Hire Home-Office Setup: One-time USD $500&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Monthly Stipend: USD $150 per month via a Brex Card&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with awesome hard working people, super smart and cool clients and innovative partners from around the world&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Alpaca is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;a href=&quot;https://files.alpaca.markets/disclosures/AlpacaRecruitmentPrivacyPolicy.pdf&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recruitment Privacy Policy&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
