@@ -533,7 +533,7 @@
                 </td>
                 <td width="300">
                     <h5>Alpaca</h5>
-                    <h3>Lead Product Manager, Brokerage</h3>
+                    <h3>Lead Product Manager - Brokerage</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -583,34 +583,19 @@
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Who You Are (Must-Haves):&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Excited about what Alpaca is building&amp;nbsp;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Bachelor&#39;s degree or equivalent 5+ years of experience in Product Management, Engineering, Consulting, and/or starting a startup&amp;nbsp;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Demonstrated interest in Brokerage and FinTech&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Experience analyzing data using SQL and relevant BI tool&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Strong communication skills, both written and verbal and collaboration skills&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Business acumen to understand tradeoffs between stakeholders and technology feasibility with time and budget constraints&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Excited about what Alpaca is building&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Bachelor&#39;s degree in computer science or equivalent&lt;/li&gt;
+&lt;li&gt;5+ years of experience in Product Management, Engineering, and/or starting a startup&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Demonstrated interest in Brokerage and FinTech&lt;/li&gt;
+&lt;li&gt;Experience analyzing data using SQL and a relevant BI tool&lt;/li&gt;
+&lt;li&gt;Strong communication skills, both written and verbal and collaboration skills&lt;/li&gt;
+&lt;li&gt;Business acumen to understand tradeoffs between stakeholders and technology feasibility with time and budget constraints&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;strong&gt;Who You Might Be&lt;/strong&gt; (&lt;strong&gt;Nice-to-Haves):&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Experience and background working on and developing Brokerage products is a plus&amp;nbsp;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Technical background working with APIs&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Experience and background working on and developing Brokerage products is a plus&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Technical background working with APIs&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;How We Take Care of You:&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
