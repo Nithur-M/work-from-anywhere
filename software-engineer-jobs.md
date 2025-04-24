@@ -10,7 +10,7 @@
                     <code>C,C++,javascript,blockchain</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-c-1996157" align="right" target="_blank">Apply</a>
@@ -80,7 +80,7 @@ transitioning models from research to production environments.</p></li><li style
                     <code>.Net,javascript,python,saas</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1991695" align="right" target="_blank">Apply</a>
@@ -156,7 +156,7 @@ transitioning models from research to production environments.</p></li><li style
                     <code>api,CSS,frontend,html</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-infrastructure-team-1989176" align="right" target="_blank">Apply</a>
@@ -689,6 +689,80 @@ transitioning models from research to production environments.</p></li><li style
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><strong style="background-color: transparent; color: rgb(0, 0, 0);">About the Project</strong></div><div><span style="background-color: transparent; color: rgb(0, 0, 0);">At Getro, we’re on a mission to unlock the hidden power of professional networks, revolutionizing how people discover and utilize warm introductions for hiring and sales. We are looking for a </span><strong style="background-color: transparent; color: rgb(0, 0, 0);">Senior Software Engineer - Data and Automations</strong><span style="background-color: transparent; color: rgb(0, 0, 0);"> to lead a time-sensitive project focused on building and optimizing automations for extracting and cleaning web-based job post data. This project will help scale our data coverage from 50,000 to 500,000 companies, playing a crucial role in supporting our growth. Reporting directly to the VP of Engineering, you will drive the scalability of our data operations. The contract is for 6 months, with the potential for a permanent role based on performance and company needs.</span></div><div><br></div><div><strong style="background-color: transparent; color: rgb(0, 0, 0);">Who You Are</strong></div><ul><li class=""><strong style="background-color: transparent;">Automation Specialist</strong><span style="background-color: transparent;">: You excel at building efficient automations and simplifying complex workflows. You’re always on the lookout for optimization opportunities and enjoy bringing innovative ideas to life.</span></li><li class=""><strong style="background-color: transparent;">Technical Expert</strong><span style="background-color: transparent;">: You have strong expertise in Ruby, Rails, and web scraping, as well as experience leveraging large language models (LLMs) for automation. Tackling technical challenges with precision is your strength.</span></li><li class=""><strong style="background-color: transparent;">Impact-Driven</strong><span style="background-color: transparent;">: You focus on crafting solutions that improve business efficiency. Your approach centers on simplicity, reliability, and measurable results.</span></li><li class=""><strong style="background-color: transparent;">Team Collaborator</strong><span style="background-color: transparent;">: You communicate effectively and understand how your work contributes to the bigger picture. You're open to feedback and value transparency in team interactions.</span></li><li class=""><strong style="background-color: transparent;">Self-Starter</strong><span style="background-color: transparent;">: You take ownership of your work, solve problems independently, and drive projects to completion with minimal oversight.</span></li></ul><div><br></div><div><strong style="background-color: transparent; color: rgb(0, 0, 0);">Required Experience</strong></div><ul><li class=""><span style="background-color: transparent;">7+ years of software development experience</span></li><li class=""><span style="background-color: transparent;">Previous work involving web scraping and/or automations, and a proven track record building data pipelines to extract, clean, and enrich data.</span></li><li class=""><span style="background-color: transparent;">Experience working in startup environments.</span></li><li class=""><span style="background-color: transparent;">Proficiency in Ruby and Rails is a must, since our entire system is built in this stack. However, experience specifically using Ruby for scraping, data processing or automation work is not required. For example, candidates who have used Ruby for web application development and have experience with Python for scraping or LLM integrations are encouraged to apply.</span></li><li class=""><span style="background-color: transparent;">Familiarity with using large language models (LLMs) to optimize workflows.</span></li><li class=""><span style="background-color: transparent;">Ability to adapt to and improve upon an existing codebase, applying coding best practices.</span></li></ul><div><br></div><div><strong style="background-color: transparent; color: rgb(0, 0, 0);">Key Responsibilities</strong></div><ul><li class=""><span style="background-color: transparent;">Design, develop, and refine automations to extract, clean, and manage large datasets from web-based job posts.</span></li><li class=""><span style="background-color: transparent;">Collaborate closely with the VP of Engineering and other engineers to prioritize tasks, solve technical problems, and ensure alignment with project goals.</span></li><li class=""><span style="background-color: transparent;">Enhance existing processes to support scaling from 50k to 500k companies.</span></li><li class=""><span style="background-color: transparent;">Operate autonomously, driving projects from conception through implementation, always seeking efficient and effective solutions.</span></li><li class=""><span style="background-color: transparent;">Write clean, maintainable code and contribute to best practices that support long-term scalability and performance.</span></li></ul><div><br></div><div><strong style="background-color: transparent; color: rgb(0, 0, 0);">Why Join Us?</strong></div><ul><li class=""><strong style="background-color: transparent;">High-Impact Role</strong><span style="background-color: transparent;">: This is a short-term contract with the opportunity to make a significant impact on the scalability of Getro’s data processes.</span></li><li class=""><strong style="background-color: transparent;">Remote &amp; Flexible</strong><span style="background-color: transparent;">: Work from anywhere within UTC-5 to UTC+1 time zones.</span></li><li class=""><strong style="background-color: transparent;">Growth Opportunity</strong><span style="background-color: transparent;">: Be part of an exciting phase as Getro scales its data coverage tenfold.</span></li></ul><div><br></div><div><strong style="background-color: transparent; color: rgb(0, 0, 0);">About Getro</strong></div><div><span style="background-color: transparent; color: rgb(0, 0, 0);">Getro powers over 850 independent professional networks, including venture capital funds, accelerators, and universities, helping them make better connections and measure the results. We are a remote-first company with a people-first culture, valuing innovation, flexibility, and meaningful work.</span></div><div><br></div><div><strong style="background-color: transparent; color: rgb(0, 0, 0);">How We Work</strong></div><div><span style="background-color: transparent; color: rgb(0, 0, 0);">We set ambitious goals, but are mindful of realistic timelines. We trust our team members to work independently, prioritizing productivity and effectiveness over presenteeism. At Getro, you’ll have the autonomy to focus on projects that excite you while delivering high-impact results.</span></div><div><br></div><div><strong style="background-color: transparent; color: rgb(0, 0, 0);">Apply Today</strong></div><div><span style="background-color: transparent; color: rgb(0, 0, 0);">We encourage applications from candidates who may not meet every requirement. We value diverse perspectives and are committed to fostering an inclusive environment where everyone can thrive. If you're eager to make a difference with your automation expertise, we want to hear from you.</span></div><div><br></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://www.bobtail.com/wp-content/uploads/2023/09/cropped-cropped-favicon-180x180.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Bobtail</h5>
+                    <h3>Sr. Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/bobtail/jobs/4557319005" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;h2&gt;About Bobtail&lt;/h2&gt;
+&lt;p&gt;Bobtail is dedicated to increasing happiness by eliminating inefficiencies in the supply chain.&amp;nbsp; We envision a supply chain without friction, fraud, waste, and abuse where companies succeed based on the value they create.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We work in a unique way at Bobtail, where we value teams over individuals and encourage experimentation and iteration to constantly improve.&amp;nbsp; Teams are given flexibility in working towards a shared purpose and given the freedom to decide how they will accomplish their goals.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;If you are an out of the box thinker that takes a proactive approach in collaborating with others to solve problems and achieve your goals - we would love to talk to you.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The things we value:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Mission&lt;/li&gt;
+&lt;li&gt;Teams over individuals&lt;/li&gt;
+&lt;li&gt;Collaboration&lt;/li&gt;
+&lt;li&gt;Communication&lt;/li&gt;
+&lt;li&gt;Iteration&lt;/li&gt;
+&lt;li&gt;Experimentation and failing fast&lt;/li&gt;
+&lt;li&gt;Initiative and solutions oriented approach&lt;/li&gt;
+&lt;li&gt;Documentation&lt;/li&gt;
+&lt;li&gt;Data&lt;/li&gt;
+&lt;li&gt;Mental health and work life balance&lt;/li&gt;
+&lt;li&gt;Diversity&lt;/li&gt;
+&lt;li&gt;Transparency&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;You should apply if you have:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Exposure to SDLC from reviewing requirements through to debugging complex systems in Production.&lt;/li&gt;
+&lt;li&gt;Strong theoretical fundamentals and hands-on experience designing and implementing highly available and performant fault-tolerant distributed systems.&lt;/li&gt;
+&lt;li&gt;5+ years of experience in software engineering with demonstrated proficiency in programming languages, such as nodejs, typescript and overall system design.&lt;/li&gt;
+&lt;li&gt;Experience building enterprise software, event driven microservices architecture, and distributed systems at scale.&lt;/li&gt;
+&lt;li&gt;Bachelor&#39;s degree in computer science or a related engineering degree.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;You will be responsible for:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Writing reusable, testable, efficient and secure code.&lt;/li&gt;
+&lt;li&gt;Working with large scale, highly available and resilient modern financial systems.&lt;/li&gt;
+&lt;li&gt;Working with automated deployment, enabling code release multiple times a day.&lt;/li&gt;
+&lt;li&gt;Working with modern tools and languages that excite you&lt;/li&gt;
+&lt;li&gt;Being an integral part of a team, in addition to its culture and ways of working. Common practices include agile methodologies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Some of the technologies you’ll get to work with:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Typescript &amp;amp; Javascript.&lt;/li&gt;
+&lt;li&gt;Node.js, Express js &amp;amp; NestJS.&lt;/li&gt;
+&lt;li&gt;AWS, Terraform, Docker and Kubernetes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Benefits&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Monthly Mental Health Break Day&lt;/li&gt;
+&lt;li&gt;Paid Time Off&lt;/li&gt;
+&lt;li&gt;Work from home (or wherever)&lt;/li&gt;
+&lt;li&gt;Parental leave&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;If you are interested in learning more, please email us at careers@bobtail.com.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;Creating a diverse and inclusive workplace is Bobtail’s nucleus. We are an equal opportunity employer and embrace people of different backgrounds, cultures, religions, national origins, races, colors, genders, gender expressions, sexual orientations, ages, marital status, veteran status, experiences, abilities and perspectives.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
@@ -1862,7 +1936,7 @@ transitioning models from research to production environments.</p></li><li style
                 </td>
                 <td width="300">
                     <h5>Owner</h5>
-                    <h3>Senior/Staff Software Engineer, Mobile (React Native)</h3>
+                    <h3>Senior Software Engineer, Mobile (React Native)</h3>
                 </td>
                 <td width="300">
                     <code></code>
