@@ -10,7 +10,7 @@
                     <code>C,C++,javascript,blockchain</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-c-1996157" align="right" target="_blank">Apply</a>
@@ -80,7 +80,7 @@ transitioning models from research to production environments.</p></li><li style
                     <code>.Net,javascript,python,saas</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1991695" align="right" target="_blank">Apply</a>
@@ -156,7 +156,7 @@ transitioning models from research to production environments.</p></li><li style
                     <code>api,CSS,frontend,html</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-infrastructure-team-1989176" align="right" target="_blank">Apply</a>
@@ -1298,6 +1298,63 @@ transitioning models from research to production environments.</p></li><li style
 &lt;/ul&gt;
 &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with one of the industry&#39;s pioneers in open source with intelligent engineers at every level from engineer to&amp;nbsp; CTO and CEO level. At Canonical we&#39;ve honed our remote-first culture since 2004, established in the company from the very beginning. Enjoy a competitive salary, the flexibility to work and live where you wish, and the chance to work exclusively on impactful open source projects.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Canonical is proud to foster a workplace free from discrimination. We truly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better platform for our users and customers. This is something we value deeply and we encourage everyone to come be a part of the world of Ubuntu.&lt;/em&gt;&lt;/p&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Software Engineer - App Stores</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/canonical/jobs/3159992" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world&#39;s leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.&lt;/p&gt;
+&lt;p&gt;The company is founder-led, profitable, and growing.&lt;/p&gt;
+&lt;p&gt;This is an exciting opportunity for an exceptional software engineer passionate about open source software, Linux, and Web Services at scale. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, a growing international software company.&lt;/p&gt;
+&lt;p&gt;Canonical&#39;s Store team develops and operates a large system of backend services that power the &lt;a href=&quot;https://snapcraft.io/store&quot;&gt;Snap Store&lt;/a&gt; and &lt;a href=&quot;https://charmhub.io/&quot;&gt;Charmhub.io&lt;/a&gt; marketplaces. Our services are built primarily in Python, with a bit of Golang.&lt;/p&gt;
+&lt;p&gt;We have some exciting challenges ahead including continuing to scale our production architecture, significantly expanding the range of software we can deliver through the system powering our marketplaces, and enhancing our offering for the booming world of IoT and for large Enterprise solutions.&lt;/p&gt;
+&lt;p&gt;If you have a passion for clean APIs, have a bias towards shipping, and believe that automated tests are the key to higher velocity and reliability, you&#39;ll fit right in.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Collaborate remotely with a globally distributed team.&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Write clean web service APIs to support both CLI and web frontend clients, using Python (and optionally Golang).&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Design and implement new features and enhancements from spec to production and ongoing operations at scale.&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Review code and technical designs produced by other engineers.&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Discuss ideas and collaborate on finding good solutions.&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Work remotely with global travel for 2 to 4 weeks for internal and external events.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;You have demonstrated professional proficiency in developing public-facing APIs and web applications using Python.&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;You have a broad technology base but favour backend code and infrastructure.&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;You know your way around relational and non-relational databases and can effectively design data models that perform well, and tune queries to access them.&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;You are comfortable with Ubuntu as a development and deployment platform.&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;You have demonstrated strong academic performance in Computer Science, STEM or a similar degree.&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;You love technology and working with a diverse set of talented people.&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;You are curious, flexible, articulate, and accountable.&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;You value soft skills and are passionate, enterprising, thoughtful, and self-motivated.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;About Canonical&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Canonical is a growing, international software company that works with the open-source community to deliver Ubuntu -- the world’s #1 cloud operating system. Our mission is to realise the potential of free software in the lives of individuals and organisations. Our services are helping businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.&amp;nbsp; Canonical is a unique tech company - global, remote-first, open source, with 700 professionals across 50 countries - we want to be the world’s best, not biggest, global software company. With almost every team remote by default, Canonical sets the pace on the 21st-century digital workplace.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;What Canonical offers:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game.&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;Canonical is an equal opportunity employer&lt;/h4&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;Whatever your identity, we will give your application fair consideration.&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-remote&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#stack&lt;/span&gt;&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
