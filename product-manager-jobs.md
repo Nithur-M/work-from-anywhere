@@ -579,7 +579,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Tanner Hackett, CEO &amp;amp; Founder&lt;/strong&gt;: Having founded two other major startups, including Button and Lazada, Tanner now spends his time focused on mental health through his philanthropy,&lt;a href=&quot;http://openminded.org&quot;&gt; Openminded.org&lt;/a&gt;, in addition to reading, surfing, yoga, and enjoying the outdoors.&amp;nbsp;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Chris Shafer, Chief of Staff&lt;/strong&gt;: Chris is a published scientific author, having studied the neural correlates of gratitude at the lauded Brain and Creativity Institute. He has since helped to launch numerous businesses in which he held a variety of critical roles from product management to business operations to strategic partnerships. Chris received his bachelor’s degree in Biological Sciences from the University of Southern California.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mike Levins, Head of Insurance&lt;/strong&gt;: Mike previously was the Head of Broker Relations and US MGA Operations at Hiscox. Mike oversaw the Midwest region with ~20 underwriters offering 13 different product lines, the primary lines being management liability, professional liability, and cyber/technology. His extensive insurance career has afforded Mike strong relationships across hundreds of retail and wholesale brokers. Mike received his BS from Marquette University and MBA from Benedictine University.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Tobias Schuler, Head of Data Analytics&lt;/strong&gt;: After becoming a Fellow of the Casualty Actuarial Society &amp;amp; working as a consultant actuary at EY for several years, Tobias went on to drive the actuarial data &amp;amp; systems teams at QBE. He further leveraged his deep insurance &amp;amp; technical expertise at Munich Re Digital Partners in North America, where he headed data &amp;amp; analytics &amp;amp; oversaw the data infrastructure behind some of their largest programs.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Dave Lin, Head of Product and Engineering:&amp;nbsp;&lt;/strong&gt;Dave has built and scaled B2B platforms at Yext, Apple, Amazon, and Hookit. He received his MS and BS in Electrical Engineering from University of California, San Diego.&amp;nbsp;&lt;/li&gt;
 &lt;/ul&gt;
@@ -661,8 +660,7 @@
 &lt;li&gt;Drive brokerage product strategy by analyzing ROI, market competition, and build-vs-buy scenarios&lt;/li&gt;
 &lt;li&gt;Improve the brokerage operation efficiency by providing solutions and owning the metrics&lt;/li&gt;
 &lt;li&gt;Contribute to the product roadmap and product strategy&lt;/li&gt;
-&lt;li&gt;Lead customer calls around brokerage process and product issues to gain insights and reduce&lt;/li&gt;
-&lt;li&gt;them to products&lt;/li&gt;
+&lt;li&gt;Lead customer calls around brokerage process and product issues to gain insights and reduce&amp;nbsp;them to products&lt;/li&gt;
 &lt;li&gt;Participate in calls with external regulators to drive the product strategy and execution&lt;/li&gt;
 &lt;li&gt;Report timely and accurately on product status and results to internal and external stakeholders&lt;/li&gt;
 &lt;li&gt;Ad hoc duties and projects as assigned&lt;/li&gt;
