@@ -10,7 +10,7 @@
                     <code>C,C++,javascript,blockchain</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-c-1996157" align="right" target="_blank">Apply</a>
@@ -80,7 +80,7 @@ transitioning models from research to production environments.</p></li><li style
                     <code>.Net,javascript,python,saas</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1991695" align="right" target="_blank">Apply</a>
@@ -142,85 +142,6 @@ transitioning models from research to production environments.</p></li><li style
 <p><strong>Note:</strong><br>This is <em>not</em> for junior devs or people who need hand-holding. It’s for builders who know how to ship and want to join real teams without corporate BS. We recruit continiously so feel free to apply at any point of time!</p>
 <p><strong>Ready to work smarter, faster — and get paid well for it? Please apply</strong></p>
 <img src="https://remotive.com/job/track/1991695/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1989176/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Discourse</h5>
-                    <h3>Software Engineer - Infrastructure Team</h3>
-                </td>
-                <td width="300">
-                    <code>api,CSS,frontend,html</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-infrastructure-team-1989176" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><em style="color: var(--remotive-chocolate);">Salary depends on location and experience, able to provide up front</em></p>
-<p><em> </em></p>
-<p><em>When you send your resume also send a little intro for us to get to know you, with insight into why you want this job here at Discourse. Tell us about something you've made that you're proud of. Tell us something you think is interesting/cool about Discourse the software.</em></p>
-<p> </p>
-<p> </p>
-<p class="h2">About the job</p>
-<p>The infrastructure team at Discourse are computing-system generalists. In this role, you’ll work across all layers of our tech stack, focusing on building and maintaining systems for our hosting platform.</p>
-<p> </p>
-<p>Discourse is primarily a hosting company, and robust infrastructure is a core competency for us. You’ll develop tools to reduce toil, enhance reliability, and improve performance. Most deployments are served from our own bare metal, with AWS and other cloud services used as necessary.</p>
-<p> </p>
-<p>Applicants will have a 10-40 hour paid trial project (over 2-10 weeks) prior to joining the team. The trial project usually involves adding a feature to Discourse or a Discourse plugin.</p>
-<p> </p>
-<p class="h4">Your responsibilities will include:</p>
-<ul style="">
-<li style="">Applying fundamental computing theory to solve problems in sustainable space and time.</li>
-<li style="">When reasoning about infrastructure improvements, draw upon these combined skills to choose or build the right tool for the job.</li>
-<li style="">While stewarding code along the path from initial development to eventual retirement, support and document the system for the operators who depend on it.</li>
-</ul>
-<p> </p>
-<p class="h4">We’re looking for someone who: </p>
-<ul style="">
-<li style="">Has a well-rounded understanding of how applications interface with the operating system, how the operating system interfaces with the network.</li>
-<li style="">Can read C, and feels at home in Unix-like systems.</li>
-<li style="">Has fluency in at least one high-level programming language. We have a large amount of infrastructure tooling, primarily in Go and Ruby.</li>
-<li style="">Has experience with at least some of tools the we use: PostgreSQL, Docker, HAProxy, Prometheus, Grafana.</li>
-</ul>
-<p> </p>
-<p>At Discourse, the ability to communicate well in writing is paramount. We use our own software, Discourse, for most communication and most of your interaction with customers and team members will be in writing. In order to live these values, we look for folks who are:</p>
-<p> </p>
-<ul style="">
-<li style="">Detail-oriented, proactive, and organized</li>
-<li style="">Able to make decisions quickly and communicate effectively</li>
-<li style="">Work well independently and remotely</li>
-<li style="">Kind to their co-workers</li>
-<li style="">Highly driven with an execution focus and a strong belief in our mission to make the internet a better place</li>
-</ul>
-<p> </p>
-<p class="h2">About our Pay &amp; Benefits</p>
-<p>We believe that high-quality benefits make our team more effective. We’ve been thoughtful about our benefits package which includes a completely flexible schedule, 5 weeks of vacation per year, funding for a co-working stipend, and much more!</p>
-<p> </p>
-<p>Our Salary Framework is location and experience based, and we’re happy to provide a range up front. We also give every employee a stake in the success of the business, regardless of seniority or role. All full-time employees are eligible to receive equity options in the company as part of our equity incentive program.</p>
-<p> </p>
-<p>Lastly, we believe in having a welcoming workplace where people with diverse backgrounds and cultures can create something great together. We encourage you to apply, even if you don’t meet every qualification! Apply to <span style="color: var(--remotive-chocolate);">jobs@discourse.org.</span><span style="color: var(--remotive-chocolate);"> Send your resume and a little intro for us to get to know you, with insight into why you want this job here at Discourse.</span></p>
-<p><span style="color: var(--remotive-chocolate);"> </span></p>
-<p class="h2"><span style="color: var(--remotive-chocolate);">Important location info:</span></p>
-<p><span style="color: var(--remotive-chocolate);">Within Europe, we only hire from:</span></p>
-<p><span style="color: var(--remotive-chocolate);"> </span></p>
-<ul style="">
-<li style="">Austria</li>
-<li style="">Italy</li>
-<li style="">Poland</li>
-<li style="">Portugal</li>
-<li style="">Romania</li>
-<li style="">United Kingdom</li>
-</ul>
-<img src="https://remotive.com/job/track/1989176/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
