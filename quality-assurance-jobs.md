@@ -1,5 +1,90 @@
 <div align="center"><h2>QUALITY ASSURANCE JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1995779/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>FlyFlat</h5>
+                    <h3>Quality Assurance Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>agile</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/qa/quality-assurance-engineer-1995779" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Quality Assurance Engineer – Web &amp; Mobile Specialist</strong></p>
+<p><strong>(Remote Opportunity)</strong></p>
+<p><strong> </strong></p>
+<p><strong>Company Overview:</strong></p>
+<p>FlyFlat has achieved remarkable growth, expanding by over 300% year-over-year through word of mouth alone. Now operating at a $20M run rate with $2M recently raised in capital, we’re on a mission to reach $30M+ by the end of 2025 and become the go-to solution for luxury international travel management for the world’s leading business owners and investors. As we continue to scale, we are seeking a dedicated Quality Assurance Engineer to uphold and advance the user experience across our web and mobile platforms</p>
+<p><strong> </strong></p>
+<p><strong>Introduction:</strong></p>
+<p>As a Quality Assurance Engineer at FlyFlat, you'll be the guardian of our product quality. You'll work across all departments—engineering, product, design, growth, and support to implement comprehensive testing strategies that maintain the high standards our customers expect. Your attention to detail and commitment to excellence will be critical in supporting our continued rapid growth<strong>.</strong></p>
+<p><strong>Responsibilities:</strong></p>
+<p><strong>End-to-End Testing &amp; Quality Management</strong></p>
+<ul style="">
+<li style="">Conduct thorough testing of new features and existing product functionality across web and mobile platforms.</li>
+<li style="">Perform functional, API, integration, and compatibility testing with a focus on real-world customer scenarios.</li>
+<li style="">Create and maintain test plans, test cases, and test documentation to ensure comprehensive coverage.</li>
+</ul>
+<p><strong>Cross-Department Collaboration</strong></p>
+<ul style="">
+<li style="">Partner with engineering, product, design, growth, and support teams to integrate quality assurance into every phase of the product lifecycle.</li>
+<li style="">Advocate for the end-user experience and ensure that product releases meet FlyFlat’s high standards<strong>.</strong></li>
+</ul>
+<p><strong>Automation &amp; Continuous Improvement</strong></p>
+<ul style="">
+<li style="">Where possible, leverage test automation frameworks and tools to streamline QA processes.</li>
+<li style="">Track and report on quality metrics to identify areas for continuous improvement.</li>
+<li style="">Contribute to the development and refinement of QA best practices and standards<strong>.</strong></li>
+</ul>
+<p><strong>Process Integration &amp; Agile Participation</strong></p>
+<ul style="">
+<li style="">Participate in Agile ceremonies, including sprint planning, reviews, and retrospectives.</li>
+<li style="">Support the integration of QA processes into CI/CD pipelines and DevOps workflows.</li>
+</ul>
+<p><strong> </strong></p>
+<p><strong>Required Skills &amp; Experience:</strong></p>
+<ul style="">
+<li style="">2+ years of experience in quality assurance for web and mobile applications.</li>
+<li style="">Proficiency in manual testing, including test plan creation and execution.</li>
+<li style="">Experience with API testing and customer-focused scenario testing.</li>
+<li style="">Strong mobile QA experience (iOS and Android), including usability and accessibility.</li>
+<li style="">Familiarity with Agile methodologies and modern software development lifecycles.</li>
+<li style="">Exceptional attention to detail, debugging, and troubleshooting abilities.</li>
+<li style="">Strong written and verbal communication skills.</li>
+</ul>
+<p><strong>Preferred Skills &amp; Experience:</strong></p>
+<ul style="">
+<li style="">Experience with test automation tools and frameworks.</li>
+<li style="">Basic coding skills to support automation efforts.</li>
+<li style="">Knowledge of CI/CD processes and DevOps practices.</li>
+<li style="">Cross-browser testing expertise.</li>
+<li style="">Background or interest in the travel industry.</li>
+</ul>
+<p><strong> </strong></p>
+<p><strong>Conclusion: </strong></p>
+<p>This is a pivotal opportunity for a detail-oriented QA professional to help shape the quality assurance function of a rapidly scaling company. As FlyFlat continues its impressive growth, your expertise will ensure that our web and mobile platforms deliver seamless, high-quality experiences for our discerning customer base. Join a fast-moving, collaborative team where your contributions directly impact product excellence and customer satisfaction.</p>
+<p><strong> </strong></p>
+<p><strong>Compensation and Employment Details:</strong></p>
+<ul style="">
+<li style="">$1500 - $2000 per month</li>
+<li style="">Work on meaningful problems in a fast-growing industry.</li>
+<li style="">Collaborate with a lean, high-performing team that values innovation and execution.</li>
+<li style="">Contribute to a proven product with strong organic growth.</li>
+</ul>
+<p><strong>We are excited about the possibility of you joining us in this venture and look forward to seeing the profound impact you will have on our organization.</strong></p><img src="https://remotive.com/job/track/1995779/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://www.bobtail.com/wp-content/uploads/2023/09/cropped-cropped-favicon-180x180.png" width="38px" height="auto">
                 </td>
                 <td width="300">
