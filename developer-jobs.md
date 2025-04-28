@@ -1,5 +1,124 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1999050/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Spektrum</h5>
+                    <h3>C# Application Developer</h3>
+                </td>
+                <td width="300">
+                    <code>C#,SQL Server</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/c-application-developer-1999050" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class='"content-intro"'>
+<p>Spektrum have a wide range of exciting opportunities in several global locations.</p>
+<p>We are always looking to add great new talent to our team and look forward to hearing from you.</p>
+</div>
+<p>Spektrum supports apex purchasers (NATO, UN, EU, and National Government and Defence) and their Tier 1 supplier ecosystem with a wide range of specialist services. We provide our clients with professional services, specialised aerospace and defence sales, delivery, and operational subject matter expertise. We are looking for personnel to join our team and support key client projects.</p>
+<hr>
+<p><strong>Who we are supporting</strong><strong> </strong></p>
+<p>The NATO Communication and Information Agency (NCIA) is responsible for providing secure and effective communications and information technology (IT) services to NATO's member countries and its partners. The agency was established in 2012 and is headquartered in Brussels, Belgium.</p>
+<p>The NCIA provides a wide range of services, including:</p>
+<ul style="">
+<li style="">Cyber Security: The NCIA provides advanced cybersecurity solutions to protect NATO's communication networks and information systems against cyber threats.</li>
+<li style="">Command and Control Systems: The NCIA develops and maintains the systems used by NATO's military commanders to plan and execute operations.</li>
+<li style="">Satellite Communications: The NCIA provides satellite communications services to enable secure and reliable communications between NATO forces.</li>
+<li style="">Electronic Warfare: The NCIA provides electronic warfare services to support NATO's mission to detect, deny, and defeat threats to its communication networks.</li>
+<li style="">Information Management: The NCIA manages NATO's information technology infrastructure, including its databases, applications, and servers.</li>
+</ul>
+<p>Overall, the NCIA plays a critical role in ensuring the security and effectiveness of NATO's communication and information technology capabilities.</p>
+<p><strong>The program </strong></p>
+<p><strong>Assistance and Advisory Service (AAS)</strong></p>
+<p>The NATO Communications and Information Agency (NCI Agency) is NATO’s principal C3 capability deliverer and CIS service provider. It provides, maintains and defends the NATO enterprise-wide information technology infrastructure to enable Allies to consult together under Article IV, and, when required, stand together in the face of attack under Article V.</p>
+<p>To provide these critical services, in the modern evolving dynamic environment the NCI Agency needs to build and maintain high performance-engaged workforce. The NCI Agency workforce strategically consists of three major categorise's: NATO International Civilians (NIC)'s, Military (Mil), and Interim Workforce Consultants (IWC)'s. The IWCs are a critical part of the overall NCI Agency workforce and make up approximately 15 percent of the total workforce.</p>
+<hr>
+<p><strong>Role Background</strong></p>
+<p>The NATO Information and Communication Agency (NCI Agency) located in The Hague, The Netherlands, is currently involved in the development of new capabilities for NATO as well as in the support of existing capabilities. In the light of these activities, the C2 Centre is looking for one full stack C# desktop developer with experience in developing Windows desktop applications and with strong user interface proficiency.</p>
+<p>The Full Stack C# Desktop Developer will provide the technical subject matter expertise to enable and guide the design and development of integrated solutions that meet current and future business needs. More specifically, the work will support the full software development cycle of TOPFAS.</p>
+<p>The main objective of this statement of work is the development of new capabilities and the enhancement of existing features in the existing NATO TOPFAS Service.</p>
+<p>Delivery of the services under this SoW requires skills of ONE Desktop Software Developer to update TOPFAS functionality and data structures to meet the mid-term requirements for enabling inter- operability between TOPFAS and other systems.</p>
+<p><strong>Role Duties and Responsibilities</strong></p>
+<ul style="">
+<li style="">Implement and review software changes as required using Azure DevOps.</li>
+<li style="">Support the development of the front-end application and communication with back end services.</li>
+<li style="">Implement new interfaces and improve existing interfaces with other systems, both file based and online real time.</li>
+<li style="">Coordinate the technical work with the teams and systems required to integrate, including integration testing.</li>
+<li style="">Create user stories, including acceptance criteria and test cases to evaluate the functionality.</li>
+<li style="">Support bug fixing and stability improvements.</li>
+<li style="">Create and update documentation.</li>
+<li style="">Conduct impact analysis, to investigate which are the best ways to solve a certain problem, their effort estimation, document and present their pros and cons to the team.</li>
+</ul>
+<p><strong>Essential Skills and Experience</strong></p>
+<p>Required minimum qualifications are;</p>
+<ul style="">
+<li style="">More than 10 years of experience as Software Developer, in which at least 5 are in C#.</li>
+<li style="">Strong experience (at least 5 years) in WinForms (Microsoft desktop application development).</li>
+<li style="">In depth knowledge of C#</li>
+<li style="">Proficient with third party UI frameworks</li>
+<li style="">Solid understanding of async programming / multi-thread applications</li>
+<li style="">Good understanding of integration patterns and message exchange formats such as JSON and XML.</li>
+<li style="">Strong knowledge of OO principles and patterns</li>
+<li style="">Strong knowledge of APIs development, both as consumer and provider.</li>
+<li style="">Experience with Git version source control</li>
+<li style="">Basic knowledge of SQL Server and database querying</li>
+</ul>
+<p>Preferable qualifications are:</p>
+<ul style="">
+<li style="">Experience with Azure DevOps</li>
+<li style="">Experience with Playwright or other test automation tools.</li>
+<li style="">Strong experience (at least 4 years) with DevExpress</li>
+<li style="">Experience building (graph) diagrams using GoJS or similar Javascript libraries.</li>
+<li style="">Experience with HTML5, JavaScript and CSS3 is a plus</li>
+</ul>
+<p>Relevant soft skills are:</p>
+<ul style="">
+<li style="">Very good presentation skills, taking in consideration the target audience.</li>
+<li style="">Team player, friendly and always willing to help others and to share knowledge.</li>
+<li style="">Good collaboration skills, with the ability to work in a multinational and diverse team</li>
+<li style="">Growth mind set, always wanting to improve and to learn.</li>
+<li style="">Proactivity and taking ownership at all times.</li>
+</ul>
+<p><strong>Language Proficiency</strong></p>
+<ul style="">
+<li style="">Business English</li>
+</ul>
+<p><strong>Education</strong></p>
+<ul style="">
+<li style="">Master’s degree in Computer Science/Engineering or equivalent.</li>
+</ul>
+<p><strong>Working Location</strong></p>
+<ul style="">
+<li style="">Remote</li>
+</ul>
+<p><strong>Working Policy</strong></p>
+<ul style="">
+<li style="">Off-Site</li>
+</ul>
+<p><strong>Travel</strong></p>
+<ul style="">
+<li style="">Some travel to other NATO sites may be required</li>
+</ul>
+<p><strong>Security Clearance</strong></p>
+<ul style="">
+<li style="">Valid National or NATO Secret personal security clearance</li>
+</ul>
+<div class='"content-conclusion"'>
+<p>We never know what new opportunities might be just over the horizon. If this opportunity isn't for you please feel free to send us your resume anyway and be the first to know if something suitable for your skills and experience comes up. </p>
+</div>
+<img src="https://remotive.com/job/track/1999050/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1984510/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +129,7 @@
                     <code>backend,C++,javascript,mongoDB</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-node-js-1984510" align="right" target="_blank">Apply</a>
@@ -83,7 +202,7 @@ the services and core processes with the highest security principles and
                     <code>.Net,api,backend,C</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-typescript-1983726" align="right" target="_blank">Apply</a>
@@ -1895,6 +2014,246 @@ the services and core processes with the highest security principles and
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful.&nbsp;</p><p><strong>We are looking for a talented Senior Python/Go Developer to join our Imunify360 team.</strong></p><p>Imunify360 Security Suite is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. Imunify is an innovative security solution designed specifically for shared and VPS/Dedicated servers. The automated, easy-to-use solution with the six-layer approach to security delivers comprehensive and complete attack prevention. </p><p>Check out our website for more information about our Imunify360 Product <a href="https://www.imunify360.com/" target="_blank" rel="nofollow noreferrer noopener" class="external">https://www.imunify360.com/</a></p><p></p><p><strong>Your responsibilities will include:</strong></p><ul><li>Contributing to the development of Imunify360 products using Python.</li></ul><ul> <li>Assisting in the porting of Python code to Go.</li> <li>Writing unit tests and/or functional tests for your code.</li> <li>Reviewing code written by your colleagues using Gerrit.</li> <li>Developing architecture and writing technical documentation for new features.</li> <li>Investigating issues reported by clients, partners, or the support team.</li> </ul><p><strong>Requirements</strong></p><ul> <li>5+ years of experience in Python programming.</li> <li>Experience with Go or a willingness to learn.</li> <li>Strong background in system programming (e.g., sockets, filesystem, process management).</li> <li>Experience in Linux server administration is a plus.</li> <li>Familiarity with network security is a plus.</li> <li>Experience with automated testing and CI/CD systems.</li> <li>Knowledge of RPM/DEB package management is a plus.</li> <li>Upper-Intermediate level of English or higher.</li> </ul><p></p><p><strong>Personal Skills:</strong></p><ul> <li>Quick learner with a proactive attitude.</li> <li>Highly self-motivated and driven to achieve set milestones.</li> <li>Strong prioritization skills and a flexible mindset.</li> <li>Ability to independently analyze tasks and find optimal solutions.</li> <li>Capability to work with vague requirements and make independent decisions.</li> <li>Strong team player with the ability to collaborate effectively.</li> </ul><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development:</li> <ul> <li>Training reimbursement</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p><br><br><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior/Staff Developer Advocate - Frontend Ecosystem (remote-only opportunity)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/j/D7B95A033A" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>TuxCare is seeking a Senior Developer Advocate for the Frontend ecosystem (JavaScript, Angular, Node, npm, etc.) to shape how SecureChain is integrated into the modern frontend supply chain.</p><p>You’ll serve as the bridge between frontend developers, TuxCare’s product, and the broader JS ecosystem—educating internal teams on how packages flow through modern toolchains, guiding implementation of SBOM verification and artifact trust, and helping TuxCare become the trusted source for secure frontend artifacts.</p><h3>Key Responsibilities</h3><ul><li><strong>Educate TuxCare on Frontend Packaging and Risks</strong></li></ul><ul> <ul> <li>Provide insight into how modern frontend teams use npm, pnpm, Yarn, bundlers, CDNs, and CI/CD to build and ship code.</li> <li>Break down where the real attack surfaces are: malicious packages, typosquatting, shadow dependencies, postinstall scripts, etc.</li> <li>Help TuxCare deeply understand how to meet frontend devs where they are.</li> </ul> <li><strong>Shape SecureChain for Frontend Workflows</strong></li> <ul> <li>Define how SBOM generation and artifact signing can be realistically implemented in JavaScript toolchains.</li> <li>Collaborate with engineering on implementation and validation strategies.</li> <li>Publish reference projects, demos, and developer-facing guides.</li> </ul> <li><strong>Use Your Network to Create Partnerships</strong></li> <ul> <li>Reach out to maintainers, vendors, platform teams (e.g., Vite, Netlify, Vercel), and security tooling providers.</li> <li>Explore integration opportunities and build the case for making TuxCare the secure LTS provider for frontend artifacts.</li> <li>Contribute ideas and code where it makes sense to drive ecosystem adoption.</li> </ul> </ul><ul> <li><strong>Raise Awareness and Help Developers</strong></li> <ul> <li>Speak at JS/frontend conferences and meetups about practical supply chain security.</li> <li>Create high-signal content: tutorials, breakdowns of real-world incidents, YouTube explainers.</li> <li>Be a developer-first voice: helpful, technically credible, never preachy or vendor-speak-y.</li> </ul> </ul><p><strong>Requirements</strong></p><h3>What You’ll Bring</h3><ul> <li>Deep knowledge of JavaScript tooling, frontend frameworks, and packaging systems.</li> <li>Proven experience advocating for or building secure developer workflows.</li> <li>A track record of speaking, writing, or leading community education efforts.</li> <li>Ability to move fluidly between developer conversations and product strategy.</li> <li>Comfortable working cross-functionally with engineering, product, and marketing.</li> </ul><h3>Why TuxCare?</h3><p>At TuxCare, our mission is to empower organizations by providing continuous support for JavaScript projects long after their official end-of-life. As a Senior/Staff Developer Advocate, you will have the unique opportunity to shape the conversation around legacy support, ensuring that critical systems remain robust and secure. If you are passionate about bridging the gap between legacy technology and modern operational demands, and you enjoy engaging with a dedicated developer community, we’d love to hear from you.</p><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul> <li>A strong focus on&nbsp;<strong>professional development</strong>&nbsp;with opportunities for&nbsp;<strong>learning</strong>&nbsp;and&nbsp;<strong>growth</strong>:</li> <ul> <li> <strong>Interesting</strong>&nbsp;and&nbsp;<strong>challenging projects</strong>,</li> <li> <strong>Mentor</strong>&nbsp;and other&nbsp;<strong>knowledge-exchange programs</strong>,</li> </ul> <li>Fully&nbsp;<strong>remote work</strong>&nbsp;with&nbsp;<strong>flexible working hours</strong>, allowing you to&nbsp;<strong>schedule your day</strong>&nbsp;and&nbsp;<strong>work from any location worldwide</strong>,</li> <li> <strong>Paid</strong>&nbsp;<strong>24 days of vacation</strong>&nbsp;per year,&nbsp;<strong>10 days of national holidays</strong>, and&nbsp;<strong>unlimited sick leaves</strong>&nbsp;to ensure you maintain a&nbsp;<strong>healthy work-life balance </strong> </li> <li> <strong>Compensation</strong>&nbsp;for&nbsp;<strong>private medical insurance</strong>,</li> <li> <strong>Co-working</strong>&nbsp;and&nbsp;<strong>gym/sports reimbursement</strong>,</li> <li>The opportunity to receive a&nbsp;<strong>reward</strong>&nbsp;for the most&nbsp;<strong>innovative idea</strong>&nbsp;that the company can&nbsp;<strong>patent</strong> fostering a culture of&nbsp;<strong>creativity</strong>&nbsp;and&nbsp;<strong>innovation</strong>.</li> </ul><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior/Staff Developer Advocate - Frontend Ecosystem (remote-only opportunity)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/j/D7B95A033A" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>TuxCare is seeking a Senior Developer Advocate for the Frontend ecosystem (JavaScript, Angular, Node, npm, etc.) to shape how SecureChain is integrated into the modern frontend supply chain.</p><p>You’ll serve as the bridge between frontend developers, TuxCare’s product, and the broader JS ecosystem—educating internal teams on how packages flow through modern toolchains, guiding implementation of SBOM verification and artifact trust, and helping TuxCare become the trusted source for secure frontend artifacts.</p><h3>Key Responsibilities</h3><ul><li><strong>Educate TuxCare on Frontend Packaging and Risks</strong></li></ul><ul> <ul> <li>Provide insight into how modern frontend teams use npm, pnpm, Yarn, bundlers, CDNs, and CI/CD to build and ship code.</li> <li>Break down where the real attack surfaces are: malicious packages, typosquatting, shadow dependencies, postinstall scripts, etc.</li> <li>Help TuxCare deeply understand how to meet frontend devs where they are.</li> </ul> <li><strong>Shape SecureChain for Frontend Workflows</strong></li> <ul> <li>Define how SBOM generation and artifact signing can be realistically implemented in JavaScript toolchains.</li> <li>Collaborate with engineering on implementation and validation strategies.</li> <li>Publish reference projects, demos, and developer-facing guides.</li> </ul> <li><strong>Use Your Network to Create Partnerships</strong></li> <ul> <li>Reach out to maintainers, vendors, platform teams (e.g., Vite, Netlify, Vercel), and security tooling providers.</li> <li>Explore integration opportunities and build the case for making TuxCare the secure LTS provider for frontend artifacts.</li> <li>Contribute ideas and code where it makes sense to drive ecosystem adoption.</li> </ul> </ul><ul> <li><strong>Raise Awareness and Help Developers</strong></li> <ul> <li>Speak at JS/frontend conferences and meetups about practical supply chain security.</li> <li>Create high-signal content: tutorials, breakdowns of real-world incidents, YouTube explainers.</li> <li>Be a developer-first voice: helpful, technically credible, never preachy or vendor-speak-y.</li> </ul> </ul><p><strong>Requirements</strong></p><h3>What You’ll Bring</h3><ul> <li>Deep knowledge of JavaScript tooling, frontend frameworks, and packaging systems.</li> <li>Proven experience advocating for or building secure developer workflows.</li> <li>A track record of speaking, writing, or leading community education efforts.</li> <li>Ability to move fluidly between developer conversations and product strategy.</li> <li>Comfortable working cross-functionally with engineering, product, and marketing.</li> </ul><h3>Why TuxCare?</h3><p>At TuxCare, our mission is to empower organizations by providing continuous support for JavaScript projects long after their official end-of-life. As a Senior/Staff Developer Advocate, you will have the unique opportunity to shape the conversation around legacy support, ensuring that critical systems remain robust and secure. If you are passionate about bridging the gap between legacy technology and modern operational demands, and you enjoy engaging with a dedicated developer community, we’d love to hear from you.</p><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul> <li>A strong focus on&nbsp;<strong>professional development</strong>&nbsp;with opportunities for&nbsp;<strong>learning</strong>&nbsp;and&nbsp;<strong>growth</strong>:</li> <ul> <li> <strong>Interesting</strong>&nbsp;and&nbsp;<strong>challenging projects</strong>,</li> <li> <strong>Mentor</strong>&nbsp;and other&nbsp;<strong>knowledge-exchange programs</strong>,</li> </ul> <li>Fully&nbsp;<strong>remote work</strong>&nbsp;with&nbsp;<strong>flexible working hours</strong>, allowing you to&nbsp;<strong>schedule your day</strong>&nbsp;and&nbsp;<strong>work from any location worldwide</strong>,</li> <li> <strong>Paid</strong>&nbsp;<strong>24 days of vacation</strong>&nbsp;per year,&nbsp;<strong>10 days of national holidays</strong>, and&nbsp;<strong>unlimited sick leaves</strong>&nbsp;to ensure you maintain a&nbsp;<strong>healthy work-life balance </strong> </li> <li> <strong>Compensation</strong>&nbsp;for&nbsp;<strong>private medical insurance</strong>,</li> <li> <strong>Co-working</strong>&nbsp;and&nbsp;<strong>gym/sports reimbursement</strong>,</li> <li>The opportunity to receive a&nbsp;<strong>reward</strong>&nbsp;for the most&nbsp;<strong>innovative idea</strong>&nbsp;that the company can&nbsp;<strong>patent</strong> fostering a culture of&nbsp;<strong>creativity</strong>&nbsp;and&nbsp;<strong>innovation</strong>.</li> </ul><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior/Staff Developer Advocate - Frontend Ecosystem (remote-only opportunity)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/j/D7B95A033A" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>TuxCare is seeking a Senior Developer Advocate for the Frontend ecosystem (JavaScript, Angular, Node, npm, etc.) to shape how SecureChain is integrated into the modern frontend supply chain.</p><p>You’ll serve as the bridge between frontend developers, TuxCare’s product, and the broader JS ecosystem—educating internal teams on how packages flow through modern toolchains, guiding implementation of SBOM verification and artifact trust, and helping TuxCare become the trusted source for secure frontend artifacts.</p><h3>Key Responsibilities</h3><ul><li><strong>Educate TuxCare on Frontend Packaging and Risks</strong></li></ul><ul> <ul> <li>Provide insight into how modern frontend teams use npm, pnpm, Yarn, bundlers, CDNs, and CI/CD to build and ship code.</li> <li>Break down where the real attack surfaces are: malicious packages, typosquatting, shadow dependencies, postinstall scripts, etc.</li> <li>Help TuxCare deeply understand how to meet frontend devs where they are.</li> </ul> <li><strong>Shape SecureChain for Frontend Workflows</strong></li> <ul> <li>Define how SBOM generation and artifact signing can be realistically implemented in JavaScript toolchains.</li> <li>Collaborate with engineering on implementation and validation strategies.</li> <li>Publish reference projects, demos, and developer-facing guides.</li> </ul> <li><strong>Use Your Network to Create Partnerships</strong></li> <ul> <li>Reach out to maintainers, vendors, platform teams (e.g., Vite, Netlify, Vercel), and security tooling providers.</li> <li>Explore integration opportunities and build the case for making TuxCare the secure LTS provider for frontend artifacts.</li> <li>Contribute ideas and code where it makes sense to drive ecosystem adoption.</li> </ul> </ul><ul> <li><strong>Raise Awareness and Help Developers</strong></li> <ul> <li>Speak at JS/frontend conferences and meetups about practical supply chain security.</li> <li>Create high-signal content: tutorials, breakdowns of real-world incidents, YouTube explainers.</li> <li>Be a developer-first voice: helpful, technically credible, never preachy or vendor-speak-y.</li> </ul> </ul><p><strong>Requirements</strong></p><h3>What You’ll Bring</h3><ul> <li>Deep knowledge of JavaScript tooling, frontend frameworks, and packaging systems.</li> <li>Proven experience advocating for or building secure developer workflows.</li> <li>A track record of speaking, writing, or leading community education efforts.</li> <li>Ability to move fluidly between developer conversations and product strategy.</li> <li>Comfortable working cross-functionally with engineering, product, and marketing.</li> </ul><h3>Why TuxCare?</h3><p>At TuxCare, our mission is to empower organizations by providing continuous support for JavaScript projects long after their official end-of-life. As a Senior/Staff Developer Advocate, you will have the unique opportunity to shape the conversation around legacy support, ensuring that critical systems remain robust and secure. If you are passionate about bridging the gap between legacy technology and modern operational demands, and you enjoy engaging with a dedicated developer community, we’d love to hear from you.</p><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul> <li>A strong focus on&nbsp;<strong>professional development</strong>&nbsp;with opportunities for&nbsp;<strong>learning</strong>&nbsp;and&nbsp;<strong>growth</strong>:</li> <ul> <li> <strong>Interesting</strong>&nbsp;and&nbsp;<strong>challenging projects</strong>,</li> <li> <strong>Mentor</strong>&nbsp;and other&nbsp;<strong>knowledge-exchange programs</strong>,</li> </ul> <li>Fully&nbsp;<strong>remote work</strong>&nbsp;with&nbsp;<strong>flexible working hours</strong>, allowing you to&nbsp;<strong>schedule your day</strong>&nbsp;and&nbsp;<strong>work from any location worldwide</strong>,</li> <li> <strong>Paid</strong>&nbsp;<strong>24 days of vacation</strong>&nbsp;per year,&nbsp;<strong>10 days of national holidays</strong>, and&nbsp;<strong>unlimited sick leaves</strong>&nbsp;to ensure you maintain a&nbsp;<strong>healthy work-life balance </strong> </li> <li> <strong>Compensation</strong>&nbsp;for&nbsp;<strong>private medical insurance</strong>,</li> <li> <strong>Co-working</strong>&nbsp;and&nbsp;<strong>gym/sports reimbursement</strong>,</li> <li>The opportunity to receive a&nbsp;<strong>reward</strong>&nbsp;for the most&nbsp;<strong>innovative idea</strong>&nbsp;that the company can&nbsp;<strong>patent</strong> fostering a culture of&nbsp;<strong>creativity</strong>&nbsp;and&nbsp;<strong>innovation</strong>.</li> </ul><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior/Staff Developer Advocate - Frontend Ecosystem (remote-only opportunity)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/j/D7B95A033A" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>TuxCare is seeking a Senior Developer Advocate for the Frontend ecosystem (JavaScript, Angular, Node, npm, etc.) to shape how SecureChain is integrated into the modern frontend supply chain.</p><p>You’ll serve as the bridge between frontend developers, TuxCare’s product, and the broader JS ecosystem—educating internal teams on how packages flow through modern toolchains, guiding implementation of SBOM verification and artifact trust, and helping TuxCare become the trusted source for secure frontend artifacts.</p><h3>Key Responsibilities</h3><ul><li><strong>Educate TuxCare on Frontend Packaging and Risks</strong></li></ul><ul> <ul> <li>Provide insight into how modern frontend teams use npm, pnpm, Yarn, bundlers, CDNs, and CI/CD to build and ship code.</li> <li>Break down where the real attack surfaces are: malicious packages, typosquatting, shadow dependencies, postinstall scripts, etc.</li> <li>Help TuxCare deeply understand how to meet frontend devs where they are.</li> </ul> <li><strong>Shape SecureChain for Frontend Workflows</strong></li> <ul> <li>Define how SBOM generation and artifact signing can be realistically implemented in JavaScript toolchains.</li> <li>Collaborate with engineering on implementation and validation strategies.</li> <li>Publish reference projects, demos, and developer-facing guides.</li> </ul> <li><strong>Use Your Network to Create Partnerships</strong></li> <ul> <li>Reach out to maintainers, vendors, platform teams (e.g., Vite, Netlify, Vercel), and security tooling providers.</li> <li>Explore integration opportunities and build the case for making TuxCare the secure LTS provider for frontend artifacts.</li> <li>Contribute ideas and code where it makes sense to drive ecosystem adoption.</li> </ul> </ul><ul> <li><strong>Raise Awareness and Help Developers</strong></li> <ul> <li>Speak at JS/frontend conferences and meetups about practical supply chain security.</li> <li>Create high-signal content: tutorials, breakdowns of real-world incidents, YouTube explainers.</li> <li>Be a developer-first voice: helpful, technically credible, never preachy or vendor-speak-y.</li> </ul> </ul><p><strong>Requirements</strong></p><h3>What You’ll Bring</h3><ul> <li>Deep knowledge of JavaScript tooling, frontend frameworks, and packaging systems.</li> <li>Proven experience advocating for or building secure developer workflows.</li> <li>A track record of speaking, writing, or leading community education efforts.</li> <li>Ability to move fluidly between developer conversations and product strategy.</li> <li>Comfortable working cross-functionally with engineering, product, and marketing.</li> </ul><h3>Why TuxCare?</h3><p>At TuxCare, our mission is to empower organizations by providing continuous support for JavaScript projects long after their official end-of-life. As a Senior/Staff Developer Advocate, you will have the unique opportunity to shape the conversation around legacy support, ensuring that critical systems remain robust and secure. If you are passionate about bridging the gap between legacy technology and modern operational demands, and you enjoy engaging with a dedicated developer community, we’d love to hear from you.</p><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul> <li>A strong focus on&nbsp;<strong>professional development</strong>&nbsp;with opportunities for&nbsp;<strong>learning</strong>&nbsp;and&nbsp;<strong>growth</strong>:</li> <ul> <li> <strong>Interesting</strong>&nbsp;and&nbsp;<strong>challenging projects</strong>,</li> <li> <strong>Mentor</strong>&nbsp;and other&nbsp;<strong>knowledge-exchange programs</strong>,</li> </ul> <li>Fully&nbsp;<strong>remote work</strong>&nbsp;with&nbsp;<strong>flexible working hours</strong>, allowing you to&nbsp;<strong>schedule your day</strong>&nbsp;and&nbsp;<strong>work from any location worldwide</strong>,</li> <li> <strong>Paid</strong>&nbsp;<strong>24 days of vacation</strong>&nbsp;per year,&nbsp;<strong>10 days of national holidays</strong>, and&nbsp;<strong>unlimited sick leaves</strong>&nbsp;to ensure you maintain a&nbsp;<strong>healthy work-life balance </strong> </li> <li> <strong>Compensation</strong>&nbsp;for&nbsp;<strong>private medical insurance</strong>,</li> <li> <strong>Co-working</strong>&nbsp;and&nbsp;<strong>gym/sports reimbursement</strong>,</li> <li>The opportunity to receive a&nbsp;<strong>reward</strong>&nbsp;for the most&nbsp;<strong>innovative idea</strong>&nbsp;that the company can&nbsp;<strong>patent</strong> fostering a culture of&nbsp;<strong>creativity</strong>&nbsp;and&nbsp;<strong>innovation</strong>.</li> </ul><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior/Staff Developer Advocate - Frontend Ecosystem (remote-only opportunity)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/j/D7B95A033A" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>TuxCare is seeking a Senior Developer Advocate for the Frontend ecosystem (JavaScript, Angular, Node, npm, etc.) to shape how SecureChain is integrated into the modern frontend supply chain.</p><p>You’ll serve as the bridge between frontend developers, TuxCare’s product, and the broader JS ecosystem—educating internal teams on how packages flow through modern toolchains, guiding implementation of SBOM verification and artifact trust, and helping TuxCare become the trusted source for secure frontend artifacts.</p><h3>Key Responsibilities</h3><ul><li><strong>Educate TuxCare on Frontend Packaging and Risks</strong></li></ul><ul> <ul> <li>Provide insight into how modern frontend teams use npm, pnpm, Yarn, bundlers, CDNs, and CI/CD to build and ship code.</li> <li>Break down where the real attack surfaces are: malicious packages, typosquatting, shadow dependencies, postinstall scripts, etc.</li> <li>Help TuxCare deeply understand how to meet frontend devs where they are.</li> </ul> <li><strong>Shape SecureChain for Frontend Workflows</strong></li> <ul> <li>Define how SBOM generation and artifact signing can be realistically implemented in JavaScript toolchains.</li> <li>Collaborate with engineering on implementation and validation strategies.</li> <li>Publish reference projects, demos, and developer-facing guides.</li> </ul> <li><strong>Use Your Network to Create Partnerships</strong></li> <ul> <li>Reach out to maintainers, vendors, platform teams (e.g., Vite, Netlify, Vercel), and security tooling providers.</li> <li>Explore integration opportunities and build the case for making TuxCare the secure LTS provider for frontend artifacts.</li> <li>Contribute ideas and code where it makes sense to drive ecosystem adoption.</li> </ul> </ul><ul> <li><strong>Raise Awareness and Help Developers</strong></li> <ul> <li>Speak at JS/frontend conferences and meetups about practical supply chain security.</li> <li>Create high-signal content: tutorials, breakdowns of real-world incidents, YouTube explainers.</li> <li>Be a developer-first voice: helpful, technically credible, never preachy or vendor-speak-y.</li> </ul> </ul><p><strong>Requirements</strong></p><h3>What You’ll Bring</h3><ul> <li>Deep knowledge of JavaScript tooling, frontend frameworks, and packaging systems.</li> <li>Proven experience advocating for or building secure developer workflows.</li> <li>A track record of speaking, writing, or leading community education efforts.</li> <li>Ability to move fluidly between developer conversations and product strategy.</li> <li>Comfortable working cross-functionally with engineering, product, and marketing.</li> </ul><h3>Why TuxCare?</h3><p>At TuxCare, our mission is to empower organizations by providing continuous support for JavaScript projects long after their official end-of-life. As a Senior/Staff Developer Advocate, you will have the unique opportunity to shape the conversation around legacy support, ensuring that critical systems remain robust and secure. If you are passionate about bridging the gap between legacy technology and modern operational demands, and you enjoy engaging with a dedicated developer community, we’d love to hear from you.</p><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul> <li>A strong focus on&nbsp;<strong>professional development</strong>&nbsp;with opportunities for&nbsp;<strong>learning</strong>&nbsp;and&nbsp;<strong>growth</strong>:</li> <ul> <li> <strong>Interesting</strong>&nbsp;and&nbsp;<strong>challenging projects</strong>,</li> <li> <strong>Mentor</strong>&nbsp;and other&nbsp;<strong>knowledge-exchange programs</strong>,</li> </ul> <li>Fully&nbsp;<strong>remote work</strong>&nbsp;with&nbsp;<strong>flexible working hours</strong>, allowing you to&nbsp;<strong>schedule your day</strong>&nbsp;and&nbsp;<strong>work from any location worldwide</strong>,</li> <li> <strong>Paid</strong>&nbsp;<strong>24 days of vacation</strong>&nbsp;per year,&nbsp;<strong>10 days of national holidays</strong>, and&nbsp;<strong>unlimited sick leaves</strong>&nbsp;to ensure you maintain a&nbsp;<strong>healthy work-life balance </strong> </li> <li> <strong>Compensation</strong>&nbsp;for&nbsp;<strong>private medical insurance</strong>,</li> <li> <strong>Co-working</strong>&nbsp;and&nbsp;<strong>gym/sports reimbursement</strong>,</li> <li>The opportunity to receive a&nbsp;<strong>reward</strong>&nbsp;for the most&nbsp;<strong>innovative idea</strong>&nbsp;that the company can&nbsp;<strong>patent</strong> fostering a culture of&nbsp;<strong>creativity</strong>&nbsp;and&nbsp;<strong>innovation</strong>.</li> </ul><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior/Staff Developer Advocate - PHP Ecosystem (remote-only opportunity)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/j/B1D02B58C1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>TuxCare is hiring a Senior/Staff Developer Advocate for the PHP ecosystem to shape how SecureChain is integrated into the modern frontend supply chain.</p><p>You’ll serve as the bridge between PHP developers, TuxCare’s product, and the broader PHP ecosystem—educating internal teams on how packages flow through modern toolchains, guiding implementation of SBOM verification and artifact trust, and helping TuxCare become the trusted source for secure PHP artifacts.</p><h3>Key Responsibilities</h3><ul> <li><h3>Educate TuxCare on the PHP Ecosystem</h3></li> <ul> <li>Teach internal teams how the PHP ecosystem handles packaging, distribution, versioning, and dependency resolution.</li> <li>Document real-world practices around SBOMs, CI/CD integration, and common threat models.</li> <li>Analyze existing tooling (Composer, Packagist, SCA vendors) and identify ecosystem-specific attack surfaces and gaps.</li> </ul> <li><h3>Guide SecureChain Implementation</h3></li> <ul> <li>Work closely with engineering to define what SecureChain means for PHP developers: SBOMs, trusted artifact delivery, reproducibility, etc.</li> <li>Design reference implementations and developer-facing docs that show how to use SecureChain in real Composer projects.</li> </ul> <li><h3>Open Doors in the Ecosystem</h3></li> <ul> <li>Use your network to establish relationships with OSS maintainers, vendors, and key platforms (e.g., Packagist, hosting providers).</li> <li>Explore strategic partnerships that position TuxCare as the official provider of LTS artifacts post-EOL.</li> <li>Drive integrations with security tools and registries that can consume TuxCare's secure artifact stream.</li> </ul> <li><h3>Drive Awareness through Developer Engagement</h3></li> <ul> <li>Create technical content: blog posts, conference talks, documentation, YouTube videos—wherever PHP developers hang out.</li> <li>Represent TuxCare at events and in online communities as a trusted voice on secure PHP delivery.</li> <li>Help developers understand how to adopt SecureChain tools and workflows in their everyday projects.</li> </ul> </ul><p><strong>Requirements</strong></p><h3>What You’ll Bring</h3><ul> <li>Strong technical experience with PHP and its ecosystem: Composer, PHP-FIG standards, frameworks, CI/CD.</li> <li>Proven experience advocating for or building secure developer workflows.</li> <li>A track record of speaking, writing, or leading community education efforts.</li> <li>Ability to move fluidly between developer conversations and product strategy.</li> <li>Comfortable working cross-functionally with engineering, product, and marketing.</li> </ul><p></p><h3>Why TuxCare?</h3><p>At TuxCare, our mission is to empower organizations by providing continuous support for PHP projects long after their official end-of-life. As a Senior/Staff Developer Advocate you will have the unique opportunity to shape the conversation around legacy support, ensuring that critical systems remain robust and secure. If you are passionate about bridging the gap between legacy technology and modern operational demands, and you enjoy engaging with a dedicated developer community, we’d love to hear from you.</p><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul> <li>A strong focus on&nbsp;<strong>professional development</strong>&nbsp;with opportunities for&nbsp;<strong>learning</strong>&nbsp;and&nbsp;<strong>growth</strong>:</li> <ul> <li> <strong>Interesting</strong>&nbsp;and&nbsp;<strong>challenging projects</strong>,</li> <li> <strong>Mentor</strong>&nbsp;and other&nbsp;<strong>knowledge-exchange programs</strong>,</li> </ul> <li>Fully&nbsp;<strong>remote work</strong>&nbsp;with&nbsp;<strong>flexible working hours</strong>, allowing you to&nbsp;<strong>schedule your day</strong>&nbsp;and&nbsp;<strong>work from any location worldwide</strong>,</li> <li> <strong>Paid</strong>&nbsp;<strong>24 days of vacation</strong>&nbsp;per year,&nbsp;<strong>10 days of national holidays</strong>, and&nbsp;<strong>unlimited sick leaves</strong>&nbsp;to ensure you maintain a&nbsp;<strong>healthy work-life balance </strong> </li> <li> <strong>Compensation</strong>&nbsp;for&nbsp;<strong>private medical insurance</strong>,</li> <li> <strong>Co-working</strong>&nbsp;and&nbsp;<strong>gym/sports reimbursement</strong>,</li> <li>The opportunity to receive a&nbsp;<strong>reward</strong>&nbsp;for the most&nbsp;<strong>innovative idea</strong>&nbsp;that the company can&nbsp;<strong>patent</strong> fostering a culture of&nbsp;<strong>creativity</strong>&nbsp;and&nbsp;<strong>innovation</strong>.</li> </ul><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior/Staff Developer Advocate - PHP Ecosystem (remote-only opportunity)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/j/B1D02B58C1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>TuxCare is hiring a Senior/Staff Developer Advocate for the PHP ecosystem to shape how SecureChain is integrated into the modern frontend supply chain.</p><p>You’ll serve as the bridge between PHP developers, TuxCare’s product, and the broader PHP ecosystem—educating internal teams on how packages flow through modern toolchains, guiding implementation of SBOM verification and artifact trust, and helping TuxCare become the trusted source for secure PHP artifacts.</p><h3>Key Responsibilities</h3><ul> <li><h3>Educate TuxCare on the PHP Ecosystem</h3></li> <ul> <li>Teach internal teams how the PHP ecosystem handles packaging, distribution, versioning, and dependency resolution.</li> <li>Document real-world practices around SBOMs, CI/CD integration, and common threat models.</li> <li>Analyze existing tooling (Composer, Packagist, SCA vendors) and identify ecosystem-specific attack surfaces and gaps.</li> </ul> <li><h3>Guide SecureChain Implementation</h3></li> <ul> <li>Work closely with engineering to define what SecureChain means for PHP developers: SBOMs, trusted artifact delivery, reproducibility, etc.</li> <li>Design reference implementations and developer-facing docs that show how to use SecureChain in real Composer projects.</li> </ul> <li><h3>Open Doors in the Ecosystem</h3></li> <ul> <li>Use your network to establish relationships with OSS maintainers, vendors, and key platforms (e.g., Packagist, hosting providers).</li> <li>Explore strategic partnerships that position TuxCare as the official provider of LTS artifacts post-EOL.</li> <li>Drive integrations with security tools and registries that can consume TuxCare's secure artifact stream.</li> </ul> <li><h3>Drive Awareness through Developer Engagement</h3></li> <ul> <li>Create technical content: blog posts, conference talks, documentation, YouTube videos—wherever PHP developers hang out.</li> <li>Represent TuxCare at events and in online communities as a trusted voice on secure PHP delivery.</li> <li>Help developers understand how to adopt SecureChain tools and workflows in their everyday projects.</li> </ul> </ul><p><strong>Requirements</strong></p><h3>What You’ll Bring</h3><ul> <li>Strong technical experience with PHP and its ecosystem: Composer, PHP-FIG standards, frameworks, CI/CD.</li> <li>Proven experience advocating for or building secure developer workflows.</li> <li>A track record of speaking, writing, or leading community education efforts.</li> <li>Ability to move fluidly between developer conversations and product strategy.</li> <li>Comfortable working cross-functionally with engineering, product, and marketing.</li> </ul><p></p><h3>Why TuxCare?</h3><p>At TuxCare, our mission is to empower organizations by providing continuous support for PHP projects long after their official end-of-life. As a Senior/Staff Developer Advocate you will have the unique opportunity to shape the conversation around legacy support, ensuring that critical systems remain robust and secure. If you are passionate about bridging the gap between legacy technology and modern operational demands, and you enjoy engaging with a dedicated developer community, we’d love to hear from you.</p><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul> <li>A strong focus on&nbsp;<strong>professional development</strong>&nbsp;with opportunities for&nbsp;<strong>learning</strong>&nbsp;and&nbsp;<strong>growth</strong>:</li> <ul> <li> <strong>Interesting</strong>&nbsp;and&nbsp;<strong>challenging projects</strong>,</li> <li> <strong>Mentor</strong>&nbsp;and other&nbsp;<strong>knowledge-exchange programs</strong>,</li> </ul> <li>Fully&nbsp;<strong>remote work</strong>&nbsp;with&nbsp;<strong>flexible working hours</strong>, allowing you to&nbsp;<strong>schedule your day</strong>&nbsp;and&nbsp;<strong>work from any location worldwide</strong>,</li> <li> <strong>Paid</strong>&nbsp;<strong>24 days of vacation</strong>&nbsp;per year,&nbsp;<strong>10 days of national holidays</strong>, and&nbsp;<strong>unlimited sick leaves</strong>&nbsp;to ensure you maintain a&nbsp;<strong>healthy work-life balance </strong> </li> <li> <strong>Compensation</strong>&nbsp;for&nbsp;<strong>private medical insurance</strong>,</li> <li> <strong>Co-working</strong>&nbsp;and&nbsp;<strong>gym/sports reimbursement</strong>,</li> <li>The opportunity to receive a&nbsp;<strong>reward</strong>&nbsp;for the most&nbsp;<strong>innovative idea</strong>&nbsp;that the company can&nbsp;<strong>patent</strong> fostering a culture of&nbsp;<strong>creativity</strong>&nbsp;and&nbsp;<strong>innovation</strong>.</li> </ul><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior/Staff Developer Advocate - PHP Ecosystem (remote-only opportunity)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/j/B1D02B58C1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>TuxCare is hiring a Senior/Staff Developer Advocate for the PHP ecosystem to shape how SecureChain is integrated into the modern frontend supply chain.</p><p>You’ll serve as the bridge between PHP developers, TuxCare’s product, and the broader PHP ecosystem—educating internal teams on how packages flow through modern toolchains, guiding implementation of SBOM verification and artifact trust, and helping TuxCare become the trusted source for secure PHP artifacts.</p><h3>Key Responsibilities</h3><ul> <li><h3>Educate TuxCare on the PHP Ecosystem</h3></li> <ul> <li>Teach internal teams how the PHP ecosystem handles packaging, distribution, versioning, and dependency resolution.</li> <li>Document real-world practices around SBOMs, CI/CD integration, and common threat models.</li> <li>Analyze existing tooling (Composer, Packagist, SCA vendors) and identify ecosystem-specific attack surfaces and gaps.</li> </ul> <li><h3>Guide SecureChain Implementation</h3></li> <ul> <li>Work closely with engineering to define what SecureChain means for PHP developers: SBOMs, trusted artifact delivery, reproducibility, etc.</li> <li>Design reference implementations and developer-facing docs that show how to use SecureChain in real Composer projects.</li> </ul> <li><h3>Open Doors in the Ecosystem</h3></li> <ul> <li>Use your network to establish relationships with OSS maintainers, vendors, and key platforms (e.g., Packagist, hosting providers).</li> <li>Explore strategic partnerships that position TuxCare as the official provider of LTS artifacts post-EOL.</li> <li>Drive integrations with security tools and registries that can consume TuxCare's secure artifact stream.</li> </ul> <li><h3>Drive Awareness through Developer Engagement</h3></li> <ul> <li>Create technical content: blog posts, conference talks, documentation, YouTube videos—wherever PHP developers hang out.</li> <li>Represent TuxCare at events and in online communities as a trusted voice on secure PHP delivery.</li> <li>Help developers understand how to adopt SecureChain tools and workflows in their everyday projects.</li> </ul> </ul><p><strong>Requirements</strong></p><h3>What You’ll Bring</h3><ul> <li>Strong technical experience with PHP and its ecosystem: Composer, PHP-FIG standards, frameworks, CI/CD.</li> <li>Proven experience advocating for or building secure developer workflows.</li> <li>A track record of speaking, writing, or leading community education efforts.</li> <li>Ability to move fluidly between developer conversations and product strategy.</li> <li>Comfortable working cross-functionally with engineering, product, and marketing.</li> </ul><p></p><h3>Why TuxCare?</h3><p>At TuxCare, our mission is to empower organizations by providing continuous support for PHP projects long after their official end-of-life. As a Senior/Staff Developer Advocate you will have the unique opportunity to shape the conversation around legacy support, ensuring that critical systems remain robust and secure. If you are passionate about bridging the gap between legacy technology and modern operational demands, and you enjoy engaging with a dedicated developer community, we’d love to hear from you.</p><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul> <li>A strong focus on&nbsp;<strong>professional development</strong>&nbsp;with opportunities for&nbsp;<strong>learning</strong>&nbsp;and&nbsp;<strong>growth</strong>:</li> <ul> <li> <strong>Interesting</strong>&nbsp;and&nbsp;<strong>challenging projects</strong>,</li> <li> <strong>Mentor</strong>&nbsp;and other&nbsp;<strong>knowledge-exchange programs</strong>,</li> </ul> <li>Fully&nbsp;<strong>remote work</strong>&nbsp;with&nbsp;<strong>flexible working hours</strong>, allowing you to&nbsp;<strong>schedule your day</strong>&nbsp;and&nbsp;<strong>work from any location worldwide</strong>,</li> <li> <strong>Paid</strong>&nbsp;<strong>24 days of vacation</strong>&nbsp;per year,&nbsp;<strong>10 days of national holidays</strong>, and&nbsp;<strong>unlimited sick leaves</strong>&nbsp;to ensure you maintain a&nbsp;<strong>healthy work-life balance </strong> </li> <li> <strong>Compensation</strong>&nbsp;for&nbsp;<strong>private medical insurance</strong>,</li> <li> <strong>Co-working</strong>&nbsp;and&nbsp;<strong>gym/sports reimbursement</strong>,</li> <li>The opportunity to receive a&nbsp;<strong>reward</strong>&nbsp;for the most&nbsp;<strong>innovative idea</strong>&nbsp;that the company can&nbsp;<strong>patent</strong> fostering a culture of&nbsp;<strong>creativity</strong>&nbsp;and&nbsp;<strong>innovation</strong>.</li> </ul><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior/Staff Developer Advocate - PHP Ecosystem (remote-only opportunity)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/j/B1D02B58C1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>TuxCare is hiring a Senior/Staff Developer Advocate for the PHP ecosystem to shape how SecureChain is integrated into the modern frontend supply chain.</p><p>You’ll serve as the bridge between PHP developers, TuxCare’s product, and the broader PHP ecosystem—educating internal teams on how packages flow through modern toolchains, guiding implementation of SBOM verification and artifact trust, and helping TuxCare become the trusted source for secure PHP artifacts.</p><h3>Key Responsibilities</h3><ul> <li><h3>Educate TuxCare on the PHP Ecosystem</h3></li> <ul> <li>Teach internal teams how the PHP ecosystem handles packaging, distribution, versioning, and dependency resolution.</li> <li>Document real-world practices around SBOMs, CI/CD integration, and common threat models.</li> <li>Analyze existing tooling (Composer, Packagist, SCA vendors) and identify ecosystem-specific attack surfaces and gaps.</li> </ul> <li><h3>Guide SecureChain Implementation</h3></li> <ul> <li>Work closely with engineering to define what SecureChain means for PHP developers: SBOMs, trusted artifact delivery, reproducibility, etc.</li> <li>Design reference implementations and developer-facing docs that show how to use SecureChain in real Composer projects.</li> </ul> <li><h3>Open Doors in the Ecosystem</h3></li> <ul> <li>Use your network to establish relationships with OSS maintainers, vendors, and key platforms (e.g., Packagist, hosting providers).</li> <li>Explore strategic partnerships that position TuxCare as the official provider of LTS artifacts post-EOL.</li> <li>Drive integrations with security tools and registries that can consume TuxCare's secure artifact stream.</li> </ul> <li><h3>Drive Awareness through Developer Engagement</h3></li> <ul> <li>Create technical content: blog posts, conference talks, documentation, YouTube videos—wherever PHP developers hang out.</li> <li>Represent TuxCare at events and in online communities as a trusted voice on secure PHP delivery.</li> <li>Help developers understand how to adopt SecureChain tools and workflows in their everyday projects.</li> </ul> </ul><p><strong>Requirements</strong></p><h3>What You’ll Bring</h3><ul> <li>Strong technical experience with PHP and its ecosystem: Composer, PHP-FIG standards, frameworks, CI/CD.</li> <li>Proven experience advocating for or building secure developer workflows.</li> <li>A track record of speaking, writing, or leading community education efforts.</li> <li>Ability to move fluidly between developer conversations and product strategy.</li> <li>Comfortable working cross-functionally with engineering, product, and marketing.</li> </ul><p></p><h3>Why TuxCare?</h3><p>At TuxCare, our mission is to empower organizations by providing continuous support for PHP projects long after their official end-of-life. As a Senior/Staff Developer Advocate you will have the unique opportunity to shape the conversation around legacy support, ensuring that critical systems remain robust and secure. If you are passionate about bridging the gap between legacy technology and modern operational demands, and you enjoy engaging with a dedicated developer community, we’d love to hear from you.</p><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul> <li>A strong focus on&nbsp;<strong>professional development</strong>&nbsp;with opportunities for&nbsp;<strong>learning</strong>&nbsp;and&nbsp;<strong>growth</strong>:</li> <ul> <li> <strong>Interesting</strong>&nbsp;and&nbsp;<strong>challenging projects</strong>,</li> <li> <strong>Mentor</strong>&nbsp;and other&nbsp;<strong>knowledge-exchange programs</strong>,</li> </ul> <li>Fully&nbsp;<strong>remote work</strong>&nbsp;with&nbsp;<strong>flexible working hours</strong>, allowing you to&nbsp;<strong>schedule your day</strong>&nbsp;and&nbsp;<strong>work from any location worldwide</strong>,</li> <li> <strong>Paid</strong>&nbsp;<strong>24 days of vacation</strong>&nbsp;per year,&nbsp;<strong>10 days of national holidays</strong>, and&nbsp;<strong>unlimited sick leaves</strong>&nbsp;to ensure you maintain a&nbsp;<strong>healthy work-life balance </strong> </li> <li> <strong>Compensation</strong>&nbsp;for&nbsp;<strong>private medical insurance</strong>,</li> <li> <strong>Co-working</strong>&nbsp;and&nbsp;<strong>gym/sports reimbursement</strong>,</li> <li>The opportunity to receive a&nbsp;<strong>reward</strong>&nbsp;for the most&nbsp;<strong>innovative idea</strong>&nbsp;that the company can&nbsp;<strong>patent</strong> fostering a culture of&nbsp;<strong>creativity</strong>&nbsp;and&nbsp;<strong>innovation</strong>.</li> </ul><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior/Staff Developer Advocate - PHP Ecosystem (remote-only opportunity)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/j/B1D02B58C1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>TuxCare is hiring a Senior/Staff Developer Advocate for the PHP ecosystem to shape how SecureChain is integrated into the modern frontend supply chain.</p><p>You’ll serve as the bridge between PHP developers, TuxCare’s product, and the broader PHP ecosystem—educating internal teams on how packages flow through modern toolchains, guiding implementation of SBOM verification and artifact trust, and helping TuxCare become the trusted source for secure PHP artifacts.</p><h3>Key Responsibilities</h3><ul> <li><h3>Educate TuxCare on the PHP Ecosystem</h3></li> <ul> <li>Teach internal teams how the PHP ecosystem handles packaging, distribution, versioning, and dependency resolution.</li> <li>Document real-world practices around SBOMs, CI/CD integration, and common threat models.</li> <li>Analyze existing tooling (Composer, Packagist, SCA vendors) and identify ecosystem-specific attack surfaces and gaps.</li> </ul> <li><h3>Guide SecureChain Implementation</h3></li> <ul> <li>Work closely with engineering to define what SecureChain means for PHP developers: SBOMs, trusted artifact delivery, reproducibility, etc.</li> <li>Design reference implementations and developer-facing docs that show how to use SecureChain in real Composer projects.</li> </ul> <li><h3>Open Doors in the Ecosystem</h3></li> <ul> <li>Use your network to establish relationships with OSS maintainers, vendors, and key platforms (e.g., Packagist, hosting providers).</li> <li>Explore strategic partnerships that position TuxCare as the official provider of LTS artifacts post-EOL.</li> <li>Drive integrations with security tools and registries that can consume TuxCare's secure artifact stream.</li> </ul> <li><h3>Drive Awareness through Developer Engagement</h3></li> <ul> <li>Create technical content: blog posts, conference talks, documentation, YouTube videos—wherever PHP developers hang out.</li> <li>Represent TuxCare at events and in online communities as a trusted voice on secure PHP delivery.</li> <li>Help developers understand how to adopt SecureChain tools and workflows in their everyday projects.</li> </ul> </ul><p><strong>Requirements</strong></p><h3>What You’ll Bring</h3><ul> <li>Strong technical experience with PHP and its ecosystem: Composer, PHP-FIG standards, frameworks, CI/CD.</li> <li>Proven experience advocating for or building secure developer workflows.</li> <li>A track record of speaking, writing, or leading community education efforts.</li> <li>Ability to move fluidly between developer conversations and product strategy.</li> <li>Comfortable working cross-functionally with engineering, product, and marketing.</li> </ul><p></p><h3>Why TuxCare?</h3><p>At TuxCare, our mission is to empower organizations by providing continuous support for PHP projects long after their official end-of-life. As a Senior/Staff Developer Advocate you will have the unique opportunity to shape the conversation around legacy support, ensuring that critical systems remain robust and secure. If you are passionate about bridging the gap between legacy technology and modern operational demands, and you enjoy engaging with a dedicated developer community, we’d love to hear from you.</p><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul> <li>A strong focus on&nbsp;<strong>professional development</strong>&nbsp;with opportunities for&nbsp;<strong>learning</strong>&nbsp;and&nbsp;<strong>growth</strong>:</li> <ul> <li> <strong>Interesting</strong>&nbsp;and&nbsp;<strong>challenging projects</strong>,</li> <li> <strong>Mentor</strong>&nbsp;and other&nbsp;<strong>knowledge-exchange programs</strong>,</li> </ul> <li>Fully&nbsp;<strong>remote work</strong>&nbsp;with&nbsp;<strong>flexible working hours</strong>, allowing you to&nbsp;<strong>schedule your day</strong>&nbsp;and&nbsp;<strong>work from any location worldwide</strong>,</li> <li> <strong>Paid</strong>&nbsp;<strong>24 days of vacation</strong>&nbsp;per year,&nbsp;<strong>10 days of national holidays</strong>, and&nbsp;<strong>unlimited sick leaves</strong>&nbsp;to ensure you maintain a&nbsp;<strong>healthy work-life balance </strong> </li> <li> <strong>Compensation</strong>&nbsp;for&nbsp;<strong>private medical insurance</strong>,</li> <li> <strong>Co-working</strong>&nbsp;and&nbsp;<strong>gym/sports reimbursement</strong>,</li> <li>The opportunity to receive a&nbsp;<strong>reward</strong>&nbsp;for the most&nbsp;<strong>innovative idea</strong>&nbsp;that the company can&nbsp;<strong>patent</strong> fostering a culture of&nbsp;<strong>creativity</strong>&nbsp;and&nbsp;<strong>innovation</strong>.</li> </ul><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
