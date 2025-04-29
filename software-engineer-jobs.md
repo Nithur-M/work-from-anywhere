@@ -10,7 +10,7 @@
                     <code>api,CSS,frontend,html</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-infrastructure-team-1989176" align="right" target="_blank">Apply</a>
@@ -89,7 +89,7 @@
                     <code>C,C++,javascript,blockchain</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-c-1996157" align="right" target="_blank">Apply</a>
@@ -159,7 +159,7 @@ transitioning models from research to production environments.</p></li><li style
                     <code>.Net,javascript,python,saas</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1991695" align="right" target="_blank">Apply</a>
@@ -221,130 +221,6 @@ transitioning models from research to production environments.</p></li><li style
 <p><strong>Note:</strong><br>This is <em>not</em> for junior devs or people who need hand-holding. It’s for builders who know how to ship and want to join real teams without corporate BS. We recruit continiously so feel free to apply at any point of time!</p>
 <p><strong>Ready to work smarter, faster — and get paid well for it? Please apply</strong></p>
 <img src="https://remotive.com/job/track/1991695/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/10557747?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Kit</h5>
-                    <h3>Senior Software Engineer - Reporting</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/kit/jobs/4698592007" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;h4&gt;Description&lt;/h4&gt;
-&lt;div&gt;
-&lt;p class=&quot;p1&quot;&gt;Kit is an email-first operating system for creators who mean business. We help creators grow and monetize their audience with ease. For coaches, YouTubers, authors, podcasters, and other creatives, there isn’t a better marketing hub to rely on to grow audiences, automate email marketing, and sell digital products - all within one platform. More importantly, there isn’t a team more committed to helping creators earn a living.&lt;/p&gt;
-&lt;p&gt;We’re on a mission to help creators earn $1 billion using our creator marketing platform. We have always been 100% independent and 100% remote. We are proud to have built a product that our customers love, and we look for people who have enthusiasm and belief in our mission, vision, and values to join our team.&lt;/p&gt;
-&lt;p&gt;The Kit culture is one where emotional intelligence is valued, radical candor is encouraged, and where everyone works together to uphold a set of shared team principles.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;The role&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;We believe the creator economy is powered by genuine value creation. As our Senior Software Engineer, you&#39;ll help creators build more valuable businesses by leading the evolution of our reporting functionality, enabling them to gain powerful, actionable insights into their businesses. You&#39;ll join a collaborative team of engineers responsible for providing in-app business analytics to our creators, building a scalable full-stack framework to power actionable insights.&lt;/p&gt;
-&lt;p&gt;This is a hands-on role for someone who loves Ruby, thrives in legacy codebases, and thinks like a systems architect. You&#39;ll collaborate across product, engineering, and design to ship large, complex projects—everything from architecting scalable backend solutions to refining the frontend presentation of metrics and visualizations.&lt;/p&gt;
-&lt;p&gt;We need someone with a can-do attitude who can navigate complex technical challenges and push through obstacles. You&#39;ll encounter ambiguity and difficult problems, but your determination and resourcefulness will help you overcome these hurdles to deliver exceptional results for our creators.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p style=&quot;line-height: 1;&quot;&gt;&lt;strong&gt;Your support system&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;You&#39;ll work closely with product, engineering, and design to build features end-to-end. From planning to implementation, deployment, and monitoring, you&#39;ll have partners throughout the organization focused on delivering value to creators. To learn more about how our engineering team works, you can peruse &lt;a href=&quot;https://engineering.kit.com/&quot;&gt;our engineering blog&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h3&gt;What you’ll do&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;First week:&lt;/strong&gt; Dive into our codebase, systems, and workflows. Take part in Get To Know You&#39;s (GTKYs) to meet our distributed team.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;First month:&lt;/strong&gt; Assess our current reporting functionality and architecture. Begin collaborating with teams to understand creator needs for actionable insights and identify opportunities for improvement.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;First three to six months:&lt;/strong&gt; Architect and implement robust, scalable full-stack solutions for reporting and data visualization. Navigate and improve our legacy Rails codebase while bringing a systems-thinking approach to building for scale and maintainability. Lead technical projects and migrations to completion. Continuously identify and resolve performance bottlenecks across the stack. Actively mentor engineers and share your knowledge with empathy. Drive innovation in how creators understand and grow their businesses through data.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;What will S.E.T. you up for success&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Deep expertise in Ruby on Rails&lt;/li&gt;
-&lt;li&gt;Experience with React for building high-performance user interfaces&lt;/li&gt;
-&lt;li&gt;Knowledge of working with Design Systems&lt;/li&gt;
-&lt;li&gt;Passion for data visualization and turning raw data into clear, actionable insights&lt;/li&gt;
-&lt;li&gt;Ability to work with large datasets, ideally using OLAP systems or tools like D3&lt;/li&gt;
-&lt;li&gt;Confidence working across a legacy codebase and understanding how to evolve it safely&lt;/li&gt;
-&lt;li&gt;Experience across domains like databases, billing, or analytics&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Experiences&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Delivering large, complex technical projects, including migrations and system refactors&lt;/li&gt;
-&lt;li&gt;Writing code that is accessible, maintainable, and scalable&lt;/li&gt;
-&lt;li&gt;Building strong cross-functional partnerships, especially with Product and Design&lt;/li&gt;
-&lt;li&gt;Communicating clearly and concisely—tailoring messages to the audience and driving clarity&lt;/li&gt;
-&lt;li&gt;Delivering feedback with empathy and coming up with solutions&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Traits&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;You&#39;re a systems thinker who considers architecture, performance, and long-term maintainability&lt;/li&gt;
-&lt;li&gt;You have a bias for action and take initiative to keep work moving&lt;/li&gt;
-&lt;li&gt;You&#39;re invested in team processes, documentation, mentoring, and pairing&lt;/li&gt;
-&lt;li&gt;You bring humility and care to your leadership and mentoring&lt;/li&gt;
-&lt;li&gt;You&#39;re curious, thoughtful, and enjoy solving complex challenges&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Nice to Haves&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Familiarity with D3 or other data visualization libraries&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What won&#39;t set you up for success&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Needing highly structured work with detailed specifications—we operate in a dynamic environment that requires adaptability and comfort with ambiguity&lt;/li&gt;
-&lt;li&gt;Preferring to work in isolation—our collaborative approach means regular interaction with cross-functional teams&lt;/li&gt;
-&lt;li&gt;Looking for a role where you can just write code without considering broader systems and business implications&lt;/li&gt;
-&lt;li&gt;Wanting to avoid legacy code—we value our codebase history and need engineers who can respectfully evolve rather than rewrite everything&lt;/li&gt;
-&lt;li&gt;Expecting to specialize in only frontend or backend—this full-stack role requires expertise across the entire application stack&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h4&gt;&lt;strong&gt;Compensation + perks + benefits&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;Kit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 4 ($181,000), out of five levels. Level is determined based on experience and our interview process.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Perks + benefits include:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;
-&lt;div&gt;&lt;a class=&quot;c-link&quot; href=&quot;https://www.linkedin.com/posts/nathanbarry_convertkit-compensation-model-activity-6991414959247147008-i9V3/?utm_source=share&amp;amp;utm_medium=member_desktop&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.linkedin.com/posts/nathanbarry_convertkit-compensation-model-activity-6991414959247147008-i9V3/?utm_source=share&amp;amp;utm_medium=member_desktop&quot; data-sk=&quot;tooltip_parent&quot;&gt;Profit Sharing&lt;/a&gt;&lt;/div&gt;
-&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Kit equity&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;401k with a 5% match&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Monthly medical benefits up to $1,950 a month toward premiums. Dental and vision premiums covered 100%&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;$4,000 equipment allowance for your first two years, $3,000 budget every following two years&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Individual learning + development budget ($3,500/year)&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Gender affirming benefits&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Childcare benefit up to $3,000 annually&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Twenty (20) days of paid time off during each year of employment&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Paid paid vacation: An after-tax bonus of $1,000 for taking five consecutive days of vacation where you’re fully unplugged from work&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Ten (10) paid holidays a year&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Two weeks of paid sick time each year, including mental health + well being days&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Twelve (12) weeks paid parental leave and flexible scheduling in your child’s first year&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Up to six weeks of paid bereavement leave, medical leave, and disaster after six months of employment, two weeks of each paid leave in your first six months&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Winter Break Closure: Kit closes for a week at the end of December, giving everyone a collective break to enjoy the holiday season.&amp;nbsp;&lt;em data-stringify-type=&quot;italic&quot;&gt;Essential support services remain available, with teams coordinating to ensure coverage during this period&lt;/em&gt;&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Four-week, paid sabbatical after five years with the team&lt;/li&gt;
-&lt;li&gt;Fantastic in-person or virtual retreats with the team twice a year&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;We know that most people hate interviewing (we relate!). We aim to make it as good of an experience as we can, and part of that includes keeping you informed during the process.&lt;/p&gt;
-&lt;p&gt;Here’s what you can expect from the process:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;30 min - Recruiter screen&lt;/li&gt;
-&lt;li&gt;45 min - Hiring manager screen&lt;/li&gt;
-&lt;li&gt;Work Sample&lt;/li&gt;
-&lt;li&gt;60 min - Technical interview&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;60 min - Culture contribution chat&lt;/li&gt;
-&lt;li&gt;30 min - Hiring manager wrap-up&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;To get started, complete this application, including answers to the questions on the next page.&lt;strong&gt; We read every single application, and your responses to our application questions help put your experience into context. &lt;/strong&gt;We’ll keep you informed through every step&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Kit is an equal opportunity employer. We value diversity in all of its forms, and we hire the best person we can for each role, no matter your personal background. Research tells us that applicants who are female or non-binary, as well as applicants who are people of color, are less likely to apply for roles they do not feel 100% qualified for. If you think you meet more than 50% of our requirements but fewer than 100% of them, please apply. We’re imperfect communicators, so think of our job postings as the starting point for discussion rather than proof that you shouldn’t apply.&lt;/p&gt;
-&lt;p&gt;Kit does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
@@ -487,6 +363,130 @@ transitioning models from research to production environments.</p></li><li style
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://job-boards.greenhouse.io/kit/jobs/4692960007" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h4&gt;Description&lt;/h4&gt;
+&lt;div&gt;
+&lt;p class=&quot;p1&quot;&gt;Kit is an email-first operating system for creators who mean business. We help creators grow and monetize their audience with ease. For coaches, YouTubers, authors, podcasters, and other creatives, there isn’t a better marketing hub to rely on to grow audiences, automate email marketing, and sell digital products - all within one platform. More importantly, there isn’t a team more committed to helping creators earn a living.&lt;/p&gt;
+&lt;p&gt;We’re on a mission to help creators earn $1 billion using our creator marketing platform. We have always been 100% independent and 100% remote. We are proud to have built a product that our customers love, and we look for people who have enthusiasm and belief in our mission, vision, and values to join our team.&lt;/p&gt;
+&lt;p&gt;The Kit culture is one where emotional intelligence is valued, radical candor is encouraged, and where everyone works together to uphold a set of shared team principles.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;The role&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;We believe the creator economy is powered by genuine value creation. As our Senior Software Engineer, you&#39;ll help creators build more valuable businesses by leading the evolution of our reporting functionality, enabling them to gain powerful, actionable insights into their businesses. You&#39;ll join a collaborative team of engineers responsible for providing in-app business analytics to our creators, building a scalable full-stack framework to power actionable insights.&lt;/p&gt;
+&lt;p&gt;This is a hands-on role for someone who loves Ruby, thrives in legacy codebases, and thinks like a systems architect. You&#39;ll collaborate across product, engineering, and design to ship large, complex projects—everything from architecting scalable backend solutions to refining the frontend presentation of metrics and visualizations.&lt;/p&gt;
+&lt;p&gt;We need someone with a can-do attitude who can navigate complex technical challenges and push through obstacles. You&#39;ll encounter ambiguity and difficult problems, but your determination and resourcefulness will help you overcome these hurdles to deliver exceptional results for our creators.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;line-height: 1;&quot;&gt;&lt;strong&gt;Your support system&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You&#39;ll work closely with product, engineering, and design to build features end-to-end. From planning to implementation, deployment, and monitoring, you&#39;ll have partners throughout the organization focused on delivering value to creators. To learn more about how our engineering team works, you can peruse &lt;a href=&quot;https://engineering.kit.com/&quot;&gt;our engineering blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;What you’ll do&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;First week:&lt;/strong&gt; Dive into our codebase, systems, and workflows. Take part in Get To Know You&#39;s (GTKYs) to meet our distributed team.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;First month:&lt;/strong&gt; Assess our current reporting functionality and architecture. Begin collaborating with teams to understand creator needs for actionable insights and identify opportunities for improvement.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;First three to six months:&lt;/strong&gt; Architect and implement robust, scalable full-stack solutions for reporting and data visualization. Navigate and improve our legacy Rails codebase while bringing a systems-thinking approach to building for scale and maintainability. Lead technical projects and migrations to completion. Continuously identify and resolve performance bottlenecks across the stack. Actively mentor engineers and share your knowledge with empathy. Drive innovation in how creators understand and grow their businesses through data.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;What will S.E.T. you up for success&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deep expertise in Ruby on Rails&lt;/li&gt;
+&lt;li&gt;Experience with React for building high-performance user interfaces&lt;/li&gt;
+&lt;li&gt;Knowledge of working with Design Systems&lt;/li&gt;
+&lt;li&gt;Passion for data visualization and turning raw data into clear, actionable insights&lt;/li&gt;
+&lt;li&gt;Ability to work with large datasets, ideally using OLAP systems or tools like D3&lt;/li&gt;
+&lt;li&gt;Confidence working across a legacy codebase and understanding how to evolve it safely&lt;/li&gt;
+&lt;li&gt;Experience across domains like databases, billing, or analytics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Experiences&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Delivering large, complex technical projects, including migrations and system refactors&lt;/li&gt;
+&lt;li&gt;Writing code that is accessible, maintainable, and scalable&lt;/li&gt;
+&lt;li&gt;Building strong cross-functional partnerships, especially with Product and Design&lt;/li&gt;
+&lt;li&gt;Communicating clearly and concisely—tailoring messages to the audience and driving clarity&lt;/li&gt;
+&lt;li&gt;Delivering feedback with empathy and coming up with solutions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Traits&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You&#39;re a systems thinker who considers architecture, performance, and long-term maintainability&lt;/li&gt;
+&lt;li&gt;You have a bias for action and take initiative to keep work moving&lt;/li&gt;
+&lt;li&gt;You&#39;re invested in team processes, documentation, mentoring, and pairing&lt;/li&gt;
+&lt;li&gt;You bring humility and care to your leadership and mentoring&lt;/li&gt;
+&lt;li&gt;You&#39;re curious, thoughtful, and enjoy solving complex challenges&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nice to Haves&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Familiarity with D3 or other data visualization libraries&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What won&#39;t set you up for success&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Needing highly structured work with detailed specifications—we operate in a dynamic environment that requires adaptability and comfort with ambiguity&lt;/li&gt;
+&lt;li&gt;Preferring to work in isolation—our collaborative approach means regular interaction with cross-functional teams&lt;/li&gt;
+&lt;li&gt;Looking for a role where you can just write code without considering broader systems and business implications&lt;/li&gt;
+&lt;li&gt;Wanting to avoid legacy code—we value our codebase history and need engineers who can respectfully evolve rather than rewrite everything&lt;/li&gt;
+&lt;li&gt;Expecting to specialize in only frontend or backend—this full-stack role requires expertise across the entire application stack&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;Compensation + perks + benefits&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Kit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 4 ($181,000), out of five levels. Level is determined based on experience and our interview process.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Perks + benefits include:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;
+&lt;div&gt;&lt;a class=&quot;c-link&quot; href=&quot;https://www.linkedin.com/posts/nathanbarry_convertkit-compensation-model-activity-6991414959247147008-i9V3/?utm_source=share&amp;amp;utm_medium=member_desktop&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.linkedin.com/posts/nathanbarry_convertkit-compensation-model-activity-6991414959247147008-i9V3/?utm_source=share&amp;amp;utm_medium=member_desktop&quot; data-sk=&quot;tooltip_parent&quot;&gt;Profit Sharing&lt;/a&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Kit equity&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;401k with a 5% match&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Monthly medical benefits up to $1,950 a month toward premiums. Dental and vision premiums covered 100%&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;$4,000 equipment allowance for your first two years, $3,000 budget every following two years&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Individual learning + development budget ($3,500/year)&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Gender affirming benefits&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Childcare benefit up to $3,000 annually&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Twenty (20) days of paid time off during each year of employment&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Paid paid vacation: An after-tax bonus of $1,000 for taking five consecutive days of vacation where you’re fully unplugged from work&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Ten (10) paid holidays a year&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Two weeks of paid sick time each year, including mental health + well being days&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Twelve (12) weeks paid parental leave and flexible scheduling in your child’s first year&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Up to six weeks of paid bereavement leave, medical leave, and disaster after six months of employment, two weeks of each paid leave in your first six months&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Winter Break Closure: Kit closes for a week at the end of December, giving everyone a collective break to enjoy the holiday season.&amp;nbsp;&lt;em data-stringify-type=&quot;italic&quot;&gt;Essential support services remain available, with teams coordinating to ensure coverage during this period&lt;/em&gt;&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Four-week, paid sabbatical after five years with the team&lt;/li&gt;
+&lt;li&gt;Fantastic in-person or virtual retreats with the team twice a year&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;We know that most people hate interviewing (we relate!). We aim to make it as good of an experience as we can, and part of that includes keeping you informed during the process.&lt;/p&gt;
+&lt;p&gt;Here’s what you can expect from the process:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;30 min - Recruiter screen&lt;/li&gt;
+&lt;li&gt;45 min - Hiring manager screen&lt;/li&gt;
+&lt;li&gt;Work Sample&lt;/li&gt;
+&lt;li&gt;60 min - Technical interview&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;60 min - Culture contribution chat&lt;/li&gt;
+&lt;li&gt;30 min - Hiring manager wrap-up&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;To get started, complete this application, including answers to the questions on the next page.&lt;strong&gt; We read every single application, and your responses to our application questions help put your experience into context. &lt;/strong&gt;We’ll keep you informed through every step&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Kit is an equal opportunity employer. We value diversity in all of its forms, and we hire the best person we can for each role, no matter your personal background. Research tells us that applicants who are female or non-binary, as well as applicants who are people of color, are less likely to apply for roles they do not feel 100% qualified for. If you think you meet more than 50% of our requirements but fewer than 100% of them, please apply. We’re imperfect communicators, so think of our job postings as the starting point for discussion rather than proof that you shouldn’t apply.&lt;/p&gt;
+&lt;p&gt;Kit does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/10557747?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Kit</h5>
+                    <h3>Senior Software Engineer - Reporting</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/kit/jobs/4698592007" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -2089,30 +2089,6 @@ transitioning models from research to production environments.</p></li><li style
                 </td>
                 <td width="300">
                     <h5>Aiwyn</h5>
-                    <h3>Staff Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/aiwyn/de4fa392-835d-43e5-8deb-225a309b0cf5" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b>Who is Aiwyn and what do we do?</b></div><div><br></div><div>Aiwyn is the fastest-growing software company serving the accounting profession.&nbsp;Founded in 2020, we now work with 100+ of the largest CPA firms in the world.&nbsp;Our “Job to be done”: speed up cash flow, save Partner time, &amp; deliver best-in-class client experiences. We do this by automating day-to-day firm operations with our Practice Automation solutions. Aiwyn is led by serial entrepreneurs with multiple exits and funded by top-tier investors (Bessemer, KKR, &amp; Revolution). We're passionate about building a remarkable company with world-class people, processes, and technology.</div><div><br></div><div>To learn more, visit our <a rel="noopener noreferrer" class="postings-link" href="https://aiwyn.ai/"><b>website</b></a></div><div><b>Who is Aiwyn and what do we do?</b></div><div><br></div><div>Aiwyn is the fastest-growing software company serving the accounting profession.&nbsp;Founded in 2020, we now work with 100+ of the largest CPA firms in the world.&nbsp;Our “Job to be done”: speed up cash flow, save Partner time, &amp; deliver best-in-class client experiences. We do this by automating day-to-day firm operations with our Practice Automation solutions. Aiwyn is led by serial entrepreneurs with multiple exits and funded by top-tier investors (Bessemer, KKR, &amp; Revolution). We're passionate about building a remarkable company with world-class people, processes, and technology.</div><div><br></div><div>To learn more, visit our <a href="https://aiwyn.ai/" class="postings-link" target="_blank" rel="noopener noreferrer"><b>website</b></a></div><h3>What You'll Do:</h3><li><b>Technical Strategy &amp; Vision</b> - Help define and drive technical strategy across multiple teams or systems. Shape architectural decisions that impact major portions of our platform while ensuring scalability, reliability, and maintainability of our software.</li><li><b>Design &amp; Mentor</b> - Lead the design of complex technical solutions spanning multiple services and data pipelines. Mentor senior engineers, influence engineering practices, and drive technical excellence across the organization.</li><li><b>Solve &amp; Scale</b> - Tackle our most challenging optimization problems. Identify systemic issues, implement solutions that scale, and drive improvements in performance, reliability, and engineering efficiency.</li><h3>What We Need:</h3><li><b>Technical Leadership</b> - Exceptional engineering skills with deep expertise in Java/Kotlin and Spring Boot solutions. Proven ability to deliver complex, large-scale technical solutions leveraging cloud services. Experience making high-impact technical decisions that affect multiple data processing systems and teams.</li><li><b>Strategic Thinking</b> - Demonstrated ability to understand business context and translate it into technical strategy for engineering teams. Experience in making architectural decisions that balance immediate needs with long-term technical health of an ecosystem.</li><li><b>System Design</b> - Deep understanding of distributed systems and data pipeline architectures. Proven track record of designing and implementing system-wide improvements to ETL processes and data validation frameworks that significantly impact engineering efficiency.</li><li><b>Technical Influence</b> - Strong ability to influence technical direction across teams through mentorship in software development, technical documentation, and leadership. Experience in driving adoption of engineering best practices and standards across multiple teams.</li><li><b>Quality &amp; Testing Excellence</b> - Relentless focus on quality with deep expertise in test automation. Experience building robust test frameworks, implementing comprehensive testing strategies, and fostering a test-first development culture.&nbsp;</li><li><b>Cross-team Collaboration</b> - Track record of successfully driving technical initiatives that span multiple teams working on different aspects of a software platform. Ability to build consensus around technical decisions and navigate complex trade-offs.</li><li><b>Engineering Excellence</b> - Deep understanding of software engineering principles, with particular emphasis on data processing patterns and practices. Proven ability to establish and maintain high engineering standards while driving innovation.</li><li>The ability to travel occasionally for onsite Company meetings</li><h3>Preferred:</h3><li>12+ years of software engineering experience</li><li>Kotlin expertise</li><li>Expertise with Angular or other front end technologies</li><li>Expertise with large-scale Spring Boot architectures</li><li>Expertise in Google Cloud Platform services including BigQuery</li><li>Expertise in designing and building PostgreSQL databases</li><li>Expertise with data pipelines and ETL processes</li><li>Expertise in GraphQL architecture patterns and implementation</li><li>Experience building solutions that leverage LLMs</li><li>Expertise with continuous integration and deployment practices</li><li>Experience in technical risk assessment and mitigation in data-intensive systems</li><li>Background in mentoring senior engineers</li><h3>Why Work at Aiwyn?</h3><li>The big-picture value proposition of this role is simple: join us, and you'll be paid competitively to have freedom in solving worthwhile, challenging problems alongside other A-players at a fast-growing SaaS startup led by an experienced and successful team with industry experience.</li><div><br></div><div>Other benefits include:</div><li><b>Adventure travel stipend</b> - you receive a $1,000 travel reimbursement on your work anniversary each year. We encourage our team to recharge and explore the world beyond their home office walls.</li><li><b>Remote, work-from-anywhere culture</b></li><li><b>Flexible PTO</b></li><li><b>World Class health benefits</b> - we believe in fostering flourishing teams by providing benefits that go beyond the usual standards - Health, vision, dental, HSA/FSA, and mental health support.</li><li><b>Stock options</b> - every Full Time Employee has ownership in Aiwyn's future and success.</li><li><b>401(k) matching</b></li><h3>Our Values:</h3><li><b>Trust</b> - We champion transparency, welcome differing perspectives, uphold accountability, and trust that others have good intentions</li><li><b>Courage</b> - We have the courage to take calculated risks and embrace change, knowing what worked in the past won’t always work in the future</li><li><b>Impact</b> - Rooted in determination and innovation, we chase extraordinary outcomes and impactful results</li><li><b>Relentlessness</b> - We approach challenges with an unwavering resolve, never settling for mediocrity, and always striving to surpass expectations</li><h3>Learn more about Aiwyn</h3><li><b><a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/about">About us</a></b></li><li><b><a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/why-aiwyn">Why Aiwyn</a></b></li><li><b><a rel="noopener noreferrer" class="postings-link" href="https://www.youtube.com/@AiwynAI">YouTube page</a></b></li><div>Aiwyn is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.</div><div><br></div><div>Candidate information will be treated in accordance with our CCPA privacy notice which can be found here: <a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/ccpa">https://www.aiwyn.ai/ccpa</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://www.aiwyn.ai/hubfs/Aiwyn%20Favicon.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Aiwyn</h5>
                     <h3>Technical Lead Software Engineer</h3>
                 </td>
                 <td width="300">
@@ -2128,7 +2104,7 @@ transitioning models from research to production environments.</p></li><li style
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><b>Who is Aiwyn and what do we do?</b></div><div><br></div><div>Aiwyn is the fastest-growing software company serving the accounting profession.&nbsp;Founded in 2020, we now work with 100+ of the largest CPA firms in the world.&nbsp;Our “Job to be done”: speed up cash flow, save Partner time, &amp; deliver best-in-class client experiences. We do this by automating day-to-day firm operations with our Practice Automation solutions. Aiwyn is led by serial entrepreneurs with multiple exits and funded by a Top 10 fintech VC.</div><div><br></div><div>To learn more, visit our <b><a rel="noopener noreferrer" class="postings-link" href="https://aiwyn.ai/">website</a></b></div><div><b>Who is Aiwyn and what do we do?</b></div><div><br></div><div>Aiwyn is the fastest-growing software company serving the accounting profession.&nbsp;Founded in 2020, we now work with 100+ of the largest CPA firms in the world.&nbsp;Our “Job to be done”: speed up cash flow, save Partner time, &amp; deliver best-in-class client experiences. We do this by automating day-to-day firm operations with our Practice Automation solutions. Aiwyn is led by serial entrepreneurs with multiple exits and funded by a Top 10 fintech VC.</div><div><br></div><div>To learn more, visit our <b><a href="https://aiwyn.ai/" class="postings-link" target="_blank" rel="noopener noreferrer">website</a></b></div><h3>What You'll Do:</h3><li><b>Architect &amp; Build</b> - Drive architectural vision and technical direction while actively writing code. You'll balance feature delivery with code quality, tackle critical technical issues, and ensure solutions align with both short-term goals and long-term architecture.</li><li><b>Lead &amp; Execute</b> - Break down user stories into executable technical tasks, provide high-level estimates, and maintain engineering standards. You'll manage technical debt, drive effective planning, and ensure smooth delivery of features.</li><li><b>Partner &amp; Innovate</b> - Work closely with the Product Manager and Designer in the Product Trio to shape strategy, assess technical feasibility, and make critical decisions about trade-offs between business needs and technical complexity.</li><h3>What We Need:</h3><li><b>Technical Mastery</b> - Proficiency with Java/Kotlin, Spring Boot, underpinned by a strong foundation in OOP, functional programming, and software design principles. Must be able to decipher and understand the impact of code, and understand the topology and architecture of existing codebases.</li><li><b>Systems Thinking</b> - Strong capability to see the broader system's architecture and understand how changes impact various parts of the system. Ability to identify architectural pathways to improve delivery times without incurring unreasonable technical debt.</li><li><b>Engineering Standards</b> - Deep understanding of engineering standards, best practices, and code quality guidelines. Experience in maintaining and improving codebase health while delivering new features.</li><li><b>Technical Communication</b> - Excellent ability to document and communicate technical concepts, architecture decisions, and implementation plans to both technical and non-technical stakeholders.</li><li><b>Task Management</b> - Proven ability to decompose complex technical problems into smaller, manageable tasks and provide realistic timelines for feature delivery.</li><li><b>Business Acumen</b> - Understanding of business value and ability to pragmatically make decisions that optimize output while minimizing risk and technical debt.</li><li><b>Cross-functional Leadership</b> - Experience working as a technical point of contact across engineering, product, and design teams while maintaining clear communication channels.</li><li>The ability to travel occasionally for onsite Company meetings</li><h3>Preferred:</h3><li>Familiarity with Google Cloud</li><li>Experience with data pipeline technologies</li><li>Hands-on experience with ETL processes and tools</li><li>Knowledge of best practices in data integrity and validation</li><li>Track record of fostering innovation and experimentation with new tools and technologies</li><li>Background in mentoring and developing engineering team members</li><h3>Why Work at Aiwyn?</h3><li>The big-picture value proposition of this role is simple: join us, and you'll be paid competitively to have freedom in solving worthwhile, challenging problems alongside other A-players at a fast-growing SaaS startup led by an experienced and successful team with industry experience.</li><div><br></div><div>Other benefits include:</div><li><b>Adventure travel stipend</b> - you receive a $1,000 travel reimbursement on your work anniversary each year. We encourage our team to recharge and explore the world beyond their home office walls.</li><li><b>Remote, work-from-anywhere culture</b></li><li><b>Flexible PTO</b></li><li><b>World Class health benefits</b> - we believe in fostering flourishing teams by providing benefits that go beyond the usual standards - Health, vision, dental, HSA/FSA, and mental health support.</li><li><b>Stock options</b> - every Full Time Employee has ownership in Aiwyn's future and success.</li><li><b>401(k) matching</b></li><h3>Our Values:</h3><li><b>Trust</b> - We champion transparency, welcome differing perspectives, uphold accountability, and trust that others have good intentions</li><li><b>Courage</b> - We have the courage to take calculated risks and embrace change, knowing what worked in the past won’t always work in the future</li><li><b>Impact</b> - Rooted in determination and innovation, we chase extraordinary outcomes and impactful results</li><li><b>Relentlessness</b> - We approach challenges with an unwavering resolve, never settling for mediocrity, and always striving to surpass expectations</li><h3>Learn more about Aiwyn</h3><li><a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/about"><b>About us</b></a></li><li><a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/why-aiwyn"><b>Why Aiwyn</b></a></li><li><a rel="noopener noreferrer" class="postings-link" href="https://www.youtube.com/@AiwynAI"><b>YouTube page</b></a></li><div>Aiwyn is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.</div><div><br></div><div>Candidate information will be treated in accordance with our CCPA privacy notice which can be found here: <a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/ccpa">https://www.aiwyn.ai/ccpa</a></div>
+                <div><b>Who is Aiwyn and what do we do?</b></div><div><br></div><div>Aiwyn is the fastest-growing software company serving the accounting profession.&nbsp;Founded in 2020, we now work with 100+ of the largest CPA firms in the world.&nbsp;Our “Job to be done”: speed up cash flow, save Partner time, &amp; deliver best-in-class client experiences. We do this by automating day-to-day firm operations with our Practice Automation solutions. Aiwyn is led by serial entrepreneurs with multiple exits and funded by a Top 10 fintech VC.</div><div><br></div><div>To learn more, visit our <a rel="noopener noreferrer" class="postings-link" href="https://aiwyn.ai/"><b>website</b></a></div><div><b>Who is Aiwyn and what do we do?</b></div><div><br></div><div>Aiwyn is the fastest-growing software company serving the accounting profession.&nbsp;Founded in 2020, we now work with 100+ of the largest CPA firms in the world.&nbsp;Our “Job to be done”: speed up cash flow, save Partner time, &amp; deliver best-in-class client experiences. We do this by automating day-to-day firm operations with our Practice Automation solutions. Aiwyn is led by serial entrepreneurs with multiple exits and funded by a Top 10 fintech VC.</div><div><br></div><div>To learn more, visit our <a href="https://aiwyn.ai/" class="postings-link" target="_blank" rel="noopener noreferrer"><b>website</b></a></div><h3>What You'll Do:</h3><li><b>Architect &amp; Build</b> - Drive architectural vision and technical direction while actively writing code. You'll balance feature delivery with code quality, tackle critical technical issues, and ensure solutions align with both short-term goals and long-term architecture.</li><li><b>Lead &amp; Execute</b> - Break down user stories into executable technical tasks, provide high-level estimates, and maintain engineering standards. You'll manage technical debt, drive effective planning, and ensure smooth delivery of features.</li><li><b>Partner &amp; Innovate</b> - Work closely with the Product Manager and Designer in the Product Trio to shape strategy, assess technical feasibility, and make critical decisions about trade-offs between business needs and technical complexity.</li><h3>What We Need:</h3><li><b>Technical Mastery</b> - Proficiency with Java/Kotlin, Spring Boot, underpinned by a strong foundation in OOP, functional programming, and software design principles. Must be able to decipher and understand the impact of code, and understand the topology and architecture of existing codebases.</li><li><b>Systems Thinking</b> - Strong capability to see the broader system's architecture and understand how changes impact various parts of the system. Ability to identify architectural pathways to improve delivery times without incurring unreasonable technical debt.</li><li><b>Engineering Standards</b> - Deep understanding of engineering standards, best practices, and code quality guidelines. Experience in maintaining and improving codebase health while delivering new features.</li><li><b>Technical Communication</b> - Excellent ability to document and communicate technical concepts, architecture decisions, and implementation plans to both technical and non-technical stakeholders.</li><li><b>Task Management</b> - Proven ability to decompose complex technical problems into smaller, manageable tasks and provide realistic timelines for feature delivery.</li><li><b>Business Acumen</b> - Understanding of business value and ability to pragmatically make decisions that optimize output while minimizing risk and technical debt.</li><li><b>Cross-functional Leadership</b> - Experience working as a technical point of contact across engineering, product, and design teams while maintaining clear communication channels.</li><li>The ability to travel occasionally for onsite Company meetings</li><h3>Preferred:</h3><li>Familiarity with Google Cloud</li><li>Experience with data pipeline technologies</li><li>Hands-on experience with ETL processes and tools</li><li>Knowledge of best practices in data integrity and validation</li><li>Track record of fostering innovation and experimentation with new tools and technologies</li><li>Background in mentoring and developing engineering team members</li><h3>Why Work at Aiwyn?</h3><li>The big-picture value proposition of this role is simple: join us, and you'll be paid competitively to have freedom in solving worthwhile, challenging problems alongside other A-players at a fast-growing SaaS startup led by an experienced and successful team with industry experience.</li><div><br></div><div>Other benefits include:</div><li><b>Adventure travel stipend</b> - you receive a $1,000 travel reimbursement on your work anniversary each year. We encourage our team to recharge and explore the world beyond their home office walls.</li><li><b>Remote, work-from-anywhere culture</b></li><li><b>Flexible PTO</b></li><li><b>World Class health benefits</b> - we believe in fostering flourishing teams by providing benefits that go beyond the usual standards - Health, vision, dental, HSA/FSA, and mental health support.</li><li><b>Stock options</b> - every Full Time Employee has ownership in Aiwyn's future and success.</li><li><b>401(k) matching</b></li><h3>Our Values:</h3><li><b>Trust</b> - We champion transparency, welcome differing perspectives, uphold accountability, and trust that others have good intentions</li><li><b>Courage</b> - We have the courage to take calculated risks and embrace change, knowing what worked in the past won’t always work in the future</li><li><b>Impact</b> - Rooted in determination and innovation, we chase extraordinary outcomes and impactful results</li><li><b>Relentlessness</b> - We approach challenges with an unwavering resolve, never settling for mediocrity, and always striving to surpass expectations</li><h3>Learn more about Aiwyn</h3><li><b><a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/about">About us</a></b></li><li><b><a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/why-aiwyn">Why Aiwyn</a></b></li><li><b><a rel="noopener noreferrer" class="postings-link" href="https://www.youtube.com/@AiwynAI">YouTube page</a></b></li><div>Aiwyn is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.</div><div><br></div><div>Candidate information will be treated in accordance with our CCPA privacy notice which can be found here: <a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/ccpa">https://www.aiwyn.ai/ccpa</a></div>
                 </details>
                 </td>
             </tr>,<tr>
