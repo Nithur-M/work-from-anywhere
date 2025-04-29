@@ -1,120 +1,81 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1999050/logo" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1998737/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Spektrum</h5>
-                    <h3>C# Application Developer</h3>
+                    <h5>Xapo Bank</h5>
+                    <h3>Front-End Web Developer</h3>
                 </td>
                 <td width="300">
-                    <code>C#,SQL Server</code>
+                    <code>javascript,seo,github</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/c-application-developer-1999050" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/front-end-web-developer-1998737" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class='"content-intro"'>
-<p>Spektrum have a wide range of exciting opportunities in several global locations.</p>
-<p>We are always looking to add great new talent to our team and look forward to hearing from you.</p>
+<p>Work from anywhere, impact everywhere </p>
+<p>Diversity is at the heart of who we are at Xapo Bank. We’re a fully distributed team of over 140 Xapiens that work remotely from 40+ countries around the world. </p>
+<p>Our beginning: A world that enjoys economic freedom and wealth protection, no matter where you live or who is running your country.</p>
+<p>To achieve that, we search the world for the best people for the job. We work hard, think globally, and inspire each other to learn and grow. We are committed to changing the way things are done.</p>
+<p> </p>
+<p><strong>Risk is inherent in all of our business activities and managing risk well is the responsibility of every Xapien. Sound risk management enables us to serve our customers and deliver value for our shareholders, and helps make Xapo a great place to work.</strong></p>
+<p> </p>
+<p><em>Although we are headquartered in Gibraltar, this is a full time, 100% remote position <br></em><em>Work from anywhere!</em></p>
+<p> </p>
 </div>
-<p>Spektrum supports apex purchasers (NATO, UN, EU, and National Government and Defence) and their Tier 1 supplier ecosystem with a wide range of specialist services. We provide our clients with professional services, specialised aerospace and defence sales, delivery, and operational subject matter expertise. We are looking for personnel to join our team and support key client projects.</p>
-<hr>
-<p><strong>Who we are supporting</strong><strong> </strong></p>
-<p>The NATO Communication and Information Agency (NCIA) is responsible for providing secure and effective communications and information technology (IT) services to NATO's member countries and its partners. The agency was established in 2012 and is headquartered in Brussels, Belgium.</p>
-<p>The NCIA provides a wide range of services, including:</p>
+<p><strong>Position Overview: </strong></p>
+<p>We are looking for a Front-End Web Developer who is motivated to combine the art of design with the art of programming. Responsibilities will include translating design wireframes to actual code that will produce visual elements of the application. You will work with the product designer and marketing team to bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks and works. The primary focus will be on publicly-faced websites. Still, the person will contribute to internal back office UIs, building easy-to-use interfaces for internal teams in ever-evolving architecture. </p>
+<p><strong>Responsibilities: </strong></p>
 <ul style="">
-<li style="">Cyber Security: The NCIA provides advanced cybersecurity solutions to protect NATO's communication networks and information systems against cyber threats.</li>
-<li style="">Command and Control Systems: The NCIA develops and maintains the systems used by NATO's military commanders to plan and execute operations.</li>
-<li style="">Satellite Communications: The NCIA provides satellite communications services to enable secure and reliable communications between NATO forces.</li>
-<li style="">Electronic Warfare: The NCIA provides electronic warfare services to support NATO's mission to detect, deny, and defeat threats to its communication networks.</li>
-<li style="">Information Management: The NCIA manages NATO's information technology infrastructure, including its databases, applications, and servers.</li>
+<li style="">Develop new user-facing features</li>
+<li style="">Build reusable code and libraries for future use</li>
+<li style="">Ensure the technical feasibility of design from a visual and experience standpoint.</li>
+<li style="">Optimize application for maximum speed and scalability</li>
+<li style="">Ensure consistency of data gathered from the user</li>
+<li style="">Collaborate with other team members and stakeholders</li>
+<li style="">Developing internal tooling UI and platform for non-web-native team members to use</li>
+<li style="">Optimize the website, SEO, and contribute to CMS integration.</li>
 </ul>
-<p>Overall, the NCIA plays a critical role in ensuring the security and effectiveness of NATO's communication and information technology capabilities.</p>
-<p><strong>The program </strong></p>
-<p><strong>Assistance and Advisory Service (AAS)</strong></p>
-<p>The NATO Communications and Information Agency (NCI Agency) is NATO’s principal C3 capability deliverer and CIS service provider. It provides, maintains and defends the NATO enterprise-wide information technology infrastructure to enable Allies to consult together under Article IV, and, when required, stand together in the face of attack under Article V.</p>
-<p>To provide these critical services, in the modern evolving dynamic environment the NCI Agency needs to build and maintain high performance-engaged workforce. The NCI Agency workforce strategically consists of three major categorise's: NATO International Civilians (NIC)'s, Military (Mil), and Interim Workforce Consultants (IWC)'s. The IWCs are a critical part of the overall NCI Agency workforce and make up approximately 15 percent of the total workforce.</p>
-<hr>
-<p><strong>Role Background</strong></p>
-<p>The NATO Information and Communication Agency (NCI Agency) located in The Hague, The Netherlands, is currently involved in the development of new capabilities for NATO as well as in the support of existing capabilities. In the light of these activities, the C2 Centre is looking for one full stack C# desktop developer with experience in developing Windows desktop applications and with strong user interface proficiency.</p>
-<p>The Full Stack C# Desktop Developer will provide the technical subject matter expertise to enable and guide the design and development of integrated solutions that meet current and future business needs. More specifically, the work will support the full software development cycle of TOPFAS.</p>
-<p>The main objective of this statement of work is the development of new capabilities and the enhancement of existing features in the existing NATO TOPFAS Service.</p>
-<p>Delivery of the services under this SoW requires skills of ONE Desktop Software Developer to update TOPFAS functionality and data structures to meet the mid-term requirements for enabling inter- operability between TOPFAS and other systems.</p>
-<p><strong>Role Duties and Responsibilities</strong></p>
+<p><strong>Skills needed: </strong></p>
 <ul style="">
-<li style="">Implement and review software changes as required using Azure DevOps.</li>
-<li style="">Support the development of the front-end application and communication with back end services.</li>
-<li style="">Implement new interfaces and improve existing interfaces with other systems, both file based and online real time.</li>
-<li style="">Coordinate the technical work with the teams and systems required to integrate, including integration testing.</li>
-<li style="">Create user stories, including acceptance criteria and test cases to evaluate the functionality.</li>
-<li style="">Support bug fixing and stability improvements.</li>
-<li style="">Create and update documentation.</li>
-<li style="">Conduct impact analysis, to investigate which are the best ways to solve a certain problem, their effort estimation, document and present their pros and cons to the team.</li>
+<li style="">Great understanding of the newest trends, best practices and standards in web development</li>
+<li style="">Experience in leading the development of medium to large-scale projects, focusing on UX and Security. </li>
+<li style="">Understanding of server-side CSS pre-processing platforms </li>
+<li style="">Proficient understanding of client-side scripting, security best practices, and browser performance optimizations </li>
+<li style="">Great knowledge of advanced JavaScript libraries and frameworks, such as AngularJS, ReactJS, Next (at least one of them), etc. </li>
+<li style="">Good understanding of asynchronous request handling, partial page updates, SPA, SSG</li>
+<li style="">Good knowledge of tools necessary for autonomous delivery (image processing, building, etc) </li>
+<li style="">Familiarity with tools such as Figma and Lokalise is a plus. </li>
+<li style="">Proficient understanding of cross-browser compatibility issues and ways to work around them. </li>
+<li style="">Proficient understanding of code versioning tools, such as GitHub. </li>
+<li style="">Good knowledge of SEO principles and ensuring that applications will adhere to them.</li>
+<li style="">Excellent attention to detail with a high level of ownership mentality to deliver results independently and iteratively. </li>
 </ul>
-<p><strong>Essential Skills and Experience</strong></p>
-<p>Required minimum qualifications are;</p>
+<p><strong><em>Other requirements </em></strong></p>
 <ul style="">
-<li style="">More than 10 years of experience as Software Developer, in which at least 5 are in C#.</li>
-<li style="">Strong experience (at least 5 years) in WinForms (Microsoft desktop application development).</li>
-<li style="">In depth knowledge of C#</li>
-<li style="">Proficient with third party UI frameworks</li>
-<li style="">Solid understanding of async programming / multi-thread applications</li>
-<li style="">Good understanding of integration patterns and message exchange formats such as JSON and XML.</li>
-<li style="">Strong knowledge of OO principles and patterns</li>
-<li style="">Strong knowledge of APIs development, both as consumer and provider.</li>
-<li style="">Experience with Git version source control</li>
-<li style="">Basic knowledge of SQL Server and database querying</li>
-</ul>
-<p>Preferable qualifications are:</p>
-<ul style="">
-<li style="">Experience with Azure DevOps</li>
-<li style="">Experience with Playwright or other test automation tools.</li>
-<li style="">Strong experience (at least 4 years) with DevExpress</li>
-<li style="">Experience building (graph) diagrams using GoJS or similar Javascript libraries.</li>
-<li style="">Experience with HTML5, JavaScript and CSS3 is a plus</li>
-</ul>
-<p>Relevant soft skills are:</p>
-<ul style="">
-<li style="">Very good presentation skills, taking in consideration the target audience.</li>
-<li style="">Team player, friendly and always willing to help others and to share knowledge.</li>
-<li style="">Good collaboration skills, with the ability to work in a multinational and diverse team</li>
-<li style="">Growth mind set, always wanting to improve and to learn.</li>
-<li style="">Proactivity and taking ownership at all times.</li>
-</ul>
-<p><strong>Language Proficiency</strong></p>
-<ul style="">
-<li style="">Business English</li>
-</ul>
-<p><strong>Education</strong></p>
-<ul style="">
-<li style="">Master’s degree in Computer Science/Engineering or equivalent.</li>
-</ul>
-<p><strong>Working Location</strong></p>
-<ul style="">
-<li style="">Remote</li>
-</ul>
-<p><strong>Working Policy</strong></p>
-<ul style="">
-<li style="">Off-Site</li>
-</ul>
-<p><strong>Travel</strong></p>
-<ul style="">
-<li style="">Some travel to other NATO sites may be required</li>
-</ul>
-<p><strong>Security Clearance</strong></p>
-<ul style="">
-<li style="">Valid National or NATO Secret personal security clearance</li>
+<li style="">A dedicated workspace.</li>
+<li style="">A reliable internet connection with the fastest speed possible in your area.</li>
+<li style="">Devices and other essential equipment that meet minimal technical specifications.</li>
+<li style="">Alignment with Our Values and the Xapo Values-Driven Leadership principles.</li>
 </ul>
 <div class='"content-conclusion"'>
-<p>We never know what new opportunities might be just over the horizon. If this opportunity isn't for you please feel free to send us your resume anyway and be the first to know if something suitable for your skills and experience comes up. </p>
+<p><strong>Why work for Xapo?</strong></p>
+<p>IMPACT GLOBALLY, WORK REMOTELY.</p>
+<ul style="">
+<li style=""><strong>Shape the Future:</strong> Improve lives through cutting-edge technology, work 100% remotely from anywhere in the world.</li>
+<li style=""><strong>Great work-life balance:</strong> Build amazing things with a balance of autonomy and collaborative teamwork. Set your own work schedule and make use of a flexible PTO plan when you need to recharge. </li>
+<li style=""><strong>Expect Excellence:</strong> Collaborate, learn, and grow with a high-performance team. Learn how you learn best - from books to conferences, you’ll get a yearly budget for your individual learning and development goals.</li>
+</ul>
+<p><strong>At Xapo, we prioritize consumer protection and adhere to regulatory requirements by ensuring that all Xapiens are accountable for upholding principles of fair treatment, transparency, and ethical conduct in their interactions with customers and stakeholders.<br><br>Xapo Device Policy<br></strong>Consultants joining Xapo Bank must comply with the Xapo Device Policy, which governs the use of corporate-approved laptops under Corporate-Owned, Personally Purchased Device (reimbursed up to $1,500) or Corporate-Owned, Personally Enabled Device (personal device with enforced security controls).<br>All devices must meet security requirements, enroll in Xapo’s Mobile Device Management (MDM), and adhere to compliance rules. COPPD devices remain Xapo property with buyback options upon exit. COPED users agree to data control measures, including mandatory corporate data wipes.<br>Compliance with the Xapo Device Policy is mandatory for all consultants, onboarding will not proceed without adherence to the policy.<strong><br><br></strong></p>
 </div>
-<img src="https://remotive.com/job/track/1999050/blank.gif?source=public_api" alt=""/>
+<img src="https://remotive.com/job/track/1998737/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -129,7 +90,7 @@
                     <code>backend,C++,javascript,mongoDB</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-node-js-1984510" align="right" target="_blank">Apply</a>
@@ -202,7 +163,7 @@ the services and core processes with the highest security principles and
                     <code>.Net,api,backend,C</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-typescript-1983726" align="right" target="_blank">Apply</a>
