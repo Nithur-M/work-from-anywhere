@@ -86,11 +86,11 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/116062758?s=200&v=4" width="38px" height="auto">
+                    <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/55028a36-609c-479c-9553-d4689ff2dd8c-1669620566663.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Orderly</h5>
-                    <h3>Quality Assurance Engineer</h3>
+                    <h5>Airalo</h5>
+                    <h3>Senior Quality Assurance (UX team)</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -99,47 +99,13 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/orderlynetwork/jobs/5212636003" align="right" target="_blank">Apply</a>
+                <a href="https://jobs.lever.co/airalo/fc8c3338-8361-4348-87da-0f0b00365c50" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                &lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Work with the best&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;We are Orderly, the ultimate destination for decentralized trading platforms. We are not satisfied with the limitations of centralized exchanges or the complexities of building decentralized order books. We aim to make trading easy, fast, and secure for everyone. How? By fusing the simplicity of CeFi with the power of DeFi.&lt;br&gt;&lt;br&gt;At the heart of the issue lies “liquidity”. Builders often grapple with a paradox; traders need liquidity, but liquidity demands traders. Our solution is simple as is bold –&lt;span class=&quot;text-primary-100 font-semibold&quot;&gt;concentrate all liquidity into one order book. One order book that connects all the liquidity in the crypto space.&lt;/span&gt;&lt;br&gt;&lt;br&gt;Our ambition doesn&#39;t stop there. We&#39;re omnichain, championing chain abstraction. We envision seamless transactions, where the underlying blockchain is merely a detail. By concentrating liquidity, we aim to redefine the crypto landscape, making bridging and wrapped assets a thing of the past.&lt;br&gt;&lt;br&gt;We are Orderly, and we are here to revolutionize DeFi, democratizing access to financial opportunities and fostering a fair, equitable paradigm for all.&lt;/p&gt;
-&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;A Glimpse into Your Future at Orderly Network&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What will you be working on?&lt;/em&gt;&lt;/span&gt;
-&lt;ul&gt;
-&lt;li&gt;Test, deploy, and operate automated high-frequency quantitative trading systems&lt;/li&gt;
-&lt;li&gt;Monitor risk exposure, pnl and system status of hundreds of trading processes&lt;/li&gt;
-&lt;li&gt;Adjust model configs and parameters based on market conditions&lt;/li&gt;
-&lt;li&gt;Suggest automation and improvements to the systems&lt;/li&gt;
-&lt;li&gt;Contribute to all aspects of the trading desk activities including: position and pnl reconciliation, risk management tasks, and post trade analysis&lt;/li&gt;
-&lt;li&gt;Generate feedback on trading system performance by examining system logs and market data for executions&lt;/li&gt;
-&lt;li&gt;Communicate relevant news, market events, and system behavior to team members&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What skills will you be using?&lt;/em&gt;&lt;/span&gt;
-&lt;ul&gt;
-&lt;li&gt;Bachelor&#39;s degree in Engineering, Sciences, Math, Economics, Finance (or equivalent)&lt;/li&gt;
-&lt;li&gt;Strong work ethic and willingness to do what it takes to get the job done&lt;/li&gt;
-&lt;li&gt;Must be motivated, dependable, and responsible&lt;/li&gt;
-&lt;li&gt;Ability to use sound judgment under pressure&lt;/li&gt;
-&lt;li&gt;High attention to detail&lt;/li&gt;
-&lt;li&gt;Ability to understand and reason about complex trading systems&lt;/li&gt;
-&lt;li&gt;Basic SQL, JavaScript, Java programming and scripting knowledge in a Linux environment&lt;/li&gt;
-&lt;li&gt;Previous trading experience a plus&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Interested in Learning More?&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Our hiring process begins by meeting with our People Team, who help facilitate the process of placing you in your new role. You can expect to share your experience and ideas in online video interviews with our hiring team, made up of management and potential new colleagues.&lt;/li&gt;
-&lt;li&gt;If you have experience in developing trading systems or financial-related products is a&amp;nbsp;plus.&lt;/li&gt;
-&lt;li&gt;You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed.&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Share this! Don’t be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our &lt;a href=&quot;https://boards.greenhouse.io/orderlynetwork/jobs/5170520003&quot; target=&quot;_blank&quot;&gt;External Referral Incentives Program&lt;/a&gt; as well.&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
+                <div><span style="font-size: 11pt;">Alo! Airalo is the world’s first eSIM store that helps people connect in over 200+ countries and regions across the globe. We are building the next digital service that revolutionizes the telecom industry. We are a travel-tech company and an equal-opportunity environment that values and executes diversity, inclusion, and equity. Our team is spread across 50+ countries and six continents. What glues us together is our commitment to changing the way you connect.</span></div><div><br></div><div><span style="font-size: 11pt;"><b>About You</b></span></div><div><span style="font-size: 11pt;">We hope that you care deeply about the quality of your work, the intrinsic worth of tasks, and the success of your team. You are self-disciplined and do not require micromanagement in terms of your skillset and work ethic. You do your best to flourish as an individual every day while working hard to foster a collaborative team environment. You believe in the importance of being — and staying — authentic, honest, positive, and kind. You have strong communication skills, an analytical mindset, and the ability to manage multiple projects. You pay keen attention to detail and enjoy problem-solving. You are open-minded, adaptable, and thrive in a fast-paced environment.</span></div><div><br></div><div><span style="font-size: 11pt;"><b>About The Role</b></span></div><div><br></div><div><span style="font-size: 11pt;">Position: Full-time </span></div><div><span style="font-size: 11pt;"> Employee Location: Remote-first</span></div><div><span style="font-size: 11pt;">Benefits: Health Insurance, work-from-anywhere stipend, annual wellness &amp; learning credits, annual all-expen ses-paid company retreat in a gorgeous destination &amp; other benefits</span></div><div><br></div><div><span style="font-size: 11pt;">We are looking for a skilled and responsible QA Automation Engineer who will help improve our automation strategy and framework as part of our CI/CD pipeline. You will be part of our QA team, working to maximize product quality and minimize regression risks by creating automated tests for our API, Web, and Mobile applications.</span></div><div><br></div><div><span style="font-size: 11pt;"><b>Responsibilities include but are not limited to:</b></span></div><div><br></div><div><span style="font-size: 11pt;">Designing, implementing, and executing automated and performance tests for native mobile and web applications</span></div><div><span style="font-size: 11pt;">Running User Acceptance and Regression tests by reviewing user stories, acceptance criteria &amp; design documents, and creating user acceptance cases (UAC)Ensuring high-quality user interfaces and user experiences</span></div><div><span style="font-size: 11pt;">Assisting in version releases with minimal critical bugs</span></div><div><span style="font-size: 11pt;">Collaborating with Product Managers, Engineers, and Designers to share bug reports, ensure business requirements are met, and improve test coverageTracking and measuring quality metrics to identify potential issues and take corrective actions proactively</span></div><div><span style="font-size: 11pt;">Contributing to the QA strategy and testing cycle for the end-products, making recommendations as necessarySupporting the growth and improvement of the QA team and its processes</span></div><div><br></div><div><span style="font-size: 11pt;"><b>Must-haves</b></span></div><div><br></div><div><span style="font-size: 11pt;">5+ years of dedicated experience in Quality Assurance (QA) and involvement in the whole software development cycle.</span></div><div><span style="font-size: 11pt;">2+ years of experience with web or&nbsp; mobile application automation</span></div><div><span style="font-size: 11pt;">Understanding of software testing theories and methodologiesExperience in manual and automation testing.</span></div><div><span style="font-size: 11pt;">Ability to run User Acceptance and Regression tests from the perspective of end-usersExperience in automated functional, API, and UI testingProficiency in at least one programming language (e.g. JavaScript, Java, Python)</span></div><div><span style="font-size: 11pt;">Experience with test automation frameworks (e.g. Cypress, Playwright, Maestro mobile, XCUITest, Selenium, Cucumber)</span></div><div><span style="font-size: 11pt;">Familiarity with continuous integration (CI/CD) pipelines and tools (e.g., GitHub Actions, Bitrise)</span></div><div><span style="font-size: 11pt;">Ability to troubleshoot and debug test infrastructure</span></div><div><span style="font-size: 11pt;">Strong analytical thinking and problem-solving skills</span></div><div><span style="font-size: 11pt;">Good verbal and written communication skills in English</span></div><div><br></div><div><span style="font-size: 11pt;"><b>Good-to-have</b></span></div><div><span style="font-size: 11pt;">Knowledge of Agile product development practices and tools (e.g., JIRA)</span></div><div><span style="font-size: 11pt;">Familiarity with performance testing and tools (e.g., Apache JMeter, Gatling)</span></div><div><span style="font-size: 11pt;">Bachelor’s degree in a related fieldPrior work experience in telecommunications</span></div><div><span style="font-size: 11pt;">Familiarity with eSIM, travel tech or GSMA-related technologies and services</span></div><div><br></div><div><span style="font-size: 11pt;">If you are interested in this position, please apply via the link. We sincerely thank all applicants in advance for submitting their interest in this opportunity with Airalo.</span></div>
                 </details>
                 </td>
             </tr>,<tr>
