@@ -1,85 +1,5 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1998737/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Xapo Bank</h5>
-                    <h3>Front-End Web Developer</h3>
-                </td>
-                <td width="300">
-                    <code>javascript,seo,github</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/front-end-web-developer-1998737" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class='"content-intro"'>
-<p>Work from anywhere, impact everywhere </p>
-<p>Diversity is at the heart of who we are at Xapo Bank. We’re a fully distributed team of over 140 Xapiens that work remotely from 40+ countries around the world. </p>
-<p>Our beginning: A world that enjoys economic freedom and wealth protection, no matter where you live or who is running your country.</p>
-<p>To achieve that, we search the world for the best people for the job. We work hard, think globally, and inspire each other to learn and grow. We are committed to changing the way things are done.</p>
-<p> </p>
-<p><strong>Risk is inherent in all of our business activities and managing risk well is the responsibility of every Xapien. Sound risk management enables us to serve our customers and deliver value for our shareholders, and helps make Xapo a great place to work.</strong></p>
-<p> </p>
-<p><em>Although we are headquartered in Gibraltar, this is a full time, 100% remote position <br></em><em>Work from anywhere!</em></p>
-<p> </p>
-</div>
-<p><strong>Position Overview: </strong></p>
-<p>We are looking for a Front-End Web Developer who is motivated to combine the art of design with the art of programming. Responsibilities will include translating design wireframes to actual code that will produce visual elements of the application. You will work with the product designer and marketing team to bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks and works. The primary focus will be on publicly-faced websites. Still, the person will contribute to internal back office UIs, building easy-to-use interfaces for internal teams in ever-evolving architecture. </p>
-<p><strong>Responsibilities: </strong></p>
-<ul style="">
-<li style="">Develop new user-facing features</li>
-<li style="">Build reusable code and libraries for future use</li>
-<li style="">Ensure the technical feasibility of design from a visual and experience standpoint.</li>
-<li style="">Optimize application for maximum speed and scalability</li>
-<li style="">Ensure consistency of data gathered from the user</li>
-<li style="">Collaborate with other team members and stakeholders</li>
-<li style="">Developing internal tooling UI and platform for non-web-native team members to use</li>
-<li style="">Optimize the website, SEO, and contribute to CMS integration.</li>
-</ul>
-<p><strong>Skills needed: </strong></p>
-<ul style="">
-<li style="">Great understanding of the newest trends, best practices and standards in web development</li>
-<li style="">Experience in leading the development of medium to large-scale projects, focusing on UX and Security. </li>
-<li style="">Understanding of server-side CSS pre-processing platforms </li>
-<li style="">Proficient understanding of client-side scripting, security best practices, and browser performance optimizations </li>
-<li style="">Great knowledge of advanced JavaScript libraries and frameworks, such as AngularJS, ReactJS, Next (at least one of them), etc. </li>
-<li style="">Good understanding of asynchronous request handling, partial page updates, SPA, SSG</li>
-<li style="">Good knowledge of tools necessary for autonomous delivery (image processing, building, etc) </li>
-<li style="">Familiarity with tools such as Figma and Lokalise is a plus. </li>
-<li style="">Proficient understanding of cross-browser compatibility issues and ways to work around them. </li>
-<li style="">Proficient understanding of code versioning tools, such as GitHub. </li>
-<li style="">Good knowledge of SEO principles and ensuring that applications will adhere to them.</li>
-<li style="">Excellent attention to detail with a high level of ownership mentality to deliver results independently and iteratively. </li>
-</ul>
-<p><strong><em>Other requirements </em></strong></p>
-<ul style="">
-<li style="">A dedicated workspace.</li>
-<li style="">A reliable internet connection with the fastest speed possible in your area.</li>
-<li style="">Devices and other essential equipment that meet minimal technical specifications.</li>
-<li style="">Alignment with Our Values and the Xapo Values-Driven Leadership principles.</li>
-</ul>
-<div class='"content-conclusion"'>
-<p><strong>Why work for Xapo?</strong></p>
-<p>IMPACT GLOBALLY, WORK REMOTELY.</p>
-<ul style="">
-<li style=""><strong>Shape the Future:</strong> Improve lives through cutting-edge technology, work 100% remotely from anywhere in the world.</li>
-<li style=""><strong>Great work-life balance:</strong> Build amazing things with a balance of autonomy and collaborative teamwork. Set your own work schedule and make use of a flexible PTO plan when you need to recharge. </li>
-<li style=""><strong>Expect Excellence:</strong> Collaborate, learn, and grow with a high-performance team. Learn how you learn best - from books to conferences, you’ll get a yearly budget for your individual learning and development goals.</li>
-</ul>
-<p><strong>At Xapo, we prioritize consumer protection and adhere to regulatory requirements by ensuring that all Xapiens are accountable for upholding principles of fair treatment, transparency, and ethical conduct in their interactions with customers and stakeholders.<br><br>Xapo Device Policy<br></strong>Consultants joining Xapo Bank must comply with the Xapo Device Policy, which governs the use of corporate-approved laptops under Corporate-Owned, Personally Purchased Device (reimbursed up to $1,500) or Corporate-Owned, Personally Enabled Device (personal device with enforced security controls).<br>All devices must meet security requirements, enroll in Xapo’s Mobile Device Management (MDM), and adhere to compliance rules. COPPD devices remain Xapo property with buyback options upon exit. COPED users agree to data control measures, including mandatory corporate data wipes.<br>Compliance with the Xapo Device Policy is mandatory for all consultants, onboarding will not proceed without adherence to the policy.<strong><br><br></strong></p>
-</div>
-<img src="https://remotive.com/job/track/1998737/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1984510/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -90,7 +10,7 @@
                     <code>backend,C++,javascript,mongoDB</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-node-js-1984510" align="right" target="_blank">Apply</a>
@@ -163,7 +83,7 @@ the services and core processes with the highest security principles and
                     <code>.Net,api,backend,C</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-typescript-1983726" align="right" target="_blank">Apply</a>
@@ -687,6 +607,30 @@ the services and core processes with the highest security principles and
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
+                    <h3>Front-End Developer (worldwide remote, work anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/j/A36090382A" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and&nbsp; we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. We are truly a great place to work. For more details about our company go to <a href="http://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">CloudLinux</a>.</p><p>We are actively seeking a Front-End Developer to become an integral part of our dynamic CloudLinux Network team.</p><p>CLN is an integral SaaS platform tasked with the licensing of all CloudLinux products. It manages server operations and oversees the billing process for customers. This is a unique self-provisioning system created by CloudLinux for internal needs. The automated, easy-to-use robust solution delivers comprehensive and complete user experience. We will give you a place to strive and grow, where you will have the opportunity to work on interesting, yet challenging product. Applying your thinking to build a better system founded on intelligent technologies.</p><p>The perfect candidate will possess an in-depth understanding of Angular, complemented by prior experience in backend development and familiarity with various other frameworks.</p><p>We offer a fully remote work environment with flexible hours, allowing you the freedom to structure your day and work from any location worldwide. Join us in our mission to provide top-tier services to our valued customers.<a href="https://docs.cloudlinux.com/cln/introduction/" target="_blank" rel="nofollow noreferrer noopener" class="external"></a></p><p></p><p><strong>What you will do:</strong></p><p>As a key member of our team, you will spend approximately 80% of your time crafting a user-friendly customer portal. This platform will empower our clients to effortlessly manage their subscriptions and servers, while also providing an intuitive admin panel designed to deliver an unparalleled licensing and billing experience.</p><p>Occasionally, you will also be able to contribute to diverse front-end projects for our Extended Lifecycle Support (ELS) initiative. ELS is our commitment to helping organizations securely utilize Linux distributions and software languages that have reached their end of life or no longer receive standard security support. We provide essential vulnerability patches for unsupported versions of CentOS, CentOS Stream, Ubuntu, Debian, Oracle Linux, PHP, Python, and the Spring software development framework.</p><p><strong>Requirements</strong></p><p><strong>To thrive in this role, we are looking for someone who has:</strong></p><ul> <li>5+ years of experience with Javascript.</li> <li>Strong knowledge of Angular, TypeScript/JavaScript.</li> <li>Experience and understanding of optimization principles.</li> <li>The practice of unit testing.</li> <li>Experience HTML &amp; CSS/SCSS.</li> <li>Version control/code management (git).</li> <li>Intermediate level of English.<br> </li> </ul><p><strong>It would be great if you also have:</strong></p><ul> <li>Experience in backend and PHP.</li> <li>Knowledge of NodeJS, Lumen, VueJS.</li> <li>Experience with Database IDE, such as MySQL.<br> </li> </ul><p><strong>Personal skills:</strong></p><ul> <li>Decency, responsibility, and a high level of discipline.</li> <li>Fast-learning, proactivity.</li> <li>Desire to work in a fast-paced growing environment.</li> <li>Strong self-motivation, driven to achieve committed milestones.</li> <li>Ability to independently analyze a task and find the right solution.</li> <li>Ability to work in a team.</li> </ul><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development</li> <li>Interesting and challenging projects</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves</li> <li>Compensation for private medical insurance</li> <li>Co-working and gym/sports reimbursement</li> <li>Budget for education</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p></p><p><em>By applying for this position, you agree with the CloudLinux Privacy Policy - </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/privacy-policy</a><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external"></a><em> and give us your consent to maintain and process your personal data in this respect. Please read our Privacy Policy for more information - </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/privacy-policy</a><em> .</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
                     <h3>Java Developer (worldwide remote, work anywhere)</h3>
                 </td>
                 <td width="300">
@@ -1062,7 +1006,7 @@ the services and core processes with the highest security principles and
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful.</p><p>Check out our website for more information<a href="https://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external"> https://cloudlinux.com/</a></p><p>We are looking for a talented <strong>Security Developer/Researcher</strong> to join our <strong>ELS team!&nbsp;</strong></p><p>Endless Lifecycle Support (ELS) enables organizations to continue securely using Linux distributions and software languages that have reached the end of life or no longer receive standard security support – delivering vulnerability patches for unsupported versions of CentOS, CentOS Stream, Ubuntu, Debian, Oracle Linux, PHP, Python, and Spring software development framework.</p><p>For more information, visit our website: <a href="https://tuxcare.com/endless-lifecycle-support/" target="_blank" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/endless-lifecycle-support/</a> <a href="https://tuxcare.com/extended-lifecycle-support/" target="_blank" rel="nofollow noreferrer noopener" class="external"></a></p><p></p><p>As our <strong>Security Developer/Researcher</strong>, you’ll be joining a dedicated research team responsible for delivering security patches—an essential part of our service. You’ll play a critical role in analyzing vulnerabilities and threats, backporting patches, and expanding coverage for supported applications and plugins. </p><p></p><p><strong>You will be responsible for:</strong></p><ul> <li>Analyzing new security vulnerabilities in open-source PHP and JavaScript applications and frameworks (e.g., WordPress, Angular, Node.js, Drupal). </li> <li>Backporting upstream patches to fix vulnerabilities in earlier versions.</li> <li>Designing, building, and deploying new features for our internal tooling to automate workflows.</li> <li>Researching new trends in exploitation techniques and malware approaches and developing mitigation strategies.</li> <li>Increasing the coverage of supported PHP and JS applications and plugins.</li> </ul><p></p><p>Your work will directly impact the safety and credibility of millions of developers worldwide. That’s why we value attention to detail and a high standard of quality in everything you do.</p><p><strong>Requirements</strong></p><p>To be successful, you should have:</p><ul> <li>Good knowledge of JavaScript, Node.js and PHP,&nbsp;or with one of them.</li> <li>Experience with a scripting language such as Python.</li> <li>3+ years of relevant experience&nbsp;as a Software Engineer in Test, Software Developer, Security Researcher, or a similar role.</li> <li>Proven experience in code testing (e.g. unit, integration testing).</li> <li>Familiarity with Docker and Docker Compose. </li> <li>Upper-intermediate or higher level of English.</li> </ul><p></p><p><strong>Nice to have:</strong></p><ul> <li>Understanding and knowledge of the security vulnerabilities life cycle is a plus.</li> <li>Hands-on experience in researching vulnerabilities within JavaScript and/or PHP applications.</li> <li>Good Linux knowledge.</li> </ul><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul></ul><p></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
+                <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful.</p><p>Check out our website for more information<a href="https://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external"> https://cloudlinux.com/</a></p><p>We are looking for a talented <strong>Security Developer/Researcher</strong> to join our <strong>ELS team!&nbsp;</strong></p><p>Endless Lifecycle Support (ELS) enables organizations to continue securely using Linux distributions and software languages that have reached the end of life or no longer receive standard security support – delivering vulnerability patches for unsupported versions of CentOS, CentOS Stream, Ubuntu, Debian, Oracle Linux, PHP, Python, and Spring software development framework.</p><p>For more information, visit our website: <a href="https://tuxcare.com/endless-lifecycle-support/" target="_blank" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/endless-lifecycle-support/</a> <a href="https://tuxcare.com/extended-lifecycle-support/" target="_blank" rel="nofollow noreferrer noopener" class="external"></a></p><p></p><p>As our <strong>Security Developer/Researcher</strong>, you’ll be joining a dedicated research team responsible for delivering security patches—an essential part of our service. You’ll play a critical role in analyzing vulnerabilities and threats, backporting patches, and expanding coverage for supported applications and plugins. </p><p></p><p><strong>You will be responsible for:</strong></p><ul> <li>Analyzing new security vulnerabilities in open-source PHP and JavaScript applications and frameworks (e.g., WordPress, Angular, Node.js, Drupal). </li> <li>Backporting upstream patches to fix vulnerabilities in earlier versions.</li> <li>Researching new trends in exploitation techniques and malware approaches and developing mitigation strategies.</li> <li>Increasing the coverage of supported PHP and JS applications and plugins.</li> </ul><p></p><p>Your work will directly impact the safety and credibility of millions of developers worldwide. That’s why we value attention to detail and a high standard of quality in everything you do.</p><p><strong>Requirements</strong></p><p>To be successful, you should have:</p><ul> <li>Good knowledge of JavaScript, Node.js and PHP,&nbsp;or with one of them.</li> <li>Experience with a scripting language such as Python.</li> <li>3+ years of relevant experience&nbsp;as a Software Developer, Security Researcher, or a similar role.</li> <li>Proven experience in code testing (e.g. unit, integration testing).</li> <li>Familiarity with Docker and Docker Compose. </li> <li>Upper-intermediate or higher level of English.</li> </ul><p></p><p><strong>Nice to have:</strong></p><ul> <li>Understanding and knowledge of the security vulnerabilities life cycle is a plus.</li> <li>Hands-on experience in researching vulnerabilities within JavaScript and/or PHP applications.</li> <li>Good Linux knowledge.</li> </ul><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul></ul><p></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1086,7 +1030,7 @@ the services and core processes with the highest security principles and
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful.</p><p>Check out our website for more information<a href="https://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external"> https://cloudlinux.com/</a></p><p>We are looking for a talented <strong>Security Developer/Researcher</strong> to join our <strong>ELS team!&nbsp;</strong></p><p>Endless Lifecycle Support (ELS) enables organizations to continue securely using Linux distributions and software languages that have reached the end of life or no longer receive standard security support – delivering vulnerability patches for unsupported versions of CentOS, CentOS Stream, Ubuntu, Debian, Oracle Linux, PHP, Python, and Spring software development framework.</p><p>For more information, visit our website: <a href="https://tuxcare.com/endless-lifecycle-support/" target="_blank" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/endless-lifecycle-support/</a> <a href="https://tuxcare.com/extended-lifecycle-support/" target="_blank" rel="nofollow noreferrer noopener" class="external"></a></p><p></p><p>As our <strong>Security Developer/Researcher</strong>, you’ll be joining a dedicated research team responsible for delivering security patches—an essential part of our service. You’ll play a critical role in analyzing vulnerabilities and threats, backporting patches, and expanding coverage for supported applications and plugins. </p><p></p><p><strong>You will be responsible for:</strong></p><ul> <li>Analyzing new security vulnerabilities in open-source PHP and JavaScript applications and frameworks (e.g., WordPress, Angular, Node.js, Drupal). </li> <li>Backporting upstream patches to fix vulnerabilities in earlier versions.</li> <li>Designing, building, and deploying new features for our internal tooling to automate workflows.</li> <li>Researching new trends in exploitation techniques and malware approaches and developing mitigation strategies.</li> <li>Increasing the coverage of supported PHP and JS applications and plugins.</li> </ul><p></p><p>Your work will directly impact the safety and credibility of millions of developers worldwide. That’s why we value attention to detail and a high standard of quality in everything you do.</p><p><strong>Requirements</strong></p><p>To be successful, you should have:</p><ul> <li>Good knowledge of JavaScript, Node.js and PHP,&nbsp;or with one of them.</li> <li>Experience with a scripting language such as Python.</li> <li>3+ years of relevant experience&nbsp;as a Software Engineer in Test, Software Developer, Security Researcher, or a similar role.</li> <li>Proven experience in code testing (e.g. unit, integration testing).</li> <li>Familiarity with Docker and Docker Compose. </li> <li>Upper-intermediate or higher level of English.</li> </ul><p></p><p><strong>Nice to have:</strong></p><ul> <li>Understanding and knowledge of the security vulnerabilities life cycle is a plus.</li> <li>Hands-on experience in researching vulnerabilities within JavaScript and/or PHP applications.</li> <li>Good Linux knowledge.</li> </ul><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul></ul><p></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
+                <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful.</p><p>Check out our website for more information<a href="https://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external"> https://cloudlinux.com/</a></p><p>We are looking for a talented <strong>Security Developer/Researcher</strong> to join our <strong>ELS team!&nbsp;</strong></p><p>Endless Lifecycle Support (ELS) enables organizations to continue securely using Linux distributions and software languages that have reached the end of life or no longer receive standard security support – delivering vulnerability patches for unsupported versions of CentOS, CentOS Stream, Ubuntu, Debian, Oracle Linux, PHP, Python, and Spring software development framework.</p><p>For more information, visit our website: <a href="https://tuxcare.com/endless-lifecycle-support/" target="_blank" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/endless-lifecycle-support/</a> <a href="https://tuxcare.com/extended-lifecycle-support/" target="_blank" rel="nofollow noreferrer noopener" class="external"></a></p><p></p><p>As our <strong>Security Developer/Researcher</strong>, you’ll be joining a dedicated research team responsible for delivering security patches—an essential part of our service. You’ll play a critical role in analyzing vulnerabilities and threats, backporting patches, and expanding coverage for supported applications and plugins. </p><p></p><p><strong>You will be responsible for:</strong></p><ul> <li>Analyzing new security vulnerabilities in open-source PHP and JavaScript applications and frameworks (e.g., WordPress, Angular, Node.js, Drupal). </li> <li>Backporting upstream patches to fix vulnerabilities in earlier versions.</li> <li>Researching new trends in exploitation techniques and malware approaches and developing mitigation strategies.</li> <li>Increasing the coverage of supported PHP and JS applications and plugins.</li> </ul><p></p><p>Your work will directly impact the safety and credibility of millions of developers worldwide. That’s why we value attention to detail and a high standard of quality in everything you do.</p><p><strong>Requirements</strong></p><p>To be successful, you should have:</p><ul> <li>Good knowledge of JavaScript, Node.js and PHP,&nbsp;or with one of them.</li> <li>Experience with a scripting language such as Python.</li> <li>3+ years of relevant experience&nbsp;as a Software Developer, Security Researcher, or a similar role.</li> <li>Proven experience in code testing (e.g. unit, integration testing).</li> <li>Familiarity with Docker and Docker Compose. </li> <li>Upper-intermediate or higher level of English.</li> </ul><p></p><p><strong>Nice to have:</strong></p><ul> <li>Understanding and knowledge of the security vulnerabilities life cycle is a plus.</li> <li>Hands-on experience in researching vulnerabilities within JavaScript and/or PHP applications.</li> <li>Good Linux knowledge.</li> </ul><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul></ul><p></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1110,7 +1054,7 @@ the services and core processes with the highest security principles and
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful.</p><p>Check out our website for more information<a href="https://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external"> https://cloudlinux.com/</a></p><p>We are looking for a talented <strong>Security Developer/Researcher</strong> to join our <strong>ELS team!&nbsp;</strong></p><p>Endless Lifecycle Support (ELS) enables organizations to continue securely using Linux distributions and software languages that have reached the end of life or no longer receive standard security support – delivering vulnerability patches for unsupported versions of CentOS, CentOS Stream, Ubuntu, Debian, Oracle Linux, PHP, Python, and Spring software development framework.</p><p>For more information, visit our website: <a href="https://tuxcare.com/endless-lifecycle-support/" target="_blank" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/endless-lifecycle-support/</a> <a href="https://tuxcare.com/extended-lifecycle-support/" target="_blank" rel="nofollow noreferrer noopener" class="external"></a></p><p></p><p>As our <strong>Security Developer/Researcher</strong>, you’ll be joining a dedicated research team responsible for delivering security patches—an essential part of our service. You’ll play a critical role in analyzing vulnerabilities and threats, backporting patches, and expanding coverage for supported applications and plugins. </p><p></p><p><strong>You will be responsible for:</strong></p><ul> <li>Analyzing new security vulnerabilities in open-source PHP and JavaScript applications and frameworks (e.g., WordPress, Angular, Node.js, Drupal). </li> <li>Backporting upstream patches to fix vulnerabilities in earlier versions.</li> <li>Designing, building, and deploying new features for our internal tooling to automate workflows.</li> <li>Researching new trends in exploitation techniques and malware approaches and developing mitigation strategies.</li> <li>Increasing the coverage of supported PHP and JS applications and plugins.</li> </ul><p></p><p>Your work will directly impact the safety and credibility of millions of developers worldwide. That’s why we value attention to detail and a high standard of quality in everything you do.</p><p><strong>Requirements</strong></p><p>To be successful, you should have:</p><ul> <li>Good knowledge of JavaScript, Node.js and PHP,&nbsp;or with one of them.</li> <li>Experience with a scripting language such as Python.</li> <li>3+ years of relevant experience&nbsp;as a Software Engineer in Test, Software Developer, Security Researcher, or a similar role.</li> <li>Proven experience in code testing (e.g. unit, integration testing).</li> <li>Familiarity with Docker and Docker Compose. </li> <li>Upper-intermediate or higher level of English.</li> </ul><p></p><p><strong>Nice to have:</strong></p><ul> <li>Understanding and knowledge of the security vulnerabilities life cycle is a plus.</li> <li>Hands-on experience in researching vulnerabilities within JavaScript and/or PHP applications.</li> <li>Good Linux knowledge.</li> </ul><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul></ul><p></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
+                <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful.</p><p>Check out our website for more information<a href="https://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external"> https://cloudlinux.com/</a></p><p>We are looking for a talented <strong>Security Developer/Researcher</strong> to join our <strong>ELS team!&nbsp;</strong></p><p>Endless Lifecycle Support (ELS) enables organizations to continue securely using Linux distributions and software languages that have reached the end of life or no longer receive standard security support – delivering vulnerability patches for unsupported versions of CentOS, CentOS Stream, Ubuntu, Debian, Oracle Linux, PHP, Python, and Spring software development framework.</p><p>For more information, visit our website: <a href="https://tuxcare.com/endless-lifecycle-support/" target="_blank" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/endless-lifecycle-support/</a> <a href="https://tuxcare.com/extended-lifecycle-support/" target="_blank" rel="nofollow noreferrer noopener" class="external"></a></p><p></p><p>As our <strong>Security Developer/Researcher</strong>, you’ll be joining a dedicated research team responsible for delivering security patches—an essential part of our service. You’ll play a critical role in analyzing vulnerabilities and threats, backporting patches, and expanding coverage for supported applications and plugins. </p><p></p><p><strong>You will be responsible for:</strong></p><ul> <li>Analyzing new security vulnerabilities in open-source PHP and JavaScript applications and frameworks (e.g., WordPress, Angular, Node.js, Drupal). </li> <li>Backporting upstream patches to fix vulnerabilities in earlier versions.</li> <li>Researching new trends in exploitation techniques and malware approaches and developing mitigation strategies.</li> <li>Increasing the coverage of supported PHP and JS applications and plugins.</li> </ul><p></p><p>Your work will directly impact the safety and credibility of millions of developers worldwide. That’s why we value attention to detail and a high standard of quality in everything you do.</p><p><strong>Requirements</strong></p><p>To be successful, you should have:</p><ul> <li>Good knowledge of JavaScript, Node.js and PHP,&nbsp;or with one of them.</li> <li>Experience with a scripting language such as Python.</li> <li>3+ years of relevant experience&nbsp;as a Software Developer, Security Researcher, or a similar role.</li> <li>Proven experience in code testing (e.g. unit, integration testing).</li> <li>Familiarity with Docker and Docker Compose. </li> <li>Upper-intermediate or higher level of English.</li> </ul><p></p><p><strong>Nice to have:</strong></p><ul> <li>Understanding and knowledge of the security vulnerabilities life cycle is a plus.</li> <li>Hands-on experience in researching vulnerabilities within JavaScript and/or PHP applications.</li> <li>Good Linux knowledge.</li> </ul><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul></ul><p></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1134,7 +1078,7 @@ the services and core processes with the highest security principles and
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful.</p><p>Check out our website for more information<a href="https://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external"> https://cloudlinux.com/</a></p><p>We are looking for a talented <strong>Security Developer/Researcher</strong> to join our <strong>ELS team!&nbsp;</strong></p><p>Endless Lifecycle Support (ELS) enables organizations to continue securely using Linux distributions and software languages that have reached the end of life or no longer receive standard security support – delivering vulnerability patches for unsupported versions of CentOS, CentOS Stream, Ubuntu, Debian, Oracle Linux, PHP, Python, and Spring software development framework.</p><p>For more information, visit our website: <a href="https://tuxcare.com/endless-lifecycle-support/" target="_blank" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/endless-lifecycle-support/</a> <a href="https://tuxcare.com/extended-lifecycle-support/" target="_blank" rel="nofollow noreferrer noopener" class="external"></a></p><p></p><p>As our <strong>Security Developer/Researcher</strong>, you’ll be joining a dedicated research team responsible for delivering security patches—an essential part of our service. You’ll play a critical role in analyzing vulnerabilities and threats, backporting patches, and expanding coverage for supported applications and plugins. </p><p></p><p><strong>You will be responsible for:</strong></p><ul> <li>Analyzing new security vulnerabilities in open-source PHP and JavaScript applications and frameworks (e.g., WordPress, Angular, Node.js, Drupal). </li> <li>Backporting upstream patches to fix vulnerabilities in earlier versions.</li> <li>Designing, building, and deploying new features for our internal tooling to automate workflows.</li> <li>Researching new trends in exploitation techniques and malware approaches and developing mitigation strategies.</li> <li>Increasing the coverage of supported PHP and JS applications and plugins.</li> </ul><p></p><p>Your work will directly impact the safety and credibility of millions of developers worldwide. That’s why we value attention to detail and a high standard of quality in everything you do.</p><p><strong>Requirements</strong></p><p>To be successful, you should have:</p><ul> <li>Good knowledge of JavaScript, Node.js and PHP,&nbsp;or with one of them.</li> <li>Experience with a scripting language such as Python.</li> <li>3+ years of relevant experience&nbsp;as a Software Engineer in Test, Software Developer, Security Researcher, or a similar role.</li> <li>Proven experience in code testing (e.g. unit, integration testing).</li> <li>Familiarity with Docker and Docker Compose. </li> <li>Upper-intermediate or higher level of English.</li> </ul><p></p><p><strong>Nice to have:</strong></p><ul> <li>Understanding and knowledge of the security vulnerabilities life cycle is a plus.</li> <li>Hands-on experience in researching vulnerabilities within JavaScript and/or PHP applications.</li> <li>Good Linux knowledge.</li> </ul><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul></ul><p></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
+                <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful.</p><p>Check out our website for more information<a href="https://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external"> https://cloudlinux.com/</a></p><p>We are looking for a talented <strong>Security Developer/Researcher</strong> to join our <strong>ELS team!&nbsp;</strong></p><p>Endless Lifecycle Support (ELS) enables organizations to continue securely using Linux distributions and software languages that have reached the end of life or no longer receive standard security support – delivering vulnerability patches for unsupported versions of CentOS, CentOS Stream, Ubuntu, Debian, Oracle Linux, PHP, Python, and Spring software development framework.</p><p>For more information, visit our website: <a href="https://tuxcare.com/endless-lifecycle-support/" target="_blank" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/endless-lifecycle-support/</a> <a href="https://tuxcare.com/extended-lifecycle-support/" target="_blank" rel="nofollow noreferrer noopener" class="external"></a></p><p></p><p>As our <strong>Security Developer/Researcher</strong>, you’ll be joining a dedicated research team responsible for delivering security patches—an essential part of our service. You’ll play a critical role in analyzing vulnerabilities and threats, backporting patches, and expanding coverage for supported applications and plugins. </p><p></p><p><strong>You will be responsible for:</strong></p><ul> <li>Analyzing new security vulnerabilities in open-source PHP and JavaScript applications and frameworks (e.g., WordPress, Angular, Node.js, Drupal). </li> <li>Backporting upstream patches to fix vulnerabilities in earlier versions.</li> <li>Researching new trends in exploitation techniques and malware approaches and developing mitigation strategies.</li> <li>Increasing the coverage of supported PHP and JS applications and plugins.</li> </ul><p></p><p>Your work will directly impact the safety and credibility of millions of developers worldwide. That’s why we value attention to detail and a high standard of quality in everything you do.</p><p><strong>Requirements</strong></p><p>To be successful, you should have:</p><ul> <li>Good knowledge of JavaScript, Node.js and PHP,&nbsp;or with one of them.</li> <li>Experience with a scripting language such as Python.</li> <li>3+ years of relevant experience&nbsp;as a Software Developer, Security Researcher, or a similar role.</li> <li>Proven experience in code testing (e.g. unit, integration testing).</li> <li>Familiarity with Docker and Docker Compose. </li> <li>Upper-intermediate or higher level of English.</li> </ul><p></p><p><strong>Nice to have:</strong></p><ul> <li>Understanding and knowledge of the security vulnerabilities life cycle is a plus.</li> <li>Hands-on experience in researching vulnerabilities within JavaScript and/or PHP applications.</li> <li>Good Linux knowledge.</li> </ul><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul></ul><p></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -2621,211 +2565,6 @@ the services and core processes with the highest security principles and
 &lt;p&gt;We are dedicated to creating an inclusive work environment for everyone. We embrace and celebrate the unique experiences, perspectives and cultural backgrounds that each employee brings to our workplace. Fingerprint strives to foster an environment where our employees feel respected, valued and empowered, and our team members are at the forefront in helping us promote and sustain an inclusive workplace. We highly encourage people from underrepresented groups in tech to apply.&lt;/p&gt;
 &lt;p&gt;If you are applying as a resident of California, please read our CCPA notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-ccpa&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;If you are applying as a resident of the EU, please read our GDPR notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-gdpr&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/116062758?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Orderly</h5>
-                    <h3>Developer Relations Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/orderlynetwork/jobs/5938969003" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Work with the Best&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;We are Orderly, the ultimate destination for decentralized trading platforms. We are not satisfied with the limitations of centralized exchanges or the complexities of building decentralized order books. We aim to make trading easy, fast, and secure for everyone. How? By fusing the simplicity of CeFi with the power of DeFi.&lt;br&gt;&lt;br&gt;At the heart of the issue lies “liquidity”. Builders often grapple with a paradox; traders need liquidity, but liquidity demands traders. Our solution is simple as is bold –&lt;span class=&quot;text-primary-100 font-semibold&quot;&gt;concentrate all liquidity into one order book. One order book that connects all the liquidity in the crypto space.&lt;/span&gt;&lt;br&gt;&lt;br&gt;Our ambition doesn&#39;t stop there. We&#39;re omnichain, championing chain abstraction. We envision seamless transactions, where the underlying blockchain is merely a detail. By concentrating liquidity, we aim to redefine the crypto landscape, making bridging and wrapped assets a thing of the past.&lt;br&gt;&lt;br&gt;We are Orderly, and we are here to revolutionize DeFi, democratizing access to financial opportunities and fostering a fair, equitable paradigm for all.&lt;/p&gt;
-&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;A Glimpse into Your Future at Orderly Network&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What we&#39;re looking for&lt;/em&gt;&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p style=&quot;padding-left: 40px;&quot;&gt;We are seeking a passionate and dynamic Developer Relations Specialist at Orderly Network. As a Developer Relations Specialist, you will build and maintain relationships with developers, fostering a thriving developer community around our products and services. You will act as a liaison between Orderly and external developers, advocating for their needs while representing Orderly&#39;s interests.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What will you be working on?&lt;/em&gt;&lt;/span&gt;
-&lt;ul style=&quot;color: rgb(0, 0, 0); font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; white-space: normal; word-spacing: 0px; text-decoration: none;&quot;&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Developer Advocacy:&lt;/strong&gt; Champion our products and services within the developer community through presentations, workshops, webinars, and other events. Provide technical guidance and support to developers using our APIs, SDKs, and other tools.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Community Building:&lt;/strong&gt; Build and nurture a vibrant developer community around our products. Engage with developers through online forums, social media, and developer meetups. Encourage collaboration and knowledge sharing among community members.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Feedback Gathering:&lt;/strong&gt; Gather feedback from developers regarding their experiences with our products and services. Act as the voice of the developer community within our organization, advocating for improvements and new features based on developer needs and pain points.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Content Creation:&lt;/strong&gt; Create technical content such as blog posts, tutorials, and sample code to help developers understand and utilize our products effectively. Collaborate with marketing and product teams to ensure that developer-facing content aligns with our overall messaging and product roadmap.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Technical Support:&lt;/strong&gt; Provide technical support to developers facing challenges or issues with our products. Troubleshoot and resolve technical issues, escalate complex problems to appropriate teams, and ensure timely resolution.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Event Participation:&lt;/strong&gt; Represent our company at developer conferences, hackathons, and other industry events. Build relationships with developers, gather feedback, and promote our products and services.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;What skills will you need?&lt;/em&gt;
-&lt;ul style=&quot;color: rgb(0, 0, 0); font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; white-space: normal; word-spacing: 0px; text-decoration: none;&quot;&gt;
-&lt;li&gt;Bachelor&#39;s degree in Computer Science, Engineering, or related field.&lt;/li&gt;
-&lt;li&gt;Proven experience in developer relations, developer advocacy, or a related technical role.&lt;/li&gt;
-&lt;li&gt;Strong understanding of software development concepts and technologies, including APIs, SDKs, and programming languages.&lt;/li&gt;
-&lt;li&gt;Excellent communication and presentation skills, with the ability to effectively convey technical information to diverse audiences.&lt;/li&gt;
-&lt;li&gt;Passion for building and nurturing developer communities, with a track record of community engagement and advocacy.&lt;/li&gt;
-&lt;li&gt;Self-motivated and proactive, with the ability to work independently and as part of a team in a fast-paced environment.&lt;/li&gt;
-&lt;li&gt;Experience with open-source software development and contributions is a plus.&lt;/li&gt;
-&lt;li&gt;Willingness to travel occasionally for conferences and events.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Interested in Learning More?&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Our hiring process begins by meeting with our People Team, who help facilitate the process of placing you in your new role. You can expect to share your experience and ideas in online video interviews with our hiring team, made up of management and potential new colleagues.&lt;/li&gt;
-&lt;li&gt;You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed.&lt;/li&gt;
-&lt;li&gt;Share this! Don’t be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our &lt;a href=&quot;https://boards.greenhouse.io/orderlynetwork/jobs/5170520003&quot; target=&quot;_blank&quot;&gt;External Referral Incentives Program&lt;/a&gt; as well.&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/116062758?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Orderly</h5>
-                    <h3>Mobile Developer (Andriod/iOS)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/orderlynetwork/jobs/6246504003" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Work with the best&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;We are Orderly, the ultimate destination for decentralized trading platforms. We are not satisfied with the limitations of centralized exchanges or the complexities of building decentralized order books. We aim to make trading easy, fast, and secure for everyone. How? By fusing the simplicity of CeFi with the power of DeFi.&lt;br&gt;&lt;br&gt;At the heart of the issue lies “liquidity”. Builders often grapple with a paradox; traders need liquidity, but liquidity demands traders. Our solution is simple as is bold –&lt;span class=&quot;text-primary-100 font-semibold&quot;&gt;concentrate all liquidity into one order book. One order book that connects all the liquidity in the crypto space.&lt;/span&gt;&lt;br&gt;&lt;br&gt;Our ambition doesn&#39;t stop there. We&#39;re omnichain, championing chain abstraction. We envision seamless transactions, where the underlying blockchain is merely a detail. By concentrating liquidity, we aim to redefine the crypto landscape, making bridging and wrapped assets a thing of the past.&lt;br&gt;&lt;br&gt;We are Orderly, and we are here to revolutionize DeFi, democratizing access to financial opportunities and fostering a fair, equitable paradigm for all.&lt;/p&gt;
-&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;A Glimpse into Your Future at Orderly Network&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What will you be working on?&lt;/em&gt;&lt;/span&gt;
-&lt;ul&gt;
-&lt;li&gt;Designing and developing mobile applications to ensure high performance and availability on Android and iOS platforms.&lt;/li&gt;
-&lt;li&gt;Building user interfaces using the React tech stack, ensuring code reusability and efficiency.&lt;/li&gt;
-&lt;li&gt;Developing cross-platform applications using the Flutter framework to enhance development speed and user experience.&lt;/li&gt;
-&lt;li&gt;Continuously optimizing application performance and user experience, troubleshooting issues and bugs.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;Who will you be working with?&lt;/em&gt;&lt;/span&gt;
-&lt;ul&gt;
-&lt;li&gt;Collaborating closely with the product team to ensure consistency in functionality and design.&lt;/li&gt;
-&lt;li&gt;Working with backend development teams to ensure effective integration and data transmission between front and back ends.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What challenges will you face?&lt;/em&gt;&lt;/span&gt;
-&lt;ul&gt;
-&lt;li&gt;Fast-paced working environment.&lt;/li&gt;
-&lt;li&gt;Ensuring high performance and availability of applications across different platforms.&lt;/li&gt;
-&lt;li&gt;Solving complex technical issues and bugs to enhance user experience.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What tech stacks/skills will you be using?&lt;/em&gt;&lt;/span&gt;
-&lt;ul&gt;
-&lt;li&gt;Experience with iOS or Android mobile app development.&lt;/li&gt;
-&lt;li&gt;Proven experience in Flutter and Dart development.&lt;/li&gt;
-&lt;li&gt;Knowledge of state management solutions in Flutter (e.g., Provider, Riverpod).&lt;/li&gt;
-&lt;li&gt;Strong understanding of Clean Architecture principles and application to Flutter projects.&lt;/li&gt;
-&lt;li&gt;Prefer candidates with experience in the crypto or trading&lt;/li&gt;
-&lt;li&gt;Fluent in Chinese; English proficiency is a plus.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Interested in Learning More?&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Our hiring process begins by meeting with our People Team, who help facilitate the process of placing you in your new role. You can expect to share your experience and ideas in online video interviews with our hiring team, made up of management and potential new colleagues.&lt;/li&gt;
-&lt;li&gt;If you have experience in developing trading systems or financial-related products is a&amp;nbsp;plus.&lt;/li&gt;
-&lt;li&gt;You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed.&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Share this! Don’t be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our &lt;a href=&quot;https://boards.greenhouse.io/orderlynetwork/jobs/5170520003&quot; target=&quot;_blank&quot;&gt;External Referral Incentives Program&lt;/a&gt; as well.&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/116062758?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Orderly</h5>
-                    <h3>Web Frontend Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/orderlynetwork/jobs/6246503003" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Work with the best&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;We are Orderly, the ultimate destination for decentralized trading platforms. We are not satisfied with the limitations of centralized exchanges or the complexities of building decentralized order books. We aim to make trading easy, fast, and secure for everyone. How? By fusing the simplicity of CeFi with the power of DeFi.&lt;br&gt;&lt;br&gt;At the heart of the issue lies “liquidity”. Builders often grapple with a paradox; traders need liquidity, but liquidity demands traders. Our solution is simple as is bold –&lt;span class=&quot;text-primary-100 font-semibold&quot;&gt;concentrate all liquidity into one order book. One order book that connects all the liquidity in the crypto space.&lt;/span&gt;&lt;br&gt;&lt;br&gt;Our ambition doesn&#39;t stop there. We&#39;re omnichain, championing chain abstraction. We envision seamless transactions, where the underlying blockchain is merely a detail. By concentrating liquidity, we aim to redefine the crypto landscape, making bridging and wrapped assets a thing of the past.&lt;br&gt;&lt;br&gt;We are Orderly, and we are here to revolutionize DeFi, democratizing access to financial opportunities and fostering a fair, equitable paradigm for all.&lt;/p&gt;
-&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;A Glimpse into Your Future at Orderly Network&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What will you be working on?&lt;/em&gt;&lt;/span&gt;
-&lt;ul&gt;
-&lt;li&gt;Design, develop, and maintain responsive web applications with a focus on user experience.&lt;/li&gt;
-&lt;li&gt;Implement new features and improve existing infrastructure.&lt;/li&gt;
-&lt;li&gt;Ensure best practices in web development and contribute to code reviews.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;Who will you be working with?&lt;/em&gt;&lt;/span&gt;
-&lt;ul&gt;
-&lt;li&gt;Collaborate closely with the product and backend teams to ensure seamless integration and feature development.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What challenges will you face?&lt;/em&gt;&lt;/span&gt;
-&lt;ul&gt;
-&lt;li&gt;Fast-paced working environment.&lt;/li&gt;
-&lt;li&gt;Attention to detail and high-performance optimizations.&lt;/li&gt;
-&lt;li&gt;Balancing new feature implementation with maintaining code quality and scalability.&lt;/li&gt;
-&lt;li&gt;Keeping up-to-date with best practices in frontend development and modern JavaScript frameworks.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;What tech stacks/skills will you be using?&lt;/em&gt;&lt;/span&gt;
-&lt;ul&gt;
-&lt;li&gt;In-depth understanding of JavaScript, TypeScript, and modern ES6+ features.&lt;/li&gt;
-&lt;li&gt;Deep understanding of React’s lifecycle methods, hooks, and performance optimization techniques.&lt;/li&gt;
-&lt;li&gt;Strong experience with state management libraries (e.g., Redux, Zustand, or Context API).&lt;/li&gt;
-&lt;li&gt;Experience with testing frameworks like Jest, React Testing Library, Cypress, or Enzyme.&lt;/li&gt;
-&lt;li&gt;Knowledge of component-driven development, storybook, and design systems.&lt;/li&gt;
-&lt;li&gt;Solid understanding of software design patterns and their application in front-end development.&lt;/li&gt;
-&lt;li&gt;Prefer candidates with experience in the crypto or trading.&lt;/li&gt;
-&lt;li&gt;Fluent in Chinese; English proficiency is a plus.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Interested in Learning More?&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Our hiring process begins by meeting with our People Team, who help facilitate the process of placing you in your new role. You can expect to share your experience and ideas in online video interviews with our hiring team, made up of management and potential new colleagues.&lt;/li&gt;
-&lt;li&gt;If you have experience in developing trading systems or financial-related products is a&amp;nbsp;plus.&lt;/li&gt;
-&lt;li&gt;You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed.&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Share this! Don’t be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our &lt;a href=&quot;https://boards.greenhouse.io/orderlynetwork/jobs/5170520003&quot; target=&quot;_blank&quot;&gt;External Referral Incentives Program&lt;/a&gt; as well.&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
                 </details>
                 </td>
             </tr></table>
