@@ -1,5 +1,72 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1997615/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Contra</h5>
+                    <h3>No Code Developer</h3>
+                </td>
+                <td width="300">
+                    <code>ecommerce,go,shopify,UI/UX</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/no-code-developer-1997615" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="bn-block-outer" data-id="97b8eee9-a475-416a-9e79-686a62f0b6d1" style="margin: 0px; outline: transparent solid 2px; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; line-height: 1.5; transition: margin 0.2s; color: #3f3f3f; white-space-collapse: preserve;"> </p>
+<p class="bn-block" data-id="97b8eee9-a475-416a-9e79-686a62f0b6d1" style="margin: 0px; outline: transparent solid 2px; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; display: flex; flex-direction: column;"> </p>
+<p class="bn-block-content" style="margin: 0px; outline: transparent solid 2px; outline-offset: 2px; padding: 3px 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; display: flex; transition: width: 772.014px;"> </p>
+<p class="bn-inline-content" style="margin: 0px; outline: none; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; overflow-wrap: anywhere; word-break: break-word;">We’re looking for a skilled <strong style="margin: 0px; outline: none; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1;">No-Code Developer</strong> to help us design, build, and launch functional, responsive websites and automation workflows—without writing a single line of code. If you’re experienced with tools like Webflow, Airtable, and Zapier and have a strong eye for clean design and user experience, we’d love to work with you.</p>
+<p class="bn-block-outer" data-id="03cd4082-a1b9-4269-ad0a-9f5477a8237c" style="margin: 16px 0px 0px; outline: transparent solid 2px; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; line-height: 1.5; transition: margin 0.2s; color: #3f3f3f; white-space-collapse: preserve;"> </p>
+<p class="bn-block" data-id="03cd4082-a1b9-4269-ad0a-9f5477a8237c" style="margin: 0px; outline: transparent solid 2px; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; display: flex; flex-direction: column;"> </p>
+<p class="bn-block-content" style="margin: 0px; outline: transparent solid 2px; outline-offset: 2px; padding: 3px 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; display: flex; transition: width: 772.014px; --level: 1.3em; font-weight: bold;"> </p>
+<div class="h3" style="outline: none; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; text-wrap-style: initial; font-weight: 600; line-height: 1.3; min-width: 2px !important;"> </div>
+<p class="bn-inline-content" style="margin: 0px; outline: none; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; overflow-wrap: anywhere; word-break: break-word;">🚀 What You’ll Do</p>
+<p class="bn-block-outer" data-id="98337775-c2bb-443e-9972-abd888772882" style="margin: 16px 0px 0px; outline: transparent solid 2px; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; line-height: 1.5; transition: margin 0.2s; color: #3f3f3f; white-space-collapse: preserve;"> </p>
+<p class="bn-block" data-id="98337775-c2bb-443e-9972-abd888772882" style="margin: 0px; outline: transparent solid 2px; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; display: flex; flex-direction: column;"> </p>
+<p class="bn-block-content" style="margin: 0px; outline: transparent solid 2px; outline-offset: 2px; padding: 3px 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; display: flex; transition: width: 772.014px; gap: 0.5em;"> </p>
+<p class="bn-inline-content" style="margin: 0px; outline: none; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; overflow-wrap: anywhere; word-break: break-word;"> </p>
+<ul style="">
+<li style="">Design and build websites using modern No-Code platforms</li>
+<li style="">Translate designs and concepts into fully functional sites</li>
+<li style="">Customize and optimize for responsiveness, performance, and usability</li>
+<li style="">Set up automations and integrations between apps (Zapier-style workflows)</li>
+<li style="">Collaborate closely with designers, PMs, and other stakeholders</li>
+<li style="">✅ What We’re Looking For</li>
+<li style="">Proven experience as a No-Code Developer or similar role</li>
+<li style="">Strong grasp of UX/UI principles and responsive design</li>
+<li style="">Proficiency with No-Code platforms (e.g. Webflow, Softr, Framer)</li>
+<li style="">Ability to build clean, custom layouts with attention to detail</li>
+<li style="">Clear communication and collaborative mindset</li>
+</ul>
+<p class="bn-block-outer" data-id="041de1ac-9764-4232-af70-7d23eac37f42" style="margin: 16px 0px 0px; outline: transparent solid 2px; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; line-height: 1.5; transition: margin 0.2s; color: #3f3f3f; white-space-collapse: preserve;"> </p>
+<p class="bn-block" data-id="041de1ac-9764-4232-af70-7d23eac37f42" style="margin: 0px; outline: transparent solid 2px; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; display: flex; flex-direction: column;"> </p>
+<p class="bn-block-content" style="margin: 0px; outline: transparent solid 2px; outline-offset: 2px; padding: 3px 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; display: flex; transition: width: 772.014px; --level: 1.3em; font-weight: bold;"> </p>
+<div class="h3" style="outline: none; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; text-wrap-style: initial; font-weight: 600; line-height: 1.3; min-width: 2px !important;"> </div>
+<p class="bn-inline-content" style="margin: 0px; outline: none; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; overflow-wrap: anywhere; word-break: break-word;">✨ Bonus Skills</p>
+<p class="bn-block-outer" data-id="231c0966-fd8e-476a-8a2f-d37895623420" style="margin: 16px 0px 0px; outline: transparent solid 2px; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; line-height: 1.5; transition: margin 0.2s; color: #3f3f3f; white-space-collapse: preserve;"> </p>
+<p class="bn-block" data-id="231c0966-fd8e-476a-8a2f-d37895623420" style="margin: 0px; outline: transparent solid 2px; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; display: flex; flex-direction: column;"> </p>
+<p class="bn-block-content" style="margin: 0px; outline: transparent solid 2px; outline-offset: 2px; padding: 3px 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; display: flex; transition: width: 772.014px; gap: 0.5em;"> </p>
+<p class="bn-inline-content" style="margin: 0px; outline: none; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; overflow-wrap: anywhere; word-break: break-word;"> </p>
+<ul style="">
+<li style="">Experience with Zapier, Airtable, Mailchimp, Go High Level, or similar tools</li>
+<li style="">Familiarity with Google Tag Manager, GA4, and other tracking setups</li>
+<li style="">Experience with eCommerce platforms like Shopify, WooCommerce, or Webflow eCommerce</li>
+</ul>
+<p> </p>
+<p class="bn-block-outer" data-id="82e0fc71-7d48-4f4b-b86c-d66171a37243" style="margin: 16px 0px 0px; outline: transparent solid 2px; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; line-height: 1.5; transition: margin 0.2s; color: #3f3f3f; white-space-collapse: preserve;"> </p>
+<div class="bn-block" data-id="82e0fc71-7d48-4f4b-b86c-d66171a37243" style="margin: 0px; outline: transparent solid 2px; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; display: flex; flex-direction: column;"> </div>
+<img src="https://remotive.com/job/track/1997615/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1984510/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +77,7 @@
                     <code>backend,C++,javascript,mongoDB</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-node-js-1984510" align="right" target="_blank">Apply</a>
@@ -83,7 +150,7 @@ the services and core processes with the highest security principles and
                     <code>.Net,api,backend,C</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-typescript-1983726" align="right" target="_blank">Apply</a>
@@ -150,106 +217,6 @@ the services and core processes with the highest security principles and
 <li style="">If everything goes smoothly, you’ll receive an <strong>offer</strong> from us shortly after. Fingers crossed!</li>
 </ul>
 <img src="https://remotive.com/job/track/1983726/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/3979584?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sourcegraph</h5>
-                    <h3>Developer Advocate - based in San Francisco, CA [IC2 - IC3]</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/sourcegraph91/jobs/5417734004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Our mission at Sourcegraph is to make it so that &lt;a href=&quot;https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4&quot;&gt;everyone can code&lt;/a&gt;, not just ~0.1% of the population.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;We are transforming how the world’s most important companies build software by industrializing development with AI. Today, most professional developers spend a disproportionate amount of time understanding code and performing repetitive, low-level tasks—leaving less time for innovation and meaningful impact.&lt;/p&gt;
-&lt;p&gt;We’re changing that. Sourcegraph brings AI-powered search and agents to the enterprise, helping teams automate the mundane and amplify what developers do best— solving hard problems and creating great products.&lt;/p&gt;
-&lt;p&gt;Here’s how we’re making a difference:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Accelerating developers &lt;/strong&gt;with AI agents that deliver insights and precision—enabling 5x faster test creation, 30% increase in merge requests, and saving 20 minutes per developer daily.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Automating repetitive tasks,&lt;/strong&gt; from remediating vulnerabilities (saving teams 1,000+ hours annually) to speeding up migrations that would take years to months.&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Enabling innovation&lt;/strong&gt; by addressing complex problems like automated bug triage, vulnerability detection, and AI-driven code reviews seamlessly integrated into workflows.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Trusted by 7/10 top software companies by market cap, 4/6 top US banks and many of the companies leading global innovation, like Stripe, Indeed, Tesla, and 1Password, and with $225M in funding from investors like &lt;a href=&quot;https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/&quot;&gt;a16z&lt;/a&gt;, &lt;a href=&quot;https://about.sourcegraph.com/blog/series-c-with-sequoia/&quot;&gt;Sequoia&lt;/a&gt;, and &lt;a href=&quot;https://www.redpoint.com/companies/sourcegraph/&quot;&gt;Redpoint&lt;/a&gt;, we are building the tools that will define the next era of enterprise software development.&lt;/p&gt;
-&lt;p&gt;If you’re passionate about solving the hardest problems in software and shaping the future of technology, join us. Let’s build something extraordinary together.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Working hours&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;🌎 The ideal candidate for this role will reside in San Francisco, California. Regular attendance at weekly Developer and AI events in the city is an essential aspect of this position.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Required locations:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&amp;nbsp;San Francisco, California&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;We do not subscribe to “I do my best work when I work 40 hours a week.” &amp;nbsp;People we hire at Sourcegraph believe that building outstanding things means working very hard — smarter and more hours than the competition.&lt;/p&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Why this job is exciting&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;As a Developer Advocate at Sourcegraph, you will be a champion for how developers understand and navigate complex codebases using our platform. You&#39;ll be connecting with the developer community and sharing the value of our AI Code Assistant and Code Search platform through written, video, and live engagements. You&#39;ll be part of a small but impactful team, representing Sourcegraph and its commitment to improving the developer experience. You&#39;ll have the opportunity to help developers at the most successful and sophisticated companies in the world (our customers) implement and scale code AI capabilities. We&#39;re looking for someone passionate about driving adoption and empowering engineers through creative story telling and genuine community building.&lt;/p&gt;
-&lt;p&gt;As a Developer Advocate, you will spend 25% of your time engaging with Developers at events in-person and 75% of your time creating content and recording videos.&lt;/p&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Job responsibilities&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Attend and host 2-5 meet-ups and events in San Francisco monthly&lt;/li&gt;
-&lt;li&gt;Represent our user community within Sourcegraph&lt;/li&gt;
-&lt;li&gt;Build apps with Sourcegraph in public&lt;/li&gt;
-&lt;li&gt;Build integrations on top of Sourcegraph (such as teaching Sourcegraph how to use and gather information from other dev tools, including logging, perf, etc., tools)&lt;/li&gt;
-&lt;li&gt;Livestream and record demos of what you build, for Twitter, YouTube, Twitch, etc.&lt;/li&gt;
-&lt;li&gt;Be an incredibly helpful and inspirational member of our dev community yourself and help grow it&lt;/li&gt;
-&lt;li&gt;Write awesome technical blog posts&lt;/li&gt;
-&lt;li&gt;Promote Sourcegraph on social media&lt;/li&gt;
-&lt;li&gt;Help connect our user community growth to our product-led growth engine&lt;/li&gt;
-&lt;li&gt;Overall, help define what dev advocacy means at Sourcegraph&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Skills and experience&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Your skill-set:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;You are intrinsically motivated by Sourcegraph’s mission.&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Experience as a software engineer or prolific coding&lt;/li&gt;
-&lt;li&gt;TypeScript, JavaScript, and/or Go skills Able to communicate technical concepts in a simple and engaging way&lt;/li&gt;
-&lt;li&gt;Experience creating high-quality technical writing and videos&lt;/li&gt;
-&lt;li&gt;Experience working in a high-agency environment that requires ownership&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;Bonus Points:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;You’ve established a strong following on social media platforms&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;This job is an IC2-IC3.&amp;nbsp; You can read more about &lt;a href=&quot;https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/&quot;&gt;our job leveling philosophy&lt;/a&gt; in our Handbook.&lt;/p&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;💸 We pay you an above-average salary&lt;/strong&gt; because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an &lt;a href=&quot;https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent&quot;&gt;open and transparent&lt;/a&gt; company that values competitive compensation, our &lt;a href=&quot;https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/&quot;&gt;compensation ranges are visible&lt;/a&gt; to every single Sourcegraph teammate. To determine your salary, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;💰 The target compensation for this role is $140,000 - $163,000 USD (depending on level &amp;amp; location).&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous &lt;a href=&quot;https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/&quot;&gt;perks &amp;amp; benefits&lt;/a&gt;.&lt;/p&gt;
-&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Interview process&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Below is the interview process you can expect for this role (you can read more about &lt;/span&gt;&lt;/em&gt;&lt;a href=&quot;https://handbook.sourcegraph.com/talent/types_of_interviews&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;the types of interviews&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&amp;nbsp;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We expect the interview process to take 4.5&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;hours in total.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;👋 Introduction Stage&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; - we have initial conversations to get to know you better…&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;[30m] &lt;/span&gt;&lt;a href=&quot;https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#recruiter-screen&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recruiter Screen&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; with Kelsey Nagel&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;[60m] &lt;/span&gt;&lt;a href=&quot;https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Hiring Manager Screen&lt;/span&gt;&lt;/a&gt; / &lt;a href=&quot;https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Resume Deep Dive&lt;/span&gt;&lt;/a&gt;&amp;nbsp;with Ado Kukic&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;🧑‍💻 Team Interview Stage&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; - we then delve into your experience in more depth and introduce you to members of the team…&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;[45m]&amp;nbsp;&lt;a href=&quot;https://about.sourcegraph.com/handbook/talent/types_of_interviews#cross-functional-team-collaboration-interview&quot;&gt;Cross-functional team collaboration&lt;/a&gt;&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;[60m]&amp;nbsp;&lt;a href=&quot;https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#developer-relations-working-session&quot;&gt;Working Session&lt;/a&gt;&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;🎉 Final Interview Stage &lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;[30m] &lt;/span&gt;&lt;a href=&quot;https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#values-interview&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Values Interview&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;[30m] &lt;/span&gt;&lt;a href=&quot;https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Leadership Interview&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; with Quinn Slack or Beyang Liu&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We check references and conduct your background check&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process. You can learn more about the team&amp;nbsp;&lt;a href=&quot;https://handbook.sourcegraph.com/team/&quot;&gt;here&lt;/a&gt;.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(243, 78, 63);&quot;&gt;&lt;strong&gt;Learn more about us&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;You can learn more about what it is like to work at Sourcegraph by reading &lt;a href=&quot;https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0&quot;&gt;our handbook&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;We are an ambitious team who are collectively working hard to build the most influential company in the world.&amp;nbsp; You can read more about our &lt;a href=&quot;https://sourcegraph.notion.site/What-it-s-like-working-at-Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115&quot;&gt;culture&lt;/a&gt;, &lt;a href=&quot;https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74&quot;&gt;competitive compensation&lt;/a&gt; and &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74&quot;&gt;benefits&lt;/a&gt; here.&lt;/p&gt;
-&lt;p&gt;Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Sourcegraph participates in &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107&quot;&gt;&lt;em&gt;E-Verify&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for U.S. Employees. &lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
