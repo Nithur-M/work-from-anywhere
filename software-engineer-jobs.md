@@ -1,5 +1,60 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/2003128/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Gradient AI</h5>
+                    <h3>Full-Stack Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>docker,javascript,python,react</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-software-engineer-2003128" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong><em>This is a fully remote opportunity</em></strong></p>
+<p><strong>Gradient AI:  </strong>  </p>
+<p>Gradient AI is revolutionizing Group Health and P&amp;C insurance with AI-powered solutions that help insurers predict risk more accurately, improve profitability, and automate underwriting and claims. Our SaaS platform taps into one of the industry’s largest data lakes—tens of millions of policies and claims—to deliver deep, actionable insights. Trusted by leading carriers, MGAs, TPAs, and self-insured employers, Gradient AI has grown rapidly since our founding in 2018. Backed by $56M in Series C funding, we're scaling fast—and it's an exciting time to join the team. </p>
+<p><strong>About the Role:  </strong>  </p>
+<p>If you want to work on cutting edge technology with friendly, intelligent people in a highly collaborative environment, then Gradient AI is the right place for you. We’re looking for a Full-Stack Software Engineer to join our team and help build scalable, client-facing applications. The ideal candidate is a life-long learner who knows Python, with strong analytical skills and an interest in the insurance industry.  </p>
+<p><strong>How you will make an impact:</strong></p>
+<ul style="">
+<li style="">Build and maintain client-facing web applications using React for the front end and Flask for the back end.</li>
+<li style="">Collaborate with the product team to design, develop, and deploy new features and functionality for our web apps and SaaS products.</li>
+<li style="">Develop and maintain APIs that integrate seamlessly with front-end interfaces and support client needs.</li>
+<li style="">Work closely with our data science and data engineering teams to build robust data pipelines and workflows.</li>
+<li style="">Develop intuitive dashboards and business intelligence tools that help our clients make data-driven decisions.</li>
+</ul>
+<p> <strong>Skills needed to succeed:</strong></p>
+<ul style="">
+<li style="">3+ years of experience as a full-stack developer, with deep expertise in React (component-based architecture, state management, hooks) and Python (Flask, API development).</li>
+<li style="">Strong experience in JavaScript/TypeScript and modern front-end technologies like Vite.</li>
+<li style="">Proficiency with relational databases, including schema design, query optimization, and performance tuning.</li>
+<li style="">Experience with CI/CD pipelines and containerization technologies like Docker and Kubernetes.</li>
+<li style="">A high degree of organization and the ability to manage multiple projects simultaneously while meeting deadlines.</li>
+</ul>
+<p><strong>What We Offer:</strong>  </p>
+<ul style="">
+<li style="">A fun, team-oriented startup culture.  </li>
+<li style="">Generous stock options - we all get to own a piece of what we’re building.  </li>
+<li style="">Unlimited vacation days.  </li>
+<li style="">Flexible schedule that supports working from home.  </li>
+<li style="">Full benefits package includes medical, dental, vision, 401k, paid paternal leave, and more.  </li>
+<li style="">Ample opportunities to learn and take on new responsibilities.  </li>
+</ul>
+<p>We are an equal opportunity employer. </p>
+<img src="https://remotive.com/job/track/2003128/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1989176/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +65,7 @@
                     <code>api,CSS,frontend,html</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-infrastructure-team-1989176" align="right" target="_blank">Apply</a>
@@ -89,7 +144,7 @@
                     <code>C,C++,javascript,blockchain</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-c-1996157" align="right" target="_blank">Apply</a>
@@ -159,7 +214,7 @@ transitioning models from research to production environments.</p></li><li style
                     <code>.Net,javascript,python,saas</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1991695" align="right" target="_blank">Apply</a>
