@@ -1,5 +1,88 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/2002963/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Mob Entertainment</h5>
+                    <h3>DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>troubleshooting</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/devops-engineer-2002963" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class='"content-intro"'>
+<p><strong>Mob Entertainment </strong>is a startup multimedia studio that is best known for our hit indie horror game "<strong>Poppy Playtime"</strong>.  This franchise is one of the hottest new properties in gaming, and our team is naturally expanding as our ambition expands.  <strong>To give a taste of our brand's popularity, more than 100 billion YouTube views of Poppy Playtime related content have occured since the game's launch 4 years ago. </strong></p>
+<p> </p>
+</div>
+<p>Mob Entertainment is seeking a Junior or Mid-Level DevOps Engineer to join our growing Developer Operations team. This role will directly support the infrastructure, tooling, and workflows that power development across all of Mob’s games - including our flagship Poppy Playtime franchise and upcoming original titles.</p>
+<p> </p>
+<p>You’ll work alongside our lead DevOps engineer to maintain, scale, and improve our build and deployment pipelines, reduce iteration times, and unlock greater velocity for all development teams. This role is critical to ensuring that engineers, designers, artists, and QA can move quickly, safely, and efficiently throughout the production cycle.</p>
+<p>If you’re a builder at heart with a passion for tooling, automation, and solving real-world production problems, we want to hear from you.</p>
+<p> </p>
+<p><strong>Responsibilities:</strong></p>
+<ul style="">
+<li style="">Support and maintain CI/CD pipelines, including automation for build generation, testing, and deployment across multiple projects.</li>
+<li style="">Assist with managing Perforce source control, including branching strategies, access, and sync issues.</li>
+<li style="">Monitor, troubleshoot, and improve build stability, lighting compilation, PCV issues, and packaging workflows.</li>
+<li style="">Work closely with the Lead DevOps Engineer to implement systems such as Gauntlet, UGS or UGS-like tools, derived data cache infrastructure, and future-proofed automation layers.</li>
+<li style="">Help deliver builds to QA and production teams with consistency, clarity, and minimal turnaround time.</li>
+<li style="">Participate in release planning and serve as a key partner during patch integration and shipping milestones.</li>
+<li style="">Ensure uptime and continuity of tools and infrastructure - reducing single-point-of-failure risks and increasing build redundancy.</li>
+<li style="">Proactively identify workflow bottlenecks and contribute to new tooling or automation that improves day-to-day development across the studio.</li>
+<li style="">Support studio cybersecurity readiness and incident response processes as needed.</li>
+</ul>
+<p><strong>Requirements:</strong></p>
+<ul style="">
+<li style="">1–4 years of experience in a DevOps, Build Engineering, or Systems Engineering role (games or adjacent industries).</li>
+<li style="">Working knowledge of CI/CD systems (e.g., Jenkins, TeamCity, GitLab CI, etc.) and build automation scripting (e.g., PowerShell, Python, Bash).</li>
+<li style="">Experience with Unreal Engine.</li>
+<li style="">Experience with Perforce or other VCS tools, and comfort navigating large repositories.</li>
+<li style="">Familiarity with build pipelines, packaging systems, and engine-specific data compilation (e.g., lightmaps, shaders, PCVs).</li>
+<li style="">Strong troubleshooting skills and a methodical approach to diagnosing and resolving technical issues.</li>
+<li style="">Excellent communication and documentation skills; able to collaborate effectively with cross-disciplinary teams.</li>
+<li style="">Eagerness to learn, grow, and adapt in a fast-paced, multi-project environment.</li>
+</ul>
+<p><strong>Pluses</strong>:</p>
+<ul style="">
+<li style="">Experience supporting Unreal Engine build systems in a shipped game environment.</li>
+<li style="">Familiarity with UGS (Unreal Game Sync), Gauntlet, or similar automated build/distribution tools.</li>
+<li style="">Understanding of derived data cache (DDC) optimization and configuration.</li>
+<li style="">Scripting or tool development experience in C#, Python, or similar.</li>
+<li style="">Interest or experience in cybersecurity / infrastructure monitoring is a bonus.</li>
+</ul>
+<p><strong>Performance Expectations:</strong></p>
+<ul style="">
+<li style="">Increase studio build reliability and speed, reducing bottlenecks and downtime for other departments.</li>
+<li style="">Help create redundancy in DevOps support, reducing dependency on a single engineer.</li>
+<li style="">Maintain clear documentation, clean build logs, and accessible tools for team-wide usage.</li>
+<li style="">Proactively participate in infrastructure improvements to unlock long-term velocity across all game teams.</li>
+</ul>
+<p><strong>Reporting &amp; Oversight:</strong></p>
+<ul style="">
+<li style=""><strong>Reports to:</strong> Lead DevOps Engineer</li>
+<li style=""><strong>Works closely with:</strong> Engineering, QA, Technical Design, Production</li>
+<li style=""><strong>Communication Tools:</strong> Slack, Jira, Confluence</li>
+</ul>
+<p>If you're ready to help build the systems that build the games, and you want to make a studio-wide impact by supporting every team, this role is a critical part of Mob’s next chapter.</p>
+<p> </p>
+<p>#LI-remote</p>
+<div class='"content-conclusion"'>
+<p>Mob Entertainment is an equal opportunity employer. We do not discriminate on the basis of race, color, religion or religious creed, sexual orientation, gender, gender identity, marital status, family or parental status, disability, military or veteran status, or any other basis protected by law. All employment decisions are based on a person’s merit, business needs, and role requirements. If you require further accommodations or have questions regarding accessibility of our roles, please reach out to info@mobentertainment.com</p>
+</div>
+<img src="https://remotive.com/job/track/2002963/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://media.licdn.com/dms/image/C4D0BAQHlK67hgnhzQw/company-logo_200_200/0/1631346154820?e=2147483647&v=beta&t=_R2Ssj7L_f4xqmSCcq0nOLCyCz0QN2lFnHssxxhj3YY" width="38px" height="auto">
                 </td>
                 <td width="300">
