@@ -10,7 +10,7 @@
                     <code>api,CSS,frontend,html</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-infrastructure-team-1989176" align="right" target="_blank">Apply</a>
@@ -89,7 +89,7 @@
                     <code>C,C++,javascript,blockchain</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-c-1996157" align="right" target="_blank">Apply</a>
@@ -2057,6 +2057,30 @@ transitioning models from research to production environments.</p></li><li style
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/65879301?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sardine</h5>
+                    <h3>Software Engineer - Payments</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.ashbyhq.com/sardine/4a9709c2-0fc1-4990-8357-c036d1e50a06" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height:1.5em"><strong>Who we are:</strong></p><p style="min-height:1.5em">We are a leader in fraud prevention and AML compliance. Our platform uses device intelligence, behavior biometrics, machine learning, and AI to stop fraud before it happens. Today, over 300 banks, retailers, and fintechs worldwide use Sardine to stop identity fraud, payment fraud, account takeovers, and social engineering scams. We have raised $145M from world-class investors, including Andreessen Horowitz, Activant, Visa, Experian, FIS, and Google Ventures.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Our culture:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">We have hubs in the Bay Area, NYC, Austin, and Toronto. However, we maintain a remote-first work culture. #WorkFromAnywhere</p></li><li><p style="min-height:1.5em">We hire talented, self-motivated individuals with extreme ownership and high growth orientation. </p></li><li><p style="min-height:1.5em">We value performance and not hours worked. We believe you shouldn't have to miss your family dinner, your kid's school play, friends get-together, or doctor's appointments for the sake of adhering to an arbitrary work schedule.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Location: </strong>Remote - Brazil</p><p style="min-height:1.5em">To be considered for this position, you must reside in one of the following cities:</p><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>São Paulo: </strong>São Paulo, Campinas, São José dos Campos</p></li><li><p style="min-height:1.5em"><strong>Rio de Janeiro: </strong>Rio de Janeiro</p></li><li><p style="min-height:1.5em"><strong>Minas Gerais: </strong>Belo Horizonte</p></li><li><p style="min-height:1.5em"><strong>Paraná: </strong>Curitiba<strong> </strong></p></li><li><p style="min-height:1.5em"><strong>Santa Catarina:</strong> Florianópolis</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>About the Role:</strong></p><p style="min-height:1.5em">We’re looking for a backend-focused Software Engineer to join the Payments Team at Sardine. In this role, you’ll help design and build the APIs, services, and systems that power our crypto onramp and offramp infrastructure. You’ll work across the stack to launch impactful features, drive scalability, and contribute to product and technical direction. This is a high-ownership, high-impact role for an engineer passionate about building reliable systems at scale.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What you'll be doing:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Build and maintain backend services for our crypto onramp/offramp platform used by hundreds of thousands of users worldwide.</p></li><li><p style="min-height:1.5em">Design and implement APIs and data pipelines with a focus on high availability, fault tolerance, and zero downtime.</p></li><li><p style="min-height:1.5em">Collaborate closely with cross-functional teams including product, compliance, and business to launch features end-to-end.</p></li><li><p style="min-height:1.5em">Work with partners and vendors to deliver seamless payment integrations.</p></li><li><p style="min-height:1.5em">Help shape the team’s technical roadmap, improve developer tooling, and optimize internal workflows.</p></li><li><p style="min-height:1.5em">Participate in an on-call rotation and production support to ensure system health and uptime.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What you'll bring:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">5+ years of proven experience as a Software Engineer specializing in web backend development.</p></li><li><p style="min-height:1.5em">Proficiency in Ruby (our primary backend language on the Payments Team)</p></li><li><p style="min-height:1.5em">Experience building APIs, services, and data pipelines.</p></li><li><p style="min-height:1.5em">Strong sense of ownership, with attention to detail and a proactive attitude toward learning and improvement.</p></li><li><p style="min-height:1.5em">Experience in frontend development is a plus.</p></li><li><p style="min-height:1.5em">Proven ability to deliver high-quality, reliable systems in production environments.</p></li><li><p style="min-height:1.5em">A user-first mindset with strong empathy for customers and their needs.</p></li><li><p style="min-height:1.5em">Bonus: relevant industry experience, particularly in crypto, fintech or banking, and domain knowledge in fraud prevention or compliance. </p></li><li><p style="min-height:1.5em">Proficient in English - from casual chats to formal reports.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Technologies we use:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Ruby</p></li><li><p style="min-height:1.5em">Python</p></li><li><p style="min-height:1.5em">Java</p></li><li><p style="min-height:1.5em">Terraform</p></li><li><p style="min-height:1.5em">TypeScript (React + node)</p></li><li><p style="min-height:1.5em">Golang</p></li><li><p style="min-height:1.5em">Bigtable</p></li><li><p style="min-height:1.5em">Postgres / PostgreSQL</p></li><li><p style="min-height:1.5em">GCP dataflow (apache beam)</p></li><li><p style="min-height:1.5em">BigQuery</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Compensation:</strong> Base pay range of $50,000 - $70,000 + equity with tremendous upside potential + Attractive benefits</p><p style="min-height:1.5em"></p><p style="min-height:1.5em">The compensation offered for this role will depend on various factors, including the candidate's location, qualifications, work history, and interview performance, and may differ from the stated range.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Benefits we offer:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Generous compensation in cash and equity</p></li><li><p style="min-height:1.5em">Early exercise for all options, including pre-vested</p></li><li><p style="min-height:1.5em">Work from anywhere: Remote-first Culture</p></li><li><p style="min-height:1.5em">Flexible paid time off, Year-end break, Self care days off</p></li><li><p style="min-height:1.5em">Health insurance, dental, and vision coverage for employees and dependents - <em>US and Canada specific</em></p></li><li><p style="min-height:1.5em">4% matching in 401k / RRSP - <em>US and Canada specific</em></p></li><li><p style="min-height:1.5em">MacBook Pro delivered to your door</p></li><li><p style="min-height:1.5em">One-time stipend to set up a home office — desk, chair, screen, etc.</p></li><li><p style="min-height:1.5em">Monthly meal stipend</p></li><li><p style="min-height:1.5em">Monthly social meet-up stipend</p></li><li><p style="min-height:1.5em">Annual health and wellness stipend</p></li><li><p style="min-height:1.5em">Annual Learning stipend</p></li><li><p style="min-height:1.5em">Unlimited access to an expert financial advisory</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em">Join a fast-growing company with world-class professionals from around the world. If you are seeking a meaningful career, you found the right place, and we would love to hear from you.</p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -2433,6 +2457,82 @@ transitioning models from research to production environments.</p></li><li style
                 </td>
                 <td width="300">
                     <h5>Speechify</h5>
+                    <h3>Software Engineer, iOS Core Product</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/speechify/jobs/5527897004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;
+&lt;p&gt;Over 30 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
+&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;With the growth of our iOS app, being the #18 productivity app in the App Store category, we find the need for a Senior iOS Engineer to help us support the new user base as well as work on new and exciting projects to push our missing forward. &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.&lt;/p&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&amp;nbsp;&lt;/p&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;Our interview process involves several technical interviews and we aim to complete them within 1 week.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What Yo&lt;/strong&gt;&lt;strong&gt;u’&lt;/strong&gt;&lt;strong&gt;ll Do&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Opportunity to lead key engineering and product decisions&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Actively shipping production code for the Speechify iOS app&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Work within a dedicated product team&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Participate in product discussions to shape the product roadmap&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Maintain and enhance the existing complex app architecture&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;An Ideal Candidate Should Have&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Experience. You&#39;ve worked on products that scaled to a large user base&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Track record. You have worked on various products from inception to decent traction. You have been responsible for engineering the product&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Customer obsession. We expect every team member whose responsibilities directly impact customers to be constantly obsessed about providing the best possible experience&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Product thinking. You make thoughtful decisions about the evolution of your product and support internal teams and designers into taking the right direction&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Speed. You work quickly to generate ideas and know how to decide which things can ship now and what things need time&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Focus. We’re a high-growth startup with a busy, remote team. You know how and when to engage or be heads down&lt;/li&gt;
+&lt;li&gt;Technical skills. Swift, SwiftUI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Technical Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Swift Programming Language&lt;/li&gt;
+&lt;li&gt;SwiftUI experience&lt;/li&gt;
+&lt;li&gt;Experience in Multithreading Programming&lt;/li&gt;
+&lt;li&gt;Working with CI/CD infrastructure&lt;/li&gt;
+&lt;li&gt;Experience with Fastlane&lt;/li&gt;
+&lt;li&gt;SOLID principles, the ability to write every single class according to SOLID&lt;/li&gt;
+&lt;li&gt;Experience with Git and understanding of different Git strategies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;&lt;strong&gt;What We offer:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A fast-growing environment where you can help shape the company and product&lt;/li&gt;
+&lt;li&gt;An entrepreneurial crew that supports risk, intuition, and hustle&lt;/li&gt;
+&lt;li&gt;The opportunity to make a big impact in a transformative industry&lt;/li&gt;
+&lt;li&gt;A competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture&lt;/li&gt;
+&lt;li&gt;Work on a product that millions of people use and where daily feedback includes users sharing that they cried when they first found the product because it was so impactful on their lives&lt;/li&gt;
+&lt;li&gt;Support people with learning differences like Dyslexia, ADD, Low Vision, Concussions, Autism, and Second Language Learners, and give reading superpowers to professionals all over the world&lt;/li&gt;
+&lt;li&gt;Work in one of the fastest growing sectors of tech: Intersection of Artificial Intelligence and Audio&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Compensation&lt;/strong&gt;: The US base salary range for this full-time position is $140,000-$200,000 + bonus + equity depending on experience&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Think you’re a good fit for this job?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tell us more about yourself and why you&#39;re interested in the role when you apply. &lt;br&gt;And don’t forget to include links to your portfolio and LinkedIn.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Not looking but know someone who would make a great fit?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Refer them!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.&lt;/p&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/32529485?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Speechify</h5>
                     <h3>Software Engineer, Platform</h3>
                 </td>
                 <td width="300">
@@ -2543,6 +2643,66 @@ transitioning models from research to production environments.</p></li><li style
 &lt;li&gt;An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Think you’re a good fit for this job?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tell us more about yourself and why you&#39;re interested in the role when you apply. &lt;br&gt;And don’t forget to include links to your portfolio and LinkedIn.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Not looking but know someone who would make a great fit?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Refer them!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.&lt;/p&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/32529485?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Speechify</h5>
+                    <h3>Software Engineer, Web Core Product & Chrome Extension</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/speechify/jobs/5527873004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;
+&lt;p&gt;Over 30 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
+&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.&lt;/p&gt;
+&lt;p&gt;We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Our interview process involves several technical interviews and we aim to complete them within 1 week.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What Yo&lt;/strong&gt;&lt;strong&gt;u’&lt;/strong&gt;&lt;strong&gt;ll Do&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Actively ship production code to the web products&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Work closely with your dedicated product team&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Participate in product discussions to shape the product roadmap&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Have the opportunity to work on new and exciting features that will impact millions of lives&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;An Ideal Candidate Should Have&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Experience. You&#39;ve built and ship products that have scaled to thousands or millions of users&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Customer obsession. You are passionate about the field and have the desire to build high quality product that serves customer needs&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Speed. You work quickly to generate ideas and know how to decide which things can ship now and what things need time&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Focus. We’re a high-growth startup with a busy, remote team. You know how and when to engage or be heads down&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Collaboration. You know how to inspire, play, and negotiate with opinionated designers, marketers, and PMs&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Tech Stack: Vanilla JS, ReactJS, Redux, Firebase, Typescript&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;&lt;strong&gt;What We Offer &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;A fast-growing environment where you can help shape the culture&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;An entrepreneurial crew that supports risk, intuition, and hustle&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;A hands-off approach so you can focus and do your best work&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;The opportunity to make an impact in a transformative industry&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;A competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Compensation:&lt;/strong&gt; The US base salary range for this full-time position is $140,000-$200,000 + bonus + equity depending on experience&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Think you’re a good fit for this job?&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Tell us more about yourself and why you&#39;re interested in the role when you apply. &lt;br&gt;And don’t forget to include links to your portfolio and LinkedIn.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Not looking but know someone who would make a great fit?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Refer them!&amp;nbsp;&lt;/p&gt;
