@@ -1,60 +1,5 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/2001046/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clockwork Labs</h5>
-                    <h3>C/C++ Unreal Engine Developer</h3>
-                </td>
-                <td width="300">
-                    <code>C,C#,C++,docker</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/c-c-unreal-engine-developer-2001046" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><a class="external" href="https://spacetimedb.com/blog/introducing-spacetimedb-1-0" rel="nofollow">SpacetimeDB</a> is the easiest way to build a Multiplayer Game or App</p>
-<p>You can write your entire application in a single language (currently C# or Rust) and deploy it as a single binary. No more microservices, no more containers, no more Kubernetes, no more Docker, no more VMs, no more DevOps, no more infrastructure, no more ops, no more servers.<br><br>We’re looking for an expert C/C++ Unreal Engine Developer to join the SpacetimeDB team and play a pivotal role in making SpacetimeDB accessible to a whole new group of game developers. You'll be the Unreal Engine subject matter expert who will be charged with delivering this sought after new feature. Your contributions will range from designing, developing, and maintaining our C/C++ and Unreal SDKs to crafting an Unreal Engine integration that feels seamless and robust. </p>
-<p>Check out SpacetimeDB's <a class="external" href="https://spacetimedb.com/" rel="nofollow" target="_blank">website</a> to take it for a spin<br><br>Responsibilities and Goals</p>
-<ul style="">
-<li style="">Develop and maintain the C/C++ client SDK</li>
-<li style="">Develop and maintain the C/C++ module library</li>
-<li style="">Develop and maintain correctness and performance testing for C/C++</li>
-<li style="">Develop and maintain the Unreal Engine SDK including correctness and performance testing</li>
-<li style="">Implement and maintain code generation for C/C++ client types in Rust</li>
-<li style="">Work with clients to help debug issues with the C/C++/Unreal engine SDKs</li>
-<li style="">Implement client execution of WebAssembly modules using SpacetimeDB as a library</li>
-<li style="">Contribute to the implementation of automatic lag compensation and rollback in SpacetimeDB</li>
-<li style="">Develop and maintain developer-friendly documentation, tutorials, and sample projects</li>
-</ul>
-<p><strong>Requirements</strong></p>
-<ul style="">
-<li style="">Expertise with C/C++</li>
-<li style="">Expertise with Unreal game development</li>
-<li style="">Experience with Unreal plugin development</li>
-<li style="">Experience with Blueprints/C++ integration</li>
-<li style="">Experience with the Unreal build system and code generation</li>
-<li style="">Experience specifically with Unreal Engine’s networking layer (ie: Has built more than one multiplayer game in Unreal and can translate specifically how SpacetimeDB solves challenges for developers most familiar with Unreal)</li>
-<li style="">Previous Rust XP is a bonus but not required but ability to get up to speed with Rust for code generation will be required</li>
-<li style="">Any experience with custom build tools or code generation tools are a plus</li>
-<li style="">Any experience with distributed systems or databases are a plus</li>
-</ul>
-<p><strong>Benefits</strong></p>
-<p>We are a fully remote distributed company. We will consider candidates with the above qualifications from anywhere in the world but they MUST be happy to attend meetings during our core collaboration times between 8am and 12pm PST. <br><br>Our goal is to provide fair and equitable compensation based on <strong>market location</strong> as well as an individual candidate’s specific experience level and qualifications for an open role. Consequently, high cost of living areas may expect offers in the higher end of the range whereas lower cost of living areas may expect offers in the lower end of the range. Offers may also be adjusted based on job-related knowledge, skills, experience, and other objective business considerations.</p>
-<p>The base pay range offered at the start of employment for a mid-senior level applicant residing in the United States is expected to be in between $110,000 and $180,000 USD per year depending on the factors above. Offers for applicants from other countries will be based on their regional norms and the requirements of each location.</p>
-<p>Subject to the same considerations, the total compensation package for this position may also include equity awards, medical, financial, and/or other benefits. Details of participation in these benefit plans will be provided if a candidate receives an offer of employment.</p>
-<p> </p>
-<img src="https://remotive.com/job/track/2001046/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1997615/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -65,7 +10,7 @@
                     <code>ecommerce,go,shopify,UI/UX</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/no-code-developer-1997615" align="right" target="_blank">Apply</a>
@@ -132,7 +77,7 @@
                     <code>backend,C++,javascript,mongoDB</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-node-js-1984510" align="right" target="_blank">Apply</a>
@@ -205,7 +150,7 @@ the services and core processes with the highest security principles and
                     <code>.Net,api,backend,C</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-typescript-1983726" align="right" target="_blank">Apply</a>
@@ -376,139 +321,6 @@ the services and core processes with the highest security principles and
 &lt;p&gt;We are an ambitious team who are collectively working hard to build the most influential company in the world.&amp;nbsp; You can read more about our &lt;a href=&quot;https://sourcegraph.notion.site/What-it-s-like-working-at-Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115&quot;&gt;culture&lt;/a&gt;, &lt;a href=&quot;https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74&quot;&gt;competitive compensation&lt;/a&gt; and &lt;a href=&quot;https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74&quot;&gt;benefits&lt;/a&gt; here.&lt;/p&gt;
 &lt;p&gt;Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Sourcegraph participates in &lt;/em&gt;&lt;a href=&quot;https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107&quot;&gt;&lt;em&gt;E-Verify&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for U.S. Employees. &lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/25003669?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Appwrite</h5>
-                    <h3>Developer Relations Intern – Video Content and Technical Writing</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.appwrite.careers/developer-relations-intern-video-content-and-technical-writing/en" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-<aside class="mask" style="opacity: 1;"></aside><div class="body" data-columns="1"><div class="article" style=";">
-<h2>About the job</h2>
-<p>We are hiring a Developer Advocate Intern to support our Developer Relations team, focusing on creating, editing, and repurposing technical content.</p>
-<p>This isn’t your typical DevRel internship, you won’t be travelling, speaking at conferences, or constantly creating brand-new tutorials. Instead, your main focus will be producing and editing developer-focused video content, such as product walkthroughs and technical tutorials. You'll also be responsible for repurposing existing content from the team into engaging short-form videos, blog posts, and social media clips to maximize reach and impact.</p>
-<p>You’ll work closely with both our engineering, growth, and product teams to ensure content is technically accurate and optimized for multiple platforms. If you’re a developer who enjoys working behind the scenes to amplify technical content and turn one great piece into many - this role is for you.</p>
-</div></div>
-<style>
-                @media only screen and (max-width: 767px) {
-                    #block-1 {
-                        padding-top: 25px !important; padding-bottom: 25px !important;
-                    }
-                }
-                </style>
-
-<aside class="mask" style="opacity: 1;"></aside><div class="body" data-columns="1"><div class="article" style=";">
-<h2>Responsibilities</h2>
-<ul>
-<li><p>Edit and produce technical video content - including product walkthroughs, tutorials, and demos for YouTube and other platforms.</p></li>
-<li><p>Transform long-form DevRel videos into engaging short-form content for YouTube Shorts, TikTok, Instagram Reels, and other social media platforms.</p></li>
-<li><p>Maximize content reach by adapting and optimizing content for multiple platforms, including YouTube, Medium, <a target="_blank" rel="noopener noreferrer nofollow" href="http://Dev.to">Dev.to</a>, X/Twitter, LinkedIn, TikTok, Instagram, <a target="_blank" rel="noopener noreferrer nofollow" href="http://Daily.dev">Daily.dev</a>, and more.</p></li>
-<li><p>Support with demos and sample projects, occasionally build or modify simple technical demos tied to educational content</p></li>
-<li><p>Collaborate across teams, working closely with Developer Relations, Engineering, Growth, and Product teams to align content with goals and messaging.<br><br><br></p></li>
-</ul>
-<h2>Requirements</h2>
-<ul>
-<li><p>You have foundational video editing skills - this is the most important part of the role.</p></li>
-<li><p>You are a developer first - you love to code, build, and solve technical challenges.</p></li>
-<li><p>You have strong writing skills with experience in creating technical blog posts, documentation, or tutorials.</p></li>
-<li><p>You have experience building technical projects and demos.</p></li>
-<li><p>You have a passion for learning new technologies and sharing knowledge.</p></li>
-<li><p>You are comfortable working with cross-functional teams.</p></li>
-<li><p>You are proactive and self-motivated - you can manage your own time and work independently.</p></li>
-</ul>
-</div></div>
-<style>
-                @media only screen and (max-width: 767px) {
-                    #block-2 {
-                        padding-top: 25px !important; padding-bottom: 25px !important;
-                    }
-                }
-                </style>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Junior Software Developer - Observability</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/canonical/jobs/2166631" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;p&gt;Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world&#39;s leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.&lt;/p&gt;
-&lt;p&gt;The company is founder-led, profitable, and growing.&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are hiring a Junior developer with a proven track record in Python and/or Go. As part of the Observability team, you will develop a cloud-native monitoring stack that composes best-in-class open-source monitoring tools. The stack is opinionated, resilient, and scalable, providing deep insights out of the box. The user experience is polished and seamless for the end-users, and its administrators will enjoy smooth, lightweight Day 1 and Day 2 operations.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is an exciting opportunity for a software engineer passionate about open source software, Linux, Kubernetes, and Observability. Build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, the growing international software company behind Ubuntu.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The monitoring stack will monitor applications running on a mix of cloud technologies such as Kubernetes and OpenStack, as well as bare-metal, virtual machines and containers. The stack will be capable of monitoring applications and infrastructure irrespective of whether they are operated by Juju, and will leverage multiple data sources at various levels of the architecture, including Juju itself, to contextualize the collected telemetry and insights delivered to the end-users.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You can read more about the project &lt;/span&gt;&lt;a href=&quot;https://grafana.com/blog/2021/10/28/open-source-done-right-why-canonical-adopted-grafana-loki-and-grafana-agent-for-their-new-stack/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; and &lt;/span&gt;&lt;a href=&quot;https://juju.is/blog/model-driven-observability-part-1&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;Location: &lt;/strong&gt;&lt;em&gt;This role will be based remotely in the EMEA and Americas regions&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The role entails&lt;/span&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Collaborate proactively with a globally distributed team&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Write, test and document high quality code to create new features&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Debug issues and interact with a vibrant community&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Review code produced by other engineers&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Attend conferences to represent Canonical and the Charmed Observability Stack&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work from home with global travel 2 to 4 weeks for internal and external events&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What we are looking for in you&lt;/span&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You love technology and working with brilliant people&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You value soft skills and are passionate, enterprising, thoughtful, and self-motivated&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have a Bachelor’s or equivalent in Computer Science, STEM or similar degree&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You are a skilled Python developer, preferably with a track record in open source&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have a working knowledge of Go&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You have interest and experience with two or more of the following: Ubuntu Linux, container images, Debian packaging, snap, distributed systems.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;What we offer colleagues&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Distributed work environment with twice-yearly team sprints in person&lt;/li&gt;
-&lt;li&gt;Personal learning and development budget of USD 2,000 per year&lt;/li&gt;
-&lt;li&gt;Annual compensation review&lt;/li&gt;
-&lt;li&gt;Recognition rewards&lt;/li&gt;
-&lt;li&gt;Annual holiday leave&lt;/li&gt;
-&lt;li&gt;Maternity and paternity leave&lt;/li&gt;
-&lt;li&gt;Team Member Assistance Program &amp;amp; Wellness Platform&lt;/li&gt;
-&lt;li&gt;Opportunity to travel to new locations to meet colleagues&lt;/li&gt;
-&lt;li&gt;Priority Pass and travel upgrades for long-haul company events&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;About Canonical&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game.&lt;/p&gt;
-&lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Canonical is an equal opportunity employer&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt; Whatever your identity, we will give your application fair consideration.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-remote&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
@@ -2073,6 +1885,30 @@ the services and core processes with the highest security principles and
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://media.licdn.com/dms/image/C4D0BAQHlK67hgnhzQw/company-logo_200_200/0/1631346154820?e=2147483647&v=beta&t=_R2Ssj7L_f4xqmSCcq0nOLCyCz0QN2lFnHssxxhj3YY" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Blue Coding</h5>
+                    <h3>Senior Fullstack Developer (S)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/bluecoding/1181740a-36dd-41bb-9007-ef40c55d68cb" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 13pt;">What are we looking for?</b></div><div>In this opportunity, we are looking for a Software Developer to work with one of our foreign clients, a tech company known for its expertise in digital innovation and product development. They offer various services, including user experience design, software development, and strategic consulting. Specializing in creating impactful digital experiences, collaborate with clients to bring innovative solutions to the market. They help the mid-market businesses move faster and smarter with AI, driving operational efficiency and unlocking new capabilities</div><div><br></div><div>If you are independent, a great communicator, a problem solver, and have a strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</div><div>So if you have the skills and can get the job done, join us and work from anywhere you want!</div><div><br></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Evaluate a product experience holistically, from high-level product architecture to the specifics of individual features and how those features fit together</li><li>Contribute toward determining short and long-term technical needs, objectives, and approaches to projects</li><li>Take on various tasks, development-related or not, to support different processes and needs for your project teams</li><li>Collaborate directly every day with designers, developers, engagement managers, and clients</li><li>Balance time between directly working on development and supervising/maintaining the quality of work from other contributors on your team</li>,<h3>You will shine if you have these:</h3><li>Full-stack developer proficient with a variety of languages and tools. Ex: TypeScript/JavaScript (both in-browser and server-side with Node.js, React, TypeScript, Next.js/Remix, Python, etc.)</li><li>Familiarity with AI concepts such as LLMs, agentic patterns, vector databases, RAG, and applied ML</li><li>Strong hands-on software development experience, ideally with experience in a client services or agency environment</li><li>Demonstrated practice with test-driven/behavior-driven product development</li><li>Proven experience leading teams and mentoring developers</li><li>Understanding of integrated development practices and experience directly collaborating with design teams</li><li>Experience solving problems across multiple technology platforms (eg, browsers, applications, operating systems, mobile and connected devices, other hardware)</li><li>Strong communication, client services, and interpersonal skills</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/6930305?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -2406,76 +2242,6 @@ the services and core processes with the highest security principles and
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><br></div><div><span style="font-size: 16px;">Kinsta is one of the top-managed </span><b style="font-size: 16px;">WordPress hosting companies,</b><span style="font-size: 16px;"> with a growing club of 120,000+ businesses including startups, universities and Fortune 500 firms. We're motivated by excellent quality, and proud to have received a</span><b style="font-size: 16px;"> 97% satisfaction rating from our customers</b><span style="font-size: 16px;">.</span></div><div><br></div><div><span style="font-size: 16px;">That's because, to us, each day is a chance to </span><b style="font-size: 16px;">grow</b><span style="font-size: 16px;">. As a team, we continuously inspire each other to learn new and better ways to make an impact. We own our jobs proudly - our leaders don't hold our hands, but they're in our corner whenever we ask for help - and our environment is </span><b style="font-size: 16px;">flexible</b><span style="font-size: 16px;"> and </span><b style="font-size: 16px;">remote-first.</b></div><div><br></div><div><span style="font-size: 16px;">We’re seeking an experienced </span><b style="font-size: 16px;">WordPress Developer </b><span style="font-size: 16px;">who is passionate about building high-quality, maintainable, and efficient websites and web applications. In this role, you will be working within a dynamic team and will be responsible for both backend and frontend development, with an emphasis on creating exceptional user experiences through responsive and accessible web design. Your expertise will extend to customizing WordPress functionality, developing/maintaining custom Gutenberg blocks using React, and maintaining modern development workflows and testing practices</span><span style="font-size: 10pt;">.</span></div><div><br></div><div><span style="font-size: 16px;">Kinsta is one of the top-managed </span><b style="font-size: 16px;">WordPress hosting companies,</b><span style="font-size: 16px;"> with a growing club of 120,000+ businesses including startups, universities and Fortune 500 firms. We're motivated by excellent quality, and proud to have received a</span><b style="font-size: 16px;"> 97% satisfaction rating from our customers</b><span style="font-size: 16px;">.</span></div><div><br></div><div><span style="font-size: 16px;">That's because, to us, each day is a chance to </span><b style="font-size: 16px;">grow</b><span style="font-size: 16px;">. As a team, we continuously inspire each other to learn new and better ways to make an impact. We own our jobs proudly - our leaders don't hold our hands, but they're in our corner whenever we ask for help - and our environment is </span><b style="font-size: 16px;">flexible</b><span style="font-size: 16px;"> and </span><b style="font-size: 16px;">remote-first.</b></div><div><br></div><div><span style="font-size: 16px;">We’re seeking an experienced </span><b style="font-size: 16px;">WordPress Developer </b><span style="font-size: 16px;">who is passionate about building high-quality, maintainable, and efficient websites and web applications. In this role, you will be working within a dynamic team and will be responsible for both backend and frontend development, with an emphasis on creating exceptional user experiences through responsive and accessible web design. Your expertise will extend to customizing WordPress functionality, developing/maintaining custom Gutenberg blocks using React, and maintaining modern development workflows and testing practices</span><span style="font-size: 10pt;">.</span></div><h3>What You Will Do:</h3><li>Maintain existing WordPress websites and applications, ensuring high performance and scalability.</li><li>Create and manage custom Gutenberg blocks, utilizing React to enhance user experiences.</li><li>Implement custom PHP code and integrate custom workflows within WordPress projects.</li><li>Write clear, maintainable code adhering to modern coding standards and practices.</li><li>Conduct thorough unit testing and debugging to ensure functionality and reliability.</li><li>Collaborate closely with designers, project managers, and other developers to translate requirements into technical solutions.</li><li>Ensure processes, issues and features are clearly documented and communicated to team members and stakeholders.</li><li>Ensure websites meet responsive design and accessibility standards, optimizing user experience across various devices and assistive technologies.</li><li>Manage and configure local development environments using Docker for consistency and efficiency.</li><li>Continuously stay updated with emerging web technologies and WordPress developments to drive innovation and improvement within the team.</li><h3>What You'll Bring To The Role:</h3><li>Minimum 5 years of WordPress development experience, including custom theme and plugin development.</li><li>Strong knowledge of PHP and comfort working across various PHP versions.</li><li>Expertise with JavaScript, specifically React, for creating dynamic frontend components.</li><li>Experience developing, customizing, and maintaining Gutenberg blocks. </li><h3>Bonus if you have:</h3><li>Familiarity with modern frontend tooling, such as Webpack or Vite.</li><li>Experience writing unit tests using PHP testing frameworks (e.g., PHPUnit).</li><li>Solid understanding of responsive web design principles, including mobile-first development practices.</li><li>Knowledge of accessibility standards and best practices, and ability to apply them effectively.</li><li>Experience setting up and managing local development environments using Docker.</li><h3>Our Benefits:</h3><li><b>Flexible </b>and<b> remote-first </b>environment.</li><li><b>Annual remote expense budge</b>t.</li><li><b>Flexible PTO.</b></li><li><b>Paid parental leave.</b></li><li><b>Annual professional development budget:</b> available after one year with Kinsta.</li><li><b>Sabbatical:</b> available after three years with Kinsta (and every three years thereafter).</li><li><b>Location-specific healthcare benefits</b> (includes vision and dental) for employees hired in the USA, UK, and Hungary.</li><li><b>Pension plan</b> for employees hired in the UK, and 401k contributions for employees hired in the USA.</li><div><br></div><div><b style="font-size: 8pt;">Information for Applicants from the United States: The starting salary for this position for candidates based in the United States is typically between $60,000 and $90,000. The salary offered to the successful candidate will be determined based on multiple individual factors such as their skills, specialized knowledge, professional qualifications, experience, geographic location and the responsibilities of the position. The total compensation package for this position may also include elements in addition to salary which will be communicated in writing to the successful candidate in an offer of employment.</b></div><div><br></div><div>Kinsta is proud to be an equal opportunity employer. We will not discriminate and we will take actions to ensure against discrimination in employment, recruitment, advertisements for employment, compensation, termination, promotions, and other conditions of employment against any employee or job applicant on the basis of race, color, gender, national origin, citizenship, age, religion, creed, disability, marital status, veteran’s status, sexual orientation, gender identity, gender expression, or any other status protected by the laws or regulations in the locations where we operate.</div><div><br></div><div><span style="font-size: small;">By applying to one of our positions, you agree to the processing of the submitted personal data in accordance with Kinsta's </span><a rel="noopener noreferrer" class="postings-link" href="https://kinsta.com/legal/privacy-policy/">Privacy Policy</a><span style="font-size: small;">, including the transfer of your data to the United States.</span></div><div><br></div><div><i>#LI-Remote, #IHSRemote</i></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/67208791?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Fingerprint</h5>
-                    <h3>Software Engineer, Integrations & Developer Experience team</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://fingerprint.com/careers/jobs/apply/?gh_jid=5484503004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Fingerprint&lt;/strong&gt;&amp;nbsp;empowers developers to stop online fraud at the source.&lt;/p&gt;
-&lt;p&gt;We work on turning radical new ideas in the fraud detection space into reality. Our products are developer-focused and our clients range from solo developers to publicly traded companies.&amp;nbsp;&lt;strong&gt;We are a globally dispersed, 100% remote company&lt;/strong&gt; with a strong open-source focus. Our flagship open-source project is &lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://github.com/fingerprintjs/fingerprintjs&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://github.com/fingerprintjs/fingerprintjs&quot; data-sk=&quot;tooltip_parent&quot;&gt;FingerprintJS&lt;/a&gt; (20K stars on GitHub).&lt;/p&gt;
-&lt;p&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot; data-sk=&quot;tooltip_parent&quot;&gt;We have raised $77M&amp;nbsp;&lt;/a&gt;and are backed by Craft Ventures (previously invested in&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.tesla.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.tesla.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Tesla,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://facebook.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://facebook.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Facebook,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.airbnb.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.airbnb.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Airbnb&amp;nbsp;&lt;/a&gt;), Nexus Venture Partners (previously invested in &lt;a href=&quot;https://www.postman.com/&quot;&gt;Postman&lt;/a&gt;, &lt;a href=&quot;https://www.apollo.io/&quot;&gt;Apollo.io,&lt;/a&gt; &lt;a href=&quot;https://min.io/&quot;&gt;MinIO&lt;/a&gt;, Druva)&amp;nbsp;and Uncorrelated Ventures (previously invested in&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://redis.io/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://redis.io/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Redis,&amp;nbsp;&lt;/a&gt;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://rollbar.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://rollbar.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Rollbar&amp;nbsp;&lt;/a&gt;&amp;amp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://gradle.org/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://gradle.org/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&amp;nbsp;Gradle&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates&#39; personal and financial information through fake interviews and offers. All Fingerprint recruiting email communications will always come from the @fingerprint.com domain. Any outreach claiming to be from Fingerprint via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;Software Engineer – Customer-Facing Integrations &amp;amp; Cloud Security&lt;/h3&gt;
-&lt;p&gt;As a Software Engineer on the Developer Experience and Integrations team, you will be responsible for building and maintaining customer-facing integrations between Fingerprint and third-party cloud providers, such as Cloudflare, AWS, Fastly, and Akamai. Your work will enable customers to seamlessly integrate Fingerprint’s device intelligence solutions into their existing infrastructure, enhancing security not only for authentication but for any critical action or transaction that requires protection.&lt;/p&gt;
-&lt;p&gt;You will contribute to both backend integrations (Cloudflare Workers, AWS Lambda, API-driven security measures) and customer-facing features in our dashboard, which is primarily written in React and Node.js, with some backend services in Go. Additionally, you will play a key role in maintaining and improving our open-source ecosystem, including a wide range of Server API SDKs, frontend libraries, and mobile libraries.&lt;/p&gt;
-&lt;p&gt;Your code will be executed millions of times daily, ensuring accurate device intelligence and seamless protection for our customers’ most sensitive workflows.&lt;/p&gt;
-&lt;h3&gt;Responsibilities:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Develop and maintain customer-facing integrations between Fingerprint and cloud platforms like Cloudflare, AWS, Akamai, and Fastly.&lt;/li&gt;
-&lt;li&gt;Enhance the Fingerprint dashboard (React, Node.js) to provide customers with intuitive ways to configure integrations.&lt;/li&gt;
-&lt;li&gt;Implement API-based and edge-based security logic, ensuring seamless communication between Fingerprint, cloud services, and customers’ infrastructure.&lt;/li&gt;
-&lt;li&gt;Maintain and improve our open-source ecosystem, including Server API SDKs, frontend libraries, and mobile libraries to ensure seamless developer adoption.&lt;/li&gt;
-&lt;li&gt;Work with SDKs and open-source projects that enable customers to integrate Fingerprint’s device intelligence into their workflows.&lt;/li&gt;
-&lt;li&gt;Collaborate with product managers, engineers, and designers to improve customer experience and technical performance.&lt;/li&gt;
-&lt;li&gt;Write internal and public documentation to guide customers in integrating Fingerprint with third-party cloud platforms.&lt;/li&gt;
-&lt;li&gt;This role includes participation in a shared on-call rotation. The schedule will be communicated in advance, and we strive to balance coverage equitably while minimizing off-hours disruptions.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Qualifications:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;3-5 years of experience with at least a subset of the following technologies: JavaScript, TypeScript, Node.js, React, Go, Java.&lt;/li&gt;
-&lt;li&gt;2-3 years of experience working with Cloudflare Workers, AWS Lambda, or similar edge computing platforms.&lt;/li&gt;
-&lt;li&gt;Experience integrating third-party services and APIs.&lt;/li&gt;
-&lt;li&gt;Experience working on customer-facing products, such as dashboards, SDKs, or developer tools.&lt;/li&gt;
-&lt;li&gt;Familiarity with SDK and library development.&lt;/li&gt;
-&lt;li&gt;Ability to work asynchronously in a remote-based team, with excellent communication skills and attention to detail.&lt;/li&gt;
-&lt;li&gt;Deep interest in cloud platforms, open-source development, and developer experience.&lt;/li&gt;
-&lt;li style=&quot;font-weight: bold;&quot;&gt;&lt;strong&gt;To demonstrate your attention to detail, please include the current major version of the Fingerprint Pro Server Python SDK into the box below&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Nice to have:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Experience working with additional cloud platforms, such as Akamai, Fastly, Azure Functions.&lt;/li&gt;
-&lt;li&gt;Contributions to open-source projects or published technical content related to integrations.&lt;/li&gt;
-&lt;li&gt;Experience in technical writing for API and integration documentation.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;This role is ideal for someone passionate about customer-facing integrations, cloud security, edge computing, and developer experience, while also maintaining and improving our open-source ecosystem and existing integrations.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates&#39; personal and financial information through fake interviews and offers. All Fingerprint recruiting email communications will always come from the @fingerprint.com domain. Any outreach claiming to be from Fingerprint via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Offers vary depending on, but not limited to, relevant experience, education, certifications/licenses, skills, training, and market conditions.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Due to regulatory and security reasons, there’s a small number of countries where we cannot have Fingerprint teammates based.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Additionally, because Fingerprint is an all-remote company and people can join our workforce from almost any country, we do not sponsor visas. Fingerprint teammates need to be authorized to work from their home location&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;We are dedicated to creating an inclusive work environment for everyone. We embrace and celebrate the unique experiences, perspectives and cultural backgrounds that each employee brings to our workplace. Fingerprint strives to foster an environment where our employees feel respected, valued and empowered, and our team members are at the forefront in helping us promote and sustain an inclusive workplace. We highly encourage people from underrepresented groups in tech to apply.&lt;/p&gt;
-&lt;p&gt;If you are applying as a resident of California, please read our CCPA notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-ccpa&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;If you are applying as a resident of the EU, please read our GDPR notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-gdpr&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr></table>
