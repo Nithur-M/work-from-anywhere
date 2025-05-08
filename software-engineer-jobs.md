@@ -10,7 +10,7 @@
                     <code>C,C++,javascript,blockchain</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-c-1996157" align="right" target="_blank">Apply</a>
@@ -1930,30 +1930,6 @@ transitioning models from research to production environments.</p></li><li style
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://www.aiwyn.ai/hubfs/Aiwyn%20Favicon.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Aiwyn</h5>
-                    <h3>Technical Lead Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/aiwyn/4fcb6898-5058-44a4-b3b5-9dbb78128e6e" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b>Who is Aiwyn and what do we do?</b></div><div><br></div><div>Aiwyn is the fastest-growing software company serving the accounting profession.&nbsp;Founded in 2020, we now work with 100+ of the largest CPA firms in the world.&nbsp;Our “Job to be done”: speed up cash flow, save Partner time, &amp; deliver best-in-class client experiences. We do this by automating day-to-day firm operations with our Practice Automation solutions. Aiwyn is led by serial entrepreneurs with multiple exits and funded by a Top 10 fintech VC.</div><div><br></div><div>To learn more, visit our <a rel="noopener noreferrer" class="postings-link" href="https://aiwyn.ai/"><b>website</b></a></div><div><b>Who is Aiwyn and what do we do?</b></div><div><br></div><div>Aiwyn is the fastest-growing software company serving the accounting profession.&nbsp;Founded in 2020, we now work with 100+ of the largest CPA firms in the world.&nbsp;Our “Job to be done”: speed up cash flow, save Partner time, &amp; deliver best-in-class client experiences. We do this by automating day-to-day firm operations with our Practice Automation solutions. Aiwyn is led by serial entrepreneurs with multiple exits and funded by a Top 10 fintech VC.</div><div><br></div><div>To learn more, visit our <a href="https://aiwyn.ai/" class="postings-link" target="_blank" rel="noopener noreferrer"><b>website</b></a></div><h3>What You'll Do:</h3><li><b>Architect &amp; Build</b> - Drive architectural vision and technical direction while actively writing code. You'll balance feature delivery with code quality, tackle critical technical issues, and ensure solutions align with both short-term goals and long-term architecture.</li><li><b>Lead &amp; Execute</b> - Break down user stories into executable technical tasks, provide high-level estimates, and maintain engineering standards. You'll manage technical debt, drive effective planning, and ensure smooth delivery of features.</li><li><b>Partner &amp; Innovate</b> - Work closely with the Product Manager and Designer in the Product Trio to shape strategy, assess technical feasibility, and make critical decisions about trade-offs between business needs and technical complexity.</li><h3>What We Need:</h3><li><b>Technical Mastery</b> - Proficiency with Java/Kotlin, Spring Boot, underpinned by a strong foundation in OOP, functional programming, and software design principles. Must be able to decipher and understand the impact of code, and understand the topology and architecture of existing codebases.</li><li><b>Systems Thinking</b> - Strong capability to see the broader system's architecture and understand how changes impact various parts of the system. Ability to identify architectural pathways to improve delivery times without incurring unreasonable technical debt.</li><li><b>Engineering Standards</b> - Deep understanding of engineering standards, best practices, and code quality guidelines. Experience in maintaining and improving codebase health while delivering new features.</li><li><b>Technical Communication</b> - Excellent ability to document and communicate technical concepts, architecture decisions, and implementation plans to both technical and non-technical stakeholders.</li><li><b>Task Management</b> - Proven ability to decompose complex technical problems into smaller, manageable tasks and provide realistic timelines for feature delivery.</li><li><b>Business Acumen</b> - Understanding of business value and ability to pragmatically make decisions that optimize output while minimizing risk and technical debt.</li><li><b>Cross-functional Leadership</b> - Experience working as a technical point of contact across engineering, product, and design teams while maintaining clear communication channels.</li><li>The ability to travel occasionally for onsite Company meetings</li><h3>Preferred:</h3><li>Familiarity with Google Cloud</li><li>Experience with data pipeline technologies</li><li>Hands-on experience with ETL processes and tools</li><li>Knowledge of best practices in data integrity and validation</li><li>Track record of fostering innovation and experimentation with new tools and technologies</li><li>Background in mentoring and developing engineering team members</li><h3>Why Work at Aiwyn?</h3><li>The big-picture value proposition of this role is simple: join us, and you'll be paid competitively to have freedom in solving worthwhile, challenging problems alongside other A-players at a fast-growing SaaS startup led by an experienced and successful team with industry experience.</li><div><br></div><div>Other benefits include:</div><li><b>Adventure travel stipend</b> - you receive a $1,000 travel reimbursement on your work anniversary each year. We encourage our team to recharge and explore the world beyond their home office walls.</li><li><b>Remote, work-from-anywhere culture</b></li><li><b>Flexible PTO</b></li><li><b>World Class health benefits</b> - we believe in fostering flourishing teams by providing benefits that go beyond the usual standards - Health, vision, dental, HSA/FSA, and mental health support.</li><li><b>Stock options</b> - every Full Time Employee has ownership in Aiwyn's future and success.</li><li><b>401(k) matching</b></li><h3>Our Values:</h3><li><b>Trust</b> - We champion transparency, welcome differing perspectives, uphold accountability, and trust that others have good intentions</li><li><b>Courage</b> - We have the courage to take calculated risks and embrace change, knowing what worked in the past won’t always work in the future</li><li><b>Impact</b> - Rooted in determination and innovation, we chase extraordinary outcomes and impactful results</li><li><b>Relentlessness</b> - We approach challenges with an unwavering resolve, never settling for mediocrity, and always striving to surpass expectations</li><h3>Learn more about Aiwyn</h3><li><b><a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/about">About us</a></b></li><li><b><a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/why-aiwyn">Why Aiwyn</a></b></li><li><b><a rel="noopener noreferrer" class="postings-link" href="https://www.youtube.com/@AiwynAI">YouTube page</a></b></li><div>Aiwyn is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.</div><div><br></div><div>Candidate information will be treated in accordance with our CCPA privacy notice which can be found here: <a rel="noopener noreferrer" class="postings-link" href="https://www.aiwyn.ai/ccpa">https://www.aiwyn.ai/ccpa</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/65879301?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -2070,30 +2046,6 @@ transitioning models from research to production environments.</p></li><li style
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p style="min-height:1.5em">At LiveKit, we build open-source APIs to power the future of computing. We are a company of engineers building software stacks for other engineers.</p><p style="min-height:1.5em"><strong>You'll thrive at LiveKit if you:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">obsess with crafting code that is fast, reliable and practical for the problem</p></li><li><p style="min-height:1.5em">are known as the go-to person for tackling tough technical problems</p></li><li><p style="min-height:1.5em">work hard and can both build <em>and</em> ship fast</p></li><li><p style="min-height:1.5em">can clearly explain complex technical concepts to others</p></li><li><p style="min-height:1.5em">are a fast learner, frequently picking up new languages and tools</p></li></ul><p style="min-height:1.5em">The best way to impress us is with thoughtful Issues and/or PRs on our Github repos 😊</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>About this role: </strong></p><p style="min-height:1.5em">Are you passionate about shaping the future of AI and technology? We’re looking for a talented engineer to join the Agents team. This is your chance to work on groundbreaking innovations in Agentic computing, contributing to the development of the software stack that will drive the next wave of technological advancement. If you're eager to make a lasting impact, we want to hear from you!</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What You'll Do</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Design and develop core functionalities for the Agents framework</p></li><li><p style="min-height:1.5em">Iterate quickly based on feedback from our developer community</p></li><li><p style="min-height:1.5em">Write clear documentation and examples for users</p></li><li><p style="min-height:1.5em">Work with Python, Node, and Rust</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Who you are</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Experienced in building LLM-based applications</p></li><li><p style="min-height:1.5em">You are skilled at navigating complex systems</p></li><li><p style="min-height:1.5em">Experience creating developer tools is a plus</p></li><li><p style="min-height:1.5em">Experience and Interest working in a remote environment</p></li></ul><p style="min-height:1.5em"></p><h2>Our Commitments to You</h2><h3>We offer</h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">An opportunity to build something truly impactful to the world</p></li><li><p style="min-height:1.5em">Contribute to open source alongside world-class engineers</p></li><li><p style="min-height:1.5em">Competitive salary and equity package</p></li><li><p style="min-height:1.5em">Work anywhere in the world</p></li><li><p style="min-height:1.5em">Health, dental, and vision benefits</p></li><li><p style="min-height:1.5em">Flexible vacation policy</p></li></ul>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/69215121?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clutch</h5>
-                    <h3>Senior Front-End Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.ashbyhq.com/withclutch/7054cba9-df82-4a07-80dd-5eae8005276a" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h1><strong>About the Role</strong></h1><p style="min-height:1.5em">As a Frontend Software Engineer at the Engineering Platform team, you'll focus on building scalable, efficient, and reusable components, improving developer workflows, and ensuring seamless integration of frontend technologies across the platform. You'll collaborate with other software engineers and stakeholders, integrating both frontend and backend seamlessly to build great solutions for our business.</p><p style="min-height:1.5em"></p><h1><strong>About the Team</strong></h1><p style="min-height:1.5em">The Engineering Platform team creates and maintains the essential tools, components, and platforms that boost engineering efficiency. We focus on creating reusable solutions that will support the teams to build high-quality, secure and reliable products for Clutch’s clients.</p><p style="min-height:1.5em"></p><h1><strong>What You’ll Do</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Work in collaboration with developers and other stakeholders to enhance the developer experience, ensuring high-quality code, and enabling the efficient delivery of frontend features and improvements.</p></li><li><p style="min-height:1.5em">Write elegant, efficient, and testable code that is easy to maintain and debug</p></li><li><p style="min-height:1.5em">Take care of configurations and processes documentation so stakeholders understand how to use the platform</p></li><li><p style="min-height:1.5em">As a true teammate, continuously improve the team’s processes, brainstorm ideas, and communicate statuses, and progress</p></li><li><p style="min-height:1.5em">Mentor team members, provide feedback, and continuously improve as a professional</p></li><li><p style="min-height:1.5em">Learn the latest best practices, new concepts and technologies and apply them accordingly to our context</p></li></ul><p style="min-height:1.5em"></p><h1><strong>What You’ll Bring</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">6+ years of experience working with Software Development </p></li><li><p style="min-height:1.5em">Experience with front-end development using HTML, CSS, and at least one JavaScript framework like React.js, AngularJS, or Vue.js</p></li><li><p style="min-height:1.5em">Strong problem-solving skills and the ability to write clean, maintainable code</p></li><li><p style="min-height:1.5em">Experience in building accessible and reusable UI components</p></li><li><p style="min-height:1.5em">Experience in testing web applications using browser automation tools</p></li><li><p style="min-height:1.5em">Comprehensive understanding and vision of back-end (B2F vision)</p></li><li><p style="min-height:1.5em">Has experience with building CI/CD pipelines and developing automation solutions to help streamline processes</p></li><li><p style="min-height:1.5em">Experience building and contributing to a design system is a plus</p><p style="min-height:1.5em"></p></li></ul><p style="min-height:1.5em"><em>Please note that this role may evolve as our business needs change, so we appreciate your flexibility and adaptability.</em></p><p style="min-height:1.5em"><strong>What’s In It For You?</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Remote Flexibility:</strong> Enjoy the freedom of remote work from anywhere, balancing life and career seamlessly.</p></li><li><p style="min-height:1.5em"><strong>Unforgettable Off-Sites:</strong> Twice a year, bond with colleagues in exciting destinations, fostering teamwork and fresh ideas.</p></li><li><p style="min-height:1.5em"><strong>Paid Time Off and National Holidays:</strong> Enjoy 20 PTO days yearly and the National Holidays for relaxation and rejuvenation.</p></li><li><p style="min-height:1.5em"><strong>Stock Options:</strong> Joining us means having a stake in our success, so you'll receive stock options as part of your compensation package.</p></li><li><p style="min-height:1.5em"><strong>Home Office Setup:</strong> Create your ideal workspace with a dedicated budget for home office essentials.</p></li><li><p style="min-height:1.5em"><strong>Work Trip Budget:</strong> Grow personally and professionally with a budget for work-related trips and co-working.</p></li></ul><p style="min-height:1.5em"><strong>About Us</strong></p><p style="min-height:1.5em"><strong>Clutch</strong> is a revolutionary vertical SaaS company, proudly backed by Andreessen Horowitz (A16z), aimed at revolutionizing the way Credit Unions engage and change the lives of their members. As a champion of financial well-being, we address the urgent need for affordable lending solutions in an era where the average American grapples with over $155,000 in household debt.  Unlike traditional financial institutions, Clutch develops software to turn Credit Unions into FinTech lenders and leverage their balance sheets to responsibly lend to over 130M Americans. Our mission extends beyond mere financial transactions; we strive to fundamentally enhance the way credit unions interact with their members. By integrating cutting-edge technologies and user-centric designs, we help credit unions provide seamless digital experiences that are on par with leading tech companies. This approach not only preserves but revitalizes the longstanding tradition of community and member-focused service inherent to credit unions.</p><p style="min-height:1.5em"><strong>Please note:</strong> This position is offered on a contractor basis. Applicants must have the necessary documentation and authorization to work in the country where the job is located. Clutch cannot provide sponsorship or assist with obtaining work permits for this role.</p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -2441,6 +2393,69 @@ transitioning models from research to production environments.</p></li><li style
 &lt;li&gt;Work in one of the fastest growing sectors of tech: Intersection of Artificial Intelligence and Audio&amp;nbsp;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Compensation&lt;/strong&gt;: The US base salary range for this full-time position is $140,000-$200,000 + bonus + equity depending on experience&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Think you’re a good fit for this job?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tell us more about yourself and why you&#39;re interested in the role when you apply. &lt;br&gt;And don’t forget to include links to your portfolio and LinkedIn.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Not looking but know someone who would make a great fit?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Refer them!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.&lt;/p&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/32529485?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Speechify</h5>
+                    <h3>Software Engineer, Platform</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/speechify/jobs/5533936004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;
+&lt;p&gt;Over 30 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
+&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.&lt;/p&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.&lt;/p&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&amp;nbsp;&lt;/p&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;Our interview process involves several technical interviews and we aim to complete them within 1 week.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What Yo&lt;/strong&gt;&lt;strong&gt;u’&lt;/strong&gt;&lt;strong&gt;ll Do&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;An Ideal Candidate Should Have&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Proven experience in backend development: TS/Node (required)&lt;/li&gt;
+&lt;li&gt;Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers&lt;/li&gt;
+&lt;li&gt;Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact&lt;/li&gt;
+&lt;li&gt;Preferred: Experience with Docker and containerized deployments&lt;/li&gt;
+&lt;li&gt;Preferred: Proficiency in deploying high availability applications on Kubernetes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;&lt;strong&gt;What We Offer &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A dynamic environment where your contributions shape the company and its products&lt;/li&gt;
+&lt;li&gt;A team that values innovation, intuition, and drive&lt;/li&gt;
+&lt;li&gt;Autonomy, fostering focus and creativity&lt;/li&gt;
+&lt;li&gt;The opportunity to have a significant impact in a revolutionary industry&lt;/li&gt;
+&lt;li&gt;Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture&lt;/li&gt;
+&lt;li&gt;The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more&lt;/li&gt;
+&lt;li&gt;An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Compensation: &lt;/strong&gt;The US base salary range for this full-time position is $140,000-$200,000 + bonus + equity depending on experience&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Think you’re a good fit for this job?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Tell us more about yourself and why you&#39;re interested in the role when you apply. &lt;br&gt;And don’t forget to include links to your portfolio and LinkedIn.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Not looking but know someone who would make a great fit?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
