@@ -1,5 +1,71 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/2004989/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TalentIn</h5>
+                    <h3>Senior Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>product management,SOLID,mental health</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/senior-product-manager-2004989" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Position Overview:</strong></p>
+<p>We’re looking for an experienced <strong>Senior Product Manager</strong> who deeply understands the full product lifecycle—from concept to delivery and post-launch optimization. The ideal candidate will work closely with the <strong>Head of Product</strong> and <strong>senior leadership</strong> to drive structured, data-informed product development. This role requires someone who thrives in a fast-paced environment and is confident in managing <strong>iterative improvements</strong>, <strong>structured prioritization</strong>, and <strong>cross-functional collaboration</strong> to deliver best-in-class products in the <strong>online gambling industry</strong>.</p>
+<p><strong>Key Responsibilities:</strong></p>
+<ul style="">
+<ul style="">
+<li style="">Own the full product lifecycle from concept to post-launch optimization.</li>
+<li style="">Prioritize and deliver features based on business goals, customer needs, and feasibility.</li>
+<li style="">Lead collaboration across QA, Design, Retention, Marketing, and align product plans with leadership’s strategic objectives.</li>
+<li style="">Drive sprint planning, backlog grooming, and release execution.</li>
+<li style="">Analyze product performance and user data to guide continuous improvements.</li>
+<li style="">Stay current with industry trends and regulatory changes in iGaming.<br><br></li>
+</ul>
+</ul>
+<p><strong>Key Qualifications:</strong></p>
+<ul style="">
+<ul style="">
+<li style=""><strong>4+ years</strong> of experience in product management, ideally within the iGaming or online gambling industry.</li>
+<li style="">Proven ability to manage the whole product lifecycle—from ideation to post-launch iteration.</li>
+<li style="">Strong experience with <strong>structured prioritization frameworks</strong> and <strong>backlog management</strong>.</li>
+<li style="">Demonstrated success in <strong>launching and optimizing data-driven products</strong>.</li>
+<li style="">Excellent <strong>analytical skills</strong> with a solid understanding of <strong>product metrics</strong> and <strong>funnels</strong>.</li>
+<li style="">Effective communicator with the ability to <strong>influence cross-functional teams</strong> and <strong>executive stakeholders</strong>.</li>
+<li style="">Highly <strong>organized</strong>, <strong>delivery-focused</strong>, and comfortable managing <strong>multiple workstreams</strong> in parallel.</li>
+</ul>
+</ul>
+<p><strong>Preferred Qualifications:</strong></p>
+<ul style="">
+<li style="">Experience with third-party platform integrations and post-launch performance tuning.</li>
+<li style="">Familiarity with regulatory requirements in online gambling and related compliance considerations.</li>
+<li style="">Background in reporting product health metrics to senior leadership and adapting roadmaps based on real-time feedback.</li>
+<li style="">Experience with SoftSwiss.</li>
+</ul>
+<p><strong>What we offer</strong></p>
+<p>At Gypsy, we believe work should <strong>fuel your growth</strong>, not drain it. Here’s what you can expect when you join the journey:</p>
+<ul style="">
+<li style="">🏖️ <strong>Time to recharge</strong> – 20 working days of paid vacation annually, plus 2 additional business days off each quarter.</li>
+<li style="">🌐 <strong>Remote-first &amp; flexible</strong> – Work from anywhere, with the freedom to shape your day.</li>
+<li style="">💻 <strong>Modern equipment</strong> – We’ll set you up with everything you need to do your best work.</li>
+<li style="">📚 <strong>Growth support</strong> – English language training, a personal learning budget, career path clarity, and access to top industry events.</li>
+<li style="">🧘 <strong>Well-being matters</strong> – Mental health support, fitness perks, and a culture that respects your time and boundaries.</li>
+<li style="">🧩 <strong>Empowered culture</strong> – Transparent communication, diverse perspectives, and impact-driven collaboration.</li>
+</ul>
+<img src="https://remotive.com/job/track/2004989/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/43759528?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -116,30 +182,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful.&nbsp;<a href="https://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external"></a></p><p>We are looking for a dynamic and experienced Senior Product Manager to lead and promote our Endless Lifecycle Support product lines, focusing on various open-source libraries and frameworks, languages and Linux distributions. This role is a unique blend of product management, OSS knowledge and supply chain security thought leadership, where you will be responsible for shaping the vision and defining go-to-market strategies. You will be reporting directly to the CEO.</p><p><strong>Key Responsibilities:</strong></p><ul> <li>Product Vision &amp; Strategy:</li> <ul> <li>Define and refine the vision for TuxCare’s Endless Lifecycle Support products.</li> <li>Develop and implement comprehensive go-to-market strategies tailored to different market segments and industries.</li> <li>Continuously assess market trends, customer needs, and competitive landscapes to guide product evolution.</li> <li>Work closely with engineering, marketing, and sales teams to create and launch new product lines.</li> <li>Oversee the entire product lifecycle, from ideation through development, launch, and post-launch support.</li> </ul> </ul><p><strong>Requirements</strong></p><p><strong>Qualifications</strong>:</p><ul> <li>Experience:</li> <ul> <li>5+ years of product management experience, preferably in the open-source and security domain.</li> <li>Proven track record of successfully launching and scaling technical products in the enterprise market.</li> <li>Strong understanding open-source software, OSS supply chain security</li> <li>Previous software engineering experience</li> </ul> <li>Skills:</li> <ul> <li>Exceptional communication and presentation skills, with the ability to articulate complex technical concepts to diverse audiences.</li> <li>Strong leadership and project management abilities, with a focus on driving results and fostering collaboration.</li> <li>Analytical mindset with the ability to interpret market data and customer feedback to inform product decisions.</li> <li>Fluent English speaker</li> </ul> </ul><p><strong>Benefits</strong></p><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development</li> <li>Interesting and challenging projects</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves</li> <li>Compensation for private medical insurance</li> <li>Co-working and gym/sports reimbursement</li> <li>Budget for education</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p></p><p><em>By applying for this position, you agree with the CloudLinux Privacy Policy - </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/privacy-policy</a><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external"></a><em> and give us your consent to maintain and process your personal data in this respect. Please read our Privacy Policy for more information - </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/privacy-policy</a><em> .</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/2e1a369c-b58f-41ac-8d86-4b0a77695e68-1687915522032.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Empower</h5>
-                    <h3>Sr. Product Manager - Card</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.ashbyhq.com/empower%20finance/bb5284e0-5504-4aea-b0e0-fe6808076388" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="min-height:1.5em"><strong>EMPOWER OVERVIEW</strong></p><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="http://empower.me/">Empower</a> is shaking up an outdated financial system by providing real opportunity for our customers: the opportunity to get the cash they need, to access fair credit, and to change their financial story. Today, we’re helping millions of people find financial security through machine learning models that evaluate creditworthiness using a more inclusive lens and mobile-first products: Cash Advance, Thrive line of credit, and Petal credit cards. Tomorrow? Creating even more financial paths for our customers (and their wallets) to succeed.</p><p style="min-height:1.5em">This year, Empower ranked #65 on Inc. 5000’s Fastest-Growing Private Companies list — our third year in a row cracking the top 100 — and was named by Forbes as one of the 25 Next Billion-Dollar Startups for 2024. Empower was also featured by Forbes on America’s Best Startup Employers list in 2023, and our Thrive line of credit product was named by Fast Company as one of 2022’s Next Big Things in Tech.</p><p style="min-height:1.5em">Empower is backed by Sequoia Capital, Blisce, and Icon Ventures. Ready to grow your impact and accelerate your career? Take a look at our open roles — we can’t wait to meet you.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><br /><strong>JOB DESCRIPTION</strong></p><p style="min-height:1.5em">We’re looking for extraordinary people to help lead product development as Empower continues to scale. Our product leaders are customer-centric, collaborate intensely with other key disciplines, and make decisions with an eye towards Empower’s business. Successful product managers are ambitious and resourceful -- willing to do whatever it takes to deliver value to our customers.</p><p style="min-height:1.5em">Members of the product team drive the strategy, tactics, and delivery timelines for all Empower features and products. They identify opportunities and develop perspectives on the most impactful things we should be building for our customers, and then they go do the work required to build those experiences by getting cross-functional support, designing specs, overseeing development and measuring outcomes. If you’re looking for a role where you can have massive impact and a wide scope, you’ll find this role compelling, challenging, and rewarding.</p><p style="min-height:1.5em">More specifically, this role will focus on developing and launching Empower’s first credit card product. You will play a critical role in bringing the product to market, designing and executing a robust testing agenda, and analyzing user data to identify areas of opportunity. You will focus on day-to-day execution in partnership with Engineering, Design, Operations, Marketing, Compliance, and Customer Support. You will also shape the longer-term strategy of the product and roadmap.</p><p style="min-height:1.5em">Empower is a remote-first company. We drive connectivity through regular company offsites. Travel for company offsites is expected at a minimum 2 times a year.</p><p style="min-height:1.5em"><br /><strong>Candidate Qualifications</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">We are looking for product managers and product leaders with 5+ years product management or management consulting/investment banking, with a preference for experience in technology start ups and/or financial services companies)</p></li><li><p style="min-height:1.5em">Bachelor’s degree (or greater) in an analytical or technical discipline (e.g., Engineering, Computer Science, Economics)</p></li><li><p style="min-height:1.5em">Strong analytical abilities and are comfortable defining and measuring goals consistently, with a preference for experience with SQL, Python, and/or analytical tools such as Amplitude and Tableau</p></li><li><p style="min-height:1.5em">Strong customer empathy and experience shaping product direction and execution based on customer needs</p></li><li><p style="min-height:1.5em">A get-it-done mindset; you’re resourceful and happy to be hands on and in the weeds</p></li><li><p style="min-height:1.5em">An interest in addressing complicated and impactful product &amp; business problems</p></li><li><p style="min-height:1.5em">Experience delivering complex, cross-functional product initiatives</p></li><li><p style="min-height:1.5em">Strong strategic thinking, problem solving, and logical structuring abilities</p></li><li><p style="min-height:1.5em">Comfort with ambiguity; the ability to independently lay out and test clear hypotheses, and solve problems without well-defined direction</p></li><li><p style="min-height:1.5em">Excellent verbal and written communication skills</p></li></ul><p style="min-height:1.5em"><strong>Don't meet every qualification? If you're excited about this challenge and driven to innovate, we still want to hear from you!</strong></p><p style="min-height:1.5em"></p><h2>What You'll Get at Empower</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Meaningful Ownership:</strong> Competitive salary and generous equity in a profitable, fast growing company.</p></li><li><p style="min-height:1.5em"><strong>Complete Support:</strong> 100% coverage for medical, dental, vision, and life insurance, plus a generous WFH reimbursement.</p></li><li><p style="min-height:1.5em"><strong>High-Impact Teams:</strong> The chance to thrive in a small, focused team where your contributions directly shape outcomes for our business and customers.</p></li><li><p style="min-height:1.5em"><strong>Remote First:</strong> A virtual first environment built on trust and outcomes.</p></li><li><p style="min-height:1.5em"><strong>Team Connection:</strong> Twice-yearly company onsites where we come together to connect, learn, and build for the future (our last few have been in San Diego, Vail, and Flagstaff)!</p></li><li><p style="min-height:1.5em"><strong>Growth Path:</strong> Ongoing opportunities for development in a dynamic, supportive, and creative environment.</p></li></ul><p style="min-height:1.5em"></p><h2>The Empower Way</h2><p style="min-height:1.5em">The Empower Way is one where bold ambition meets an owner mindset, where open dialogue and spirited debate are encouraged, and where everyone works together to put our customers first. We believe diverse voices lead to the best ideas, and we foster an environment where every individual is valued, heard, and supported as part of one unified team working to change lives and build a more inclusive future.</p><p style="min-height:1.5em"><strong>If that sounds like you, join us and be part of a team that's helping millions of people reshape their financial futures.</strong></p>
                 </details>
                 </td>
             </tr>,<tr>
