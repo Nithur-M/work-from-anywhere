@@ -1,5 +1,38 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/2003821/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Interprefy Ag</h5>
+                    <h3>Event Project Manager</h3>
+                </td>
+                <td width="300">
+                    <code>project management,event management ,time management,diversity</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/project-management/event-project-manager-2003821" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h3">The team</div><p>
+
+                                Our Operations &amp; Client Delivery department is a global team of over 50 professionals dedicated to delivering exceptional service. We support multilingual events for leading institutions and companies worldwide, working across time zones in a collaborative, fast-paced environment.<br><br>At the core of Operations &amp; Client Delivery is the <strong>Event </strong><strong>Project Management team</strong>—a multicultural group that combines client-facing engagement with technical coordination. Whether remote or onsite, Event Project Managers ensure each event runs smoothly through structured planning, clear communication, and hands-on execution.
+
+                            </p><div class="h3">The Role- key responsibilities</div><p>
+
+                                As an <strong>Event Project Man</strong><strong>ager at Interprefy</strong>, you'll be at the heart of global communication. Acting as the main liaison between our clients and internal teams, you will take ownership of events from post-sale through delivery—translating client needs into well-executed, high-quality experiences. Your ability to lead with clarity, coordinate across departments, and maintain the highest standards will ensure every project runs smoothly and successfully.<br><br><strong>What will you do:</strong><br><strong><br></strong></p><ul style=""><li style=""><strong>Client Engagement and Relationship Management:</strong> Act as the main point of contact post-sale, ensuring clear, ongoing communication and a strong relationship with the client throughout the event lifecycle.</li><li style=""><strong>Event Planning and Execution: </strong>Translate client requirements into actionable event plans: managing all logistical, technical, and operational elements to ensure readiness for flawless delivery.</li><li style=""><strong>Technical Resource and Quality Control Management:</strong> Coordinate technical requirements with the event's IT/AV specialists and/or event platform partner teams to ensure the right technical resources are assigned and quality standards are met across all aspects of event delivery.</li><li style=""><strong>Collaboration Across Teams</strong><strong>:</strong> Ensure seamless communication and handoffs between Project Management, Operations, and Remote Support teams to ensure readiness and alignment across the board.</li><li style=""><strong>Onsite Event Coordination:</strong> Lead and manage onsite events, coordinating with all stakeholders to ensure technical and operational excellence under real-world conditions.</li><li style=""><strong>Event Reporting and Feedback Collection:</strong> Conduct post-event debriefs, gather feedback from clients and internal stakeholders, and implement learnings for continuous improvement.</li><li style=""><strong>Commercial Awareness and Upselling Opportunities:</strong> Stay alert to client needs and evolving requirements. Proactively identify and flag potential upsell or cross-sell opportunities to the Sales team.</li><li style=""><strong>Continuous Training and Development:</strong> Stay current with new technologies, internal tools, and industry trends through regular training and development opportunities.</li></ul>
+<div class="h3">Key experiences and competencies</div><p>
+<strong>What you bring: </strong><br><br></p><ul style=""><li style=""><strong>Experience: </strong>2–5 years in project or event management, ideally with exposure to AV, hybrid, or online event environments.<strong><br></strong></li><li style=""><strong>Client-Centric Mindset:</strong> A passion for delivering excellent service and helping clients succeed.</li><li style=""><strong>Technical Proficiency:</strong> Familiarity with videoconferencing platforms (Zoom, MS Teams, Webex,...) and a quick learner in AV and online event tech.</li><li style=""><strong>Formal training or certification </strong>in event and/or project management (preferred).</li><li style=""><strong>Organizational Excellence:</strong> Ability to manage multiple projects simultaneously with strong time management and prioritization skills.</li><li style=""><strong>Exceptional Communication:</strong> Outstanding written and verbal communication skills to collaborate with global teams and clients.</li><li style=""><strong>Adaptability: </strong>Comfortable with remote work, flexible schedules, and occasional onsite travel.</li><li style=""><strong>Language Skills: </strong>English proficiency at C1 level or higher; additional languages are a strong plus.</li></ul><br><strong>Working hours</strong><br><br>Embrace the advantages of a remote-first environment, offering autonomy and flexibility within a standard 8-hour Monday to Friday schedule. Occasional weekend work may be required, with the option to transfer Weekend hours to paid time off (PTO).<br><br><strong>Why Join Interprefy?</strong><br>​<ul style=""><li style=""><strong>Global Impact:</strong> Help bridge cultures and languages in some of the world’s most important events.</li><li style=""><strong>Flexible Work Environment:</strong> Enjoy the autonomy of remote work with flexible hours and a supportive team culture.</li><li style=""><strong>Comprehensive Compensation:</strong> Competitive pay, performance bonuses, generous PTO, and all the tools you need to work from home.</li><li style=""><strong>Diverse, Global Team:</strong> Collaborate with talented colleagues in 20+ countries and learn from a wealth of experiences and backgrounds.</li><li style=""><strong>Travel Opportunities:</strong> Support high-profile events in exciting locations such as COP28 in Dubai, the International Seabed Authority in Jamaica, and UEFA Euro in Leipzig.</li><li style=""><strong>Career Development:</strong> Access to continuous training, mentorship, and clear growth pathways tailored to your strengths and ambitions.</li><li style=""><strong>Innovation-Driven Culture:</strong> Be part of a company that values forward-thinking ideas and thrives on constant evolution.</li><li style=""><strong>Diversity &amp; Inclusion:</strong> We proudly support and celebrate individuality in all forms and are committed to creating an inclusive, equitable work environment.</li></ul>
+<img src="https://remotive.com/job/track/2003821/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
