@@ -1,5 +1,61 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/2004945/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Thaloz</h5>
+                    <h3>Senior Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,go,python,rust</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-engineer-2004945" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>we are seeking a <strong>Senior Backend Engineer</strong> with a strong technical foundation and a passion for building scalable and robust systems. This role demands expertise in Go, Python, and/or Rust, exceptional architecture design skills, and a holistic understanding of product development. The ideal candidate will be a well-rounded engineer with a commitment to clean code and best practices, ready to make a significant impact on our innovative products.</p>
+<p><strong>Responsibilities:</strong></p>
+<ul style="">
+<li style="">Design and implement scalable backend architectures for our Fintech products.</li>
+<li style="">Write clean, efficient, and well-documented code primarily in Go, Python, and/or Rust, adhering to best practices.</li>
+<li style="">Contribute to the refactoring and redesign of existing codebases.</li>
+<li style="">Optimize system performance and conduct cost-benefit analyses.</li>
+<li style="">Build and manage distributed systems to ensure reliability and scalability.</li>
+<li style="">Develop and optimize end-to-end APIs, data flows, SQL queries, and infrastructure.</li>
+<li style="">Apply advanced software engineering principles throughout the development lifecycle, including design, version control, build processes, automated deployments, code reviews, and testing.</li>
+<li style="">Collaborate effectively within a technically driven team.</li>
+<li style="">Contribute to data ingestion processes using Spark.</li>
+<li style="">Work with cloud infrastructure on AWS and Infrastructure-as-Code using Terraform.</li>
+</ul>
+<p> </p>
+<p><strong>Requirements</strong></p>
+<ul style="">
+<li style="">4+ years of experience in Python/Go/Rust.</li>
+<li style="">2+ years of experience in SQL</li>
+<li style="">Experience in AWS (cloud) and Terraform (IAAS)</li>
+<li style="">Affinity for refactoring and redesigning legacy code bases</li>
+<li style="">Cost vs performance analysis</li>
+<li style="">Experience in building and managing distributed systems</li>
+<li style="">Experience in developing and optimizing end-to-end APIs, data-flows, SQL queries and infrastructure for consumer or enterprise products</li>
+<li style="">Advanced knowledge of software engineering principles including software design, source control management, build processes, automated deployments, code reviews, testing methods</li>
+<li style="">Hustle, curiosity, humility</li>
+<li style="">Experience working with Spark and building ingestion</li>
+</ul>
+<p><br><br></p>
+<div class="h2">About the company</div>
+<p> </p>
+<p>We help companies hire pre-vetted remote software developers who have solid skills and work in their timezone.</p>
+<img src="https://remotive.com/job/track/2004945/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1987908/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +66,7 @@
                     <code>api,AWS,backend,go</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-engineer-1987908" align="right" target="_blank">Apply</a>
