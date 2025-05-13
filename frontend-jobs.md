@@ -63,7 +63,7 @@
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
 &lt;div&gt;We don&#39;t want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote&lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div&gt;Any data provided will be processed in accordance with applicable law and our &lt;a href=&quot;https://www.notion.so/fueled/Fueled-Global-Data-Privacy-Statement-1ea4dccd9d8b80f78df2d85d37fe35f3?pvs=4&quot;&gt;privacy policy&lt;/a&gt;.&lt;/div&gt;
+&lt;div&gt;Any data provided will be processed in accordance with applicable law and our &lt;a href=&quot;https://fueled.com/privacy-policy/&quot;&gt;privacy policy&lt;/a&gt;.&lt;/div&gt;
 &lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
                 </details>
@@ -144,7 +144,7 @@
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
 &lt;div&gt;We don&#39;t want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote #LI-DNI&lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div&gt;Any data provided will be processed in accordance with applicable law and our &lt;a href=&quot;https://www.notion.so/fueled/Fueled-Global-Data-Privacy-Statement-1ea4dccd9d8b80f78df2d85d37fe35f3?pvs=4&quot;&gt;privacy policy&lt;/a&gt;.&lt;/div&gt;
+&lt;div&gt;Any data provided will be processed in accordance with applicable law and our &lt;a href=&quot;https://fueled.com/privacy-policy/&quot;&gt;privacy policy&lt;/a&gt;.&lt;/div&gt;
 &lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
                 </details>
