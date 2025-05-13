@@ -1,5 +1,29 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://media.licdn.com/dms/image/C4D0BAQHlK67hgnhzQw/company-logo_200_200/0/1631346154820?e=2147483647&v=beta&t=_R2Ssj7L_f4xqmSCcq0nOLCyCz0QN2lFnHssxxhj3YY" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Blue Coding</h5>
+                    <h3>DevOps Engineer (Pl)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/bluecoding/dcd422df-8ae6-466c-800c-2f9011bd9b28" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 13pt">What are we looking for?</b></div><div><br></div><div>We’re currently seeking a Mid-level DevOps Engineer to join the team of one of our international clients. This fast-growing tech company is redefining portfolio management in the world of mortgage trading and asset management.</div><div>This is an exciting opportunity to work on a modern platform built from the ground up, using scalable architecture and cloud-native technologies. You'll be part of a collaborative, engineering-driven environment where your ideas and expertise will directly influence the product roadmap.</div><div><br></div><div>If you're independent, a great communicator, a problem solver, and someone who pays close attention to detail, you'll thrive in this role. Our positions are 100% remote — as long as you’re located in one of the listed countries and can deliver high-quality work, you can work from anywhere you want.</div><div><br></div><div>Join us to make an impact in the FinTech space and help shape the future of portfolio management — all while enjoying the freedom and flexibility of remote work.</div><div><br></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Design, build, and maintain Infrastructure-as-Code using Terraform</li><li>Manage and optimize AWS services including Fargate, Postgres (RDS), API Gateway, and CloudFront</li><li>Develop and maintain CI/CD pipelines using GitHub Actions</li><li>Collaborate with developers to ensure reliable, secure, and scalable application deployments</li><li>Monitor and troubleshoot system performance and availability</li><li>Support automation, observability, and disaster recovery practices</li>,<h3>You will shine if you have these:</h3><li>Proven experience in a DevOps or Cloud Engineering role</li><li>Strong knowledge of AWS services and infrastructure best practices</li><li>Proficiency with Terraform and managing IaC in production environments</li><li>Experience with Docker container orchestration and deployment using Fargate</li><li>Familiarity with GitHub Actions, API Gateway, and PostgreSQL</li><li>Good scripting skills (e.g., Bash, Python)</li><li>Knowledge or experience with either credit, mortgages, trading platforms, or environments is a plus.</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/6930305?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
