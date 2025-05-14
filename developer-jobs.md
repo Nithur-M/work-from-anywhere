@@ -10,7 +10,7 @@
                     <code>ecommerce,go,shopify,UI/UX</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/no-code-developer-1997615" align="right" target="_blank">Apply</a>
@@ -63,160 +63,6 @@
 <p class="bn-block-outer" data-id="82e0fc71-7d48-4f4b-b86c-d66171a37243" style="margin: 16px 0px 0px; outline: transparent solid 2px; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; line-height: 1.5; transition: margin 0.2s; color: #3f3f3f; white-space-collapse: preserve;"> </p>
 <div class="bn-block" data-id="82e0fc71-7d48-4f4b-b86c-d66171a37243" style="margin: 0px; outline: transparent solid 2px; outline-offset: 2px; padding: 0px; scrollbar-color: #e5e7eb transparent; --scroll-snap-strictness: proximity; --border-spacing-x: 0; --border-spacing-y: 0; --translate-x: 0; --translate-y: 0; --rotate: 0; --rotate-x: 0; --rotate-y: 0; --skew-x: 0; --skew-y: 0; --scale-x: 1; --scale-y: 1; display: flex; flex-direction: column;"> </div>
 <img src="https://remotive.com/job/track/1997615/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1984510/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Tether</h5>
-                    <h3>Senior Backend Developer (Node.js)</h3>
-                </td>
-                <td width="300">
-                    <code>backend,C++,javascript,mongoDB</code>
-                </td>
-                <td width="200">
-                <text>26 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-node-js-1984510" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p class="sc-1fwbcuw-0 khAsaN"></p><p></p><p><strong><em>Join Tether and Shape the Future of Digital Finance</em></strong><br>At
- Tether, we’re not just building products, we’re pioneering a global 
-financial revolution. Our cutting-edge solutions empower businesses—from
- exchanges and wallets to payment processors and ATMs—to seamlessly 
-integrate reserve-backed tokens across blockchains. By harnessing the 
-power of blockchain technology, Tether enables you to store, send, and 
-receive digital tokens instantly, securely, and globally, all at a 
-fraction of the cost. Transparency is the bedrock of everything we do, 
-ensuring trust in every transaction.</p><p><strong><em><br></em></strong></p><p><strong><em>Innovate with Tether</em></strong><br><strong>Tether Finance: </strong>Our innovative product suite features the world’s most trusted stablecoin, <strong>USDT</strong>, relied upon by hundreds of millions worldwide, alongside pioneering digital asset tokenization services.<br>But that’s just the beginning:<strong><br></strong></p><p><strong>Tether Power: </strong>Driving
- sustainable growth, our energy solutions optimize excess power for 
-Bitcoin mining using eco-friendly practices in state-of-the-art, 
-geo-diverse facilities.<br><strong>Tether Data: </strong>Fueling 
-breakthroughs in AI and peer-to-peer technology, we reduce 
-infrastructure costs and enhance global communications with cutting-edge
- solutions like <strong>KEET</strong>, our flagship app that redefines secure and private data sharing.<br><strong>Tether Education</strong>:
- Democratizing access to top-tier digital learning, we empower 
-individuals to thrive in the digital and gig economies, driving global 
-growth and opportunity.<br><strong>Tether Evolution</strong>: At the 
-intersection of technology and human potential, we are pushing the 
-boundaries of what is possible, crafting a future where innovation and 
-human capabilities merge in powerful, unprecedented ways.<strong><em><br></em></strong></p>
-<p><strong><em>Why Join Us?</em></strong><br>Our team is a global talent
- powerhouse, working remotely from every corner of the world. If you’re 
-passionate about making a mark in the fintech space, this is your 
-opportunity to collaborate with some of the brightest minds, pushing 
-boundaries and setting new standards. We’ve grown fast, stayed lean, and
- secured our place as a leader in the industry.<br>If you have excellent
- English communication skills and are ready to contribute to the most 
-innovative platform on the planet, Tether is the place for you.<br>Are you ready to be part of the future?</p>
-<p dir="ltr"><strong><br>About the job</strong><br></p>
-<p dir="ltr">As a <strong>Senior Backend Developer,</strong> you will be a part of the team that works on the development of Tether backend components.</p><p dir="ltr"><br></p>
-<p dir="ltr"><strong>New Products and Features -</strong> Tether 
-continuously strives to create innovative new features in order to 
-provide the most professional trading experience for customers. These 
-are developed and deployed using agile methodologies, to ensure the user
- experience remains the best in the industry.</p>
-<p dir="ltr"><br></p>
-<p dir="ltr"><strong>Scalability </strong>- all backend services that 
-power Tether must remain effortlessly smooth, responsive, and real-time 
-for customers as the platform continues to scale to accommodate new user
- growth.</p>
-<p dir="ltr"><br></p>
-<p dir="ltr"><strong>Security -</strong> Security is the most important 
-feature. The Backend Development team is responsible for building all 
-the services and core processes with the highest security principles and
- standard, in order to protect the safety of the entire user base.<br><br></p><div class="h2">Job requirements</div><p class="sc-1fwbcuw-0 khAsaN"></p><p></p><ul style=""><li dir="ltr" style=""><p dir="ltr">+6 years of experience working with Nodejs/JavaScript.</p></li><li dir="ltr" style=""><p dir="ltr">Familiar with microservices architecture</p></li><li dir="ltr" style=""><p dir="ltr">Have actively participated in the development of a complex platform</p></li><li dir="ltr" style=""><p dir="ltr">Familiar with Peer-to-Peer technologies</p></li><li dir="ltr" style=""><p dir="ltr">Good experience in interacting with databases (MySQL, MongoDB)</p></li><li dir="ltr" style=""><p dir="ltr">Ability to quickly learn new technologies</p></li><li dir="ltr" style=""><p dir="ltr">Good understanding of security practices</p></li></ul>
-<p><br></p>
-<div class="h4" dir="ltr"><strong>Nice to have</strong></div>
-<ul style=""><li dir="ltr" style=""><p dir="ltr">Experience with blockchain integration</p></li><li dir="ltr" style=""><p dir="ltr">Comfortable with high-availability concepts</p></li><li dir="ltr" style=""><p dir="ltr">Ruby, Rust or C++ skills are a plus</p></li><li dir="ltr" style=""><p dir="ltr">Other technologies of interest: Message queues (Redis), Caches and Job Queues</p></li></ul><p><br></p>
-<img src="https://remotive.com/job/track/1984510/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1983726/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Mimo GmbH</h5>
-                    <h3>Senior Backend Developer — Typescript</h3>
-                </td>
-                <td width="300">
-                    <code>.Net,api,backend,C</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-typescript-1983726" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We’re looking for someone based within the <strong>UTC 0 to UTC+2 time zones</strong>.</p>
-<p> </p>
-<p><strong>Our mission</strong></p>
-<p>At Mimo, we believe that coding can open doors to careers and opportunities like few other skills. We aim to provide the <strong>most accessible and enjoyable way to learn to code</strong> while providing our learners the tools to become <strong>creators on our platform</strong>.</p>
-<p><strong> </strong></p>
-<p><strong>About the team</strong></p>
-<p>We're looking for a <strong>Senior</strong> <strong>backend developer</strong> to join our cross-functional <strong>app team</strong>. You’ll build the backend to help us create a world where creating software is as easy and accessible as describing what you want and sharing your work is as simple as clicking a button.</p>
-<p> </p>
-<p><strong>What you’ll be doing</strong></p>
-<ul style="">
-<li style="">You’ll use <strong>TypeScript</strong> to design, build, and ship a <strong>completely new</strong> user-facing product in collaboration with product managers, designers, and developers.</li>
-<li style="">You’ll develop scalable backend infrastructure with <strong>Bun</strong>, <strong>Node.js,</strong> and <strong>K8s</strong>.</li>
-<li style="">You’ll build and operate <strong>APIs and infrastructure</strong>, taking operational ownership of the services.</li>
-</ul>
-<p> </p>
-<p><strong>You’ll thrive in this role if</strong></p>
-<ul style="">
-<li style=""><strong>You’re a seasoned developer</strong>. You have four (or more) years of experience as a backend developer shipping features for large-scale and real-time applications using <strong>Typescript</strong>, building consumer-facing products.</li>
-<li style=""><strong>You're framework-agnostic. </strong>You’re open to getting familiar with <strong>C# and .NET</strong> for parts of our backend stack.</li>
-<li style=""><strong>You have a bias for action.</strong> You have a strong sense of urgency; when you see a problem, you solve it. You don't have time to waste on analysis paralysis and prefer to learn from your mistakes as you go.</li>
-<li style=""><strong>You’re excited about AI and its potential.</strong> You’re deeply curious about AI and AI tooling and eager to explore how they can unlock new possibilities and make a real impact.</li>
-<li style=""><strong>You’ve built and maintained APIs.</strong> You hold yourself and others to a high bar when working with production systems, bringing a sound understanding of API design and best practices.</li>
-<li style=""><strong>You care about code quality.</strong> You follow engineering best practices, such as code reviews, to ensure and maintain excellent application performance and code quality.</li>
-<li style=""><strong>You take the lead to ensure reliability</strong>. Practical experience securing, monitoring, log analysis, and conducting investigations in cloud-based environments (we use GCP).</li>
-<li style=""><strong>You pay excellent attention to detail.</strong> When reasoning trade-offs, you’ll put the user first and care deeply about the details.</li>
-<li style=""><strong>You ooze the values of the DevOps mindset.</strong> You’re intensely curious and passionate about running software in DevOps environments and eager to explore DevOps and SRE more.</li>
-<li style=""><strong>You know a thing or two about architecture, containerization, and orchestration.</strong> You’re keen to learn/or use container systems like Docker, Kubernetes, and/or Platform as a Service.</li>
-<li style=""><strong>You bring a strong sense of ownership</strong>. You believe in solving a problem entirely rather than simply shipping a solution. You operate autonomously and follow through on your commitments.</li>
-</ul>
-<p> </p>
-<p><strong>How we work</strong></p>
-<ul style="">
-<li style="">We ask you to be in the time zone UTC ±0 to UTC +2 for this role.</li>
-<li style="">If you’re located outside this time zone range and want to move to the company’s official headquarters in Austria, we’ll handle the <strong>work permit process</strong> and cover travel expenses.</li>
-<li style="">If you prefer to work outside your home, we offer a physical location in Vienna and <strong>co-working stipends</strong> in other cities.</li>
-<li style="">We love <strong>working async.</strong> You can set your own pace and schedule.</li>
-</ul>
-<p> </p>
-<p><strong>Our global perks and benefits</strong></p>
-<ul style="">
-<li style="">We have a <strong>remote-first mentality</strong> and give everyone a home-office budget.</li>
-<li style=""><strong>25 days of paid vacation</strong> in addition to your local public holidays and <strong>paid sick leave</strong>.</li>
-<li style="">We sponsor <strong>team retreats</strong> throughout Europe and remote-friendly activities, like hack weeks and coffee breaks.</li>
-<li style="">To further develop yourself, use our <strong>€1k growth budget</strong> for books, online courses, conferences, or anything else that supports your development.</li>
-<li style="">To give our menstruating team members the time off to cater to their health when needed during their menstrual cycle, we offer up to <strong>2 days of paid menstrual leave</strong> per month.</li>
-<li style="">Depending on your level, your annual gross salary will be <strong>€74k</strong> (Senior), or <strong>€87k</strong> (Principal) gross annually, which will <strong>automatically increase by 5% yearly.</strong> No questions asked.</li>
-<li style="">The chance to build a world-class product, positively impact millions of aspiring developers, and be a virtual owner of the company with <strong>equity</strong> (phantom stock).</li>
-</ul>
-<p> </p>
-<p><strong>Our 4-step hiring process, in a nutshell</strong></p>
-<ul style="">
-<li style="">You’ll first have a video call with a member of the People team for a <strong>quick get-to-know chat.</strong></li>
-<li style="">Then, <strong>you’ll be given a take-home challenge</strong> to work on. Don’t worry; we know you have many things on your plate and good things take time. You won’t be given a deadline.</li>
-<li style="">Next <span style="box-sizing: border-box; margin: 0px; padding: 0px;">is the <strong>technical interview</strong> to show </span>your skills to the hiring manager.</li>
-<li style="">Lastly, you’ll meet your <strong>potential future peers</strong> for a laid-back conversation.</li>
-<li style="">If everything goes smoothly, you’ll receive an <strong>offer</strong> from us shortly after. Fingers crossed!</li>
-</ul>
-<img src="https://remotive.com/job/track/1983726/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -329,7 +175,7 @@ the services and core processes with the highest security principles and
                 </td>
                 <td width="300">
                     <h5>Collabora</h5>
-                    <h3>Linux Kernel Developer - Core Kernel (Remote/Anywhere)</h3>
+                    <h3>Linux Kernel Developer (Remote/Anywhere)</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -338,37 +184,13 @@ the services and core processes with the highest security principles and
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/collabora/3f822c30-d5d0-4ea0-80ac-db50aded0132" align="right" target="_blank">Apply</a>
+                <a href="https://jobs.lever.co/collabora/95c2f0cd-d006-47dc-a3ff-7de4545e46fb" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div>Collabora is currently looking for a very technically capable, enthusiastic and  passionate Linux Kernel Software Developer to join its ever growing  engineering team.</div><div><br></div><div>As  a member of the Kernel team, your primary focus will be to participate  in the development and upstreaming of core kernel infrastructure such as  schedulers, real time, file systems, block layer, memory management,  system call interfaces, architecture-specific code (x86, ARM,  RISC-V)virtio and more. You will be working together with the mainline  Linux community, pushing forward the kernel core needs for different  customers’ projects and products</div><div>Collabora is currently looking for a very technically capable, enthusiastic and  passionate Linux Kernel Software Developer to join its ever growing  engineering team.</div><div><br></div><div>As  a member of the Kernel team, your primary focus will be to participate  in the development and upstreaming of core kernel infrastructure such as  schedulers, real time, file systems, block layer, memory management,  system call interfaces, architecture-specific code (x86, ARM,  RISC-V)virtio and more. You will be working together with the mainline  Linux community, pushing forward the kernel core needs for different  customers’ projects and products</div><h3>Key Responsibilities</h3><li>Discuss  Linux core system technologies with clients and represent Collabora at conferences and trade shows to demonstrate and promote our leadership in  the open source arena</li><li>Analyze client problems and design solutions leveraging open source technologies and Collabora's technical expertise</li><li>Define and scope client projects in collaboration with the delivery team</li><li>Contribute publicly to open source projects to further strengthen Collabora's technical leadership</li><li>Gain working knowledge of customers’ products, applications, technical and business strengths and target markets</li><li>Understand client needs and reconciling time constraints, available technologies and resources, and open source best practices</li><h3>Desired Skills</h3><li>Linux kernel and kernel module development</li><li>Linux experience in one or more of the following areas: schedulers, real-time,&nbsp; filesystems, block layer, memory management, system call interfaces, architecture-specific code (x86, ARM, RISC-V), virtio, etc.</li><li>Good understanding of debugging mechanisms in the Linux kernel (ftrace, kdump, ktraces, ...)</li><li>Understanding of open source development methodology and practices as well as prior experience/contributions with/to the upstream Linux kernel community</li><li>Diligence and focus to drive development and upstream discussions that may last multiple months</li><li>Exposure to Continuous Integration environments (GitLab, <a rel="noopener noreferrer" class="postings-link" href="http://kernelci.org">kernelci.org</a>...) is a plus</li><li>Self learning skill to get sufficient knowledge of Collabora's services, business model, project delivery life cycle and related technical domains</li><li>Good English language skills (both verbal and written)</li><li>Ability to work and communicate in an online fully distributed environment</li><div>Collabora  is a software consultancy specializing in bringing companies and the  Open Source community together. We combine years of Open Source software  leadership with an understanding of the challenges that businesses,  non-profits, and governments face. Collabora brings deep technical  expertise in system integration &amp; architecture, graphics,  multimedia, web engines and communications to a number of market  verticals, including mobile, IVI / automotive, set top box / smart TV,  and a range of other specialized embedded applications.</div><div><br></div><div>Collabora  has the unique business model of enabling enterprises to leverage Open  Source software in their solutions. Having worked with notable industry  leading companies in the automotive, aerospace and handset mobile  verticals amongst many others, Collabora has established a broad  customer portfolio.</div><div><br></div><div>#LI-Remote</div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/4499761?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Collabora</h5>
-                    <h3>Linux Kernel Developer - Drivers (Remote/Anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/collabora/477381bb-3cce-414c-ad07-982c004ac5ba" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>Collabora  is currently looking for a very technically capable, enthusiastic and  passionate Linux Kernel Software Developer to join its ever growing  engineering team.</div><div><br></div><div>As  a member of the Kernel team, your primary focus will be to participate  in the development, integration, validation and deployment of Linux  board support packages and kernel device drivers, configuring kernels,  troubleshooting functional and performance problems for different  customers’ projects and products and participating in the mainline Linux  with code contributions, reviews and discussions.</div><div>Collabora  is currently looking for a very technically capable, enthusiastic and  passionate Linux Kernel Software Developer to join its ever growing  engineering team.</div><div><br></div><div>As  a member of the Kernel team, your primary focus will be to participate  in the development, integration, validation and deployment of Linux  board support packages and kernel device drivers, configuring kernels,  troubleshooting functional and performance problems for different  customers’ projects and products and participating in the mainline Linux  with code contributions, reviews and discussions.</div><h3>Key Responsibilities</h3><li>Discuss  Linux core system technologies with clients and represent Collabora at  conferences and trade shows to demonstrate and promote our leadership in  the open source arena</li><li>Analyze client problems and design solutions leveraging open source technologies and Collabora's technical expertise</li><li>Define and scope client projects in collaboration with the delivery team</li><li>Contribute publicly to open source projects to further strengthen Collabora's technical leadership</li><li>Gain working knowledge of customers’ products, applications, technical and business strengths and target markets</li><li>Understand client needs and reconciling time constraints, available technologies and resources, and open source best practices</li><h3>Desired Skills</h3><li>Linux kernel and kernel module development</li><li>Linux driver development</li><li>Cross-compiling and porting</li><li>Understanding  of open source development methodology and practices as well as prior  experience/contributions with/to the Open Source Linux Kernel community</li><li>Linux distribution package development/management (Debian, Yocto...) is a nice to have</li><li>Exposure to Continuous Integration environments (GitLab, <a rel="noopener noreferrer" class="postings-link" href="http://kernelci.org">kernelci.org</a>...) is a plus</li><li>Self  learning skill to get sufficient knowledge of Collabora's services,  busines model, project delivery life cycle and other related technical  domains</li><li>Good English language skills (both verbal and written)</li><li>Ability to work and communicate in an online fully distributed environment</li><div>Collabora  is a software consultancy specializing in bringing companies and the  Open Source community together. We combine years of Open Source software  leadership with an understanding of the challenges that businesses,  non-profits, and governments face. Collabora brings deep technical  expertise in system integration &amp; architecture, graphics,  multimedia, web engines and communications to a number of market  verticals, including mobile, IVI / automotive, set top box / smart TV,  and a range of other specialized embedded applications.</div><div><br></div><div>Collabora  has the unique business model of enabling enterprises to leverage Open  Source software in their solutions. Having worked with notable industry  leading companies in the automotive, aerospace and handset mobile  verticals amongst many others, Collabora has established a broad  customer portfolio.</div><div><br></div><div>#LI-Remote</div>
+                <div>Collabora is currently looking for a very technically capable, enthusiastic and  passionate Linux Kernel Software Developer to join its ever growing  engineering team.</div><div><br></div><div>As a member of the Kernel domain team, you primary focus will be to participate in the development, integration, validation and deployment of Linux board support packages and kernel device drivers, merging code upstream, working together with the mainline Linux community, configuring kernels, troubleshooting functional and performance problems for different customers’ projects and products.</div><div>Collabora is currently looking for a very technically capable, enthusiastic and  passionate Linux Kernel Software Developer to join its ever growing  engineering team.</div><div><br></div><div>As a member of the Kernel domain team, you primary focus will be to participate in the development, integration, validation and deployment of Linux board support packages and kernel device drivers, merging code upstream, working together with the mainline Linux community, configuring kernels, troubleshooting functional and performance problems for different customers’ projects and products.</div><h3>Key Responsibilities</h3><li>Discuss Linux core system technologies with clients and promote our leadership in the open source arena</li><li>Analyze client problems and design solutions leveraging open source technologies and Collabora's technical expertise</li><li>Define and scope client projects in collaboration with the delivery team</li><li>Contribute publicly to open source projects to further strengthen Collabora's technical leadership</li><li>Gain working knowledge of customers’ products, applications, technical and business strengths and target markets</li><li>Understand client needs and reconciling time constraints, available technologies and resources, and open source best practices</li><h3>Desired Skills</h3><li>Linux Kernel and kernel module development</li><li>Linux driver development</li><li>Cross-compiling and porting</li><li>Understanding of open-source development methodology and practices as well as prior experience/contributions with/to the Open Source Linux Kernel community</li><li>Linux distribution package development/management (Debian, Yocto...) is a nice to have</li><li>Exposure to Continuous Integration environments (Jenkins, <a href="http://kernelci.org">kernelci.org</a>...) is a plus</li><li>Self learning skill to get sufficient knowledge of Collabora's services, business model, project delivery life cycle and other related technical domains</li><li>Good English language skills (both verbal and written)</li><li>Ability to work and communicate in an online fully distributed environment</li><div>Collabora  is a software consultancy specializing in bringing companies and the  Open Source community together. We combine years of Open Source software  leadership with an understanding of the challenges that businesses,  non-profits, and governments face. Collabora brings deep technical  expertise in system integration &amp; architecture, graphics,  multimedia, web engines and communications to a number of market  verticals, including mobile, IVI / automotive, set top box / smart TV,  and a range of other specialized embedded applications.</div><div><br></div><div>Collabora  has the unique business model of enabling enterprises to leverage Open  Source software in their solutions. Having worked with notable industry  leading companies in the automotive, aerospace and handset mobile  verticals amongst many others, Collabora has established a broad  customer portfolio.</div><div><br></div><div>#LI-Remote</div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1857,30 +1679,6 @@ the services and core processes with the highest security principles and
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 24px">What are we looking for?</b></div><div><br></div><div>In this opportunity, we are looking for a ETL Developer  to work with one of our foreign clients, a market leader in the consultation, design, procurement, implementation, and ongoing managed services for technology services for mid to large global enterprises. As a Telecom Managed Service company, they partner with over 300 service providers globally to help customers with technology design and find the best solutions to meet their needs.</div><div><br></div><div>Our client is modernizing their data infrastructure with AWS Glue, Redshift, and S3—replacing legacy  ETL tools. We need a hands-on ETL Developer to build and maintain scalable pipelines that power analytics and business decisions. You’ll work closely with Data Engineering and BI teams to ensure clean, efficient, and well-documented data flows—from SQL Server (RDS) to their Redshift data warehouse. This role is  critical in eliminating manual processes and enabling self-service data access</div><div><br></div><div>If you are independent, a great communicator, a problem solver, and have a strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Develop and automate ETL workflows using AWS Glue (Python/PySpark) to ingest,  transform, and load data into Redshift and S3. </li><li>Monitor and troubleshoot pipelines, ensuring data accuracy and SLA adherence. </li><li>Optimize S3 storage (partitioning, lifecycle policies) for cost-effective data lake  management. </li><li>Collaborate on data modeling (star schema, dimensional modeling) for analytics-ready  datasets. </li><li>Document data flows, ERDs, and lineage for clarity and governance. </li><li>Profile and validate data to catch issues early and maintain trust in reporting. </li><li>Support BI teams by resolving data discrepancies and improving pipeline efficiency</li><li>Conduct ad hoc analysis and exploratory data work as needed. </li><li>Contribute to the documentation of system specifications, testing procedures, and  operational support materials. </li><li>Participate in code reviews and continuous improvement of development standards. </li><li>Provide production support and assist with troubleshooting and resolving data issues.</li>,<h3>You will shine if you have:</h3><li>Bachelor's degree in Computer Science or a related field, or equivalent work experience.</li><li>3+ years of related work experience as an ETL Developer, with AWS cloud experience (Glue, Redshift, S3). </li><li>Strong SQL &amp; Python (PySpark preferred). </li><li>Experience building batch ETL pipelines (not just drag-and-drop tools). </li><li>Knowledge of data warehousing (ODS, dimensional modeling, slowly changing dimensions). </li><li>Ability to troubleshoot pipeline failures and optimize performance/cost. </li><li>Clear communicator who can explain technical details to non-engineers.&nbsp;</li><li>Excellent problem-solving and analytical skills.</li><li>Strong organizational skills and attention to detail.</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/C4D0BAQHlK67hgnhzQw/company-logo_200_200/0/1631346154820?e=2147483647&v=beta&t=_R2Ssj7L_f4xqmSCcq0nOLCyCz0QN2lFnHssxxhj3YY" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Blue Coding</h5>
-                    <h3>Senior Fullstack Developer (S)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/bluecoding/1181740a-36dd-41bb-9007-ef40c55d68cb" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 13pt;">What are we looking for?</b></div><div>In this opportunity, we are looking for a Software Developer to work with one of our foreign clients, a tech company known for its expertise in digital innovation and product development. They offer various services, including user experience design, software development, and strategic consulting. Specializing in creating impactful digital experiences, collaborate with clients to bring innovative solutions to the market. They help the mid-market businesses move faster and smarter with AI, driving operational efficiency and unlocking new capabilities</div><div><br></div><div>If you are independent, a great communicator, a problem solver, and have a strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</div><div>So if you have the skills and can get the job done, join us and work from anywhere you want!</div><div><br></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Evaluate a product experience holistically, from high-level product architecture to the specifics of individual features and how those features fit together</li><li>Contribute toward determining short and long-term technical needs, objectives, and approaches to projects</li><li>Take on various tasks, development-related or not, to support different processes and needs for your project teams</li><li>Collaborate directly every day with designers, developers, engagement managers, and clients</li><li>Balance time between directly working on development and supervising/maintaining the quality of work from other contributors on your team</li>,<h3>You will shine if you have these:</h3><li>Full-stack developer proficient with a variety of languages and tools. Ex: TypeScript/JavaScript (both in-browser and server-side with Node.js, React, TypeScript, Next.js/Remix, Python, etc.)</li><li>Familiarity with AI concepts such as LLMs, agentic patterns, vector databases, RAG, and applied ML</li><li>Strong hands-on software development experience, ideally with experience in a client services or agency environment</li><li>Demonstrated practice with test-driven/behavior-driven product development</li><li>Proven experience leading teams and mentoring developers</li><li>Understanding of integrated development practices and experience directly collaborating with design teams</li><li>Experience solving problems across multiple technology platforms (eg, browsers, applications, operating systems, mobile and connected devices, other hardware)</li><li>Strong communication, client services, and interpersonal skills</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
                 </details>
                 </td>
             </tr>,<tr>
