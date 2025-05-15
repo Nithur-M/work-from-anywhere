@@ -122,11 +122,10 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 &lt;div&gt;
-&lt;p&gt;&lt;strong&gt;Location: Remote - Anywhere&lt;/strong&gt; (Open to applicants located anywhere aligned with the Americas time zones.)&lt;/p&gt;
-&lt;p&gt;As a SiteWatch Web Engineer at 10up, you are taking the driver&#39;s seat in helping support a number of clients across multiple verticals. You will provide consultation to clients and internal teams on complicated full-stack issues while being a “jack of all trades” who can speak to all parts of a project and provide strategic value from the minutia to the big picture. You will be an authority on either JS or PHP.&lt;/p&gt;
-&lt;p&gt;As a leading digital agency, 10up&#39;s client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee. 10uppers have been pushing the boundaries of web experiences for over 12 years—become an engineer that innovates the internet by building exciting projects alongside a top-in-the-field team.&lt;/p&gt;
-&lt;p&gt;As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.&lt;/p&gt;
-&lt;div&gt;&lt;strong&gt;What you will do:&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Location: &lt;/strong&gt;Remote - Anywhere (Open to applicants located anywhere aligned with the Americas time zones.)&lt;/p&gt;
+&lt;p&gt;Fueled is a leading digital strategy, design, and engineering agency. Recently united with 10up – &lt;a href=&quot;https://10up.com/blog/2025/new-fueled-brand-10up-becomes-wordpress-practice/&quot;&gt;now the brand of our WordPress practice&lt;/a&gt; – we are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Times, ESPN, Victoria’s Secret, MGM Resorts, Albertsons, and CLEAR.&lt;/p&gt;
+&lt;p&gt;As a &lt;strong&gt;SiteWatch Web Engineer&lt;/strong&gt; at Fueled, you are taking the driver’s seat in helping support a number of clients across multiple verticals.&amp;nbsp;You will provide consultation to clients and internal teams on complicated full-stack issues while being a “jack of all trades” who can speak to all parts of a project and provide strategic value from the minutia to the big picture. You will be an authority on either JS or PHP.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;What you will do:&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;
 &lt;div&gt;
 &lt;ul&gt;
 &lt;li&gt;Engage with Clients: Participate actively in client meetings, respond to tickets, clarify requirements, and maintain strong live communication skills.&lt;/li&gt;
@@ -140,8 +139,8 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div&gt;
-&lt;div&gt;
-&lt;p&gt;&lt;strong&gt;About you:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;&amp;nbsp;&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;About you:&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Effective Communicator: You excel at explaining technical concepts in client-friendly terms and thrive in real-time, live client interactions.&lt;/li&gt;
 &lt;li&gt;WordPress Pro: Experienced with PHP, Gutenberg block development, and React.js. You can confidently build solutions by leveraging documentation and learning new techniques independently.&lt;/li&gt;
@@ -150,27 +149,13 @@
 &lt;li&gt;Self-Starter and Learner: Eager to tackle emerging technologies like Elasticsearch and AI while applying knowledge to solve practical client challenges.&lt;/li&gt;
 &lt;li&gt;Remote Work Advocate: Thrives in distributed teams, engaging effectively while working from a location of your choice.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Benefits of interest:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Multiple paid time off programs, including PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day&lt;/li&gt;
-&lt;li&gt;Health, dental, and life insurance programs (available for United States and UK team members)&lt;/li&gt;
-&lt;li&gt;Retirement contribution programs (currently available in the U.S. and U.K.)&lt;/li&gt;
-&lt;li&gt;Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations&lt;/li&gt;
-&lt;li&gt;$1,000 accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study&lt;/li&gt;
-&lt;li&gt;Global Company summits – opportunities to meet, socialize, and learn with fellow team members in person at remarkable destinations&lt;/li&gt;
-&lt;li&gt;An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The expected annual salary range for this position is between &lt;strong&gt;$90,000 and $110,000 USD&lt;/strong&gt;. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.&lt;/p&gt;
-&lt;div&gt;&lt;strong&gt;Join our team!&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;
+&lt;h3&gt;&lt;strong&gt;Benefits &amp;amp; Salary&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;We offer competitive salaries and benefits. Compensation is determined based on a variety of factors, including relevant experience, other job-related qualifications, geographic location, and business needs.&lt;/p&gt;
+&lt;strong&gt;Join our team&lt;/strong&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div&gt;If you are passionate about 10up&#39;s mission and think you have what it takes to be successful in this role, please apply. If you consider yourself a Full-Stack Engineer, please choose the discipline and job title that most closely aligns with your focus/primary area of expertise. We personally review each application and can always pivot roles after you enter the hiring process.&lt;/div&gt;
-&lt;div&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div&gt;Read more about &lt;a class=&quot;postings-link&quot; href=&quot;https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view&quot;&gt;What to Expect &lt;/a&gt;through our Recruiting process.&lt;/div&gt;
-&lt;div&gt;&amp;nbsp;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div&gt;We don&#39;t want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote&lt;/div&gt;
-&lt;div&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div&gt;Any data provided will be processed in accordance with applicable law and our &lt;a href=&quot;https://fueled.com/privacy-policy/&quot;&gt;privacy policy&lt;/a&gt;.&lt;/div&gt;
+&lt;div&gt;If you are passionate about Fueled&#39;s mission and think you have what it takes to be successful in this role, even if you don&#39;t check all the boxes - please apply. We&#39;d appreciate the opportunity to personally review your application. Everyone gets a response.&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;We don&#39;t want you to miss any communication from us! To ensure you receive updates on your application, please add&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;mailto:jobs@fueled.com&quot; target=&quot;_blank&quot; data-stringify-link=&quot;mailto:jobs@fueled.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;jobs@fueled.com&lt;/a&gt;&amp;nbsp;to your contacts list!&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;Any data provided will be processed in accordance with applicable law and our&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://fueled.com/privacy-policy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://fueled.com/privacy-policy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;privacy policy&lt;/a&gt;. Curious about what to expect during our talent process? Check it out&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.notion.so/fueled/What-to-Expect-from-the-Interview-Process-at-Fueled-1d84dccd9d8b80f8a0b0d40b244f4caf?pvs=4&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.notion.so/fueled/What-to-Expect-from-the-Interview-Process-at-Fueled-1d84dccd9d8b80f8a0b0d40b244f4caf?pvs=4&quot; data-sk=&quot;tooltip_parent&quot;&gt;here&lt;/a&gt;. #LI-Remote&lt;/div&gt;
 &lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
                 </details>
