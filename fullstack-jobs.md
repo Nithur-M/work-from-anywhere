@@ -102,66 +102,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>10up</h5>
-                    <h3>Full Stack Web Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/10up/jobs/4506540008" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div&gt;
-&lt;p&gt;&lt;strong&gt;Location: &lt;/strong&gt;Remote - Anywhere (Open to applicants located anywhere aligned with the Americas time zones.)&lt;/p&gt;
-&lt;p&gt;Fueled is a leading digital strategy, design, and engineering agency. Recently united with 10up – &lt;a href=&quot;https://10up.com/blog/2025/new-fueled-brand-10up-becomes-wordpress-practice/&quot;&gt;now the brand of our WordPress practice&lt;/a&gt; – we are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Times, ESPN, Victoria’s Secret, MGM Resorts, Albertsons, and CLEAR.&lt;/p&gt;
-&lt;p&gt;As a &lt;strong&gt;SiteWatch Web Engineer&lt;/strong&gt; at Fueled, you are taking the driver’s seat in helping support a number of clients across multiple verticals.&amp;nbsp;You will provide consultation to clients and internal teams on complicated full-stack issues while being a “jack of all trades” who can speak to all parts of a project and provide strategic value from the minutia to the big picture. You will be an authority on either JS or PHP.&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;What you will do:&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;
-&lt;div&gt;
-&lt;ul&gt;
-&lt;li&gt;Engage with Clients: Participate actively in client meetings, respond to tickets, clarify requirements, and maintain strong live communication skills.&lt;/li&gt;
-&lt;li&gt;Develop Enterprise-Level WordPress Solutions: Build and maintain complex WordPress plugins, themes, and custom Gutenberg blocks using PHP and React.js.&lt;/li&gt;
-&lt;li&gt;Support &amp;amp; shape our product offerings: Help support and enhance our public product offerings like ElasticPress.io and SiteWatch.&lt;/li&gt;
-&lt;li&gt;Handle Legacy Code and Databases: Debug and improve legacy systems, ensuring seamless functionality and integration with existing architectures.&lt;/li&gt;
-&lt;li&gt;Manage Diverse, High-Volume Projects: Work on multiple concurrent client projects, often switching contexts daily while maintaining quality and efficiency.&lt;/li&gt;
-&lt;li&gt;Lead Technical Strategy: Define technical visions for complex builds, create accurate estimates, and guide technical direction in collaboration with cross-disciplinary teams.&lt;/li&gt;
-&lt;li&gt;Advance Engineering Standards: Contribute to reusable tools, process improvements, and best practices while exploring new technologies to enhance client success&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div&gt;
-&lt;h3&gt;&amp;nbsp;&lt;/h3&gt;
-&lt;h3&gt;&lt;strong&gt;About you:&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Effective Communicator: You excel at explaining technical concepts in client-friendly terms and thrive in real-time, live client interactions.&lt;/li&gt;
-&lt;li&gt;WordPress Pro: Experienced with PHP, Gutenberg block development, and React.js. You can confidently build solutions by leveraging documentation and learning new techniques independently.&lt;/li&gt;
-&lt;li&gt;Problem-Solver: Skilled at debugging, optimizing legacy codebases, and navigating complex database structures.&lt;/li&gt;
-&lt;li&gt;Adaptable and Organized: Comfortable managing a high workload, switching between 5–10 clients in a day, and delivering high-quality work under varying demands.&lt;/li&gt;
-&lt;li&gt;Self-Starter and Learner: Eager to tackle emerging technologies like Elasticsearch and AI while applying knowledge to solve practical client challenges.&lt;/li&gt;
-&lt;li&gt;Remote Work Advocate: Thrives in distributed teams, engaging effectively while working from a location of your choice.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;strong&gt;Benefits &amp;amp; Salary&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;We offer competitive salaries and benefits. Compensation is determined based on a variety of factors, including relevant experience, other job-related qualifications, geographic location, and business needs.&lt;/p&gt;
-&lt;strong&gt;Join our team&lt;/strong&gt;
-&lt;div&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div&gt;If you are passionate about Fueled&#39;s mission and think you have what it takes to be successful in this role, even if you don&#39;t check all the boxes - please apply. We&#39;d appreciate the opportunity to personally review your application. Everyone gets a response.&lt;/div&gt;
-&lt;div&gt;&lt;br&gt;We don&#39;t want you to miss any communication from us! To ensure you receive updates on your application, please add&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;mailto:jobs@fueled.com&quot; target=&quot;_blank&quot; data-stringify-link=&quot;mailto:jobs@fueled.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;jobs@fueled.com&lt;/a&gt;&amp;nbsp;to your contacts list!&lt;/div&gt;
-&lt;div&gt;&lt;br&gt;Any data provided will be processed in accordance with applicable law and our&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://fueled.com/privacy-policy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://fueled.com/privacy-policy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;privacy policy&lt;/a&gt;. Curious about what to expect during our talent process? Check it out&amp;nbsp;&lt;a class=&quot;c-link c-link--focus-visible&quot; href=&quot;https://www.notion.so/fueled/What-to-Expect-from-the-Interview-Process-at-Fueled-1d84dccd9d8b80f8a0b0d40b244f4caf?pvs=4&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.notion.so/fueled/What-to-Expect-from-the-Interview-Process-at-Fueled-1d84dccd9d8b80f8a0b0d40b244f4caf?pvs=4&quot; data-sk=&quot;tooltip_parent&quot;&gt;here&lt;/a&gt;. #LI-Remote&lt;/div&gt;
-&lt;/div&gt;
-&lt;div&gt;&amp;nbsp;&lt;/div&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://media.licdn.com/dms/image/D560BAQH1_SFy5Vwlhg/company-logo_200_200/0/1686838667749?e=2147483647&v=beta&t=vjEnSv9MgRj3-PLOfPnBySXxJkFKZF1SkMxzVFcxr8c" width="38px" height="auto">
                 </td>
                 <td width="300">
