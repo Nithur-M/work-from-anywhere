@@ -10,7 +10,7 @@
                     <code>backend,C++,javascript,mongoDB</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-node-js-1984510" align="right" target="_blank">Apply</a>
@@ -83,7 +83,7 @@ the services and core processes with the highest security principles and
                     <code>ecommerce,go,shopify,UI/UX</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/no-code-developer-1997615" align="right" target="_blank">Apply</a>
@@ -1756,6 +1756,30 @@ the services and core processes with the highest security principles and
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/74517090?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Manta Network</h5>
+                    <h3>Vibe Coder Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/MantaNetwork/328cb879-2bf1-42e4-b03c-7ea79c4d867a" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><b>About the Role</b></div><div>We're looking for a developer who is highly skilled in leveraging AI tools and deeply passionate about the future of intelligent software creation. As a <b>Vibe Coder</b>, you'll join top-tier Web3 projects, co-building fast-moving applications with a highly collaborative product-engineering team.</div><div><br></div><div><b>Requirements</b>:</div><div>Proficient in using a wide range of AI programming tools (e.g., ChatGPT, Copilot, Claude, etc.)</div><div>Strong interest in cutting-edge AI development and experimentation</div><div>Prior experience launching real applications through Vibe Code is a strong plus</div><div>Web3 experience is preferred (smart contracts, on-chain data, wallet integration, etc.)</div><div>Open to talented interns with fast learning capabilities and product thinking</div><div>Strong remote collaboration and communication skills</div><div><br></div><div><b>What You’ll Get</b>:</div><div>Hands-on development experience in top-tier Web3 projects</div><div>Work in an environment where AI-native development is the default</div><div>Real ownership: go from prototype to live app fast</div><div>Sharpen your skills in AI + Web3, with exposure to the frontier of both</div><div><b>About the Role</b></div><div>We're looking for a developer who is highly skilled in leveraging AI tools and deeply passionate about the future of intelligent software creation. As a <b>Vibe Coder</b>, you'll join top-tier Web3 projects, co-building fast-moving applications with a highly collaborative product-engineering team.</div><div><br></div><div><b>Requirements</b>:</div><div>Proficient in using a wide range of AI programming tools (e.g., ChatGPT, Copilot, Claude, etc.)</div><div>Strong interest in cutting-edge AI development and experimentation</div><div>Prior experience launching real applications through Vibe Code is a strong plus</div><div>Web3 experience is preferred (smart contracts, on-chain data, wallet integration, etc.)</div><div>Open to talented interns with fast learning capabilities and product thinking</div><div>Strong remote collaboration and communication skills</div><div><br></div><div><b>What You’ll Get</b>:</div><div>Hands-on development experience in top-tier Web3 projects</div><div>Work in an environment where AI-native development is the default</div><div>Real ownership: go from prototype to live app fast</div><div>Sharpen your skills in AI + Web3, with exposure to the frontier of both</div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/49538330?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -1944,30 +1968,6 @@ the services and core processes with the highest security principles and
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p style="min-height:1.5em">While LiveKit operates as an infrastructure company, we believe that every detail matters—from backend to frontend, from a single line of code to a single pixel. Design is not just how it looks, but how all the pieces work and fit together — from a developer landing on our homepage to connecting and interacting with our APIs for the first time.</p><p style="min-height:1.5em">We’re looking for a Product Designer to join our team. The ideal candidate has experience designing developer tools focused on observability and monitoring, and is excited about the future of realtime voice, video, and AI.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What you’ll do</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Collaborate with a cross functional team to design high quality end-to-end features that can ship quickly.</p></li><li><p style="min-height:1.5em">Generate insights from customer feedback and stakeholders to design best in class solutions to complex problems.</p></li><li><p style="min-height:1.5em">Design scalable, responsive, and accessible interfaces and interactions while contributing to our design system.</p></li><li><p style="min-height:1.5em">Continuously and proactively identify and prioritize areas of improvement in our products through a design lens.</p></li><li><p style="min-height:1.5em">Collaborate with other designers to level up design across all of LiveKit.</p></li><li><p style="min-height:1.5em">Make things ✨.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Who you are</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">8+ years of experience designing developer-centered or technical products.</p></li><li><p style="min-height:1.5em">Your portfolio showcases the design of complex products (such as developer tooling) with a high degree of craft and polish.</p></li><li><p style="min-height:1.5em">Collaborative spirit who enjoys working with developers, designers, and stakeholders from the start to finish of projects.</p></li><li><p style="min-height:1.5em">Ability to shape the vision for larger initiatives but can also scope design solutions for fast product iteration.</p></li><li><p style="min-height:1.5em">Strong grasp of responsive and accessible design principles, ensuring interfaces work well across devices and meet usability standards for all users.</p></li><li><p style="min-height:1.5em">Effective communicator with a strong design point of view while also being open and welcoming feedback from team members and stakeholders.</p></li><li><p style="min-height:1.5em">Proficiency with Figma + other tools that help you do your best work.</p></li><li><p style="min-height:1.5em">Experience designing for OSS, developer tooling, or similar fields.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Bonus</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Experience designing for highly visual and technical dashboards.</p></li><li><p style="min-height:1.5em">Familiarity with coding (HTML, CSS, JavaScript) and frameworks like React and Tailwind.</p></li></ul><p style="min-height:1.5em"></p><h2><strong>Our Commitments to You</strong></h2><h3><strong>We offer</strong></h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">An opportunity to build something truly impactful to the world</p></li><li><p style="min-height:1.5em">Competitive salary and equity package</p></li><li><p style="min-height:1.5em">Work anywhere in the world</p></li><li><p style="min-height:1.5em">Health, dental, and vision benefits</p></li><li><p style="min-height:1.5em">Flexible vacation policy</p></li></ul>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Livekit</h5>
-                    <h3>Developer Success Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.ashbyhq.com/livekit/cebe68cf-5a6b-470b-a036-560f35e70b5e" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h2>LiveKit Developer Success Engineering</h2><p style="min-height:1.5em">This isn’t one of those situations where we tack “engineer” onto the back of every role at LiveKit. No. We’re actually looking for an <em>engineer</em>*. A rare type of engineer that cares about talking to and advocating for customers, helping unblock them by fixing bugs or writing up sample code, and providing customers with guidance, pointers and support. We say <em>rare</em> because in our experience, most engineers aspire to architect large-scale systems or tackle deeply technical problems. Said differently, most engineers want to have influence over the <em>technology</em> they work on or with. There’s nothing wrong with that, we love hardcore engineers. There are many at LiveKit — we’re not complaining. But, this time, we’re looking for a new teammate that wants to have influence over our <em>product</em> and <em>business</em>. If you’d be energized by seeing a developer or team flip a LiveKit integration from staging to production—secretly satisfied in knowing you helped make it possible—you are perfect for this.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em">*For clarity, this role is compensated like any other engineering role.</p><p style="min-height:1.5em"></p><h3>As an Developer Success Engineer at LiveKit, you will:</h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Support and work directly with developers, teams, and companies building with LiveKit, both commercially and in the community.</p></li><li><p style="min-height:1.5em">Triage, file, and fix bugs, respond to support tickets, write sample and production-quality code, update documentation and author technical guides in service of customers.</p></li><li><p style="min-height:1.5em">Regularly meet or follow-up with LiveKit customers to ensure their continued success on the platform.</p></li><li><p style="min-height:1.5em">Collaborate closely with Sales and Partnerships teams on strategy and support them in customer conversations.</p></li></ul><p style="min-height:1.5em"></p><h2>About You</h2><h3>You'll thrive as an Developer Success Engineer if you:</h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">You are an engineer.</p></li><li><p style="min-height:1.5em">You don’t mind reading more code than you write.</p></li><li><p style="min-height:1.5em">You’re a natural teacher.</p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">You find joy in helping others learn and succeed.</p></li><li><p style="min-height:1.5em">You can break down complex concepts in a way that’s easily understood by others.</p></li></ul></li><li><p style="min-height:1.5em">You have excellent spoken and written English.</p></li><li><p style="min-height:1.5em">You enjoy learning new programming languages (quickly) and prototyping.</p></li></ul><h3><strong>Bonus Points</strong></h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">You’ve literally done this before.</p></li><li><p style="min-height:1.5em">You have experience working with a community of developers.</p></li><li><p style="min-height:1.5em">You have contributions to OSS.</p></li><li><p style="min-height:1.5em">You’ve built something with LiveKit.</p></li><li><p style="min-height:1.5em">In those school group projects, you did most of the work (:sigh:).</p></li><li><p style="min-height:1.5em">You’re multilingual — LiveKit has users around the world.</p></li></ul><p style="min-height:1.5em"></p><h2>Our Commitments to You</h2><h3>We offer:</h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">A competitive salary and equity package.</p></li><li><p style="min-height:1.5em">Health, dental, and vision benefits</p></li><li><p style="min-height:1.5em">Flexible vacations</p></li><li><p style="min-height:1.5em">Remote work environment with necessary equipment provided.</p></li></ul><p style="min-height:1.5em"></p><h3>Ready to Apply?</h3><p style="min-height:1.5em">If you're excited about driving the future of AI-native communications and want to make a significant impact at a high-growth company, we'd love to hear from you.</p>
                 </details>
                 </td>
             </tr>,<tr>
