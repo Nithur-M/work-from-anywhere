@@ -1,5 +1,137 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/2002798/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Growe - LinkedIn Postings</h5>
+                    <h3>Operation Project Manager</h3>
+                </td>
+                <td width="300">
+                    <code>accounting,excel,project management,research</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/project-management/operation-project-manager-2002798" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Growe is a leading business advisory and services group in iGaming and Entertainment. </strong>We are creators of strategies that work and solutions that scale. Combining strategic vision with hands-on expertise, we help businesses navigate the fast-evolving industry, seize new opportunities, enter new markets, and achieve sustainable growth.</p>
+<p><strong>Our expertise spans across key areas: </strong>from business and brand strategy development to market research, marketing solutions, IT customization, organizational structuring, and talent management. We partner with our clients to turn challenges into competitive advantages, ensuring successful market entries and long-term global expansion.</p>
+<p>At Growe, there are <strong>no limits to our ambitions!</strong> We boldly break stereotypes and strive for unparalleled achievements in an ever-changing industry.</p>
+<p><em>Are you ready to grow with us?</em></p>
+<div class="h5"><strong>Growe welcomes those who are excited to:</strong></div>
+<ul style="">
+<li style="">
+<p>Collaborate with affiliate team managers by organizing specific processes, maintaining documentation, and preparing reports;</p>
+</li>
+<li style="">
+<p>Process financial requests in 1C with high accuracy and within deadlines;</p>
+</li>
+<li style="">
+<p>Maintain records of related accounts, verify invoices, and monitor payments;</p>
+</li>
+<li style="">
+<p>Control, reconcile, and analyze affiliate partner commissions;</p>
+</li>
+<li style="">
+<p>Contribute to the preparation of financial reports and perform basic data analysis;</p>
+</li>
+<li style="">
+<p>Carry out tasks related to internal procedures and financial compliance requirements;</p>
+</li>
+<li style="">
+<p>Search for and gather information needed to support the affiliate team’s operations.</p>
+</li>
+</ul>
+<div class="h5"><strong>We need your professional experience:</strong></div>
+<ul style="">
+<li style="">
+<p>Bachelor’s degree in Finance, Accounting, or a related field;</p>
+</li>
+<li style="">
+<p>Hands-on experience or internship in finance or accounting;</p>
+</li>
+<li style="">
+<p>Proficiency in financial software (1C knowledge is a strong advantage);</p>
+</li>
+<li style="">
+<p>Experience working with Excel and preparing reports;</p>
+</li>
+<li style="">
+<p>Openness to frequent communication and cross-functional collaboration;</p>
+</li>
+<li style="">Ukrainian speaker.</li>
+</ul>
+<div class="h5"><strong>We appreciate if you have those personal features:</strong></div>
+<ul style="">
+<li style="">
+<p>Ability to work effectively under pressure;</p>
+</li>
+<li style="">
+<p>Strong attention to detail;</p>
+</li>
+<li style="">
+<p>Excellent communication skills.</p>
+</li>
+</ul>
+<div class="h5"><strong>We are seeking those who align with our core values:</strong></div>
+<ul style="">
+<li style="">
+<p>GROWE TOGETHER: Our team is our main asset. We work together and support each other to achieve our common goals;</p>
+</li>
+<li style="">
+<p>DRIVE RESULT OVER PROCESS: We set ambitious, clear, measurable goals in line with our strategy and driving Growe to success;</p>
+</li>
+<li style="">
+<p>BE READY FOR CHANGE: We see challenges as opportunities to grow and evolve. We adapt today to win tomorrow.</p>
+</li>
+</ul>
+<p><strong>What we offer:<br></strong></p>
+<ul style="">
+<li style="">Medical insurance &amp; financial aid;</li>
+<li style="">
+<p>Benefit Cafeteria (compensation for the gym/stomatology/psychological service &amp; etc.);</p>
+</li>
+<li style="">
+<p>100 % paid sick leaves;</p>
+</li>
+<li style="">
+<p>Paid vacation;</p>
+</li>
+<li style="">
+<p>Annual salary review (based on performance);</p>
+</li>
+<li style="">
+<p>Quarter bonuses according to the company's policy;</p>
+</li>
+<li style="">
+<p>Individual annual training budget which allows to visit paid conferences, training sessions, English lessons, workshops, etc.;</p>
+</li>
+<li style="">
+<p>Growe University (Leadership Programs, Knowledge sharing, Webinars, etc.);</p>
+</li>
+<li style="">
+<p>Personal development plan;</p>
+</li>
+<li style="">
+<p>Corporate events and team-building activities;</p>
+</li>
+<li style="">
+<p>Growe Care (Well-being Program);</p>
+</li>
+<li style="">
+<p>Free lunches at the office.</p>
+</li>
+</ul>
+<img src="https://remotive.com/job/track/2002798/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
