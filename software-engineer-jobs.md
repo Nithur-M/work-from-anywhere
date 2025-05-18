@@ -10,7 +10,7 @@
                     <code>C,C++,javascript,blockchain</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-c-1996157" align="right" target="_blank">Apply</a>
@@ -236,64 +236,6 @@ transitioning models from research to production environments.</p></li><li style
 &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;If you are interested in learning more, please email us at careers@bobtail.com.&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;Creating a diverse and inclusive workplace is Bobtail’s nucleus. We are an equal opportunity employer and embrace people of different backgrounds, cultures, religions, national origins, races, colors, genders, gender expressions, sexual orientations, ages, marital status, veteran status, experiences, abilities and perspectives.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>C++ Graphics and Windowing System Software Engineer - Mir</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/canonical/jobs/4439935" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;p&gt;We build a high-performance, high-efficiency stack for window managers and display subsystems in C++, called Mir. We&#39;re growing the team and looking for new colleagues who share our passion for precision, performance and user experience.&lt;/p&gt;
-&lt;p&gt;Our goal is to enable the whole spectrum of graphics from single-purpose screens through edge devices to full desktop environments. We focus on developers who are building window compositing systems or device graphics experience, and aim to give them an amazing developer experience, security, and easy access to today&#39;s most used graphics toolkits and libraries.&lt;/p&gt;
-&lt;p&gt;We work on Mir and solutions built on it like Ubuntu Frame, and we also set the pace for graphics enablement across the Ubuntu certified hardware ecosystem. Our daily drill includes design, development and testing of features in those pieces of software as well as responding to issues and user inquiries. Most of the software is written in C++, with support tooling in scripting languages. We&#39;re also considering Rust or Carbon as evolutionary steps forward.&lt;/p&gt;
-&lt;p&gt;This is an excellent opportunity for someone who wants to have a meaningful impact on modern display technologies that will impact millions of developers. Canonical offers a fast-paced team environment and a career full of learning and development opportunities across the open source spectrum.&lt;/p&gt;
-&lt;h3&gt;What you will do&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Design and implement features across the Mir stack&lt;/li&gt;
-&lt;li&gt;Assist in debugging, tracking down and fixing issues&lt;/li&gt;
-&lt;li&gt;Improve tests and performance benchmarks to catch issues early&lt;/li&gt;
-&lt;li&gt;Create documentation to enhance the developer experience&lt;/li&gt;
-&lt;li&gt;Engage with the open source community and commercial partners&lt;/li&gt;
-&lt;li&gt;Collaborate proactively with a distributed team&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Required skills and experience&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;You have excellent, modern C++ programming taste&lt;/li&gt;
-&lt;li&gt;You have a rigorous approach to software design, development and testing&lt;/li&gt;
-&lt;li&gt;You have a solid understanding of asynchronous programming and concurrency patterns&lt;/li&gt;
-&lt;li&gt;You have strong written and verbal communication skills to document and present software developed&lt;/li&gt;
-&lt;li&gt;You are productive collaborating remotely and are highly motivated and organized&lt;/li&gt;
-&lt;li&gt;You are familiar with Linux as a development and deployment platform&lt;/li&gt;
-&lt;li&gt;You have proven ability to consistently deliver robust code to production&lt;/li&gt;
-&lt;li&gt;Bachelor’s or equivalent in Computer Science, STEM or similar degree&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Desirable skills and experience&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Experience with the Wayland protocol ecosystem and compositors&lt;/li&gt;
-&lt;li&gt;Familiarity with a range of Linux Desktop Environments&lt;/li&gt;
-&lt;li&gt;Familiarity with OpenGL, Vulkan, and other graphics and animation frameworks&lt;/li&gt;
-&lt;li&gt;You have experience developing and deploying on a Ubuntu/Debian system&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;What is Canonical?&lt;/h3&gt;
-&lt;p&gt;Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, “the world’s best free software platform”. Our services help businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your&lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt; identity&lt;/a&gt;, we will give your application fair consideration.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;#LI-Remote&amp;nbsp;&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
