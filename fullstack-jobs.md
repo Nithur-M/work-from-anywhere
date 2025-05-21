@@ -78,6 +78,71 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/11767950?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Senior Full Stack Engineer | Web3</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://status.app/jobs?gh_jid=6899709" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;About Status&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of Apps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol, the p2p communication layer for Web3.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As a team, Status has been completely distributed since inception. Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization&#39;s priorities.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;We are looking for an experienced JavaScript developer to join our Web team, who will take ownership of certain web-related areas at Status, including a web browser crypto wallet. Your role will include working on our crypto wallet and other other Status web assets while collaborating with colleagues across the stack (QA, other developers, ui/ux, product, etc.) to deliver great features to our users.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Our stack is built on modern foundations – a monorepo powered by TypeScript, React, Storybook, Vite, Vitest, Playwright, ESLint, Prettier, pnpm, and Turborepo. As we work in the open and are fully open-source, you can get a better idea of who we are and the work we are doing by browsing our &lt;a href=&quot;https://github.com/status-im/status-web&quot;&gt;Status Web&lt;/a&gt; repository. We strive to build solid foundations that will enable us to continuously make progress and provide composable and extensible solutions. We don&#39;t expect you to have a background in everything we use, but we do expect strong JavaScript fundamentals and experience working with React, TypeScript, and crypto web browser wallets.&lt;/p&gt;
+&lt;p&gt;We function as generalists, often undertaking a variety of challenges, and deeply care about the quality of our work. We look forward to collaborating with experienced individuals who can operate independently, make important decisions, and take ownership. The ideal candidate is comfortable working in European (or nearby) time zones, along with the majority of the existing team, but we welcome applications from other regions as well.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key responsibilities:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Building secure, robust, and well-cached APIs&lt;/li&gt;
+&lt;li&gt;Cost-effective calling of RPC and node provider APIs&lt;/li&gt;
+&lt;li&gt;Working with various browser storage solutions&lt;/li&gt;
+&lt;li&gt;Integrating libraries to create, sign, and decode transactions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Building and maintaining the new React implementation of Status’ design system&lt;/li&gt;
+&lt;li&gt;Collaborating with other people across the teams (QA, other developers, ui/ux, product, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;You ideally will have:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Clear and effective communication skills, both verbally and written&lt;/li&gt;
+&lt;li&gt;Thoughtful and pragmatic problem-solving&lt;/li&gt;
+&lt;li&gt;5+ years of software engineering experience, with 3+ years of experience with React&lt;/li&gt;
+&lt;li&gt;Experience writing modern, performant, and accessible React code&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Strong knowledge of JavaScript, and ideally TypeScript&lt;/li&gt;
+&lt;li&gt;Experience with UTXOs, derivation paths, ordinals, and consolidations&lt;/li&gt;
+&lt;li&gt;Experience with integrating hardware crypto wallets (Ledger, Trezor, QR-code crypto wallets, etc.) into a web browser wallet&lt;/li&gt;
+&lt;li&gt;Prior experience working for an open source organisation / contributing to OS projects&lt;/li&gt;
+&lt;li&gt;Comfortable working in (and experience of) start-up environments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Hiring process:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Call with our Talent Team&lt;/li&gt;
+&lt;li&gt;Technical interview (a Q&amp;amp;A tech interview)&lt;/li&gt;
+&lt;li&gt;Live coding interview&lt;/li&gt;
+&lt;li&gt;Interview with Design Team&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Compensation:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The expected compensation range for this role is negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto.&lt;/p&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1346314882648444928/c0g2OpD7_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
