@@ -1,5 +1,115 @@
 <div align="center"><h2>DATA SCIENCE JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/2011185/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>IspeedToLead</h5>
+                    <h3>Data Science Expert</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,business intelligence,cloud,data science</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/data-science-expert-2011185" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Now we’re looking for a <strong>Data Science Expert</strong> who’s not just great with numbers, but hungry to build real things - models, insights, and features - that go live and make a measurable difference.</p>
+<p> </p>
+<p><strong> What You’ll Be Doing:</strong></p>
+<p> </p>
+<ul style="">
+<li style="">
+<p>Own the design and development of <strong>machine learning models</strong>, <strong>forecasting systems</strong>, and <strong>lead scoring algorithms</strong></p>
+</li>
+<li style="">
+<p>Turn messy, high-volume data into <strong>clear business signals and predictive insights</strong></p>
+</li>
+<li style="">
+<p>Work cross-functionally with product, engineering, and growth to embed models into the product and decision-making</p>
+</li>
+<li style="">
+<p>Research and prototype data-driven features like NLP, recommender systems, churn prediction, etc.</p>
+</li>
+<li style="">
+<p>Shape the future of our <strong>data science strategy</strong> and help define scalable best practices<br> </p>
+</li>
+</ul>
+<p><strong> What Makes You a Strong Fit:</strong></p>
+<p> </p>
+<ul style="">
+<li style="">
+<p>5+ years of experience in <strong>data science / ML / analytics</strong> roles</p>
+</li>
+<li style="">
+<p>Expert in <strong>Python</strong>, <strong>Pandas</strong>, <strong>scikit-learn</strong>, and SQL</p>
+</li>
+<li style="">
+<p>Experience building and deploying ML models into production environments</p>
+</li>
+<li style="">
+<p>Strong product mindset - you're not just building models, you're solving real business problems</p>
+</li>
+<li style="">
+<p>Excellent communicator - able to collaborate across technical and non-technical teams</p>
+</li>
+<li style="">
+<p><strong>English level: С1</strong> (you can comfortably read documentation, join team calls, and communicate in writing)</p>
+</li>
+</ul>
+<p> </p>
+<p><strong>Bonus if you have:</strong><br> </p>
+<ul style="">
+<li style="">
+<p>Experience working in a <strong>startup</strong> or <strong>product-led tech company</strong></p>
+</li>
+<li style="">
+<p>Background in <strong>real estate</strong>, <strong>SaaS</strong>, or <strong>growth-focused</strong> environments</p>
+</li>
+<li style="">
+<p>Exposure to cloud platforms (GCP, AWS), ML Ops tools, or business intelligence systems</p>
+<p> </p>
+<p><strong> Why You’ll Love It Here:</strong></p>
+<p> </p>
+</li>
+<li style="">
+<p>You’ll work at the <strong>core of a product-led, AI-powered startup</strong> where data drives every decision</p>
+</li>
+<li style="">
+<p>Your work will ship - fast - and impact thousands of users</p>
+</li>
+<li style="">
+<p>High autonomy, low bureaucracy: we trust you to own your domain</p>
+</li>
+<li style="">
+<p>Remote-first culture with flexible hours and async-friendly communication</p>
+</li>
+<li style="">
+<p>Salary (fixed base) ABOVE the market average.</p>
+</li>
+<li style="">
+<p>A smart, passionate team that moves fast, supports each other, and builds cool stuff</p>
+</li>
+<li style="">
+<p> 15 paid vacation days + 5 paid sick days annually.</p>
+</li>
+<li style="">
+<p> Paid access to courses, books, and growth resources.</p>
+</li>
+<li style="">
+<p> Real decision-making power and ownership of your results.</p>
+</li>
+</ul>
+<img src="https://remotive.com/job/track/2011185/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/2e1a369c-b58f-41ac-8d86-4b0a77695e68-1687915522032.png" width="38px" height="auto">
                 </td>
                 <td width="300">
