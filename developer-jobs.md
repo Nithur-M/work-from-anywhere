@@ -1,94 +1,5 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/2008859/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Gr8tech</h5>
-                    <h3>Middle .Net Developer for CRM Team</h3>
-                </td>
-                <td width="300">
-                    <code>.Net,api,C,C#</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/middle-net-developer-for-crm-team-2008859" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class='"content-intro"'><p><strong>GR8 Tech is a global product company that provides innovative, scalable platforms and business solutions for the iGaming industry.</strong></p>
-<p>We have а great experience: GR8 Tech platform successfully handles millions of active players and offers best practices to develop and grow in the gambling industry. We are here to provide great gaming tech to satisfy even greater ambition!</p>
-<p>We develop complete tech coverage for gambling businesses worldwide, including iGaming platform solutions, consulting, integration, and long-lasting operation services.</p>
-<p><strong>We are driven by our ambition to make a great product with great people! Together we move the world of iGaming forward — join!</strong></p></div><div class="h2"><strong>About your key responsibilities and impact:</strong></div>
-<ul style="">
-<li style="">Designing, developing, and maintaining .NET applications, ensuring high-quality software solutions;</li>
-<li style="">Working independently or in a team, adhering to coding standards and best practices;</li>
-<li style="">Mentoring junior developers and participating in technical discussions;</li>
-<li style="">Improving software development processes and ensuring system resilience;</li>
-<li style="">Eliciting, analyzing, and documenting software requirements from stakeholders;</li>
-<li style="">Implementing observability and monitoring through logging and instrumentation.</li>
-</ul>
-<div class="h2"><strong>Essential professional experience:</strong></div>
-<p><strong>System Analysis and Design:</strong></p>
-<ul style="">
-<li style="">Understanding microservice and monolith architectures, their advantages, and drawbacks;</li>
-<li style="">Ability to design event-driven systems and resilient architectures;</li>
-<li style="">Familiarity with architectural patterns, resilience strategies, and designing for failure;</li>
-<li style="">Strong analytical skills in gathering and documenting software requirements;</li>
-<li style="">Understanding of functional and non-functional requirements;</li>
-<li style="">Knowledge of connection pooling, rate-limiter, circuit breaker, and bulkhead patterns.</li>
-</ul>
-<p><strong>Database Management:</strong></p>
-<ul style="">
-<li style="">Understanding relational and non-relational databases (key-value and object-oriented);</li>
-<li style="">Proficiency in writing SQL queries and designing relational database models;</li>
-<li style="">Knowledge of normalization/de-normalization strategies and primary/foreign key relationships;</li>
-<li style="">Familiarity with database security best practices (access controls, encryption, SQL injection prevention).</li>
-</ul>
-<p><strong>Hard Skills:</strong></p>
-<ul style="">
-<li style="">C# Programming: Strong knowledge of object-oriented design, LINQ, asynchronous programming, dependency injection, and .NET framework libraries;</li>
-<li style="">Web API Development: Proficiency in ASP.NET Core for architecting scalable RESTful services, performance optimization, and cloud integrations;</li>
-<li style="">Database Expertise: Advanced SQL optimization, schema design, performance tuning, indexing strategies, and PostgreSQL;</li>
-<li style="">Message Brokers: Experience with Kafka, including architecture, producer/consumer APIs, and stream processing in microservices;</li>
-<li style="">Debugging &amp; Optimization: Advanced skills in profiling, identifying, and resolving performance bottlenecks;</li>
-<li style="">Unit Testing &amp; TDD: Experience with xUnit and test-driven development to ensure code quality;</li>
-<li style="">Microservices Architecture: Proficiency in ASP.NET Core, Docker, Kubernetes, and applying patterns like service discovery, circuit breakers, event sourcing, and CQRS;</li>
-<li style="">Observability &amp; Monitoring: Implementing logging, instrumentation, and monitoring tools like Serilog for system health and troubleshooting.</li>
-</ul><div class='"content-conclusion"'><p> </p>
-<div class="h2"><strong>What we offer:</strong></div>
-<p><strong>Benefits Cafeteria:</strong></p>
-<ul style="">
-<li style="">Sports compensation;</li>
-<li style="">Medical coverage;</li>
-<li style="">Psychological support;</li>
-<li style="">Home-office coverage.</li>
-</ul>
-<p><strong>Work-life:</strong></p>
-<ul style="">
-<li style="">Remote work, Coworking compensation;</li>
-<li style="">Childcare budget;</li>
-<li style="">Maternity leave;</li>
-<li style="">Paternity leave;</li>
-<li style="">Additional 2 days for family events.</li>
-</ul>
-<p><strong>Our GR8 Culture:</strong></p>
-<ul style="">
-<li style="">Open feedback and transparent direct communications;</li>
-<li style="">Growth and development: better every day;</li>
-<li style="">High tolerance to experiment and mistakes;</li>
-<li style="">Supportive friendly environment.</li>
-</ul>
-<p> </p>
-<p> </p>
-<p>Data Protection Information regarding the processing of your personal data in connection with the recruitment and selection process can be found in the Candidate Privacy Notice at <a class='"c-link"' href="%22https://gr8.tech/candidate-privacy-notice/%22" rel="nofollow" target='"_blank"'>https://gr8.tech/candidate-privacy-notice/</a>.</p></div><img src="https://remotive.com/job/track/2008859/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/2009574/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -99,7 +10,7 @@
                     <code>CSS,docker,frontend,graphql</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-2009574" align="right" target="_blank">Apply</a>
@@ -158,7 +69,7 @@
                     <code>backend,C++,javascript,mongoDB</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-developer-node-js-1984510" align="right" target="_blank">Apply</a>
@@ -231,7 +142,7 @@ the services and core processes with the highest security principles and
                     <code>ecommerce,go,shopify,UI/UX</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/no-code-developer-1997615" align="right" target="_blank">Apply</a>
