@@ -711,7 +711,7 @@
 &lt;p&gt;Alpaca is a US California headquartered brokerage infrastructure technology company and self-clearing broker-dealer, delivering execution and custody solutions for Stocks, ETFs, Options, Cryptocurrencies, and more, and has raised over $170 million in funding. Amongst our subsidiaries, Alpaca is a licensed financial services company in multiple countries, and we serve hundreds of financial institutions globally such as broker-dealers, investment advisors, hedge funds, and crypto exchanges.&lt;/p&gt;
 &lt;p&gt;Alpaca’s globally distributed team members bring in diverse experiences such as engineers, traders, and brokerage professionals to achieve our Mission of opening financial services to everyone on the planet. We are also deeply committed to open-source contributions and fostering a vibrant community. We will continue to enhance and improve our award-winning developer-friendly API and the infrastructure behind it.&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Our Team Members:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;We’re a team of 150+ globally distributed members who love working from our favorite places worldwide. Our team spans the USA, Canada, Japan, Hungary, Nigeria, Brazil, the United Kingdom, and more!&lt;/p&gt;
+&lt;p&gt;We’re a team of 200+ globally distributed members who love working from our favorite places worldwide. Our team spans the USA, Canada, Japan, Hungary, Nigeria, Brazil, the United Kingdom, and more!&lt;/p&gt;
 &lt;p&gt;We’re looking for candidates eager to join Alpaca’s growing organization, who are excited about our Mission of “Open financial services to everyone on the planet and share our Values of “Stay Curious,” “Have Empathy,” and “Be Accountable.”&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;/div&gt;
@@ -753,10 +753,9 @@
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;How We Take Care of You:&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive Salary &amp;amp; Stock Options&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Benefits: Health benefits start on day 1. In the US this includes Medical, Dental, Vision. In Canada, this includes supplemental health care. In Japan, you are offered local benefits. Internationally, this includes a stipend value to offset medical costs.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;Health Benefits&lt;/li&gt;
 &lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;New Hire Home-Office Setup: One-time USD $500&lt;/span&gt;&lt;/li&gt;
 &lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Monthly Stipend: USD $150 per month via a Brex Card&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with awesome hard working people, super smart and cool clients and innovative partners from around the world&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Alpaca is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;a href=&quot;https://files.alpaca.markets/disclosures/AlpacaRecruitmentPrivacyPolicy.pdf&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recruitment Privacy Policy&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
