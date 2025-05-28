@@ -10,7 +10,7 @@
                     <code>C,C++,javascript,blockchain</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-c-1996157" align="right" target="_blank">Apply</a>
@@ -66,127 +66,6 @@ both technological advancement and broad accessibility.</p><p><br></p><p><strong
  closely with researchers to assist in coding, training and 
 transitioning models from research to production environments.</p></li><li style=""><p>Integrate AI features into existing products, enriching them with the latest advancements in machine learning.</p></li></ul><p class="h2"><br></p><p class="h2">Job requirements</p><ul style=""><li style=""><p><strong>5+ years of experience</strong> working with C and C++.</p></li><li style=""><p>Experience working in low level OS / Systems / Kernel development.</p></li><li style=""><p>Experience in low level networking.</p></li><li style=""><p>Knowledge of other languages such as Rust and Javascript is a nice to have.</p></li><li style=""><p>Demonstrated ability to rapidly assimilate new technologies and techniques.</p></li><li style=""><p>A degree in Computer Science complemented by a solid track record in development.</p></li></ul>
 <img src="https://remotive.com/job/track/1996157/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/10557747?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Kit</h5>
-                    <h3>Senior Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/kit/jobs/4742271007" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;h4&gt;Description&lt;/h4&gt;
-&lt;div&gt;
-&lt;p&gt;&lt;a href=&quot;https://kit.com/&quot;&gt;Kit &lt;/a&gt;is an email-first operating system for creators who mean business. We help creators grow and monetize their audience with ease. For coaches, YouTubers, authors, podcasters, and other creatives, there isn&#39;t a better marketing hub to rely on to grow audiences, automate email marketing, and sell digital products — all within one platform. More importantly, there isn&#39;t a team more committed to helping creators earn a living.&lt;/p&gt;
-&lt;p&gt;We&#39;re on a mission to help creators earn $1 billion using our creator marketing platform. We have always been 100% independent and 100% remote. We are proud to have built a product that our customers love, and we look for people who have enthusiasm and belief in our mission, vision, and values to join our team.&lt;/p&gt;
-&lt;p&gt;We&#39;re also embracing AI thoughtfully — both in how we build and how we hire to ensure our team is adaptable, innovative, and ready for what&#39;s next.&lt;/p&gt;
-&lt;p&gt;The Kit culture is one where emotional intelligence is valued, radical candor is encouraged, and where everyone works together to uphold a set of shared team principles.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;⏰&amp;nbsp;The deadline to apply is 11:59 PM Pacific Time on Monday, June 9th.&lt;/strong&gt;&lt;/h4&gt;
-&lt;h4&gt;&lt;strong&gt;The role&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;We’re looking for a &lt;strong&gt;Senior Software Engineer II&lt;/strong&gt; to build Kit’s core publishing platform and creator growth experiences.&lt;/p&gt;
-&lt;p&gt;You will be joining the Builders team, which builds the suite of publishing tools creators use to create emails, landing pages, and newsletters. Our team is responsible for creators&#39; first experiences in the app, from onboarding, to activation, and conversion. And we steward Kit’s core application experience and component library.&lt;/p&gt;
-&lt;p&gt;This is a hands-on role for a product-minded engineer who thrives collaborating with Product and Design to craft beautiful and impactful user experiences. You’re a technical leader who can architect extensible systems end-to-end across the stack, with particular strength on the frontend.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p style=&quot;line-height: 1;&quot;&gt;&lt;strong&gt;Your support system&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;You&#39;ll report to the &lt;strong&gt;Engineering Manager&lt;/strong&gt; who leads the Builders team, a cross-functional product team at Kit. You&#39;ll collaborate closely with a &lt;strong&gt;Product Manager, Product Designer, Quality Assurance Engineer, and peer Software Engineers&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;You’ll also have access to a group of Engineers across Kit for support and mentorship, and will start with a peer onboarding buddy who will help you navigate our systems and codebase.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;To learn more about how our engineering team works, you can peruse &lt;a href=&quot;https://engineering.kit.com/&quot;&gt;our engineering blog&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h3&gt;What you’ll do&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;First Week:&lt;/strong&gt; Dive into our codebase and publishing platform architecture. Set up your local environment and merge your first production code. Take part in Get To Know You&#39;s to meet our distributed team.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;First Month:&lt;/strong&gt; Work through your personal onboarding plan. Begin understanding how our publishing tools support creators from onboarding to conversion, and identify opportunities for improvement. Join team activities for planning, building, and measuring the experiences we ship to creators. Actively participate in code reviews, and contribute PRs weekly.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;First Six Months:&lt;/strong&gt; Lead and architect at least one major feature from ambiguous idea to launch. Transform our legacy codebase through strategic refactoring while applying systems thinking to enhance scalability and maintainability. Ensure service reliability by participating in on-call rotations. Present at least one Lunch &amp;amp; Learn session. Actively mentor peers, and champion quality across our codebase.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;What will S.E.T. you up for success&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Deep expertise developing high-craft web applications, with a strong background in React&lt;/li&gt;
-&lt;li&gt;Experience with Ruby on Rails (preferred). Or experience with other backend frameworks and languages, with willingness to learn and master Ruby on Rails&lt;/li&gt;
-&lt;li&gt;Ability to architect systems that are well-designed, scalable, accessible, and easy to maintain&lt;/li&gt;
-&lt;li&gt;Ability to prioritize user outcomes and business impact in your technical solutions&lt;/li&gt;
-&lt;li&gt;Clear and concise communication skills, tailoring messages to the audience and driving clarity across teams&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Experiences&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Building complex web components, such as visual canvases or rich text editors&lt;/li&gt;
-&lt;li&gt;Solving ambiguous problems and owning complex technical projects with demonstrated impact on a business&lt;/li&gt;
-&lt;li&gt;Developing strong cross-functional partnerships, especially with Product and Design&lt;/li&gt;
-&lt;li&gt;Working across a legacy codebase and evolving it safely through migrations and system refactors&lt;/li&gt;
-&lt;li&gt;Leading technical projects from ambiguous ideation to launch and iteration beyond&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Traits&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;High agency and ability to work independently while collaborating closely with teammates&lt;/li&gt;
-&lt;li&gt;Adaptability within dynamic and ambiguous environments, with proactive ownership of problems&lt;/li&gt;
-&lt;li&gt;Interest in AI and eagerness to experiment with the evolving landscape to make our work more efficient and effective&lt;/li&gt;
-&lt;li&gt;Openness to direct feedback and continuous improvement, with ability to deliver feedback to others with empathy&lt;/li&gt;
-&lt;li&gt;Active listening skills with an emphasis on teamwork in leadership and mentoring&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Nice to Haves&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Experience writing email-safe HTML and CSS&lt;/li&gt;
-&lt;li&gt;Proficiency with frontend bundling and development tools&lt;/li&gt;
-&lt;li&gt;Experience shipping user-facing AI features&lt;/li&gt;
-&lt;li&gt;Background in creator economy or publishing platforms&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Working hours and location:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;We&#39;re 100% remote with team members across the globe. The core collaboration hours for this team are 10:45am to 2pm Eastern Time. We promote flexible work outside these core hours.&lt;/p&gt;
-&lt;h4&gt;&lt;strong&gt;Compensation + perks + benefits&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;Kit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 4 ($181,000), out of five levels. Level is determined based on experience and our interview process.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Perks + benefits include:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;
-&lt;div&gt;&lt;a class=&quot;c-link&quot; href=&quot;https://www.linkedin.com/posts/nathanbarry_convertkit-compensation-model-activity-6991414959247147008-i9V3/?utm_source=share&amp;amp;utm_medium=member_desktop&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.linkedin.com/posts/nathanbarry_convertkit-compensation-model-activity-6991414959247147008-i9V3/?utm_source=share&amp;amp;utm_medium=member_desktop&quot; data-sk=&quot;tooltip_parent&quot;&gt;Profit Sharing&lt;/a&gt;&lt;/div&gt;
-&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Kit equity&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;401k with a 5% match&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Monthly medical benefits up to $1,950 a month toward premiums. Dental and vision premiums covered 100%&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;$4,000 equipment allowance for your first two years, $3,000 budget every following two years&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Individual learning + development budget ($3,500/year)&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Gender affirming benefits&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Childcare benefit up to $3,000 annually&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Twenty (20) days of paid time off during each year of employment&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Paid paid vacation: An after-tax bonus of $1,000 for taking five consecutive days of vacation where you’re fully unplugged from work&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Ten (10) paid holidays a year&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Two weeks of paid sick time each year, including mental health + well being days&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Twelve (12) weeks paid parental leave and flexible scheduling in your child’s first year&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Up to six weeks of paid bereavement leave, medical leave, and disaster after six months of employment, two weeks of each paid leave in your first six months&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Winter Break Closure: Kit closes for a week at the end of December, giving everyone a collective break to enjoy the holiday season.&amp;nbsp;&lt;em data-stringify-type=&quot;italic&quot;&gt;Essential support services remain available, with teams coordinating to ensure coverage during this period&lt;/em&gt;&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Four-week, paid sabbatical after five years with the team&lt;/li&gt;
-&lt;li&gt;Fantastic in-person or virtual retreats with the team twice a year&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;We know that most people hate interviewing (we relate!). We aim to make it as good of an experience as we can, and part of that includes keeping you informed during the process.&lt;/p&gt;
-&lt;p&gt;Here’s what you can expect from the process:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;30 min - Recruiter screen&lt;/li&gt;
-&lt;li&gt;45 min - Hiring manager screen&lt;/li&gt;
-&lt;li&gt;Take-home technical assessment&lt;/li&gt;
-&lt;li&gt;60 min - Technical interview&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;60 min - Leadership &amp;amp; execution interview&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;To get started, complete this application, including answers to the questions on the next page.&lt;strong&gt; We read every single application, and your responses to our application questions help put your experience into context. &lt;/strong&gt;We’ll keep you informed through every step&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Kit is an equal opportunity employer. We value diversity in all of its forms, and we hire the best person we can for each role, no matter your personal background. Research tells us that applicants who are female or non-binary, as well as applicants who are people of color, are less likely to apply for roles they do not feel 100% qualified for. If you think you meet more than 50% of our requirements but fewer than 100% of them, please apply. We’re imperfect communicators, so think of our job postings as the starting point for discussion rather than proof that you shouldn’t apply.&lt;/p&gt;
-&lt;p&gt;Kit does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
@@ -326,6 +205,127 @@ transitioning models from research to production environments.</p></li><li style
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://job-boards.greenhouse.io/kit/jobs/4742274007" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h4&gt;Description&lt;/h4&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;a href=&quot;https://kit.com/&quot;&gt;Kit &lt;/a&gt;is an email-first operating system for creators who mean business. We help creators grow and monetize their audience with ease. For coaches, YouTubers, authors, podcasters, and other creatives, there isn&#39;t a better marketing hub to rely on to grow audiences, automate email marketing, and sell digital products — all within one platform. More importantly, there isn&#39;t a team more committed to helping creators earn a living.&lt;/p&gt;
+&lt;p&gt;We&#39;re on a mission to help creators earn $1 billion using our creator marketing platform. We have always been 100% independent and 100% remote. We are proud to have built a product that our customers love, and we look for people who have enthusiasm and belief in our mission, vision, and values to join our team.&lt;/p&gt;
+&lt;p&gt;We&#39;re also embracing AI thoughtfully — both in how we build and how we hire to ensure our team is adaptable, innovative, and ready for what&#39;s next.&lt;/p&gt;
+&lt;p&gt;The Kit culture is one where emotional intelligence is valued, radical candor is encouraged, and where everyone works together to uphold a set of shared team principles.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;⏰&amp;nbsp;The deadline to apply is 11:59 PM Pacific Time on Monday, June 9th.&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;strong&gt;The role&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;We’re looking for a &lt;strong&gt;Senior Software Engineer II&lt;/strong&gt; to build Kit’s core publishing platform and creator growth experiences.&lt;/p&gt;
+&lt;p&gt;You will be joining the Builders team, which builds the suite of publishing tools creators use to create emails, landing pages, and newsletters. Our team is responsible for creators&#39; first experiences in the app, from onboarding, to activation, and conversion. And we steward Kit’s core application experience and component library.&lt;/p&gt;
+&lt;p&gt;This is a hands-on role for a product-minded engineer who thrives collaborating with Product and Design to craft beautiful and impactful user experiences. You’re a technical leader who can architect extensible systems end-to-end across the stack, with particular strength on the frontend.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;line-height: 1;&quot;&gt;&lt;strong&gt;Your support system&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You&#39;ll report to the &lt;strong&gt;Engineering Manager&lt;/strong&gt; who leads the Builders team, a cross-functional product team at Kit. You&#39;ll collaborate closely with a &lt;strong&gt;Product Manager, Product Designer, Quality Assurance Engineer, and peer Software Engineers&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;You’ll also have access to a group of Engineers across Kit for support and mentorship, and will start with a peer onboarding buddy who will help you navigate our systems and codebase.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;To learn more about how our engineering team works, you can peruse &lt;a href=&quot;https://engineering.kit.com/&quot;&gt;our engineering blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;What you’ll do&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;First Week:&lt;/strong&gt; Dive into our codebase and publishing platform architecture. Set up your local environment and merge your first production code. Take part in Get To Know You&#39;s to meet our distributed team.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;First Month:&lt;/strong&gt; Work through your personal onboarding plan. Begin understanding how our publishing tools support creators from onboarding to conversion, and identify opportunities for improvement. Join team activities for planning, building, and measuring the experiences we ship to creators. Actively participate in code reviews, and contribute PRs weekly.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;First Six Months:&lt;/strong&gt; Lead and architect at least one major feature from ambiguous idea to launch. Transform our legacy codebase through strategic refactoring while applying systems thinking to enhance scalability and maintainability. Ensure service reliability by participating in on-call rotations. Present at least one Lunch &amp;amp; Learn session. Actively mentor peers, and champion quality across our codebase.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;What will S.E.T. you up for success&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deep expertise developing high-craft web applications, with a strong background in React&lt;/li&gt;
+&lt;li&gt;Experience with Ruby on Rails (preferred). Or experience with other backend frameworks and languages, with willingness to learn and master Ruby on Rails&lt;/li&gt;
+&lt;li&gt;Ability to architect systems that are well-designed, scalable, accessible, and easy to maintain&lt;/li&gt;
+&lt;li&gt;Ability to prioritize user outcomes and business impact in your technical solutions&lt;/li&gt;
+&lt;li&gt;Clear and concise communication skills, tailoring messages to the audience and driving clarity across teams&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Experiences&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Building complex web components, such as visual canvases or rich text editors&lt;/li&gt;
+&lt;li&gt;Solving ambiguous problems and owning complex technical projects with demonstrated impact on a business&lt;/li&gt;
+&lt;li&gt;Developing strong cross-functional partnerships, especially with Product and Design&lt;/li&gt;
+&lt;li&gt;Working across a legacy codebase and evolving it safely through migrations and system refactors&lt;/li&gt;
+&lt;li&gt;Leading technical projects from ambiguous ideation to launch and iteration beyond&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Traits&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;High agency and ability to work independently while collaborating closely with teammates&lt;/li&gt;
+&lt;li&gt;Adaptability within dynamic and ambiguous environments, with proactive ownership of problems&lt;/li&gt;
+&lt;li&gt;Interest in AI and eagerness to experiment with the evolving landscape to make our work more efficient and effective&lt;/li&gt;
+&lt;li&gt;Openness to direct feedback and continuous improvement, with ability to deliver feedback to others with empathy&lt;/li&gt;
+&lt;li&gt;Active listening skills with an emphasis on teamwork in leadership and mentoring&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nice to Haves&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience writing email-safe HTML and CSS&lt;/li&gt;
+&lt;li&gt;Proficiency with frontend bundling and development tools&lt;/li&gt;
+&lt;li&gt;Experience shipping user-facing AI features&lt;/li&gt;
+&lt;li&gt;Background in creator economy or publishing platforms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Working hours and location:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We&#39;re 100% remote with team members across the globe. The core collaboration hours for this team are 10:45am to 2pm Eastern Time. We promote flexible work outside these core hours.&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;Compensation + perks + benefits&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Kit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 4 ($181,000), out of five levels. Level is determined based on experience and our interview process.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Perks + benefits include:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;
+&lt;div&gt;&lt;a class=&quot;c-link&quot; href=&quot;https://www.linkedin.com/posts/nathanbarry_convertkit-compensation-model-activity-6991414959247147008-i9V3/?utm_source=share&amp;amp;utm_medium=member_desktop&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.linkedin.com/posts/nathanbarry_convertkit-compensation-model-activity-6991414959247147008-i9V3/?utm_source=share&amp;amp;utm_medium=member_desktop&quot; data-sk=&quot;tooltip_parent&quot;&gt;Profit Sharing&lt;/a&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Kit equity&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;401k with a 5% match&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Monthly medical benefits up to $1,950 a month toward premiums. Dental and vision premiums covered 100%&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;$4,000 equipment allowance for your first two years, $3,000 budget every following two years&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Individual learning + development budget ($3,500/year)&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Gender affirming benefits&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Childcare benefit up to $3,000 annually&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Twenty (20) days of paid time off during each year of employment&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Paid paid vacation: An after-tax bonus of $1,000 for taking five consecutive days of vacation where you’re fully unplugged from work&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Ten (10) paid holidays a year&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Two weeks of paid sick time each year, including mental health + well being days&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Twelve (12) weeks paid parental leave and flexible scheduling in your child’s first year&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Up to six weeks of paid bereavement leave, medical leave, and disaster after six months of employment, two weeks of each paid leave in your first six months&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Winter Break Closure: Kit closes for a week at the end of December, giving everyone a collective break to enjoy the holiday season.&amp;nbsp;&lt;em data-stringify-type=&quot;italic&quot;&gt;Essential support services remain available, with teams coordinating to ensure coverage during this period&lt;/em&gt;&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Four-week, paid sabbatical after five years with the team&lt;/li&gt;
+&lt;li&gt;Fantastic in-person or virtual retreats with the team twice a year&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;We know that most people hate interviewing (we relate!). We aim to make it as good of an experience as we can, and part of that includes keeping you informed during the process.&lt;/p&gt;
+&lt;p&gt;Here’s what you can expect from the process:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;30 min - Recruiter screen&lt;/li&gt;
+&lt;li&gt;45 min - Hiring manager screen&lt;/li&gt;
+&lt;li&gt;Take-home technical assessment&lt;/li&gt;
+&lt;li&gt;60 min - Technical interview&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;60 min - Leadership &amp;amp; execution interview&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;To get started, complete this application, including answers to the questions on the next page.&lt;strong&gt; We read every single application, and your responses to our application questions help put your experience into context. &lt;/strong&gt;We’ll keep you informed through every step&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Kit is an equal opportunity employer. We value diversity in all of its forms, and we hire the best person we can for each role, no matter your personal background. Research tells us that applicants who are female or non-binary, as well as applicants who are people of color, are less likely to apply for roles they do not feel 100% qualified for. If you think you meet more than 50% of our requirements but fewer than 100% of them, please apply. We’re imperfect communicators, so think of our job postings as the starting point for discussion rather than proof that you shouldn’t apply.&lt;/p&gt;
+&lt;p&gt;Kit does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/10557747?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Kit</h5>
+                    <h3>Senior Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/kit/jobs/4742271007" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -2261,7 +2261,7 @@ transitioning models from research to production environments.</p></li><li style
                 </td>
                 <td width="300">
                     <h5>Percona</h5>
-                    <h3>Senior Software Engineer (MongoDB)</h3>
+                    <h3>Senior Software Engineer (Go/MongoDB) (Remote)</h3>
                 </td>
                 <td width="300">
                     <code></code>
