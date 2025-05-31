@@ -10,7 +10,7 @@
                     <code>C,C++,javascript,blockchain</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-c-1996157" align="right" target="_blank">Apply</a>
@@ -83,7 +83,7 @@ transitioning models from research to production environments.</p></li><li style
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/kit/jobs/4742221007" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/kit/jobs/4742274007" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -204,7 +204,7 @@ transitioning models from research to production environments.</p></li><li style
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/kit/jobs/4742274007" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/kit/jobs/4742221007" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
