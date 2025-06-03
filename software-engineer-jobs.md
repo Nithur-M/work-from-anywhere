@@ -1,75 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1996157/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Tether</h5>
-                    <h3>Senior Software Engineer C++</h3>
-                </td>
-                <td width="300">
-                    <code>C,C++,javascript,blockchain</code>
-                </td>
-                <td width="200">
-                <text>21 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-c-1996157" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Join Tether and Shape the Future of Digital Finance</strong></p><p>At
- Tether, we’re not just building products, we’re pioneering a global 
-financial revolution. Our cutting-edge solutions empower businesses—from
- exchanges and wallets to payment processors and ATMs—to seamlessly 
-integrate reserve-backed tokens across blockchains. By harnessing the 
-power of blockchain technology, Tether enables you to store, send, and 
-receive digital tokens instantly, securely, and globally, all at a 
-fraction of the cost. Transparency is the bedrock of everything we do, 
-ensuring trust in every transaction.</p><p><strong><em><br>Innovate with Tether</em></strong><br><strong>Tether Finance: </strong>Our innovative product suite features the world’s most trusted stablecoin, <strong>USDT</strong>, relied upon by hundreds of millions worldwide, alongside pioneering digital asset tokenization services.<br>But that’s just the beginning:<br><strong>Tether Power: </strong>Driving
- sustainable growth, our energy solutions optimize excess power for 
-Bitcoin mining using eco-friendly practices in state-of-the-art, 
-geo-diverse facilities.<br><strong>Tether Data: </strong>Fueling 
-breakthroughs in AI and peer-to-peer technology, we reduce 
-infrastructure costs and enhance global communications with cutting-edge
- solutions like <strong>KEET</strong>, our flagship app that redefines secure and private data sharing.<br><strong>Tether Education</strong>:
- Democratizing access to top-tier digital learning, we empower 
-individuals to thrive in the digital and gig economies, driving global 
-growth and opportunity.<br><strong>Tether Evolution</strong>: At the 
-intersection of technology and human potential, we are pushing the 
-boundaries of what is possible, crafting a future where innovation and 
-human capabilities merge in powerful, unprecedented ways.<br><br><strong><em>Why Join Us?</em></strong><br>Our
- team is a global talent powerhouse, working remotely from every corner 
-of the world. If you’re passionate about making a mark in the fintech 
-space, this is your opportunity to collaborate with some of the 
-brightest minds, pushing boundaries and setting new standards. We’ve 
-grown fast, stayed lean, and secured our place as a leader in the 
-industry.<br>If you have excellent English communication skills and are 
-ready to contribute to the most innovative platform on the planet, 
-Tether is the place for you.<br><strong><br>Are you ready to be part of the future?</strong></p><p><strong><br></strong></p><div class="h1"><strong>About the job:</strong></div><p>At
- Tether, we're committed to making advanced AI technologies more 
-accessible. Thanks to its investment in AI infrastructure, starting from
- Northern Data, Tether is now in a prime position to tackle ambitious AI
- projects. Our goal is to build the next generation of AI models, 
-leading innovation in AI, through an accessible, transparent and privacy
- preserving approach. <br> <br>The role involves building AI solutions 
-across the spectrum from large-scale models designed for advanced 
-applications to smaller, highly performant models tailored for 
-efficiency on edge devices such as mobile phones and laptops. <br> <br>Our
- dynamic team operates entirely remotely, uniting talent from every 
-corner of the globe. Our journey has been marked by rapid growth and 
-efficient operations, firmly establishing us as pioneers within the 
-industry. Join us in building AI models and solutions that not only 
-compete with but exceed the capabilities of current leaders, driving 
-both technological advancement and broad accessibility.</p><p><br></p><p><strong>Responsibilities:</strong></p><ul style=""><li style=""><p>Work on low level libraries and modules in various domains.</p></li><li style=""><p>Collaborate
- closely with researchers to assist in coding, training and 
-transitioning models from research to production environments.</p></li><li style=""><p>Integrate AI features into existing products, enriching them with the latest advancements in machine learning.</p></li></ul><p class="h2"><br></p><p class="h2">Job requirements</p><ul style=""><li style=""><p><strong>5+ years of experience</strong> working with C and C++.</p></li><li style=""><p>Experience working in low level OS / Systems / Kernel development.</p></li><li style=""><p>Experience in low level networking.</p></li><li style=""><p>Knowledge of other languages such as Rust and Javascript is a nice to have.</p></li><li style=""><p>Demonstrated ability to rapidly assimilate new technologies and techniques.</p></li><li style=""><p>A degree in Computer Science complemented by a solid track record in development.</p></li></ul>
-<img src="https://remotive.com/job/track/1996157/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/10557747?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -2174,7 +2104,7 @@ transitioning models from research to production environments.</p></li><li style
 &lt;li&gt;Concurrent programming experience&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Compensation Range&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;$152-220k For cash compensation, we set standard ranges for all &lt;strong&gt;US based roles based&lt;/strong&gt; on function, level and geographic location, benchmarked against similar stage growth companies. In order to be compliant with local legislation, as well as to provide greater transparency to candidates, we share salary ranges on all job postings regardless of desired hiring location. &lt;strong&gt;Final offer amounts are determined by multiple factors including geographic location as well as candidate experience and expertise, and may vary from the amounts listed above.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;$145-160k For cash compensation, we set standard ranges for all &lt;strong&gt;US based roles based&lt;/strong&gt; on function, level and geographic location, benchmarked against similar stage growth companies. In order to be compliant with local legislation, as well as to provide greater transparency to candidates, we share salary ranges on all job postings regardless of desired hiring location. &lt;strong&gt;Final offer amounts are determined by multiple factors including geographic location as well as candidate experience and expertise, and may vary from the amounts listed above.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates&#39; personal and financial information through fake interviews and offers. All Fingerprint recruiting email communications will always come from the @fingerprint.com domain. Any outreach claiming to be from Fingerprint via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Offers vary depending on, but not limited to, relevant experience, education, certifications/licenses, skills, training, and market conditions.&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;Due to regulatory and security reasons, there’s a small number of countries where we cannot have Fingerprint teammates based.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Additionally, because Fingerprint is an all-remote company and people can join our workforce from almost any country, we do not sponsor visas. Fingerprint teammates need to be authorized to work from their home location&lt;/strong&gt;.&lt;/p&gt;
