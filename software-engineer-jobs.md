@@ -13,7 +13,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/kit/jobs/4742274007" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/kit/jobs/4742271007" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -255,7 +255,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/kit/jobs/4742271007" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/kit/jobs/4742274007" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -1649,30 +1649,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/10520629?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Metabase</h5>
-                    <h3>Software Engineer (Applied AI)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/metabase/8f69973f-6ac9-45fd-997e-15c6c8e22145" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>Metabase is the easiest way for people to get insights from their data, from tiny startups who get up and running quickly to major corporations with tens of thousands of users. That's why people <a class="postings-link" href="https://www.metabase.com/love">love us</a>.</div><div><br></div><div>We bring data tools with the elegance and simplicity of consumer products to the crufty world of enterprise business intelligence. We provide an opinionated open source starting point for how companies should measure, analyze and share their data, which is used by tens of thousands of companies.</div><div><br></div><div><b><span style="font-size: 18px;">Come join us</span></b></div><div><br></div><div><span style="font-size: 16px;">Our business is thriving and we are thoughtfully expanding our engineering teams. We’re looking for exceptional software engineers to join our Applied AI engineering team in doing the hard work that makes our users’ lives easy. We run on a mix of Python, Clojure and TypeScript (React), and the ideal candidate has shipped production code in one or more of these languages. You’ll be expected to ship product features that leverage LLMs/generativeAI. You should have strong product sensibilities and deeply care about the end user experience.</span></div><div><b><span style="font-size: 18px;">Come join us</span></b></div><div><br></div><div><span style="font-size: 16px;">Our business is thriving and we are thoughtfully expanding our engineering teams. We’re looking for exceptional software engineers to join our Applied AI engineering team in doing the hard work that makes our users’ lives easy. We run on a mix of Python, Clojure and TypeScript (React), and the ideal candidate has shipped production code in one or more of these languages. You’ll be expected to ship product features that leverage LLMs/generativeAI. You should have strong product sensibilities and deeply care about the end user experience.</span></div><h3>What we are looking for</h3><li>Strong generalist software engineer who likes shipping user facing features in a rapid and iterative manner.</li><li>Solid CS background (acquired through either a CS program or shipping software in a production setting).</li><li>You care about crafting responsible, user-centered systems. You have a collaborative, iterative working style where you build features that are both powerful and ethically sound, with particular attention to accuracy and fairness.</li><li>You've worked on large and complex projects. Metabase is a large code base so the ability to adapt existing code and integrate new capabilities into established systems is important and you should feel comfortable digging in.</li><li>Nice to have: Experience building product features and systems that use LLMs/generative AI technologies.</li><h3>What you would do at Metabase</h3><li>Ship innovative features in the Metabase software including those powered by LLMs/generative AI technologies. See <a rel="noopener noreferrer" class="postings-link" href="https://www.metabase.com/releases">our recent releases</a> to get a sense of what these look like.</li><li>Build LLM-powered natural language data interaction capabilities that allow users to ask questions about their data in plain English and receive accurate, contextual responses.</li><li>Apply generative AI, ML, and data science techniques to enhance data understanding. Develop systems that can explain complex queries in plain English, and provide context-aware suggestions for data exploration.</li><li>Work closely with product manager, product designer and other engineers in a collaborative, iterative, non-waterfall style of software development.</li><li>Own the quality of the code you write and the areas of infrastructure in your team's scope. Write unit and integration tests that thoroughly and thoughtfully test the systems you build. We take testing seriously across all components.</li><div>We're a global team (50% outside the US), fully distributed (from Thailand to California), who get things done asynchronously, with plenty of uninterrupted time, supporting each other to do the best work of our careers. We offer flexibility (define your own schedule and work from wherever you want), autonomy, and an environment that fosters growth, learning, and development. We're relentlessly user-focused and believe in building long-term value, not short-term hacks. And we raised a $30M Series B to take our approach to the next level for years to come.</div><div><br></div><div><span style="font-size: 10px">For U.S. applicants: Metabase participates in the federal E-Verify program, which confirms employment authorization of newly hired U.S. based employees. E-Verify is not used as a tool to pre-screen candidates and is only initiated upon hire.</span></div><div><br></div><div><span style="font-size: 10px"><a href="https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf"><u>E-Verify Participation Notice</u></a> (English/Spanish)</span></div><div><span style="font-size: 10px"><a href="https://www.e-verify.gov/sites/default/files/everify/posters/IER_RightToWorkPoster%20Eng_Es.pdf"><u>Right to Work Notice</u></a> (English/Spanish)</span></div><div>Metabase is the easiest way for people to get insights from their data, from tiny startups who get up and running quickly to major corporations with tens of thousands of users. That's why people <a href="https://www.metabase.com/love" class="postings-link">love us</a>.</div><div><br></div><div>We bring data tools with the elegance and simplicity of consumer products to the crufty world of enterprise business intelligence. We provide an opinionated open source starting point for how companies should measure, analyze and share their data, which is used by tens of thousands of companies.</div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/65879301?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -2159,7 +2135,7 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 &lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;
-&lt;p&gt;Over 30 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
+&lt;p&gt;Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
 &lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
 &lt;p data-speechify-sentence=&quot;&quot;&gt;With the growth of our iOS app, being the #18 productivity app in the App Store category, we find the need for a Senior iOS Engineer to help us support the new user base as well as work on new and exciting projects to push our missing forward. &amp;nbsp;&amp;nbsp;&lt;/p&gt;
@@ -2234,7 +2210,7 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 &lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;
-&lt;p&gt;Over 30 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
+&lt;p&gt;Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
 &lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
 &lt;p data-speechify-sentence=&quot;&quot;&gt;With the growth of our iOS app, being the #18 productivity app in the App Store category, we find the need for a Senior iOS Engineer to help us support the new user base as well as work on new and exciting projects to push our missing forward. &amp;nbsp;&amp;nbsp;&lt;/p&gt;
@@ -2310,7 +2286,7 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 &lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;
-&lt;p&gt;Over 30 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
+&lt;p&gt;Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
 &lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
 &lt;p data-speechify-sentence=&quot;&quot;&gt;The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.&lt;/p&gt;
@@ -2373,7 +2349,7 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 &lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;
-&lt;p&gt;Over 30 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
+&lt;p&gt;Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
 &lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
 &lt;p data-speechify-sentence=&quot;&quot;&gt;The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.&lt;/p&gt;
@@ -2435,7 +2411,7 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 &lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;
-&lt;p&gt;Over 30 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
+&lt;p&gt;Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
 &lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Speechify&#39;s Studio is one of our latest products addressing creators&#39; needs to create human-sounding voiceovers with AI text-to-speech, dub videos, clone their voice and more.&amp;nbsp;&lt;/p&gt;
@@ -2496,7 +2472,7 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 &lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;
-&lt;p&gt;Over 30 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
+&lt;p&gt;Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
 &lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&lt;/p&gt;
 &lt;p&gt;This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.&lt;/p&gt;
 &lt;p&gt;We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&amp;nbsp;&lt;/p&gt;
@@ -2555,7 +2531,7 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 &lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;
-&lt;p&gt;Over 30 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
+&lt;p&gt;Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
 &lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.&lt;/p&gt;
 &lt;p&gt;We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&amp;nbsp;&lt;/p&gt;
