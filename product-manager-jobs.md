@@ -7,13 +7,13 @@
                     <h3>Lead Product Manager </h3>
                 </td>
                 <td width="300">
-                    <code>["fi</code>
+                    <code>figma</code><code>wordpress</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/lead-product-manager-fueled-6537" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/lead-product-manager-fueled-2532" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
