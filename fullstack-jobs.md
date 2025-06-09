@@ -7,13 +7,13 @@
                     <h3>Fullstack Software Engineer </h3>
                 </td>
                 <td width="300">
-                    <code>["go</code>
+                    <code>google cloud</code><code>node.js</code><code>typescript</code><code>react</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/fullstack-software-engineer-sardine-2792" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/fullstack-software-engineer-sardine-6734" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -31,13 +31,13 @@
                     <h3>Full Stack Web Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>["ph</code>
+                    <code>php</code><code>react</code><code>wordpress</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/full-stack-web-engineer-fueled-7778" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/full-stack-web-engineer-fueled-893" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
