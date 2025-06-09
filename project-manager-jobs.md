@@ -7,13 +7,13 @@
                     <h3>Senior Digital Project Manager - Americas Team</h3>
                 </td>
                 <td width="300">
-                    <code>["wo</code>
+                    <code>wordpress</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-digital-project-manager-americas-team-fueled-1217" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-digital-project-manager-americas-team-fueled-7688" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -66,13 +66,13 @@
                     <h3>Freelance | Contract Senior Project Manager - Europe</h3>
                 </td>
                 <td width="300">
-                    <code>["wo</code>
+                    <code>wordpress</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/freelance-contract-senior-project-manager-europe-fueled-3887" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/freelance-contract-senior-project-manager-europe-fueled-4068" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -129,13 +129,13 @@
                     <h3>Senior Digital Project Manager - Europe</h3>
                 </td>
                 <td width="300">
-                    <code>["wo</code>
+                    <code>wordpress</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-digital-project-manager-europe-fueled-3891" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-digital-project-manager-europe-fueled-6157" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
