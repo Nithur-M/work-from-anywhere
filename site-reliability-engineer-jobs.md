@@ -7,13 +7,13 @@
                     <h3>Site Reliability Engineer: Postgres</h3>
                 </td>
                 <td width="300">
-                    <code>["po</code>
+                    <code>postgres</code><code>aws</code><code>golang</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/site-reliability-engineer-postgres-supabase-9508" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/site-reliability-engineer-postgres-supabase-7368" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
