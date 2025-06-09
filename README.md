@@ -14,7 +14,9 @@
 <h2>🌐 Visit our website: <a href="https://www.realworkfromanywhere.com/" target="_blank">Real Work from Anywhere</a></h2>
 <h2>Why this project?</h2>
 
-<p>When I say work from anywhere, I mean it. My goal with this project is to curate best location independent jobs at one place. <br><br>There are multiple remote job boards out there. But most remote jobs allow the employees to work remotely from only a specific location. That's why I am building this repo. This repo is updated daily. I only want to curate the best quality jobs that's why I am going to stick with a handful of best remote job boards.</p>
+<p>When I say work from anywhere, I mean it. My goal with this project is to curate best location independent jobs at one place. <br><br>There are multiple remote job boards out there. But most remote jobs allow the employees to work remotely from only a specific location. That's why I am building this repo. This repo is updated daily.</p>
+
+<p>I used to curate fully work from anywhere remote jobs from feeds like RemoteOk, WeWorkRemotely, etc. But over time, I learned it's huge waste of time for job seekers to hop between multiple sites to apply to jobs, so, I am currently curating jobs directly from company careers pages. Enjoy!</p>
 
 ### Love this project? <a href="https://github.com/nithur-m/work-from-anywhere">Please leave a star⭐️</a>
 
@@ -35,15 +37,11 @@
 
 Can't find what you are looking for? <a href="https://github.com/nithur-m/work-from-anywhere/issues/new/choose">please let me know.</a>
 
-<h2>The Sources</h2>
-<p>I used to curate fully work from anywhere remote jobs from feeds like RemoteOk, WeWorkRemotely, etc. But over time, I learned it's huge waste of time for job seekers to hop between multiple sites to apply to jobs, so, I am currently curating jobs directly from company careers pages. Enjoy!</p>
-
-If you know a good quality job feed <a href="https://github.com/nithur-m/work-from-anywhere/issues/new/choose">please let me know.</a>
-
 <h2>Are you hiring?</h2>
 Do you want to post a job ad here? <a href="https://github.com/Nithur-M/work-from-anywhere/discussions/new?category=q-a">let me know in the discussion.</a>
 
-<br /><p>Please note that this repository is only for location independent remote jobs.</p>
+<br /><p>Please note that this repository is only for location independent remote (fully work from anywhere) jobs.</p>
 
-<h2>Are you searching for a remote job right now?</h2>
+<h2>Are you searching for a fully remote job right now?</h2>
+<p>Visit our site here: <a href="https://www.realworkfromanywhere.com/" target="_blank">Real Work From Anywhere</a></p>
 Want to receive email alerts instantly for your preferred job? <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRyfuSFMIEA8WNNepqQeaXlWMGVNayf1Rd_MFqi0mNOBmSjA/viewform?usp=sf_link">Please subscribe here.</a>
