@@ -7,13 +7,13 @@
                     <h3>Freelance | Contract Senior Front End Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>["ja</code>
+                    <code>javascript</code><code>react</code><code>wordpress</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/freelance-contract-senior-front-end-engineer-fueled-9672" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/freelance-contract-senior-front-end-engineer-fueled-1055" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -74,13 +74,13 @@
                     <h3>Lead Front End Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>["ja</code>
+                    <code>javascript</code><code>react</code><code>wordpress</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/lead-front-end-engineer-fueled-1970" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/lead-front-end-engineer-fueled-409" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
