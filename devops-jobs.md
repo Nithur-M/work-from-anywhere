@@ -7,13 +7,13 @@
                     <h3>Senior DevOps Engineer - Security</h3>
                 </td>
                 <td width="300">
-                    <code>["po</code>
+                    <code>postgres</code><code>redis</code><code>kubernetes</code><code>aws</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-devops-engineer-security-coalesce-662" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-devops-engineer-security-coalesce-8096" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -31,13 +31,13 @@
                     <h3>Senior DevOps Engineer (AS)</h3>
                 </td>
                 <td width="300">
-                    <code>["sq</code>
+                    <code>sql</code><code>docker</code><code>kubernetes</code><code>google cloud</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-devops-engineer-as-blue-coding-5337" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-devops-engineer-as-blue-coding-2890" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
