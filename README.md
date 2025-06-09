@@ -8,7 +8,7 @@
          <img alt="Real Work From Anywhere" src="https://img.shields.io/badge/Website-orange?style=flat-square&logo=appveyorlogo=data:image/png;base64" />
       </a>
       <a href="https://twitter.com/RealWFA" target="_blank">
-            <img alt="Twitter: Remote Work From Anywhere" src="https://img.shields.io/twitter/follow/RemoteWFA.svg?style=social" />
+            <img alt="Twitter: Remote Work From Anywhere" src="https://img.shields.io/twitter/follow/RealWFA.svg?style=social" />
       </a>
 </div>
 <h2>🌐 Visit our website: <a href="https://www.realworkfromanywhere.com/" target="_blank">Real Work from Anywhere</a></h2>
