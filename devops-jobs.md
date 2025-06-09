@@ -7,13 +7,13 @@
                     <h3>Senior DevOps Engineer - Security</h3>
                 </td>
                 <td width="300">
-                    <code></code>
+                    <code>["po</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://jobs.ashbyhq.com/coalesce/9a9b61f9-2e37-4a61-bb38-ab4cc56106c8" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-devops-engineer-security-coalesce-662" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -28,251 +28,22 @@
                 </td>
                 <td width="300">
                     <h5>Blue Coding</h5>
-                    <h3>DevOps Engineer (Pl)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/bluecoding/dcd422df-8ae6-466c-800c-2f9011bd9b28" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 13pt;">What are we looking for?</b></div><div><br></div><div>We’re currently seeking a Mid-level DevOps Engineer to join the team of one of our international clients. This fast-growing tech company is redefining portfolio management in the world of mortgage trading and asset management.</div><div>This is an exciting opportunity to work on a modern platform built from the ground up, using scalable architecture and cloud-native technologies. You'll be part of a collaborative, engineering-driven environment where your ideas and expertise will directly influence the product roadmap.</div><div><br></div><div>If you're independent, a great communicator, a problem solver, and someone who pays close attention to detail, you'll thrive in this role. Our positions are 100% remote — as long as you’re located in one of the listed countries and can deliver high-quality work, you can work from anywhere you want.</div><div><br></div><div>Join us to make an impact in the FinTech space and help shape the future of portfolio management — all while enjoying the freedom and flexibility of remote work.</div><div><br></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Design, build, and maintain Infrastructure-as-Code using Terraform</li><li>Manage and optimize AWS services including Fargate, Postgres (RDS), API Gateway, and CloudFront</li><li>Develop and maintain CI/CD pipelines using GitHub Actions</li><li>Collaborate with developers to ensure reliable, secure, and scalable application deployments</li><li>Monitor and troubleshoot system performance and availability</li><li>Support automation, observability, and disaster recovery practices</li>,<h3>You will shine if you have these:</h3><li>Proven experience in a DevOps or Cloud Engineering role</li><li>Strong knowledge of AWS services and infrastructure best practices</li><li>Proficiency with Terraform and managing IaC in production environments</li><li>Experience with Docker container orchestration and deployment using Fargate</li><li>Familiarity with GitHub Actions, API Gateway, and PostgreSQL</li><li>Good scripting skills (e.g., Bash, Python)</li><li>Knowledge or experience with either credit, mortgages, trading platforms, or environments is a plus.</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/C4D0BAQHlK67hgnhzQw/company-logo_200_200/0/1631346154820?e=2147483647&v=beta&t=_R2Ssj7L_f4xqmSCcq0nOLCyCz0QN2lFnHssxxhj3YY" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Blue Coding</h5>
                     <h3>Senior DevOps Engineer (AS)</h3>
                 </td>
                 <td width="300">
-                    <code></code>
+                    <code>["sq</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/bluecoding/541b149b-455c-4d9a-8a15-608aa4449737" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-devops-engineer-as-blue-coding-5337" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><span style="font-size: 18px">What are we looking for?</span></div><div><br></div><div>We are looking for a Senior DevOps Engineer to join a global leader in government technology. In this opportunity, you’ll focus on designing, deploying, and maintaining infrastructure and automation within Azure Cloud environments. The position requires expertise in Infrastructure as Code (IaC), continuous integration and deployment (CI/CD), and Cloud-native solutions. This role emphasizes best practice leadership, technical expertise in Azure, and collaboration across various teams, providing significant opportunities for both independent and team-driven work.</div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Designing, testing, and deploying highly scalable and available Azure Cloud (IaaS, PaaS, SaaS) infrastructure.</li><li>Manage and maintain the Azure DevOps environment, including all components.</li><li>Act as a technical subject matter expert for software releases and infrastructure setup.</li><li>Create and maintain comprehensive documentation for application configurations, processes and procedures to ensure timely deployments, smooth operations, and quick resolution to potential issues</li><li>Develop and optimize IaC pipelines and practices, using CI/CD (Azure DevOps) and Terraform.</li><li>Provide technical escalation support and collaborate with development, QA, and product teams.</li><li>Participate in software releases and deployments while contributing to operational process improvement.</li><li>Mentor and educate team members on IaC, containerization, and      CI/CD.</li><li>Innovate on improving product delivery and operational efficiency.</li>,<h3>You will shine if you have these skills:</h3><li>Bachelor's Degree in Computer Science, Information Technology, Engineering or related field, or the equivalent combination of education, training, and experience</li><li>5+ years of experience with IaC tools like Terraform.</li><li>5+ years of experience designing and building platforms in Azure Cloud or similar cloud environments.</li><li>5+ years of experience with CI/CD pipelines, especially Azure DevOps or GitHub Actions.</li><li>5+ years of experience in designing DevOps build guides</li><li>5+ years of experience in container technologies like Docker or Kubernetes</li><li>3+ years of experience in leading projects from conception to fruition</li><li>Integrate and implement best practices and DevSecOps methodologies in every step of the engineering process.</li><li>Assist teams in implementing test-driven development practices.</li><li>Expert knowledge of Azure infrastructure for proficient troubleshooting abilities</li><li>Hands-on experience with Microsoft Azure PaaS services (SQL, App Services, Container Apps, etc.).</li><li>Experience with Azure AD, IAM, RBAC, and encryption tools.</li><li>Knowledge of Azure monitoring tools (Azure Monitor, App Insights, Log Analytics, Clarity).</li><li>Strong communication skills and ability to work in cross-functional teams.</li><li>Enable systems with automated testing, monitoring, and alerting.</li>,<h3>It doesn't hurt if you also have:</h3><li>Experience with tools like Ansible, Jenkins, Chef, and/or      Puppet</li><li>Experience with Google Cloud</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/C4D0BAQHlK67hgnhzQw/company-logo_200_200/0/1631346154820?e=2147483647&v=beta&t=_R2Ssj7L_f4xqmSCcq0nOLCyCz0QN2lFnHssxxhj3YY" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Blue Coding</h5>
-                    <h3>Senior DevOps Engineer (VM)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/bluecoding/674b25d7-efbf-4877-affc-a7d27556528d" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 24px;">What are we looking for?</b></div><div><br></div><div>In this opportunity, we are looking for a Senior DevOps Engineer to work with one of our foreign clients, who is a market leader in the consultation, design, procurement, implementation, and ongoing managed services for technology services for mid to large global enterprises. As a Telecom Managed Service company, they partner with over 300 service providers globally to help customers with technology design and find the best solutions to meet their needs.</div><div><br></div><div>You'll be the first hire in the DevOps team and will help the client with the new infrastructure they recently migrated to. They are looking for someone who can provide input and guidance into what they can improve and also implement new tools and ideas for their workflows to work smoothly. </div><div><br></div><div>If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</div><div><br></div><div>If you have the skills and can get the job done, join us and work from anywhere you want!</div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Work closely and own all of the client's DevOps infrastructure and pipeline, ensuring it works smoothly.</li><li>Provide insights and guidance with architectural design.</li><li>Make improvements and modifications.</li><li>Review their infrastructure and see what can be improved.</li><li>Extend pipelines.</li><li>Maintain server infrastructure and develop best practices.</li><li>Build and maintain automated CI/CD deployment plans.</li><li>Implement tools for automation, monitoring, and logging of applications.</li><li>Collaborate with other internal stakeholders to provide technical support to staff.</li><li>&nbsp;Write and maintain Infrastructure and CI/CD documentation.</li>,<h3>You will shine if you have:</h3><li>Strong experience as a DevOps developer or similar role.</li><li>Strong hands-on experience with AWS products such as IAM, S3, ECR, ECS, EC2, RDS, and Cloudwatch.</li><li>Experience with Docker</li><li>Experience with CI/CD</li><li>Experience with GitHub and GitHub action</li><li>Experience with Infrastructure as Code - Terraform</li>,<h3>It doesn't hurt if you also have:</h3><li>Familiarity with Ruby on Rails.</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/6930305?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Xapo Bank</h5>
-                    <h3>Platform/DevOps Intern </h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/xapo61/jobs/6562985003" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: 900;&quot;&gt;Work from anywhere, impact everywhere&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Diversity is at the heart of who we are at Xapo Bank. We’re a fully distributed team of over 140 Xapiens that work remotely from 40+ countries around the world.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Our beginning: A world that enjoys economic freedom and wealth protection, no matter where you live or who is running your country.&lt;/p&gt;
-&lt;p&gt;To achieve that, we search the world for the best people for the job. We work hard, think globally, and inspire each other to learn and grow. We are committed to changing the way things are done.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Risk is inherent in all of our business activities and managing risk well is the responsibility of every Xapien. Sound risk management enables us to serve our customers and deliver value for our shareholders, and helps make Xapo a great place to work.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Although we are headquartered in Gibraltar, this is a full time, 100% remote position&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Work from anywhere!&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Please Note:&lt;/strong&gt;&lt;br data-start=&quot;132&quot; data-end=&quot;135&quot;&gt;While this internship is primarily remote, selected candidates will be expected to work from our Gibraltar office on certain occasions. These in-person sessions are designed to support collaboration, mentorship, and exposure to our local operations. &lt;strong&gt;Applicants should be based in Gibraltar and be able to travel to the office when required.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Position overview&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This internship is an exciting opportunity for students who are still studying and eager to gain hands-on experience in the tech and platform development sector. Over the course of 2 months, you’ll have the chance to work directly with our platform team, assisting with real-world technical projects and platform management tasks. This role is perfect for students studying computer science, engineering, or a related field, who want to apply their academic knowledge to practical challenges in the fintech space.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Responsibilities&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Support platform operations and help resolve technical issues.&lt;/li&gt;
-&lt;li&gt;Assist in monitoring platform performance and generating reports.&lt;/li&gt;
-&lt;li&gt;Work alongside engineers to improve the user experience and help with platform optimizations.&lt;/li&gt;
-&lt;li&gt;Contribute to cross-department projects and collaborate with different teams to support platform goals.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Skills needed&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Information Technology, Data Engineering, or a related field.&lt;/li&gt;
-&lt;li&gt;Some exposure to IT and change management projects through coursework, personal projects, or previous internships is beneficial.&lt;/li&gt;
-&lt;li&gt;A basic understanding of Data Management principles and an eagerness to learn about platforms&lt;/li&gt;
-&lt;li&gt;Familiarity with Cloud and its services (either through academic projects or personal interest).&lt;/li&gt;
-&lt;li&gt;Good written and verbal communication skills in English, enabling effective collaboration and clear reporting.&lt;/li&gt;
-&lt;li&gt;A logical and structured approach to problem-solving with a willingness to learn and grow.&lt;/li&gt;
-&lt;li&gt;Ability to work well within a team, with excellent collaboration and communication skills.&lt;/li&gt;
-&lt;li&gt;Any exposure to Agile (Scrum) methodologies, either through coursework or personal interest, is a plus.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Other requirements&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A dedicated workspace.&lt;/li&gt;
-&lt;li&gt;A reliable internet connection with the fastest speed possible in your area.&lt;/li&gt;
-&lt;li&gt;Alignment with Our Values and the Xapo Values-Driven Leadership principles.&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Why work for Xapo?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 500; font-size: 10pt;&quot;&gt;IMPACT GLOBALLY, WORK REMOTELY.&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Shape the Future:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Improve lives through cutting-edge technology, work 100% remotely from anywhere in the world.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Great work-life balance:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Build amazing things with a balance of autonomy and collaborative teamwork. Set your own work schedule and make use of a flexible PTO plan when you need to recharge.&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Expect Excellence:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Collaborate, learn, and grow with a high-performance team. Learn&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; how you learn best - from books to conferences, you’ll get a yearly budget for your individual learning and development goals.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;At Xapo, we prioritize consumer protection and adhere to regulatory requirements by ensuring that all Xapiens are accountable for upholding principles of fair treatment, transparency, and ethical conduct in their interactions with customers and stakeholders.&lt;br&gt;&lt;br&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Xapo Device Policy&lt;br&gt;&lt;/span&gt;&lt;/strong&gt;Consultants joining Xapo Bank must comply with the Xapo Device Policy, which governs the use of corporate-approved laptops under Corporate-Owned, Personally Purchased Device (reimbursed up to $1,500) or Corporate-Owned, Personally Enabled Device (personal device with enforced security controls).&lt;br&gt;All devices must meet security requirements, enroll in Xapo’s Mobile Device Management (MDM), and adhere to compliance rules. COPPD devices remain Xapo property with buyback options upon exit. COPED users agree to data control measures, including mandatory corporate data wipes.&lt;br&gt;Compliance with the Xapo Device Policy is mandatory for all consultants, onboarding will not proceed without adherence to the policy.&lt;strong&gt;&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/10520629?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Metabase</h5>
-                    <h3>Senior SRE/DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/metabase/1b702919-4d0b-4085-baec-8947f9b7e4ee" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>Metabase is the easiest way for people to get insights from their data, from tiny startups who get up and running quickly to major corporations with tens of thousands of users. That's why people <a class="postings-link" href="https://www.metabase.com/love">love us</a>.</div><div><br></div><div>We bring data tools with the elegance and simplicity of consumer products to the crufty world of enterprise business intelligence. We provide an opinionated open source starting point for how companies should measure, analyze and share their data, which is used by tens of thousands of companies.</div><div><br></div><div>Tens of thousands of companies use Metabase every day to answer questions about their data. While we seek to become the de-facto self-managed open source analytics software for organizations everywhere, many customers want an ability to use Metabase without worrying about the operational details of self-hosting. That’s why we recently launched our Metabase Cloud product. We’re looking for operations engineers to help build out and run our new and quickly growing ‘Metabase Cloud’ hosted product.</div><div>Tens of thousands of companies use Metabase every day to answer questions about their data. While we seek to become the de-facto self-managed open source analytics software for organizations everywhere, many customers want an ability to use Metabase without worrying about the operational details of self-hosting. That’s why we recently launched our Metabase Cloud product. We’re looking for operations engineers to help build out and run our new and quickly growing ‘Metabase Cloud’ hosted product.</div><h3>You will:</h3><li>Own and operate our application stack and AWS infrastructure to orchestrate and manage our hosted customer instances of Metabase</li><li>Debug runtime issues across the different levels of our application stack and hosting stack.</li><li>Develop and build our internal tooling and automation to manage the lifecycle of a hosted Metabase installation, from purchase to deployment, zero-downtime upgrades, and general operational health</li><li>Continuously improve our automated deployments and testing</li><h3>We're looking for someone who:</h3><li>Is thoughtful and careful</li><li>Compulsively automates everything and documents it</li><li>Is able to make solid technical judgements and back them up articulately</li><li>Has at least 5 years of experience building and operating <b>production</b> infrastructure, ideally on public cloud</li><li>Strong <b>Kubernetes</b> and <b>AWS </b>experience</li><li>Strong experience with IaC and <b>Terraform</b></li><li>Can write high quality and readable code in a modern language (e.g. Python, Go, etc.)</li><li>Experience with modern monitoring stacks (e.g Prometheus/Grafana/Datadog) </li><h3>Projects you could work on:</h3><li>Multi-region hosting </li><li>Automate EKS cluster provisioning </li><li>Extend our CRDs and Operators </li><li>Improve the RDS sharding strategy for our multi-tenant platform</li><li>Unify and improve our CI/CD platforms</li><li>Collaborate with core application developers on changes to improve our application metrics, deployment speeds and CI integration.</li><li>Maintain our SOC2 compliance and security posture </li><div><br></div><div><br></div><div>We're a global team (50% outside the US), fully distributed (from Thailand to California), who get things done asynchronously, with plenty of uninterrupted time, supporting each other to do the best work of our careers. We offer flexibility (define your own schedule and work from wherever you want), autonomy, and an environment that fosters growth, learning, and development. We're relentlessly user-focused and believe in building long-term value, not short-term hacks. And we raised a $30M Series B to take our approach to the next level for years to come.</div><div><br></div><div><span style="font-size: 10px">For U.S. applicants: Metabase participates in the federal E-Verify program, which confirms employment authorization of newly hired U.S. based employees. E-Verify is not used as a tool to pre-screen candidates and is only initiated upon hire.</span></div><div><br></div><div><span style="font-size: 10px"><a href="https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf"><u>E-Verify Participation Notice</u></a> (English/Spanish)</span></div><div><span style="font-size: 10px"><a href="https://www.e-verify.gov/sites/default/files/everify/posters/IER_RightToWorkPoster%20Eng_Es.pdf"><u>Right to Work Notice</u></a> (English/Spanish)</span></div><div>Metabase is the easiest way for people to get insights from their data, from tiny startups who get up and running quickly to major corporations with tens of thousands of users. That's why people <a href="https://www.metabase.com/love" class="postings-link">love us</a>.</div><div><br></div><div>We bring data tools with the elegance and simplicity of consumer products to the crufty world of enterprise business intelligence. We provide an opinionated open source starting point for how companies should measure, analyze and share their data, which is used by tens of thousands of companies.</div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/65879301?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sardine</h5>
-                    <h3>DevOps Lead </h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.ashbyhq.com/sardine/7017acff-c1fa-4795-b56c-0dcd336687c5" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="min-height:1.5em"><strong>Who we are:</strong></p><p style="min-height:1.5em">We are a leader in fraud prevention and AML compliance. Our platform uses device intelligence, behavior biometrics, machine learning, and AI to stop fraud before it happens. Today, over 300 banks, retailers, and fintechs worldwide use Sardine to stop identity fraud, payment fraud, account takeovers, and social engineering scams. We have raised $145M from world-class investors, including Andreessen Horowitz, Activant, Visa, Experian, FIS, and Google Ventures.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Our culture:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">We have hubs in the Bay Area, NYC, Austin, and Toronto. However, we maintain a remote-first work culture. #WorkFromAnywhere</p></li><li><p style="min-height:1.5em">We hire talented, self-motivated individuals with extreme ownership and high growth orientation. </p></li><li><p style="min-height:1.5em">We value performance and not hours worked. We believe you shouldn't have to miss your family dinner, your kid's school play, friends get-together, or doctor's appointments for the sake of adhering to an arbitrary work schedule.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Location:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Remote - US or Canada</p></li><li><p style="min-height:1.5em">From Home / Beach / Mountain / Cafe / Anywhere!</p></li><li><p style="min-height:1.5em">We are a remote-first company with a globally distributed team. You can find your productive zone and work from there.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>About the Role:</strong></p><p style="min-height:1.5em">As a DevOps Lead at Sardine, you'll play a critical role in evolving our infrastructure and platform tooling to support a growing engineering team. This is a hands-on technical leadership role where you’ll drive key initiatives across deployment, observability, and developer productivity.</p><p style="min-height:1.5em">You’ll work closely with application engineers, QA, and cross-functional stakeholders to ensure our systems are reliable, scalable, and cost-efficient. The role involves building and maintaining CI/CD pipelines, improving system observability, optimizing cloud usage, and strengthening our platform’s resilience. While we have core tools in place, we’re looking for someone who can both own and elevate them by identifying gaps, improving automation, and proactively driving improvements.</p><p style="min-height:1.5em">This is an ideal role for someone who brings deep technical expertise, thrives in high-ownership environments, and is excited to shape the future of DevOps.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What you'll be doing: </strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Own and evolve our DevOps and platform engineering function, from build and deployment pipelines to monitoring, infrastructure as code, and cost optimization.</p></li><li><p style="min-height:1.5em">Design and maintain CI/CD pipelines that are secure, scalable, and built to support rapid product iterations without sacrificing stability.</p></li><li><p style="min-height:1.5em">Improve observability via Datadog, GCP, and custom dashboards.</p></li><li><p style="min-height:1.5em">Enable developer productivity by creating internal tooling, reusable modules, and simplifying infrastructure for other engineering teams.</p></li><li><p style="min-height:1.5em">Drive cost-efficiency and performance improvements across our infrastructure.</p></li><li><p style="min-height:1.5em">Help teams define and measure SLOs, SLIs, and SLAs, setting the standard for how we think about system health and reliability.</p></li><li><p style="min-height:1.5em">Play a key role in shaping our engineering culture, DevOps best practices, and influencing our long-term infrastructure roadmap.</p></li><li><p style="min-height:1.5em">Work cross-functionally with backend eng, security, finance, and other teams. </p><p style="min-height:1.5em"></p></li></ul><p style="min-height:1.5em"><strong>What you'll need: </strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">6+ years of experience in DevOps, SRE, or software engineering roles, ideally in fast-paced startup environments, including 2+ years leading as a tech lead or engineering manager.</p></li><li><p style="min-height:1.5em">Proficiency in Python or Go, with strong software engineering fundamentals.</p></li><li><p style="min-height:1.5em">Proven ownership of production infrastructure and platform tooling, with strong debugging skills and the ability to troubleshoot complex distributed systems.</p></li><li><p style="min-height:1.5em">Deep experience with Kubernetes and tools like ArgoCD, Helm, and Terraform.</p></li><li><p style="min-height:1.5em">Familiarity with GCP (preferred) or other major cloud providers, with a focus on cost and performance optimization.</p></li><li><p style="min-height:1.5em">Strong experience building CI/CD pipelines and internal developer tooling from the ground up.</p></li><li><p style="min-height:1.5em">Hands-on experience with observability tools like Prometheus or Datadog, and participation in an on-call rotation.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Compensation:</strong> Base pay range of $180,000 - $230,000 + Series C equity with tremendous upside potential + Attractive benefits</p><p style="min-height:1.5em"></p><p style="min-height:1.5em">The compensation offered for this role will depend on various factors, including the candidate's location, qualifications, work history, and interview performance, and may differ from the stated range.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Benefits we offer:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Generous compensation in cash and equity</p></li><li><p style="min-height:1.5em">Early exercise for all options, including pre-vested</p></li><li><p style="min-height:1.5em">Work from anywhere: Remote-first Culture</p></li><li><p style="min-height:1.5em">Flexible paid time off, Year-end break, Self care days off</p></li><li><p style="min-height:1.5em">Health insurance, dental, and vision coverage for employees and dependents - <em>US and Canada specific</em></p></li><li><p style="min-height:1.5em">4% matching in 401k / RRSP - <em>US and Canada specific</em></p></li><li><p style="min-height:1.5em">MacBook Pro delivered to your door</p></li><li><p style="min-height:1.5em">One-time stipend to set up a home office — desk, chair, screen, etc.</p></li><li><p style="min-height:1.5em">Monthly meal stipend</p></li><li><p style="min-height:1.5em">Monthly social meet-up stipend</p></li><li><p style="min-height:1.5em">Annual health and wellness stipend</p></li><li><p style="min-height:1.5em">Annual Learning stipend</p></li><li><p style="min-height:1.5em">Unlimited access to an expert financial advisory</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em">Join a fast-growing company with world-class professionals from around the world. If you are seeking a meaningful career, you found the right place, and we would love to hear from you.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><em>To learn more about how we process your personal information and your rights in regards to your personal information as an applicant and Sardine employee, please visit our </em><a target="_blank" rel="noopener noreferrer nofollow" class="text-link-blue" href="https://www.sardine.ai/applicant-and-worker-privacy-notice"><em>Applicant and Worker Privacy Notice</em></a><em>.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://photos.wellfound.com/startups/i/257661-3abe9f68928f2e0407dca967aca86e67-medium_jpg.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>OneLocal</h5>
-                    <h3>Senior DevOps</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/onelocal/jobs/5346874004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;p&gt;OneLocal is transforming the B2B sector with its innovative white-label marketing platform. Drawing on years of proven success in accelerating local business growth, we&#39;ve fine-tuned our expertise in developing unparalleled digital presences for thousands of merchants. Now, we&#39;re strategically partnering with leading software providers and franchisors to deliver a comprehensive, in-house marketing powerhouse for their SMB clients. Our sophisticated, AI-driven agency-in-a-box equips merchants with the competitive advantage essential for achieving market dominance and driving business expansion.&lt;/p&gt;
-&lt;p&gt;We are looking for talented and passionate individuals to embed the latest AI technology into our platform. We pride ourselves in our open and dynamic culture, our diversity, and being committed to a workplace where we all feel that we can be ourselves.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Job Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;We are on the hunt for a seasoned Senior DevOps Engineer with a strong background in cloud observability, container orchestration, cloud operations, and incident response. The ideal candidate will have experience working with FinOps, CICD, developer tools, repository and source control architecture, developer build environments, and ensuring data storage efficiency.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Essential Duties and Responsibilities:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&amp;nbsp;Cloud Observability: Implement and manage advanced cloud observability tools to monitor and optimize system performance, ensuring high availability and reliability for our service offerings.&lt;/li&gt;
-&lt;li&gt;&amp;nbsp;Cloud Expertise: Demonstrate proficiency in one of the major cloud platforms (AWS, Azure, or Google Cloud) to architect, manage, and optimize scalable cloud infrastructures.&lt;/li&gt;
-&lt;li&gt;&amp;nbsp;Operations &amp;amp; Incident Response: Lead the incident response process utilizing tools like PagerDuty or equivalent to ensure swift identification, management, and resolution of critical issues, maintaining service continuity.&lt;/li&gt;
-&lt;li&gt;&amp;nbsp;FinOps: Analyze and manage cloud costs effectively using FinOps principles, employing various tools and aggregators to ensure cost efficiency and resource optimization.&lt;/li&gt;
-&lt;li&gt;&amp;nbsp;CICD: Design, implement, and maintain continuous integration and continuous deployment (CICD) pipelines to enhance development workflows and delivery cycles.&lt;/li&gt;
-&lt;li&gt;&amp;nbsp;Developer Tools: Advance the use of modern developer tools, including AI-powered assistants like GitHub Copilot, to streamline coding practices and enhance overall productivity.&lt;/li&gt;
-&lt;li&gt;&amp;nbsp;Repository and Source Control Architecture: Architect and manage repository structures and source control processes to support development teams in effectively collaborating and maintaining code quality.&lt;/li&gt;
-&lt;li&gt;&amp;nbsp;Developer Build Environments: Create and optimize developer build environments to facilitate smooth and efficient development, testing, and deployment processes.&lt;/li&gt;
-&lt;li&gt;&amp;nbsp;Data Storage Efficiency: Design strategies and systems for efficient data storage, ensuring optimal performance, cost management, and scalability of storage solutions.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Minimum of 5 years of relevant experience in a DevOps role, with a focus on cloud observability, container orchestration, and cloud operations.&lt;/li&gt;
-&lt;li&gt;Cloud Expertise: In-depth knowledge and hands-on experience with one of the major cloud platforms (AWS, Azure, Google Cloud).&lt;/li&gt;
-&lt;li&gt;Incident Response: Familiarity with incident management tools like PagerDuty or equivalent, with a track record of handling and resolving critical incidents.&lt;/li&gt;
-&lt;li&gt;FinOps: Strong understanding of Financial Operations (FinOps) principles and experience with tools and techniques for managing cloud costs.&lt;/li&gt;
-&lt;li&gt;CICD Pipelines: Demonstrable experience in designing and maintaining CICD pipelines using tools such as Jenkins, GitLab CI, or similar.&lt;/li&gt;
-&lt;li&gt;Source Control: Expertise in repository management and source control systems, particularly with Git, GitHub, GitLab, or similar platforms.&lt;/li&gt;
-&lt;li&gt;Build Environments: Experience in creating and optimizing developer build environments, ensuring they are efficient and conducive to high-quality code production.&lt;/li&gt;
-&lt;li&gt;Data Storage: Proficiency in designing and managing data storage solutions that balance performance with cost-efficiency, considering scalability requirements.&lt;/li&gt;
-&lt;li&gt;Problem-Solving Skills: Strong analytical and troubleshooting skills to resolve complex technical issues and optimize system performance.&lt;/li&gt;
-&lt;li&gt;Collaboration: Excellent communication and collaboration skills to work effectively with cross-functional teams, fostering a culture of continuous improvement.&lt;/li&gt;
-&lt;li&gt;Experience in implementing and managing Infrastructure as Code (IaC) tools such as Terraform and Pulumi&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Plus&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;AWS specialization and certification&lt;/li&gt;
-&lt;li&gt;Familiarity with security best practices and compliance standards in cloud environments.&lt;/li&gt;
-&lt;li&gt;Developer Tools: Proficiency with modern developer tools, including AI-powered assistants like GitHub Copilot, and a solid understanding of their impact on the development lifecycle.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Why You’ll Love Working Here:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Remote first: We have committed to a remote-first work environment. This means our roles are open to candidates who can work between the core hours of 9am - 5pm EST&lt;/li&gt;
-&lt;li&gt;3 weeks paid vacation + 5 paid personal days&lt;/li&gt;
-&lt;li&gt;Stock options in a YC backed start-up&lt;/li&gt;
-&lt;li&gt;Virtual social events: coffee chats with your colleagues and weekly happy hours!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;At OneLocal, we are committed to building and fostering an environment where our employees feel included, valued, and heard. Our belief is that a strong commitment to diversity and inclusion enables us to truly create the best company culture possible. We strongly encourage applications from candidates of all backgrounds, experience, and perspectives regardless of race, gender, sexual orientation, marital status, age, citizenship, disability, and national origin.&lt;/p&gt;
                 </details>
                 </td>
             </tr></table>
