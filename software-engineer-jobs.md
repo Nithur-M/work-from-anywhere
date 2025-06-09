@@ -7,13 +7,13 @@
                     <h3>Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu</h3>
                 </td>
                 <td width="300">
-                    <code>["ku</code>
+                    <code>kubernetes</code><code>python</code><code>golang</code><code>javascript</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/graduate-software-engineer-open-source-and-linux-canonical-ubuntu-canonical-4971" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/graduate-software-engineer-open-source-and-linux-canonical-ubuntu-canonical-3776" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
