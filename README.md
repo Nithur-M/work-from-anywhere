@@ -7,7 +7,7 @@
       <a href="https://www.realworkfromanywhere.com/" target="_blank">
          <img alt="Real Work From Anywhere" src="https://img.shields.io/badge/Website-orange?style=flat-square&logo=appveyorlogo=data:image/png;base64" />
       </a>
-      <a href="https://twitter.com/RemoteWFA" target="_blank">
+      <a href="https://twitter.com/RealWFA" target="_blank">
             <img alt="Twitter: Remote Work From Anywhere" src="https://img.shields.io/twitter/follow/RemoteWFA.svg?style=social" />
       </a>
 </div>
