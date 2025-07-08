@@ -1,1 +1,25 @@
-<div align="center"><h2>DEVELOPER JOBS</h2></div><table></table>
+<div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Livekit</h5>
+                    <h3>Developer Advocate</h3>
+                </td>
+                <td width="300">
+                    
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.realworkfromanywhere.com/jobs/developer-advocate-livekit-9326" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h2></h2><p style="min-height:1.5em">At LiveKit, we're seeking a Developer Advocate - a crucial role that sits at the intersection of engineering and community engagement. This position is for someone who finds fulfillment in empowering developers, facilitating their success, and serving as the vital link between our technology and its users. While many engineers focus on building complex systems, we're looking for someone passionate about building developer understanding and adoption.</p><p style="min-height:1.5em">As a Developer Advocate at LiveKit, you'll have a direct impact on our product direction and community growth. If you feel a sense of accomplishment when you see developers successfully integrate LiveKit, knowing you played a part in making it happen, this role is perfect for you.</p><p style="min-height:1.5em"></p><h3>As an Developer Advocate at LiveKit, you will:</h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Foster and grow our developer community through active engagement in forums, social media, and events.</p></li><li><p style="min-height:1.5em">Create and curate high-quality technical content including blog posts, tutorials, documentation, and sample applications.</p></li><li><p style="min-height:1.5em">Represent the developer voice within LiveKit, providing crucial feedback to our product and engineering teams.</p></li><li><p style="min-height:1.5em">Assist developers in understanding, implementing, and troubleshooting LiveKit, ensuring a positive experience with our platform.</p></li><li><p style="min-height:1.5em">Develop and deliver presentations, workshops, and demos to showcase LiveKit's capabilities and best practices.</p></li><li><p style="min-height:1.5em">Collaborate with marketing and partnerships teams to expand our reach and influence in the developer ecosystem.</p></li></ul><p style="min-height:1.5em"></p><h2>About You</h2><h3>You'll thrive as an Developer Advocate if you:</h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">You are an engineer.</p></li><li><p style="min-height:1.5em">You don’t mind reading more code than you write.</p></li><li><p style="min-height:1.5em">You're comfortable with code across various languages and can quickly grasp new technologies.</p></li><li><p style="min-height:1.5em">You possess excellent written and verbal communication skills.</p></li><li><p style="min-height:1.5em">You find satisfaction in educating others and seeing them succeed with our technology.</p></li></ul><h3><strong>Bonus Points</strong></h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Previous experience in developer advocacy or developer relations.</p></li><li><p style="min-height:1.5em">Contributions to open-source projects.</p></li><li><p style="min-height:1.5em">Familiarity with real-time communication technologies or experience building with LiveKit.</p></li><li><p style="min-height:1.5em">Public speaking experience at tech conferences or meetups.</p></li></ul><p style="min-height:1.5em"></p><h2>Our Commitments to You</h2><h3>We offer</h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">An opportunity to build something truly impactful to the world</p></li><li><p style="min-height:1.5em">Competitive salary and equity package</p></li><li><p style="min-height:1.5em">Work anywhere in the world</p></li><li><p style="min-height:1.5em">Health, dental, and vision benefits</p></li><li><p style="min-height:1.5em">Flexible vacation policy</p></li></ul><p style="min-height:1.5em"></p><h3>Ready to Apply?</h3><p style="min-height:1.5em">If you're passionate about championing developers in the realm of real-time communications and want to make a significant impact at a high-growth company, we'd love to hear from you. At LiveKit, your work as a Developer Advocate will be instrumental in our growth and success, bridging the gap between our technology and the developers who use it.</p>
+                </details>
+                </td>
+            </tr></table>
