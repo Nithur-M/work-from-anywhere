@@ -1,114 +1,133 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/69215121?s=200&v=4" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/45291733?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Clutch</h5>
-                    <h3>Software Engineer (Integrations)</h3>
+                    <h5>Aztec</h5>
+                    <h3>Software Engineer (Generalist)</h3>
                 </td>
                 <td width="300">
-                    
+                    <code>typescript</code><code>blockchain</code><code>solidity</code><code>ethereum</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/software-engineer-integrations-clutch-5244" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/software-engineer-generalist-aztec-4702" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <h2><strong>About the Role</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Own small-to-medium integration projects from discovery to deployment, partnering with Product, clients, and Implementation to ship pragmatic solutions.</p></li><li><p style="min-height:1.5em">Debug and resolve issues autonomously, escalating only when truly blocked.</p></li><li><p style="min-height:1.5em">Communicate progress and blockers early and often—through tickets, stand-ups, and async updates—to give the team and stakeholders total visibility.</p></li><li><p style="min-height:1.5em">Review peers’ pull requests, uphold our coding standards, and share knowledge to elevate overall code quality.</p></li><li><p style="min-height:1.5em">Spot friction in day-to-day workflows and propose concrete process or tooling improvements that keep us moving fast.</p></li></ul><h2><strong>About the Team</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">A fast-moving Integration squad connecting banking COREs and LOSs to Clutch’s platform.</p></li><li><p style="min-height:1.5em">Success hinges less on raw code complexity and more on understanding product context, making sound trade-offs, and coordinating with multiple parties.</p></li><li><p style="min-height:1.5em">We collaborate closely with Product, clients, and other engineering teams to deliver production-ready integrations quickly.</p></li><li><p style="min-height:1.5em">Transparency and balanced workload are core values: everyone is expected to surface blockers early and help redistribute work when needed.</p></li><li><p style="min-height:1.5em">We champion autonomy—engineers are trusted to take initiative, switch contexts effectively, and push changes all the way to production.</p></li></ul><p style="min-height:1.5em"></p><h1><strong>What You’ll Do</strong></h1><p style="min-height:1.5em"><strong>Within 3 months, you will:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Independently debug issues and identify root causes.</p></li><li><p style="min-height:1.5em">Pair with other engineers to gain context and contribute to smaller tasks.</p></li><li><p style="min-height:1.5em">Learn the core systems we integrate with and how they impact our product.</p></li><li><p style="min-height:1.5em">Ask questions and challenge requirements to clarify scope before starting work.</p></li></ul><p style="min-height:1.5em"><strong>Within 6 months, you will:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Proactively communicate progress and surface blockers early.</p></li><li><p style="min-height:1.5em">Confidently shift between integration contexts and understand tradeoffs.</p></li><li><p style="min-height:1.5em">Support partners through successful go-lives.</p></li><li><p style="min-height:1.5em">Manage scope and push back when requirements are unclear or misaligned.</p></li><li><p style="min-height:1.5em">Contribute thoughtful code reviews and help maintain simple and extensible code quality.</p></li></ul><p style="min-height:1.5em"><strong>Within 9 months, you will:</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Lead and deliver a small-scoped project independently.</p></li><li><p style="min-height:1.5em">Build trust with external stakeholders by communicating technical constraints effectively.</p></li><li><p style="min-height:1.5em">Suggest and drive improvements to team processes and workflows.</p><p style="min-height:1.5em"></p></li></ul><h1><strong>What You’ll Bring</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Heavy product-oriented engineer;</p></li><li><p style="min-height:1.5em">Capable of debugging and working on issues alone;</p></li><li><p style="min-height:1.5em">Capable of collaborating with other teams to get the job done;</p></li><li><p style="min-height:1.5em">Capable of owning end-to-end projects;</p></li><li><p style="min-height:1.5em">Plus: Previously worked with Integrations</p></li></ul><p style="min-height:1.5em"><em>Please note that this role may evolve as our business needs change, so we appreciate your flexibility and adaptability.</em></p><p style="min-height:1.5em"><strong>What’s In It For You?</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Remote Flexibility:</strong> Enjoy the freedom of remote work from anywhere, balancing life and career seamlessly.</p></li><li><p style="min-height:1.5em"><strong>Unforgettable Off-Sites:</strong> Twice a year, bond with colleagues in exciting destinations, fostering teamwork and fresh ideas.</p></li><li><p style="min-height:1.5em"><strong>Paid Time Off and National Holidays:</strong> Enjoy 20 PTO days yearly and the National Holidays for relaxation and rejuvenation.</p></li><li><p style="min-height:1.5em"><strong>Stock Options:</strong> Joining us means having a stake in our success, so you'll receive stock options as part of your compensation package.</p></li><li><p style="min-height:1.5em"><strong>Home Office Setup:</strong> Create your ideal workspace with a dedicated budget for home office essentials.</p></li><li><p style="min-height:1.5em"><strong>Work Trip Budget:</strong> Grow personally and professionally with a budget for work-related trips and co-working.</p></li></ul><p style="min-height:1.5em"><strong>About Us</strong></p><p style="min-height:1.5em"><strong>Clutch</strong> is a revolutionary vertical SaaS company, proudly backed by Andreessen Horowitz (A16z), aimed at revolutionizing the way Credit Unions engage and change the lives of their members. As a champion of financial well-being, we address the urgent need for affordable lending solutions in an era where the average American grapples with over $155,000 in household debt.  Unlike traditional financial institutions, Clutch develops software to turn Credit Unions into FinTech lenders and leverage their balance sheets to responsibly lend to over 130M Americans. Our mission extends beyond mere financial transactions; we strive to fundamentally enhance the way credit unions interact with their members. By integrating cutting-edge technologies and user-centric designs, we help credit unions provide seamless digital experiences that are on par with leading tech companies. This approach not only preserves but revitalizes the longstanding tradition of community and member-focused service inherent to credit unions.</p><p style="min-height:1.5em"><strong>Please note:</strong> This position is offered on a contractor basis. Applicants must have the necessary documentation and authorization to work in the country where the job is located. Clutch cannot provide sponsorship or assist with obtaining work permits for this role.<br /><br /><strong>A Note About AI at Clutch</strong><br />We love AI. We use it often and encourage our team to creatively and effectively leverage AI tools in their work. If you join Clutch, we hope you'll bring the same enthusiasm for exploring how AI can amplify impact, productivity, and innovation.<br /><br />That said, during the interview process, <strong>we want to hear </strong><em><strong>your</strong></em><strong> thoughts</strong>. Please approach interviews without the use of AI tools—our goal is to get to know how <em>you</em> think, solve problems, and communicate. Once you're in the seat, bring on the prompts!</p>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h4&gt;&lt;strong&gt;About Aztec&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;At Aztec, our goal is to add privacy to Ethereum.&lt;/p&gt;
+&lt;p&gt;In the current public blockchain paradigm, users and entities unknowingly broadcast data in the public, compromising privacy and security to get trustlessness.&lt;/p&gt;
+&lt;p&gt;Not only are unencrypted blockchains inherently privacy-exposing, they require significant redundancy to compute and verify the legitimacy of transactions.&lt;/p&gt;
+&lt;p&gt;Implementing scalable encryption in a public blockchain paradigm requires cutting-edge math and engineering. Thankfully, our team of scientists and engineers invented Plonk, the industry-standard zkSNARK, and Noir, the universal language of zero knowledge.&lt;/p&gt;
+&lt;p&gt;Now, we’re building a first of its kind Layer 2 with private smart contracts. This requires new cryptographic primitives, a zero-knowledge DSL for writing contracts, a privacy-friendly execution environment, a carefully designed set of circuits that prove the validity of the chain to L1, a decentralized block-building and proving mechanism, and a top-tier user and developer experience. And it’s now time to bring it to market.&lt;/p&gt;
+&lt;p&gt;We’ve raised $125 million from industry-leading investors including a16z crypto, Paradigm, Variant, Consensys, and a_capital, and we’re growing quickly.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;What You’ll Do&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;We’re looking for entrepreneurial, impact-driven engineers who thrive in fast-paced environments and want to be at the forefront of privacy-first decentralized applications. You’ll be part of a highly collaborative team working on the client-side stack that powers Aztec&#39;s zero-knowledge execution environment.&lt;/p&gt;
+&lt;p&gt;You will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Design and build tools &amp;amp; SDKs&lt;/strong&gt; that enable developers to build powerful, privacy-preserving dApps on Aztec.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Develop a secure client-side execution environment&lt;/strong&gt;, used by wallets and applications to produce and handle encrypted transactions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Architect reusable patterns and libraries&lt;/strong&gt; for writing auditable and verifiable Aztec smart contracts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Collaborate cross-functionally&lt;/strong&gt; with protocol, cryptography, and product teams to build end-to-end privacy-preserving applications.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Refactor, document, and test&lt;/strong&gt; existing code for maintainability, performance, and correctness.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Identify and reduce technical debt&lt;/strong&gt;, while continuously improving architecture and developer ergonomics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;What We’re Looking For&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;3+ years of professional software engineering experience in blockchain or cryptography-related systems.&lt;/li&gt;
+&lt;li&gt;Deep proficiency in &lt;strong&gt;TypeScript&lt;/strong&gt;, with strong software architecture and API design skills.&lt;/li&gt;
+&lt;li&gt;Working knowledge of system-level concerns such as performance tuning, memory management, and secure data handling.&lt;/li&gt;
+&lt;li&gt;Able to provide thoughtful code reviews and mentor other engineers.&lt;/li&gt;
+&lt;li&gt;Comfortable working autonomously and asynchronously within a distributed team.&lt;/li&gt;
+&lt;li&gt;Located in or able to work within &lt;strong&gt;GMT to EST time zones&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Bonus Points&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with &lt;strong&gt;Rust&lt;/strong&gt;, &lt;strong&gt;Solidity&lt;/strong&gt;, or other smart contract languages.&lt;/li&gt;
+&lt;li&gt;Contributions to open source projects, especially in the Web3 or cryptography space.&lt;/li&gt;
+&lt;li&gt;Familiarity with zk systems like ZCash or other privacy-preserving protocols.&lt;/li&gt;
+&lt;li&gt;Exposure to modern web development frameworks and tooling.&lt;/li&gt;
+&lt;li&gt;Passion for zero-knowledge cryptography and its role in reshaping the internet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;What We Offer&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Flexible, &lt;strong&gt;remote-first culture&lt;/strong&gt; with HQ in London.&lt;/li&gt;
+&lt;li&gt;Competitive salary + &lt;strong&gt;equity/token options&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;25 days annual leave&lt;/strong&gt; + bank holidays.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Health, dental, and retirement benefits&lt;/strong&gt; (based on location).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quarterly offsites&lt;/strong&gt; for team collaboration and bonding.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conference and learning budget&lt;/strong&gt; for continual professional development.&lt;/li&gt;
+&lt;li&gt;A chance to work on &lt;strong&gt;truly cutting-edge zero-knowledge infrastructure&lt;/strong&gt; with some of the best minds in the field.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Aztec Labs is an equal opportunity employer and we value creativity, diversity, and intellectual curiosity. If you&#39;re passionate about leveraging your creative talents to make a real-world impact, and if you want to be part of a team that&#39;s shaping the future of digital privacy, then we would love to hear from you.&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/32529485?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Livekit</h5>
-                    <h3>Senior Software Engineer, Gateway </h3>
+                    <h5>Speechify</h5>
+                    <h3>Software Engineer, AI Studio   </h3>
                 </td>
                 <td width="300">
-                    <code>python</code><code>golang</code><code>llm</code>
+                    <code>aws</code><code>react</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-software-engineer-gateway-livekit-8257" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/software-engineer-ai-studio-speechify-5779" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p style="min-height:1.5em">LiveKit is revolutionizing the AI landscape by providing the essential network infrastructure that powers multimodal AI interfaces, enabling seamless audio and visual interactions. Founded in 2021, LiveKit has rapidly grown to support over 3 Billion calls annually, 100,000+ developers globally, and industry giants like OpenAI, Character AI, Spotify, and Meta.</p><p style="min-height:1.5em"></p><h2><strong>You'll thrive at LiveKit if you:</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">obsess with crafting code that is fast, reliable and practical for the problem</p></li><li><p style="min-height:1.5em">are known as the go-to person for tackling tough technical problems</p></li><li><p style="min-height:1.5em">work hard and can build <em>and</em> ship fast</p></li><li><p style="min-height:1.5em">can clearly explain complex technical concepts to others</p></li><li><p style="min-height:1.5em">are a fast learner, frequently picking up new languages and tools</p></li></ul><p style="min-height:1.5em">The best way to impress us is with thoughtful Issues and/or PRs on our Github repos 😊</p><p style="min-height:1.5em"></p><h2>About This Role:</h2><p style="min-height:1.5em">We are looking for an exceptional backend software engineer to join the Gateway team. Help us shape the future of Gateway by building the software stack that drives it. </p><p style="min-height:1.5em"></p><h2>What You’ll Do:</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Design and develop core functionalities for the</p></li><li><p style="min-height:1.5em">Iterate quickly based on feedback from our developer community</p></li><li><p style="min-height:1.5em">Write clear documentation and examples for users</p></li><li><p style="min-height:1.5em">Work with Golang and python.</p></li></ul><p style="min-height:1.5em"></p><h2>Who You Are:</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Experienced in building LLM-based applications</p></li><li><p style="min-height:1.5em">You are skilled at navigating complex systems</p></li><li><p style="min-height:1.5em">Experience creating developer tools is a plus</p></li><li><p style="min-height:1.5em">Experience and Interest working in a remote environment</p></li><li><p style="min-height:1.5em">Skilled in containerization platforms</p></li><li><p style="min-height:1.5em">Experienced in designing and maintaining distributed systems</p></li><li><p style="min-height:1.5em">Capable of digging into low-level details to solve complex problems</p></li></ul><p style="min-height:1.5em"></p><h2><strong>Our Commitments to You</strong></h2><h2><strong>We offer</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">An opportunity to build something truly impactful to the world</p></li><li><p style="min-height:1.5em">Contribute to open source alongside world-class engineers</p></li><li><p style="min-height:1.5em">Competitive salary and equity package</p></li><li><p style="min-height:1.5em">Health, dental, and vision benefits</p></li><li><p style="min-height:1.5em">Flexible vacation policy</p></li></ul>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1996157/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Tether</h5>
-                    <h3>Senior Software Engineer C++</h3>
-                </td>
-                <td width="300">
-                    <code>javascript</code><code> rust</code><code>blockchain</code><code>bitcoin</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-software-engineer-c-tether-2003" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Join Tether and Shape the Future of Digital Finance</strong></p>
-<p>At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digital tokens instantly, securely, and globally, all at a fraction of the cost. Transparency is the bedrock of everything we do, ensuring trust in every transaction.</p>
-<p><strong><em><br>Innovate with Tether</em></strong><br><strong>Tether Finance: </strong>Our innovative product suite features the world’s most trusted stablecoin, <strong>USDT</strong>, relied upon by hundreds of millions worldwide, alongside pioneering digital asset tokenization services.<br>But that’s just the beginning:<br><strong>Tether Power: </strong>Driving sustainable growth, our energy solutions optimize excess power for Bitcoin mining using eco-friendly practices in state-of-the-art, geo-diverse facilities.<br><strong>Tether Data: </strong>Fueling breakthroughs in AI and peer-to-peer technology, we reduce infrastructure costs and enhance global communications with cutting-edge solutions like <strong>KEET</strong>, our flagship app that redefines secure and private data sharing.<br><strong>Tether Education</strong>: Democratizing access to top-tier digital learning, we empower individuals to thrive in the digital and gig economies, driving global growth and opportunity.<br><strong>Tether Evolution</strong>: At the intersection of technology and human potential, we are pushing the boundaries of what is possible, crafting a future where innovation and human capabilities merge in powerful, unprecedented ways.<br><br><strong><em>Why Join Us?</em></strong><br>Our team is a global talent powerhouse, working remotely from every corner of the world. If you’re passionate about making a mark in the fintech space, this is your opportunity to collaborate with some of the brightest minds, pushing boundaries and setting new standards. We’ve grown fast, stayed lean, and secured our place as a leader in the industry.<br>If you have excellent English communication skills and are ready to contribute to the most innovative platform on the planet, Tether is the place for you.<br><strong><br>Are you ready to be part of the future?</strong></p>
-<p><strong> </strong></p>
-<div class="h1"><strong>About the job:</strong></div>
-<p>At Tether, we're committed to making advanced AI technologies more accessible. Thanks to its investment in AI infrastructure, starting from Northern Data, Tether is now in a prime position to tackle ambitious AI projects. Our goal is to build the next generation of AI models, leading innovation in AI, through an accessible, transparent and privacy preserving approach. <br><br>The role involves building AI solutions across the spectrum from large-scale models designed for advanced applications to smaller, highly performant models tailored for efficiency on edge devices such as mobile phones and laptops. <br><br>Our dynamic team operates entirely remotely, uniting talent from every corner of the globe. Our journey has been marked by rapid growth and efficient operations, firmly establishing us as pioneers within the industry. Join us in building AI models and solutions that not only compete with but exceed the capabilities of current leaders, driving both technological advancement and broad accessibility.</p>
-<p> </p>
-<p><strong>Responsibilities:</strong></p>
-<ul style="">
-<li style="">
-<p>Work on low level libraries and modules in various domains.</p>
-</li>
-<li style="">
-<p>Collaborate closely with researchers to assist in coding, training and transitioning models from research to production environments.</p>
-</li>
-<li style="">
-<p>Integrate AI features into existing products, enriching them with the latest advancements in machine learning.</p>
-</li>
-</ul>
-<p class="h2"> </p>
-<p class="h2">Job requirements</p>
-<ul style="">
-<li style="">
-<p><strong>5+ years of experience</strong> working with C and C++.</p>
-</li>
-<li style="">
-<p>Experience working in low level OS / Systems / Kernel development.</p>
-</li>
-<li style="">
-<p>Experience in low level networking.</p>
-</li>
-<li style="">
-<p>Knowledge of other languages such as Rust and Javascript is a nice to have.</p>
-</li>
-<li style="">
-<p>Demonstrated ability to rapidly assimilate new technologies and techniques.</p>
-</li>
-<li style="">
-<p>A degree in Computer Science complemented by a solid track record in development.</p>
-</li>
-</ul>
-<img src="https://remotive.com/job/track/1996157/blank.gif?source=public_api" alt=""/>
+                &lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;
+&lt;p&gt;Over 30 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;
+&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Speechify&#39;s Studio is one of our latest products addressing creators&#39; needs to create human-sounding voiceovers with AI text-to-speech, dub videos, clone their voice and more.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.&lt;/p&gt;
+&lt;p&gt;We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Our interview process involves several technical interviews and we aim to complete them within 1 week.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What Yo&lt;/strong&gt;&lt;strong&gt;u’&lt;/strong&gt;&lt;strong&gt;ll Do&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Build and maintain Speechify&#39;s Creator Studio found at speechify.com/studio&lt;/li&gt;
+&lt;li data-speechify-sentence=&quot;&quot;&gt;Integrate AI models to provide state of the art voiceovers, dubbing, voice cloning and more&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;An Ideal Candidate Should Have&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with AWS/GCS and be able to build service architectures leveraging these services&lt;/li&gt;
+&lt;li&gt;Experience building scalable architectures using micro services&lt;/li&gt;
+&lt;li&gt;Experience writing testable code and pushing the bar higher on testing infrastructure&lt;/li&gt;
+&lt;li&gt;Proficiency with React and modern React stack, or NodeJS, or both&lt;/li&gt;
+&lt;li&gt;Understanding low-level JS and be able to profile and optimize SPA FE/backend performance&lt;/li&gt;
+&lt;li&gt;Preferred: video and audio processing experience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p data-speechify-sentence=&quot;&quot;&gt;&lt;strong&gt;What We Offer &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A dynamic environment where your contributions shape the company and its products&lt;/li&gt;
+&lt;li&gt;A team that values innovation, intuition, and drive&lt;/li&gt;
+&lt;li&gt;Autonomy, fostering focus and creativity&lt;/li&gt;
+&lt;li&gt;The opportunity to have a significant impact in a revolutionary industry&lt;/li&gt;
+&lt;li&gt;Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture&lt;/li&gt;
+&lt;li&gt;The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more&lt;/li&gt;
+&lt;li&gt;An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Salary&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;strong&gt;United States base&lt;/strong&gt; &lt;strong&gt;salary range&lt;/strong&gt; for this full-time position is $140,000-$200,000 + bonus + equity depending on experience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Think you’re a good fit for this job?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tell us more about yourself and why you&#39;re interested in the role when you apply. &lt;br&gt;And don’t forget to include links to your portfolio and LinkedIn.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Not looking but know someone who would make a great fit?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Refer them!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.&lt;/p&gt;
                 </details>
                 </td>
             </tr></table>
