@@ -1,236 +1,110 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/32529485?s=200&v=4" width="38px" height="auto">
+                    <img src="https://circle.so/apple-icon.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Speechify</h5>
-                    <h3>Senior Software Engineer, Core Experiences </h3>
+                    <h5>Circle</h5>
+                    <h3>Senior Front-End Software Engineer, Email Hub</h3>
                 </td>
                 <td width="300">
-                    <code>java </code><code>kotlin</code>
+                    <code>ruby</code><code>typescript</code><code>react</code><code>legal</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-software-engineer-core-experiences-speechify-4297" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-front-end-software-engineer-email-hub-circle-9621" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                &lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Speechify is the easiest way to listen to the world’s information.&lt;/strong&gt; Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.&lt;/p&gt;
-&lt;p&gt;What streaming services have done for audio entertainment, we’re doing for audio information. And whatever we’re doing seems to be working. We’re #1 in our category, and experiencing exponential growth.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p data-speechify-sentence=&quot;&quot;&gt;We&#39;re looking for a Senior Software Engineer to join our Core Experiences Team. This team builds and maintains the foundational services and SDKs that power Speechify’s product experience across platforms. It&#39;s a critical role for someone who enjoys working at the intersection of product and infrastructure, thinks strategically, and is passionate about designing clear, reliable APIs and simple systems that directly enhance the user experience.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What Yo&lt;/strong&gt;&lt;strong&gt;u’&lt;/strong&gt;&lt;strong&gt;ll Do&lt;/strong&gt;&lt;/p&gt;
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;About Us&lt;/h2&gt;
+&lt;p&gt;Circle is building the world’s leading all-in-one platform for online communities. We make it possible for creators, coaches, educators, and businesses to bring together their audience with engaging discussions, live streams, events, chat, courses, and payments — all in one place, all under their own brand.&lt;/p&gt;
+&lt;p&gt;We’re proud to be a fully remote company of around 200 (and growing!) team members from 30+ countries around the world. We seek exceptional individuals around the world, set them up to do the best work of their lives, and in turn, create a meaningful impact in their own lives. We don&#39;t track hours, but we do manage for high expectations very closely. We collaborate across time zones, are highly async, and like to document a lot.&lt;/p&gt;
+&lt;p&gt;Twice a year, we bring the whole company together in beautiful places around the world for our company offsites. So far, we’ve hosted offsites in Turkey, Portugal, Mexico, Thailand, Colombia, Italy, Ireland, and more, with still more to come!&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;About the role&lt;/h2&gt;
+&lt;p&gt;In October 2024, our team released an exciting new extension of Circle: Email Hub. We&#39;re looking for a Senior Front-end Software Engineer to join our Email Hub team as we aim to make Circle the top choice for creator/brand-led communities. You&#39;ll be working on our Email Workflows and Editor.&lt;/p&gt;
+&lt;p&gt;In this role, you will partake in all stages of the development lifecycle, from initial task definition to final deployment. As a senior engineer, you&#39;ll break down large epics into actionable tasks, follow through with development and testing, review PRs, push updates to production, and gradually release behind feature flags. Your responsibilities will also include bug-fixing and continuous improvement of the codebase. This role requires a high level of technical proficiency and a strong understanding of software development best practices.&lt;/p&gt;
+&lt;h2&gt;What you’ll be doing&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Collaborate with Speechify’s Product Teams to scope projects, find ways to reduce scope to get faster feedback from customers, navigate the integration/UX tradeoffs relevant to different product teams, and deliver solutions via our cross-platform SDK&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Optimize existing functionality to ship things like faster loading and more intelligent parsing by designing more efficient abstractions and improving our algorithms&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Ship cloud functions, lightweight backend services, and jobs using Kotlin&lt;/li&gt;
+&lt;li&gt;Work autonomously on a frontend architecture written in React and Tailwind CSS.&lt;/li&gt;
+&lt;li&gt;Integrate with our Ruby on Rails backend through a REST API.&lt;/li&gt;
+&lt;li&gt;Build critical features and improvements to Circle community platform, our Email Hub platform and Workflows (automations) tools.&lt;/li&gt;
+&lt;li&gt;Improve the quality of our codebase, identify architectural deficiencies, and create achievable paths to solve/evolve them.&lt;/li&gt;
+&lt;li&gt;Work closely with Circle&#39;s leaders throughout the feature spec + design process.&lt;/li&gt;
+&lt;li&gt;Work closely with our designers to design and develop a world-class user experience.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;An Ideal Candidate Should Have&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;What you’ll need to be successful&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Systems thinking. You know that optimizing a system requires end-to-end design, and you believe simplicity is valuable.&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Speed. You work quickly to generate ideas and options and know how to decide which things can ship now and what things need time&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Focus. We’re a high-growth startup with a busy, remote team. You know how and when to engage or be heads down&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Collaboration. You know how to inspire, play, and negotiate with opinionated designers, marketers, and PMs&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Preferred Tech Stack:
+&lt;li&gt;Strong alignment with our values, &lt;a href=&quot;https://www.notion.so/Circle-Careers-223a15ea312c4922b793593d07add7fe?pvs=21&quot;&gt;find our values on our career page&lt;/a&gt; if you haven’t read up on them yet&lt;/li&gt;
+&lt;li&gt;5+ years experience working as a Front-end engineer on complex web applications&lt;/li&gt;
+&lt;li&gt;Strong proficiency in React, TypeScript, Tailwind CSS and working with APIs.&lt;/li&gt;
+&lt;li&gt;Strong judgment and attention to detail when it comes to architectural, product, design, and process decisions. Your judgment should inspire a high level of trust within the team.&lt;/li&gt;
+&lt;li&gt;A desire to work in an environment which values speed of iteration and individual autonomy, while also embracing personal accountability and the ability to collaborate effectively as part of a dynamic team.&lt;/li&gt;
+&lt;li&gt;Motivation to understand the business, our users, their needs &amp;amp; goals, and to deliver results.&lt;/li&gt;
+&lt;li&gt;Comfortable in a fast-paced environment with a certain level of ambiguity.&lt;/li&gt;
+&lt;li&gt;Great communication skills both in writing and verbal/oral (English).&lt;/li&gt;
+&lt;li&gt;Adaptable with the ability to change direction quickly if necessary.&lt;/li&gt;
+&lt;li&gt;Familiar with agile software development principles.&lt;/li&gt;
+&lt;li&gt;Should be able to lead a complex project end to end with judgment and attention to detail when it comes to architectural, product, design, and process decisions, your judgment should inspire a high level of trust within the team.&lt;/li&gt;
+&lt;li&gt;Experience working on a fully distributed remote team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bonus points&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li data-stringify-indent=&quot;1&quot; data-stringify-border=&quot;0&quot;&gt;Kotlin Multiplatform (Java experience is OK but role is Kotlin Multiplatform)&amp;nbsp;&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;1&quot; data-stringify-border=&quot;0&quot;&gt;Prior experience with GCP is a plus&lt;/li&gt;
+&lt;li&gt;Previous experience working with community platforms.&lt;/li&gt;
+&lt;li&gt;Experience working with a Ruby on Rails backend.&lt;/li&gt;
+&lt;li&gt;Experience working on Email editors, with email deliverability, workflow solutions, or in the creator space.&lt;/li&gt;
+&lt;li&gt;Experience at a fast-growing start-up.&lt;/li&gt;
+&lt;li&gt;A track record of picking up new technologies and skills as you ship high-quality code&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p data-speechify-sentence=&quot;&quot;&gt;&lt;strong&gt;What We Offer &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;$130,000 - $140,000 USD per year&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;The cash compensation range shown is a starting point. In addition to equity, benefits and perks, your cash compensation is subject to an annual review and increase on a once per year basis.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;The fun stuff&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;A fast-growing environment where you can help shape the company and product.&lt;/li&gt;
-&lt;li&gt;An entrepreneurial-minded team that supports risk, intuition, and hustle.&lt;/li&gt;
-&lt;li&gt;A hands-off management approach so you can focus and do your best work.&lt;/li&gt;
-&lt;li&gt;An opportunity to make a big impact in a transformative industry.&lt;/li&gt;
-&lt;li&gt;Competitive salaries, a friendly and laid-back atmosphere, and a commitment to building a great asynchronous culture.&lt;/li&gt;
-&lt;li&gt;Opportunity to work on a life-changing product that millions of people use.&lt;/li&gt;
-&lt;li&gt;Build products that directly impact and support people with learning differences like dyslexia, ADD, low vision, concussions, autism, and more.&lt;/li&gt;
-&lt;li&gt;Work in one of the fastest growing sectors of tech, the intersection of artificial intelligence and audio.&lt;/li&gt;
+&lt;li&gt;Fully remote:&amp;nbsp;work from anywhere in the world!&lt;/li&gt;
+&lt;li&gt;Autonomy and trust to do your job:&amp;nbsp;we care about outcomes over everything else.&lt;/li&gt;
+&lt;li&gt;Paid time away:&amp;nbsp;all employees are given 35 days of PTO annually. We also offer a paid sabbatical after 5 years.&lt;/li&gt;
+&lt;li&gt;Generous U.S. benchmarked compensation&amp;nbsp;and startup equity no matter where you are in the world.*&lt;/li&gt;
+&lt;li&gt;Awesome medical coverage&amp;nbsp;with 100% coverage for you and your family, or medical reimbursement options where applicable!*&lt;/li&gt;
+&lt;li&gt;Parental leave&amp;nbsp;for parents expanding their family, or just starting one.&lt;/li&gt;
+&lt;li&gt;Home office stipend&amp;nbsp;to help you get up and running.&lt;/li&gt;
+&lt;li&gt;Learning &amp;amp; development stipend&amp;nbsp;to help you level up your professional skills.&lt;/li&gt;
+&lt;li&gt;Annual bonus potential&amp;nbsp;for roles that don&#39;t already receive variable income or commission.&lt;/li&gt;
+&lt;li&gt;Company retreats:&amp;nbsp;Twice a year, the Circle team gets together for a fully paid company retreat in incredible places around the world! We’ve had past retreats in Colombia, Portugal, and Mexico, with more planned on the horizon.&lt;/li&gt;
+&lt;li&gt;Check out our&amp;nbsp;&lt;a href=&quot;https://careers.circle.so/&quot;&gt;Careers&lt;/a&gt;&amp;nbsp;page for more.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Compensation&lt;/strong&gt;: The US base salary range for this full-time position is $140,000-$200,000 + bonus + equity depending on experience&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Think you’re a good fit for this job?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Tell us more about yourself and why you&#39;re interested in the role when you apply. &lt;br&gt;And don’t forget to include links to your portfolio and LinkedIn.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Not looking but know someone who would make a great fit?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Refer them!&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.&lt;/p&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/32529485?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Speechify</h5>
-                    <h3>Senior Software Engineer, Core Experiences </h3>
-                </td>
-                <td width="300">
-                    <code>java </code><code>kotlin</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-software-engineer-core-experiences-speechify-6932" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Speechify is the easiest way to listen to the world’s information.&lt;/strong&gt; Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.&lt;/p&gt;
-&lt;p&gt;What streaming services have done for audio entertainment, we’re doing for audio information. And whatever we’re doing seems to be working. We’re #1 in our category, and experiencing exponential growth.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p data-speechify-sentence=&quot;&quot;&gt;We&#39;re looking for a Senior Software Engineer to join our Core Experiences Team. This team builds and maintains the foundational services and SDKs that power Speechify’s product experience across platforms. It&#39;s a critical role for someone who enjoys working at the intersection of product and infrastructure, thinks strategically, and is passionate about designing clear, reliable APIs and simple systems that directly enhance the user experience.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What Yo&lt;/strong&gt;&lt;strong&gt;u’&lt;/strong&gt;&lt;strong&gt;ll Do&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;*&lt;em&gt;Your role, location and unique circumstance may affect this.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;Diversity, Equity &amp;amp; Inclusion&lt;/h3&gt;
+&lt;p&gt;As a fully-remote international company, diversity is baked into our DNA. Here’s how our CEO, Sid Yadav, frames our hiring mission: “let’s find talent in underserved and under-represented corners of the world, set them up to do the best work of their lives, and in turn, change their life.” To achieve this hiring mission, we offer competitive&amp;nbsp;U.S. benchmarked&amp;nbsp;compensation no matter where someone’s located in the world, and we proactively seek candidates who expand representation of backgrounds, cultures and lived experiences in our teams.&lt;/p&gt;
+&lt;h3&gt;Equal Employment Opportunity&lt;/h3&gt;
+&lt;p&gt;Circle is an equal opportunity employer and as such, we do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or any other characteristic protected by applicable laws.&amp;nbsp;If you require any accommodations during the recruitment process, please let us know and we will work with you to meet your needs.&lt;/p&gt;
+&lt;div class=&quot;&quot;&gt;
+&lt;h3 class=&quot;&quot;&gt;How We Use Candidate Data&lt;/h3&gt;
+&lt;p&gt;At Circle, we are committed to protecting your personal information. As a job applicant, the personal data you provide to us is collected and processed in accordance with the&amp;nbsp;&lt;strong&gt;General Data Protection Regulation (GDPR)&lt;/strong&gt; in the EU and the &lt;strong&gt;California Consumer Privacy Act (CCPA)&lt;/strong&gt;. This notice outlines the types of personal information we collect, the purpose for collecting it, and your rights.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Information We Collect:&lt;/strong&gt; We collect the following categories of personal information from job applicants:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Collaborate with Speechify’s Product Teams to scope projects, find ways to reduce scope to get faster feedback from customers, navigate the integration/UX tradeoffs relevant to different product teams, and deliver solutions via our cross-platform SDK&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Optimize existing functionality to ship things like faster loading and more intelligent parsing by designing more efficient abstractions and improving our algorithms&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Ship cloud functions, lightweight backend services, and jobs using Kotlin&lt;/li&gt;
+&lt;li&gt;Contact information (such as name, email address, phone number)&lt;/li&gt;
+&lt;li&gt;Employment history and qualifications&lt;/li&gt;
+&lt;li&gt;Education history&lt;/li&gt;
+&lt;li&gt;References and any other information you choose to share with us during the application process&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;An Ideal Candidate Should Have&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Purpose of Collection:&lt;/strong&gt; We collect this information for the following purposes:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Systems thinking. You know that optimizing a system requires end-to-end design, and you believe simplicity is valuable.&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Speed. You work quickly to generate ideas and options and know how to decide which things can ship now and what things need time&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Focus. We’re a high-growth startup with a busy, remote team. You know how and when to engage or be heads down&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Collaboration. You know how to inspire, play, and negotiate with opinionated designers, marketers, and PMs&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Preferred Tech Stack:
+&lt;li&gt;To assess your qualifications and suitability for the position&lt;/li&gt;
+&lt;li&gt;To communicate with you during the recruitment process&lt;/li&gt;
+&lt;li&gt;To comply with legal and regulatory obligations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Your Rights Under GDPR and CCPA:&lt;/strong&gt; You have the following rights regarding your personal information:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li data-stringify-indent=&quot;1&quot; data-stringify-border=&quot;0&quot;&gt;Kotlin Multiplatform (Java experience is OK but role is Kotlin Multiplatform)&amp;nbsp;&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;1&quot; data-stringify-border=&quot;0&quot;&gt;Prior experience with GCP is a plus&lt;/li&gt;
+&lt;li&gt;The right to request access to the personal information we hold about you.&lt;/li&gt;
+&lt;li&gt;The right to request the deletion of your personal information, subject to certain legal exceptions.&lt;/li&gt;
+&lt;li&gt;The right to opt out of the sale of your personal information (Note: We do not sell personal information).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p data-speechify-sentence=&quot;&quot;&gt;&lt;strong&gt;What We Offer &lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A fast-growing environment where you can help shape the company and product.&lt;/li&gt;
-&lt;li&gt;An entrepreneurial-minded team that supports risk, intuition, and hustle.&lt;/li&gt;
-&lt;li&gt;A hands-off management approach so you can focus and do your best work.&lt;/li&gt;
-&lt;li&gt;An opportunity to make a big impact in a transformative industry.&lt;/li&gt;
-&lt;li&gt;Competitive salaries, a friendly and laid-back atmosphere, and a commitment to building a great asynchronous culture.&lt;/li&gt;
-&lt;li&gt;Opportunity to work on a life-changing product that millions of people use.&lt;/li&gt;
-&lt;li&gt;Build products that directly impact and support people with learning differences like dyslexia, ADD, low vision, concussions, autism, and more.&lt;/li&gt;
-&lt;li&gt;Work in one of the fastest growing sectors of tech, the intersection of artificial intelligence and audio.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Think you’re a good fit for this job?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Tell us more about yourself and why you&#39;re interested in the role when you apply. &lt;br&gt;And don’t forget to include links to your portfolio and LinkedIn.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Not looking but know someone who would make a great fit?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Refer them!&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.&lt;/p&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/69215121?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clutch</h5>
-                    <h3>Senior Software Engineer - Security</h3>
-                </td>
-                <td width="300">
-                    <code>aws</code><code>node.js</code><code>python</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-software-engineer-security-clutch-7219" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h1><strong>About the Role</strong></h1><p style="min-height:1.5em">As a Senior Software Security Engineer at Clutch, you will play a critical role in shaping and executing our application and infrastructure security posture. You’ll be embedded in engineering, driving secure-by-design practices, threat modeling, and proactive risk mitigation. This is a hands-on role for someone passionate about building secure systems and influencing security culture across a fast-paced fintech startup.</p><p style="min-height:1.5em">You’ll act as a key advisor for secure architecture and be responsible for identifying, fixing, and preventing vulnerabilities in our services, tooling, and developer workflows.</p><p style="min-height:1.5em"></p><h1><strong>About the Team</strong></h1><p style="min-height:1.5em">The Security, Infrastructure &amp; Platform team is a multidisciplinary group focused on scaling our systems securely and efficiently.</p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">We partner closely with product engineering to embed security throughout the SDLC.</p></li><li><p style="min-height:1.5em">We value pragmatism, ownership, and curiosity — always asking “how can we make this safer and faster?”</p></li><li><p style="min-height:1.5em">We’re building a security-first engineering culture that doesn't slow teams down, but enables them to move fast responsibly.</p></li></ul><p style="min-height:1.5em"></p><h1><strong>What You’ll Do</strong></h1><p style="min-height:1.5em"></p><h2>Within 3 months, you will:</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Embed with engineering teams to review and co-develop security-critical features, providing practical guidance on secure design and implementation.</p></li><li><p style="min-height:1.5em">Perform code and architecture reviews focused on identifying and mitigating risks in our backend services and web applications.</p></li><li><p style="min-height:1.5em">Integrate developer-friendly security tooling (SAST, SCA, secret scanners) into our CI/CD pipelines and improve feedback loops.</p></li><li><p style="min-height:1.5em">Work closely with developers to fix early security issues, promote secure coding standards, and minimize recurring vulnerabilities.</p></li></ul><h2>Within 6 months, you will:</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Lead the design and rollout of a developer-focused Secure SDLC, with actionable security gates and clear ownership per stage.</p></li><li><p style="min-height:1.5em">Collaborate with product and engineering to build features securely by default, including auth, encryption, and access control layers.</p></li><li><p style="min-height:1.5em">Build internal tools or contribute to platform codebases to help automate threat detection or harden developer workflows.</p></li><li><p style="min-height:1.5em">Launch an internal security knowledge base or playbook, based on real scenarios and tailored to Clutch’s tech stack and dev needs.</p></li></ul><h2>Within 9 months, you will:</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Develop and maintain secure libraries and frameworks used across engineering (e.g., auth modules, secure wrappers, input validators).</p></li><li><p style="min-height:1.5em">Contribute code and reviews to critical systems or developer tooling, ensuring security is deeply integrated — not bolted on.</p></li><li><p style="min-height:1.5em">Support and mentor a security champion network inside engineering teams to scale knowledge and influence through code.</p></li><li><p style="min-height:1.5em">Partner with developers to threat model new services and architecture evolutions, helping teams make informed trade-offs.</p></li></ul><p style="min-height:1.5em"></p><h1><strong>What You’ll Bring</strong></h1><ul style="min-height:1.5em"><li><p style="min-height:1.5em">5+ years of experience in software/application security, ideally in fast-growing startups or fintech environments.</p></li><li><p style="min-height:1.5em">Deep knowledge of web application security, secure software design, API hardening, and threat modeling.</p></li><li><p style="min-height:1.5em">Experience integrating security into CI/CD pipelines, including use of SAST, DAST, SCA, and IaC scanning tools.</p></li><li><p style="min-height:1.5em">Familiarity with common compliance frameworks (e.g., SOC 2, GLBA, PCI-DSS) and cloud-native security (AWS, GCP preferred).</p></li><li><p style="min-height:1.5em">Strong coding background (e.g., Node.js, Python, Go) and ability to read, understand, and debug code securely.</p></li><li><p style="min-height:1.5em">Excellent communication skills, with the ability to influence without authority and foster cross-functional collaboration.</p></li></ul><p style="min-height:1.5em"><em>Please note that this role may evolve as our business needs change, so we appreciate your flexibility and adaptability.</em></p><p style="min-height:1.5em"><strong>What’s In It For You?</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Remote Flexibility:</strong> Enjoy the freedom of remote work from anywhere, balancing life and career seamlessly.</p></li><li><p style="min-height:1.5em"><strong>Unforgettable Off-Sites:</strong> Twice a year, bond with colleagues in exciting destinations, fostering teamwork and fresh ideas.</p></li><li><p style="min-height:1.5em"><strong>Paid Time Off and National Holidays:</strong> Enjoy 20 PTO days yearly and the National Holidays for relaxation and rejuvenation.</p></li><li><p style="min-height:1.5em"><strong>Stock Options:</strong> Joining us means having a stake in our success, so you'll receive stock options as part of your compensation package.</p></li><li><p style="min-height:1.5em"><strong>Home Office Setup:</strong> Create your ideal workspace with a dedicated budget for home office essentials.</p></li><li><p style="min-height:1.5em"><strong>Work Trip Budget:</strong> Grow personally and professionally with a budget for work-related trips and co-working.</p></li></ul><p style="min-height:1.5em"><strong>About Us</strong></p><p style="min-height:1.5em"><strong>Clutch</strong> is a revolutionary vertical SaaS company, proudly backed by Andreessen Horowitz (A16z), aimed at revolutionizing the way Credit Unions engage and change the lives of their members. As a champion of financial well-being, we address the urgent need for affordable lending solutions in an era where the average American grapples with over $155,000 in household debt.  Unlike traditional financial institutions, Clutch develops software to turn Credit Unions into FinTech lenders and leverage their balance sheets to responsibly lend to over 130M Americans. Our mission extends beyond mere financial transactions; we strive to fundamentally enhance the way credit unions interact with their members. By integrating cutting-edge technologies and user-centric designs, we help credit unions provide seamless digital experiences that are on par with leading tech companies. This approach not only preserves but revitalizes the longstanding tradition of community and member-focused service inherent to credit unions.</p><p style="min-height:1.5em"><strong>Please note:</strong> This position is offered on a contractor basis. Applicants must have the necessary documentation and authorization to work in the country where the job is located. Clutch cannot provide sponsorship or assist with obtaining work permits for this role.<br /><br /><strong>A Note About AI at Clutch</strong><br />We love AI. We use it often and encourage our team to creatively and effectively leverage AI tools in their work. If you join Clutch, we hope you'll bring the same enthusiasm for exploring how AI can amplify impact, productivity, and innovation.<br /><br />That said, during the interview process, <strong>we want to hear </strong><em><strong>your</strong></em><strong> thoughts</strong>. Please approach interviews without the use of AI tools—our goal is to get to know how <em>you</em> think, solve problems, and communicate. Once you're in the seat, bring on the prompts!</p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu</h3>
-                </td>
-                <td width="300">
-                    <code>kubernetes</code><code>python</code><code>golang</code><code>javascript</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/graduate-software-engineer-open-source-and-linux-canonical-ubuntu-canonical-6840" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;p&gt;Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world&#39;s leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.&lt;/p&gt;
-&lt;p&gt;The company is founder led, profitable and growing.&lt;/p&gt;
-&lt;p&gt;We are hiring &lt;strong&gt;2024 and 2025 Graduate Software Engineers&lt;/strong&gt; into engineering teams around the world. As a global platform company we offer a wide range of software engineering challenges, in both open source products and commercial business systems. We have teams that work in a variety of languages, typically Python, Golang, Rust, C/C++, JavaScript and of course... Bash. We work from the very lowest levels of the Linux system - BIOS and boot loaders, firmware, kernel and drivers, all the way up to desktop applications and containers. We work on tiny devices like the Raspberry Pi and new RISC-V boards, all the way up to supercomputers, clouds and Kubernetes clusters. We work on compilers and toolchains, and we work on security, cryptography, performance and documentation. Some of our teams focus on packaging thousands of pieces of software, others focus on deep contributions to a single body of code.&lt;/p&gt;
-&lt;p&gt;If you are excited about the potential that open source has for humanity and the enterprise, you have outstanding results in your academic career, and you are excited to contribute to the open source stack, this is the best way to apply to Canonical. We will work with you to identify teams and projects that would be interesting and a good fit for your skills and motivations. The process is highly competitive, it will require effort and excellence to succeed if you apply here.&lt;/p&gt;
-&lt;p&gt;Most of our engineering teams work from home. We try to align a single team in a single time zone - EMEA (Europe, Middle East and Africa), APAC (Asia Pacific and Indian Ocean), and AMER (North, South and Central Americas). Even though you work from home, we try to ensure you always have colleagues alongside to coach and mentor you, and for the companionship of shared problem solving and pair programming. Larger projects have multiple teams and might span the globe. We work with the open source community and specialize in building teams that work well in the &#39;fishbowl&#39; of open source engineering. This is full time work, five days a week, often solving hard problems with significant responsibility. We don&#39;t generally work weekends and nights and we do enjoy good holidays but we also expect productive and intense engagement Monday to Friday.&lt;/p&gt;
-&lt;p&gt;We bring all our engineering teams together in person twice a year for a deep &#39;sprint&#39; with other teams to stimulate discussion and enable a wide range of career development paths. This is a fantastic way to demonstrate and develop your skill in software, learn about a wide range of technologies, make a meaningful impact to open source, and see some very interesting new cities that you might never otherwise get to visit.&lt;/p&gt;
-&lt;p&gt;If you find the open source stack amazing, and you have been a consistent high-performing student in your school and university, then this will be a challenging and exciting start to your career.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Location: &lt;/strong&gt;This is a Globally remote role.&lt;/p&gt;
-&lt;h3&gt;The role entails&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Shaping the roadmap for your product at global sprints every six months&lt;/li&gt;
-&lt;li&gt;Focusing on design and user experience, even for developer tooling and command line apps&lt;/li&gt;
-&lt;li&gt;Writing high quality, resilient and performant code, potentially serving millions of demanding daily users&lt;/li&gt;
-&lt;li&gt;Working towards mastery of key programming languages and Linux system knowledge&lt;/li&gt;
-&lt;li&gt;Engaging with users and the open source community through code reviews and issue trackers&lt;/li&gt;
-&lt;li&gt;Responding to customer issues as a priority, develop an understanding of enterprise requirements&lt;/li&gt;
-&lt;li&gt;Developing skills and awareness of security in software design and implementation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;What we are looking for in you&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Exceptional academic track record from both high school and university&lt;/li&gt;
-&lt;li&gt;Undergraduate degree in Computer Science, Business Informatics, Mathematics or another STEM discipline with programming courses&lt;/li&gt;
-&lt;li&gt;Confidence to get started and deliver high quality code in one of Python, Rust, C/C++, Golang, JavaScript or Java&lt;/li&gt;
-&lt;li&gt;Experience with Ubuntu or another Linux distribution&lt;/li&gt;
-&lt;li&gt;Track record of going above-and-beyond expectations to achieve outstanding results&lt;/li&gt;
-&lt;li&gt;Result-oriented and organized, with the drive to meet commitments&lt;/li&gt;
-&lt;li&gt;Personal projects in technology and software engineering beyond the curriculum&lt;/li&gt;
-&lt;li&gt;Professional written and spoken English&lt;/li&gt;
-&lt;li&gt;Excellent interpersonal skills, curiosity, flexibility, and accountability&lt;/li&gt;
-&lt;li&gt;Personal responsibility and accountability&lt;/li&gt;
-&lt;li&gt;Thoughtfulness, self-awareness and the ability to reflect and develop&lt;/li&gt;
-&lt;li&gt;Ability to travel internationally twice a year for company events up to two weeks long&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Nice-to-have skills&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Upstream open source contributions&lt;/li&gt;
-&lt;li&gt;Packaging and Linux distribution contributions - Debian, Fedora, Arch, Nix or another&lt;/li&gt;
-&lt;li&gt;Leadership and organization skills&lt;/li&gt;
-&lt;li&gt;Presentation and writing skills&lt;/li&gt;
-&lt;li&gt;Business and commercial interests&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;What we offer colleagues&lt;/h3&gt;
-&lt;p&gt;We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Distributed work environment with twice-yearly team sprints in person&lt;/li&gt;
-&lt;li&gt;Personal learning and development budget of USD 2,000 per year&lt;/li&gt;
-&lt;li&gt;Annual compensation review&lt;/li&gt;
-&lt;li&gt;Recognition rewards&lt;/li&gt;
-&lt;li&gt;Annual holiday leave&lt;/li&gt;
-&lt;li&gt;Maternity and paternity leave&lt;/li&gt;
-&lt;li&gt;Team Member Assistance Program &amp;amp; Wellness Platform&lt;/li&gt;
-&lt;li&gt;Opportunity to travel to new locations to meet colleagues&lt;/li&gt;
-&lt;li&gt;Priority Pass and travel upgrades for long-haul company events&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;About Canonical&lt;/h3&gt;
-&lt;p&gt;Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.&lt;/p&gt;
-&lt;h3&gt;Canonical is an equal opportunity employer&lt;/h3&gt;
-&lt;p&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. &lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt;Whatever your identity, we will give your application fair consideration.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;#LI-remote&lt;/p&gt;
+&lt;p&gt;For more information about how we handle your personal data or to exercise your rights, please refer to our full &lt;a href=&quot;https://circle.so/privacy&quot; target=&quot;_blank&quot;&gt;Privacy Policy&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;By submitting your application, you acknowledge that you have read and understood this privacy notice.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr></table>
