@@ -1,1 +1,25 @@
-<div align="center"><h2>FULLSTACK JOBS</h2></div><table></table>
+<div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1774812048683143168/gSbmfQfa_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Zircuit</h5>
+                    <h3>Senior Full Stack Engineer </h3>
+                </td>
+                <td width="300">
+                    <code>postgres</code><code>sql</code><code>aws</code><code>node.js</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-full-stack-engineer-zircuit-8560" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h2><strong>Summary</strong></h2><p style="min-height:1.5em">Zircuit is looking for a Full-Stack Engineer. As a key player in our team, you'll be tasked with developing and maintaining DApps at the intersection of AI and blockchain.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em">Your role is pivotal in blending front-end wizardry with robust back-end solutions, harnessing technologies like JavaScript/Typescript, React, NextJS, Node.js, Python, SQL, Postgres, MongoDB, alongside AWS main services. With a focus on scalability, high performance, and the exciting realm of blockchain and AI technologies, your work will directly contribute to our mission.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em">You'll be part of an agile team, rapidly prototyping and developing innovative DApps in a dynamic environment with evolving requirements. You'll also play a key role in maintaining and improving existing systems.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Candidate Profile</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Background in Computer Science or related field</p></li><li><p style="min-height:1.5em">5+ years of full-stack development experience building high-performance, large-scale applications using technologies such as NextJS, React, and Python</p></li><li><p style="min-height:1.5em">Extensive knowledge of Javascript/Typescript</p></li><li><p style="min-height:1.5em">Blockchain and experience with wagmi.js, ether.js, and related libraries, including smart contracts interactions</p></li><li><p style="min-height:1.5em">Focus on writing secure code is a must</p></li><li><p style="min-height:1.5em">Proven professional experience in building impactful DApps</p></li><li><p style="min-height:1.5em">Can easily tweak frontend components, or write them from scratch based on design sketches</p></li><li><p style="min-height:1.5em">Backend fluency, being able to design/maintain various backend services and APIs</p></li><li><p style="min-height:1.5em">Knowledge of SQL and Postgres, as well as non-relational databases (e.g., MongoDB)</p></li><li><p style="min-height:1.5em">Expertise in profiling and improving application performance</p></li><li><p style="min-height:1.5em">Strong testing skills</p></li><li><p style="min-height:1.5em">Comfortable with CI/CD pipelines, monitoring, and cloud platforms like AWS and Heroku</p></li><li><p style="min-height:1.5em">Detail-oriented mindset, willingness to learn, and quality-driven personality</p></li><li><p style="min-height:1.5em">Fluent English communication, both written and spoken</p></li><li><p style="min-height:1.5em">Partial overlap with the GST and EST time zones to ease team communication</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Nice to Have</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">1+ years experience in creating DeFi applications</p></li><li><p style="min-height:1.5em">Experience building LLM applications using AI/ML frameworks and libraries (e.g., TensorFlow, PyTorch).</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Compensation &amp; Perks</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">A competitive salary that matches your experience, plus performance bonuses and token grants</p></li><li><p style="min-height:1.5em">Work from anywhere, 100% remote, and flexible working hours</p></li><li><p style="min-height:1.5em">Generous paid time off, including maternity/paternity leave</p></li><li><p style="min-height:1.5em">Retirement/pension plan</p></li><li><p style="min-height:1.5em">Free gym membership, or any virtual alternative of your choice</p></li><li><p style="min-height:1.5em">Rent your own desk in a co-working space or work from anywhere at any time.</p></li><li><p style="min-height:1.5em">Join all-expenses-paid retreats in exotic/exclusive locations with the team</p></li></ul>
+                </details>
+                </td>
+            </tr></table>
