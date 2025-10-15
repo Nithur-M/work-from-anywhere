@@ -4,16 +4,16 @@
                 </td>
                 <td width="300">
                     <h5>Xapo Bank</h5>
-                    <h3>Lead Product Manager - Institutional (Remote - Work from Anywhere)</h3>
+                    <h3>Product Manager  - Growth & Subscriptions (Remote Work from Anywhere)</h3>
                 </td>
                 <td width="300">
-                    <code>blockchain</code><code>legal</code>
+                    <code>blockchain</code><code>bitcoin</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/lead-product-manager-institutional-remote-work-from-anywhere-xapo-bank-486" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/product-manager-growth-subscriptions-remote-work-from-anywhere-xapo-bank-6069" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -28,38 +28,62 @@
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Although we are headquartered in Gibraltar, this is a full time, 100% remote position&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Work from anywhere!&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Position overview&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;As Lead Product Manager - Institutional, you will own the end-to-end success of our new institutional product offering. This is a rare, high-impact opportunity to architect a product portfolio from the ground up, requiring a deep, actionable understanding of both traditional finance and cryptocurrency. Your mission will be to define the strategy, drive development and execute to deliver a world-class institutional experience.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Responsibilities&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As Product Manager, Growth &amp;amp; Subscriptions, you will play a pivotal role in driving Xapo Bank’s retail PnL through enhanced member loyalty and organic growth. This high-impact role requires an entrepreneurial, data-driven approach, leveraging financial incentives and rewards to showcase the tangible value of our subscription. You will own the strategy, development and execution of our value-added ecosystem, ensuring Xapo Bank becomes indispensable to our members&#39; financial lives.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Mission:&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;To embed Xapo into the core of our members&#39; financial lives by maximising the economic value they gain from every interaction. Your mission is to architect and scale a world-class growth ecosystem,&amp;nbsp; comprising earnings, referral incentives and savings opportunities,&amp;nbsp; that delivers tangible, everyday financial benefits, fostering deep loyalty and organic growth.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Responsibilities:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Product Strategy and Vision.&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li data-start=&quot;82&quot; data-end=&quot;377&quot;&gt;&lt;strong data-start=&quot;82&quot; data-end=&quot;113&quot;&gt;Product Strategy and Vision&lt;/strong&gt;&lt;br data-start=&quot;113&quot; data-end=&quot;116&quot;&gt;Define, champion, and execute a compelling product vision and strategy for Xapo Bank’s institutional offerings. Ensure the product strategy is aligned with overall business goals, target client segments, and Xapo Bank’s unique value proposition in the market.&lt;/li&gt;
-&lt;li data-start=&quot;379&quot; data-end=&quot;741&quot;&gt;&lt;strong data-start=&quot;379&quot; data-end=&quot;422&quot;&gt;End-to-End Product Lifecycle Management&lt;/strong&gt;&lt;br data-start=&quot;422&quot; data-end=&quot;425&quot;&gt;Own the entire product development lifecycle, from ideation through launch and iteration. Develop and maintain a prioritised, data-driven product roadmap, translating strategy into detailed product requirements, user stories, and acceptance criteria to ensure on-time, high-quality, and impactful feature delivery.&lt;/li&gt;
-&lt;li data-start=&quot;743&quot; data-end=&quot;1088&quot;&gt;&lt;strong data-start=&quot;743&quot; data-end=&quot;785&quot;&gt;Institutional User Experience (UX/API)&lt;/strong&gt;&lt;br data-start=&quot;785&quot; data-end=&quot;788&quot;&gt;Collaborate closely with Design, Engineering, and operational teams to define and optimise a world-class institutional user experience. This includes driving excellence across both the Web UI and API architecture, ensuring resilience, scalability, and ease of integration for institutional clients.&lt;/li&gt;
-&lt;li data-start=&quot;1090&quot; data-end=&quot;1451&quot;&gt;&lt;strong data-start=&quot;1090&quot; data-end=&quot;1136&quot;&gt;Market Intelligence &amp;amp; Growth Opportunities&lt;/strong&gt;&lt;br data-start=&quot;1136&quot; data-end=&quot;1139&quot;&gt;Conduct in-depth market analysis and stay abreast of the institutional digital asset landscape, including the competitive environment, emerging technological trends, and global regulatory changes. Translate these insights into concrete, data-driven opportunities for product differentiation and revenue growth.&lt;/li&gt;
-&lt;li data-start=&quot;1453&quot; data-end=&quot;1862&quot;&gt;&lt;strong data-start=&quot;1453&quot; data-end=&quot;1498&quot;&gt;Cross-Functional Execution &amp;amp; Go-to-Market&lt;/strong&gt;&lt;br data-start=&quot;1498&quot; data-end=&quot;1501&quot;&gt;Serve as the central leader and decision-maker for all product-related initiatives, collaborating effectively with Design, Engineering, Compliance, Legal, Risk, Finance, and Sales teams. Partner with Sales &amp;amp; Marketing in the development and execution of robust go-to-market strategies for product launches, ensuring successful market penetration and adoption.&lt;/li&gt;
-&lt;li data-start=&quot;1864&quot; data-end=&quot;2089&quot;&gt;&lt;strong data-start=&quot;1864&quot; data-end=&quot;1901&quot;&gt;Financial Analysis and Management&lt;/strong&gt;&lt;br data-start=&quot;1901&quot; data-end=&quot;1904&quot;&gt;Develop and manage pricing strategies, business models, and financial forecasts to ensure sustainable product profitability and market competitiveness in line with Xapo Bank’s values.&lt;/li&gt;
-&lt;li data-start=&quot;2091&quot; data-end=&quot;2336&quot;&gt;&lt;strong data-start=&quot;2091&quot; data-end=&quot;2120&quot;&gt;Business Case Development&lt;/strong&gt;&lt;br data-start=&quot;2120&quot; data-end=&quot;2123&quot;&gt;Develop comprehensive business cases for new initiatives, including partnership opportunities, financial modelling of rewards systems, and P&amp;amp;L forecasting to champion initiatives and align with key stakeholders.&lt;/li&gt;
-&lt;li data-start=&quot;2338&quot; data-end=&quot;2599&quot;&gt;&lt;strong data-start=&quot;2338&quot; data-end=&quot;2374&quot;&gt;Operational Excellence &amp;amp; Quality&lt;/strong&gt;&lt;br data-start=&quot;2374&quot; data-end=&quot;2377&quot;&gt;Establish clear processes and quality gates with internal teams to ensure all product releases meet the highest standards of quality, security, and operational compliance to align with Xapo Bank’s regulatory obligations.&lt;/li&gt;
-&lt;li data-start=&quot;2601&quot; data-end=&quot;2859&quot;&gt;&lt;strong data-start=&quot;2601&quot; data-end=&quot;2640&quot;&gt;Performance Monitoring and Analysis&lt;/strong&gt;&lt;br data-start=&quot;2640&quot; data-end=&quot;2643&quot;&gt;Define, monitor, and report on key product performance indicators (KPIs) and financial metrics, leveraging data and customer feedback to identify optimisation opportunities and drive continuous product improvement.&lt;/li&gt;
-&lt;li data-start=&quot;2861&quot; data-end=&quot;3084&quot;&gt;&lt;strong data-start=&quot;2861&quot; data-end=&quot;2886&quot;&gt;Invest in Your Future&lt;/strong&gt;&lt;br data-start=&quot;2886&quot; data-end=&quot;2889&quot;&gt;Dedicated budget for external training, industry certifications, and conferences, coupled with opportunities to drive strategic initiatives and mentor talent for accelerated career advancement.&lt;/li&gt;
+&lt;li&gt;Define and own the product vision for member engagement and subscriptions, creating a strategic roadmap for our earnings, referrals and loyalty programmes.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Journey Optimisation.&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop and optimise member journeys with a primary focus on maximising engagement with earnings features, moving beyond activation to metrics like referral-driven growth, member LTV and churn reduction.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;End-to-End Product Execution.&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Drive execution with a dedicated cross-functional team of engineers, designers and analysts to deliver complex high-impact product initiatives from ideation through launch and iteration.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Experimentation &amp;amp; Loyalty Research.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conduct deep market and user research to identify key motivators for loyalty and advocacy, translating insights into a prioritised backlog of growth-oriented features.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Design and lead a sophisticated experimentation programme to optimise the loyalty funnel including referral conversion rates, rewards and the impact of direct and indirect savings on member retention.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Performance &amp;amp; PnL Ownership.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Instrument, analyse and own a sophisticated set of KPIs that measure the success of the rewards ecosystem including programme ROI, Customer Acquisition Cost (CAC) reduction and uplift in member engagement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Business Case Development.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop comprehensive business cases for new initiatives, including partnership opportunities, financial modelling of rewards systems and PnL forecasting to champion initiatives and align with key stakeholders.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Cross-Functional Collaboration.&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Work closely with Technology, Design, Marketing, Data and Finance to create cohesive data-driven campaigns and product features that drive adoption of our rewards and referral programmes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Thought Leadership.&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Serve as the company&#39;s leading expert on loyalty, earnings and growth mechanics within the fintech space, influencing other product teams to integrate these principles across the platform.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Invest in Your Future.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dedicated budget for external training, industry certifications, and conferences, coupled with opportunities to drive strategic initiatives and mentor talent for accelerated career advancement.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Skills needed&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;8+ years experience in financial product management with a track record of successfully launching and commercialising web based B2B products.&lt;/li&gt;
-&lt;li&gt;A self-starter with the decisiveness and entrepreneurial drive required to own and launch critical products within the rapidly evolving, high-stakes regulated cryptocurrency institutional market.&lt;/li&gt;
-&lt;li&gt;Deep understanding of the cryptocurrency and blockchain industry, particularly in the areas of custody, trading and yield.&lt;/li&gt;
-&lt;li&gt;Expert knowledge of traditional banking, treasury, secured lending and investment products for institutional clients.&lt;/li&gt;
-&lt;li&gt;Knowledge of TradFi and Crypto regulations (AML, KYC, VASP, MiCA), building compliant products by design.&lt;/li&gt;
-&lt;li&gt;Proficiency in defining and tracking KPIs and leveraging data for objective product decisions.&lt;/li&gt;
-&lt;li&gt;Excellent analytical, strategic thinking and problem solving skills.&lt;/li&gt;
-&lt;li&gt;Exceptional communication and interpersonal skills with the ability to influence and collaborate effectively in a global, multicultural environment&lt;/li&gt;
-&lt;li&gt;High attention to detail with strong organisational and project management abilities.&lt;/li&gt;
-&lt;li&gt;Ability to identify and mitigate risks related to custody, lending and liquidity.&lt;/li&gt;
-&lt;li&gt;Experience in financial modeling, dynamic pricing and business case development.&lt;/li&gt;
-&lt;li&gt;Proven ability to translate complex financial and security requirements into intuitive, compliance-aware user journeys for web platforms and B2B API integrations.&lt;/li&gt;
+&lt;li&gt;4+ years product management experience in consumer financial products, preferably in a growth, loyalty or rewards programme function.&lt;/li&gt;
+&lt;li&gt;Understanding of the cryptocurrency and blockchain industry in the areas of custody, trading, yield and payments.&lt;/li&gt;
+&lt;li&gt;Demonstrable track record of owning and shipping complex products that have measurably increased retention and driven significant business growth via incentive mechanisms.&lt;/li&gt;
+&lt;li&gt;Experience in financial modelling, dynamic pricing and business case development to maximise PnL, drive profitability and execute strategies for revenue growth.&lt;/li&gt;
+&lt;li&gt;Expert-level proficiency with data analytics, A/B testing and experimentation tools for objective decision-making.&lt;/li&gt;
+&lt;li&gt;Deep domain expertise in customer retention, subscription-based business models and optimising user journeys for advocacy and growth.&lt;/li&gt;
+&lt;li&gt;Deep commitment to user experience, prioritising delightful experiences.&lt;/li&gt;
+&lt;li&gt;Deep understanding of Agile methodologies and modern product management frameworks.&lt;/li&gt;
+&lt;li&gt;A self-starter with the decisiveness and entrepreneurial drive required to own and launch critical growth products within a rapidly evolving scale-up environment.&lt;/li&gt;
+&lt;li&gt;Ability to communicate complexity and drive clarity horizontally and vertically across diverse internal stakeholders.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Other requirements&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;Passion for Bitcoin and a strong understanding of its role in financial freedom (orange-pilled mindset preferred!)&lt;/li&gt;
 &lt;li&gt;A dedicated workspace.&lt;/li&gt;
 &lt;li&gt;A reliable internet connection with the fastest speed possible in your area.&lt;/li&gt;
 &lt;li&gt;Devices and other essential equipment that meet minimal technical specifications.&lt;/li&gt;
