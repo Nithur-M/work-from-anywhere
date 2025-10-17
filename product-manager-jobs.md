@@ -1,1 +1,25 @@
-<div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table></table>
+<div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/100294047?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Clearer</h5>
+                    <h3>Product Manager (ViralSweep)</h3>
+                </td>
+                <td width="300">
+                    <code>shopify</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.realworkfromanywhere.com/jobs/product-manager-viralsweep-clearer-5519" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>Clearer.io is reimagining eCommerce with a suite of apps that make search, discovery, and customer engagement <b>smarter, simpler, and more impactful</b>. We help merchants (from high-growth Shopify brands to global enterprises) streamline operations, earn trust, and drive sustainable growth. Backed by fresh investment and moving fast, we value clarity, outcomes, and a customer-first mindset.</div><div><br></div><div>ViralSweep isn’t steady-state SaaS—it’s <b>campaign-driven, deadline-bound, compliance-sensitive, and seasonal</b>. You’ll own day-to-day product outcomes for ViralSweep across <b>enterprise and Shopify SMB</b> segments: prioritizing the roadmap, shipping fast, and tying work directly to <b>ARR, retention, and margin</b>. Expect to jump into select customer and sales conversations when it <b>moves the number</b>, and to turn messy one-offs into scalable workflows and guardrails.</div><div>Clearer.io is reimagining eCommerce with a suite of apps that make search, discovery, and customer engagement <b>smarter, simpler, and more impactful</b>. We help merchants (from high-growth Shopify brands to global enterprises) streamline operations, earn trust, and drive sustainable growth. Backed by fresh investment and moving fast, we value clarity, outcomes, and a customer-first mindset.</div><div><br></div><div>ViralSweep isn’t steady-state SaaS—it’s <b>campaign-driven, deadline-bound, compliance-sensitive, and seasonal</b>. You’ll own day-to-day product outcomes for ViralSweep across <b>enterprise and Shopify SMB</b> segments: prioritizing the roadmap, shipping fast, and tying work directly to <b>ARR, retention, and margin</b>. Expect to jump into select customer and sales conversations when it <b>moves the number</b>, and to turn messy one-offs into scalable workflows and guardrails.</div><h3>What you'll do</h3><li><b>Own the roadmap:</b> Maintain a clear, outcome-oriented backlog across enterprise and SMB needs.</li><li><b>Drive discovery:</b> Run interviews, frame problems, and write tight PRDs/specs.</li><li><b>Ship quality fast:</b> Scope MVPs, iterate quickly with Eng/Design, and prove impact with metrics.</li><li><b>Be revenue-minded:</b> Connect features to acquisition, activation, retention, and expansion; make smart trade-offs vs. ARR/margin goals.</li><li><b>Support GTM:</b> Join key sales calls, craft demos, and enable Success with playbooks/collateral.</li><li><b>Make commercial calls:</b> Decide on refunds/credits within guidelines; convert patterns into product fixes.</li><li><b>Integrate for distribution:</b> Deepen <b>Shopify</b> and ecosystem integrations to drive stickiness.</li><li><b>Keep it compliant:</b> Coordinate with experts on jurisdictional rules, fraud prevention, and privacy.</li><li><b>Instrument &amp; learn:</b> Define success metrics, run experiments, and publish results.</li><h3>What you'll need</h3><li><b>Experience:</b> 3–5 years as a B2B SaaS PM (MarTech/eCommerce ideal); we’ll consider a 1–2 year <b>founder-type</b> with strong commercial instincts.</li><li><b>Commercial sharpness:</b> Comfort making calls on <b>pricing/packaging, refunds, and custom work</b> with imperfect data.</li><li><b>Customer-facing strength:</b> Confident in demos, objection handling, and partnering with Sales/Success.</li><li><b>Execution chops:</b> Crisp PRDs, MVP scoping, fast shipping, analytics instrumentation, and clear reporting.</li><li><b>US-market alignment:</b> Excellent written English and intuition for US marketing/compliance tone.</li><li><b>Ecosystem savvy:</b> Working knowledge of <b>Shopify</b>, promotions workflows, fraud/risk, and data privacy basics.</li><h3>Why clearer.io </h3><li><b>Customer-First:</b> Practical solutions, real merchant outcomes.</li><li><b>Growth-Focused:</b> We measure impact in <b>revenue and retention</b>, not feature count.</li><li><b>Clear &amp; Simple:</b> Low-ego, high-ownership culture with direct, down-to-earth collaboration.</li><li><b>Supportive Team:</b> Empowered peers across Product, Eng, Design, and GTM who ship and learn fast.</li><li><b>Benefits:</b> Private medical benefits and a work environment built on clarity, trust, and results.</li>
+                </details>
+                </td>
+            </tr></table>
