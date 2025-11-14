@@ -13,7 +13,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-full-stack-software-engineer-design-systems-circle-4360" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-full-stack-software-engineer-design-systems-circle-433" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -24,7 +24,7 @@
 &lt;p&gt;We’re proud to be a fully remote company of around 200 (and growing!) team members from 30+ countries around the world. We seek exceptional individuals around the world, set them up to do the best work of their lives, and in turn, create a meaningful impact in their own lives. We don&#39;t track hours, but we do manage for high expectations very closely. We collaborate across time zones, are highly async, and like to document a lot.&lt;/p&gt;
 &lt;p&gt;Twice a year, we bring the whole company together in beautiful places around the world for our company offsites. So far, we’ve hosted offsites in Turkey, Portugal, Mexico, Thailand, Colombia, Italy, Ireland, and more, with still more to come!&lt;/p&gt;
 &lt;p&gt;Check out our&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://careers.circle.so/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://careers.circle.so/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Careers&lt;/a&gt; page for more about working at Circle.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;About the role&lt;/h1&gt;
-&lt;p&gt;We&#39;re looking for a &lt;strong&gt;Full-Stack Engineer (Internal Tooling)&lt;/strong&gt; to join our Design Systems team as we aim to make Circle the top choice for creator/brand-led communities.&lt;/p&gt;
+&lt;p&gt;We&#39;re looking for a &lt;strong&gt;Senior Full-Stack Software Engineer&lt;/strong&gt; to join our Design Systems team as we aim to make Circle the top choice for creator/brand-led communities.&lt;/p&gt;
 &lt;p&gt;In this role, you&#39;ll build and maintain internal applications and automation tools that streamline our operations and improve team efficiency. You&#39;ll work across the full stack, creating user-friendly interfaces, designing APIs, integrating with third-party services, and building systems that help our design team work smarter. You&#39;ll participate in all stages of the development lifecycle, from understanding workflow problems to deploying production solutions. As a full-stack engineer, you&#39;ll identify process bottlenecks, build custom tools to solve them, integrate multiple services (Slack, Notion, Figma, etc.), and create dashboards that provide visibility into design operations. This role requires strong technical versatility, comfort working across frontend and backend, and an understanding of how to build practical tools that solve real workflow challenges.&lt;/p&gt;
 &lt;h1&gt;What you’ll be doing&lt;/h1&gt;
 &lt;ul&gt;
