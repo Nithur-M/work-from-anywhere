@@ -13,7 +13,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/frontend-engineer-product-clerk-2944" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/frontend-engineer-product-clerk-9051" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -37,7 +37,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/frontend-engineer-manta-network-8584" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/frontend-engineer-manta-network-4508" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
