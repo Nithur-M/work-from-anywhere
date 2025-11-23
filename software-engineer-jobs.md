@@ -1,25 +1,137 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/100294047?s=200&v=4" width="38px" height="auto">
+                    <img src="https://remotive.com/job/2069728/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Clearer</h5>
-                    <h3>Software Engineer II</h3>
+                    <h5>Apexver</h5>
+                    <h3>Software Engineer C++ (Senior)</h3>
                 </td>
                 <td width="300">
-                    <code>aws</code><code>azure</code><code>php</code><code>react</code>
+                    <code>python</code><code>c++</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/software-engineer-ii-clearer-2549" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/software-engineer-c-senior-apexver-4793" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><b style="font-size: 16px;">Take the clearer route to smart career growth.</b><span style="font-size: 16px;"> At </span><a rel="noopener noreferrer" class="postings-link" href="http://clearer.io"><span style="font-size: 16px;">clearer.io</span></a><span style="font-size: 16px;"> , we’re reimagining eCommerce by enhancing search, discovery, and customer engagement through a standout suite of innovative apps. Our mission is straightforward yet powerful: to empower our partners with solutions that streamline their operations, foster customer trust, and drive sustainable growth. We’re not just about technology - we’re about making eCommerce smarter, simpler, and more impactful, delivering solutions that inspire confidence and create real results.</span></div><div><span style="font-size: 16px;">With fresh investment and rapid growth, this is the perfect time to join our journey. When you become part of </span><a rel="noopener noreferrer" class="postings-link" href="http://clearer.io"><span style="font-size: 16px;">clearer.io</span></a><span style="font-size: 16px;">, you step into a role where your work truly matters. Here, you’ll have the opportunity to own your projects, drive outcomes, and make an impact within a supportive, diverse team of professionals dedicated to customer success. We value clarity, results, and a customer-centric approach that keeps us focused on delivering real value to our partners every step of the way.</span></div><div><span style="font-size: 16px;">If you’re ready to cut through the clutter and focus on what really matters in a dynamic eCommerce landscape, </span><a rel="noopener noreferrer" class="postings-link" href="http://clearer.io"><span style="font-size: 16px;">clearer.io</span></a><span style="font-size: 16px;"> is the place to grow, lead, and shape the future of online retail. Join us, and be part of a team that’s committed to making eCommerce clearer, more efficient, and more rewarding for everyone.</span></div><div><br></div><div><b><span style="font-size: 16px;">Your Impact: </span></b><span style="font-size: 16px;">As a </span><b style="font-size: 16px;">Software Engineer II</b><span style="font-size: 16px;">, you will lead the design and development of complex features and components for our cloud-based SaaS platform. You will architect and implement scalable solutions, provide technical guidance to other engineers, and contribute to the evolution of our technology stack. This role is ideal for an experienced engineer looking to take on greater technical responsibility and ownership.</span></div><div><span style="font-size: 16px;">We are looking for a passionate and detail-oriented software engineer with a strong foundation in delivering high-quality, production-ready software. The ideal candidate has solid experience across the full software development lifecycle, demonstrates a commitment to technical excellence, and is eager to grow within a collaborative, high-performing engineering environment.</span></div><div><span style="font-size: 16px;">You will work remotely from Vietnam as part of a cross-functional Scrum team. In this role, you will contribute directly to the design, development, testing, and maintenance of our software products. You will collaborate closely with fellow engineers, QA specialists, and product managers in Vietnam, as well as with the wider engineering team in Leicester in the United Kingdom and other international stakeholders. Together, you will build and deliver robust, scalable solutions that support our global operations.</span></div><div><span style="font-size: 16px;">This role requires hands-on experience with both backend and frontend development, with a particular emphasis on PHP and the Laravel framework. Familiarity with modern frontend technologies such as React, </span><a rel="noopener noreferrer" class="postings-link" href="http://Vue.js"><span style="font-size: 16px;">Vue.js</span></a><span style="font-size: 16px;">, or AngularJS is also highly valued. You should be comfortable working in an agile environment, writing clean and maintainable code, and continuously learning new technologies and best practices.</span></div><div><span style="font-size: 16px;">This is a fully remote position based in Vietnam. You will report to the Software Engineering Team Lead in Leicester, working within a supportive team that values collaboration, quality, and continuous improvement.</span></div><div><b style="font-size: 16px;">Take the clearer route to smart career growth.</b><span style="font-size: 16px;"> At </span><a href="http://clearer.io" class="postings-link" target="_blank" rel="noopener noreferrer"><span style="font-size: 16px;">clearer.io</span></a><span style="font-size: 16px;"> , we’re reimagining eCommerce by enhancing search, discovery, and customer engagement through a standout suite of innovative apps. Our mission is straightforward yet powerful: to empower our partners with solutions that streamline their operations, foster customer trust, and drive sustainable growth. We’re not just about technology - we’re about making eCommerce smarter, simpler, and more impactful, delivering solutions that inspire confidence and create real results.</span></div><div><span style="font-size: 16px;">With fresh investment and rapid growth, this is the perfect time to join our journey. When you become part of </span><a href="http://clearer.io" class="postings-link" target="_blank" rel="noopener noreferrer"><span style="font-size: 16px;">clearer.io</span></a><span style="font-size: 16px;">, you step into a role where your work truly matters. Here, you’ll have the opportunity to own your projects, drive outcomes, and make an impact within a supportive, diverse team of professionals dedicated to customer success. We value clarity, results, and a customer-centric approach that keeps us focused on delivering real value to our partners every step of the way.</span></div><div><span style="font-size: 16px;">If you’re ready to cut through the clutter and focus on what really matters in a dynamic eCommerce landscape, </span><a href="http://clearer.io" class="postings-link" target="_blank" rel="noopener noreferrer"><span style="font-size: 16px;">clearer.io</span></a><span style="font-size: 16px;"> is the place to grow, lead, and shape the future of online retail. Join us, and be part of a team that’s committed to making eCommerce clearer, more efficient, and more rewarding for everyone.</span></div><div><br></div><div><b><span style="font-size: 16px;">Your Impact: </span></b><span style="font-size: 16px;">As a </span><b style="font-size: 16px;">Software Engineer II</b><span style="font-size: 16px;">, you will lead the design and development of complex features and components for our cloud-based SaaS platform. You will architect and implement scalable solutions, provide technical guidance to other engineers, and contribute to the evolution of our technology stack. This role is ideal for an experienced engineer looking to take on greater technical responsibility and ownership.</span></div><div><span style="font-size: 16px;">We are looking for a passionate and detail-oriented software engineer with a strong foundation in delivering high-quality, production-ready software. The ideal candidate has solid experience across the full software development lifecycle, demonstrates a commitment to technical excellence, and is eager to grow within a collaborative, high-performing engineering environment.</span></div><div><span style="font-size: 16px;">You will work remotely from Vietnam as part of a cross-functional Scrum team. In this role, you will contribute directly to the design, development, testing, and maintenance of our software products. You will collaborate closely with fellow engineers, QA specialists, and product managers in Vietnam, as well as with the wider engineering team in Leicester in the United Kingdom and other international stakeholders. Together, you will build and deliver robust, scalable solutions that support our global operations.</span></div><div><span style="font-size: 16px;">This role requires hands-on experience with both backend and frontend development, with a particular emphasis on PHP and the Laravel framework. Familiarity with modern frontend technologies such as React, </span><a href="http://Vue.js" class="postings-link" target="_blank" rel="noopener noreferrer"><span style="font-size: 16px;">Vue.js</span></a><span style="font-size: 16px;">, or AngularJS is also highly valued. You should be comfortable working in an agile environment, writing clean and maintainable code, and continuously learning new technologies and best practices.</span></div><div><span style="font-size: 16px;">This is a fully remote position based in Vietnam. You will report to the Software Engineering Team Lead in Leicester, working within a supportive team that values collaboration, quality, and continuous improvement.</span></div><h3>What You’ll Do:</h3><li>Design, develop, test, and maintain complex features and components for cloud-based SaaS applications.</li><li>Lead the development of medium to large-sized features, taking ownership from design to deployment and monitoring.</li><li>Architect and implement solutions that are scalable, resilient, and maintainable.</li><li>Proactively identify and address technical debt and architectural improvements.</li><li>Provide technical leadership and guidance to junior engineers, including code reviews and mentoring.</li><li>Collaborate with product managers and stakeholders to define and refine technical requirements.</li><li>Troubleshoot and resolve complex production issues, including performance and scalability problems.</li><li>Contribute to the selection and evaluation of new technologies and tools.</li><li>Stay up-to-date with industry best practices and emerging technologies.</li><h3>What You'll Bring:</h3><li>Bachelor’s degree in Computer Science, Engineering, or equivalent and 2-4 years of relevant experience is required. Alternatively, an equivalent combination of education and experience is required.</li><li>Experience with e-commerce and with specific experience of Shopify a plus!</li><li>Expert-level proficiency in programming principles (e.g. OOP, functional) and design patterns (e.g. DRY, SOLID, IoC).</li><li>Expert-level proficiency in at least one frontend framework (React, Angular, or Vue) and experience with advanced UI concepts.</li><li>Expert-level experience with backend languages such as PHP and other web-based object-oriented languages, using frameworks like Laravel (preferred).Proficient in front-end technologies including AngularJS, React, and <a rel="noopener noreferrer" class="postings-link" href="http://Vue.js">Vue.js</a>.</li><li>Proven experience leading small to medium-sized development teams in an Agile environment.</li><li>Extensive experience with cloud platforms (e.g., AWS, Azure, GCP), including a deep understanding of cloud-native architectures.</li><li>Excellent communication, collaboration, and strong spoken and written English required.</li><li>Experience with monitoring, logging, and alerting systems.</li><li>Experience with security best practices for web applications.</li><li>Proficiency in prompt engineering and experience in using AI coding assistant tool in day-to-day work.</li><div><br></div><div>Qualities:</div><li>What other characteristics do we look for?&nbsp;&nbsp;Leadership potential for sure.&nbsp;But what does that mean?&nbsp; Well, some of the attributes we appreciate include:</li><li>Inquisitiveness</li><li>Having pride in one’s work</li><li>Tenacity: trying to work it out but knowing when to ask for help</li><li>Follow-thru and dependability</li><li>A strong belief in the team’s success&nbsp;</li><li>Most importantly, friendly/kind/a good teammate</li><h3>Why clearer.io?</h3><li>We believe in making things simpler - for our customers, and for each other. That means clarity, purpose, and progress guide everything we do.&nbsp;</li><li><b>Customers at the heart</b>: We obsess over their needs so we can grow together</li><li><b>Purposeful progress:</b>&nbsp;We don’t settle. We take initiative and embrace bold thinking.&nbsp;&nbsp;</li><li><b>Endless innovation:&nbsp;</b>We refine, improve, and take meaningful action</li><li><b>Always open:</b>&nbsp;We build trust through transparency and global collaboration&nbsp;</li><div><br></div><div><b>Clearer benefits:</b></div><li>100% Remote Culture: Work from anywhere that brings you happiness.</li><li><b>Sign-on bonus</b></li><li>Performance-based Year-End Bonus: Recognizing and rewarding your individual contributions.</li><li>Wellness Allowance: Support for classes promoting physical and mental health.</li><li>Time Off: 20 days/year, in addition to Vietnam holidays.</li><li>MacBook Provided.</li><li>Collaborative Events: Offline meet-ups, monthly gatherings and year-end party.</li><li>Continuous Learning: Technical and general workshops, online resources.</li><li>Health and Wellness Benefits: Generali Health Care, annual check-up.</li><li>International Exposure: Enhance expertise and English communication skills.</li><div><br></div><div>Working hours:&nbsp;8:00 AM – 5:00 PM (Vietnam time), Monday to Friday.</div><div><br></div><div><b>We’re here to make things clearer&nbsp;</b>- in e-commerce and in employee experience. If that sounds like your kind of role, we’d love to hear from you!</div>
+                <div class="h3"><strong>Role Overview</strong></div>
+<p>As a <strong>Senior Software Engineer</strong>, you will take leadership in designing, building, and scaling high-performance trading systems. You will be driving architectural decisions, mentoring others, and ensuring the reliability, latency, and correctness of our production systems.<br>Your role will bridge between quant research, trading operations, and engineering excellence.</p>
+<div class="h3"> </div>
+<div class="h3"><strong>Key Responsibilities</strong></div>
+<ul style="">
+<li style="">
+<p>Lead design, development, and ownership of large, complex C++ systems: engines for order execution, market data ingestion, risk, connectivity, and downstream services.</p>
+</li>
+<li style="">
+<p>Architect systems for low latency, high throughput, fault tolerance, and operational resilience.</p>
+</li>
+<li style="">
+<p>Identify performance bottlenecks across software/hardware layers; lead initiatives to reduce latency, increase capacity, and improve stability.</p>
+</li>
+<li style="">
+<p>Mentor and lead other engineers through code reviews, pairing, and driving best practices in code structure, testing, and performance.</p>
+</li>
+<li style="">
+<p>Liaise closely with quant researchers and traders: influence product and strategy design, ensuring designs satisfy functional, non-functional, and latency constraints.</p>
+</li>
+<li style="">
+<p>Drive infrastructure and tooling improvements: monitoring, observability, deployment pipelines, build systems, profiling frameworks, and latency measurement tools.</p>
+</li>
+<li style="">
+<p>Stay up to date with new technologies and architectures (e.g. kernel bypass, RDMA, NUMA, CPU/GPU/FPGAs) and evaluate them for potential adoption.</p>
+</li>
+</ul>
+<div class="h3"> </div>
+<div class="h3"><strong>Qualifications</strong></div>
+<div class="h3"><strong>Required</strong></div>
+<ul style="">
+<li style="">
+<p>5+ years (often 7+) of experience building production C++ systems, ideally in latency-sensitive or real-time environments.</p>
+</li>
+<li style="">
+<p>Deep expertise in modern C++ (C++17/20/23), templates, metaprogramming, memory management, and allocation strategies.</p>
+</li>
+<li style="">
+<p>Strong understanding of concurrency: multi-threading, lock-free programming, synchronization, hardware caches, and memory fences.</p>
+</li>
+<li style="">
+<p>Proven track record in optimizing performance (latency, throughput); experience profiling and benchmarking at a low level.</p>
+</li>
+<li style="">
+<p>Experience with network programming: TCP/UDP, protocol design, or low-level kernel/OS tuning.</p>
+</li>
+<li style="">
+<p>Familiarity with distributed systems, messaging, resilience under load, and graceful degradation.</p>
+</li>
+<li style="">
+<p>Excellent system-level thinking: balancing trade-offs (latency vs. safety vs. maintainability).</p>
+</li>
+<li style="">
+<p>Strong leadership and communication skills; ability to push standards, mentor juniors, and influence design across teams.</p>
+</li>
+</ul>
+<div class="h3"><strong>Nice to Have</strong></div>
+<ul style="">
+<li style="">
+<p>Prior HFT / proprietary trading / market making experience.</p>
+</li>
+<li style="">
+<p>Deep knowledge of financial market microstructure: order books, matching engines, FIX protocols, exchange connectivity.</p>
+</li>
+<li style="">
+<p>Experience or interest in hardware acceleration (FPGA), kernel bypass, DPDK, RDMA, or similar.</p>
+</li>
+<li style="">
+<p>Exposure to other languages/tools relevant to quant or trading environments: Python, scripting, data processing, GPUs.</p>
+</li>
+<li style="">
+<p>Advanced education (MS/PhD in CS, EE, Physics, Mathematics, etc.) is a plus but not required.</p>
+</li>
+</ul>
+<div class="h2"> </div>
+<div class="h3"><strong>What You’ll Gain</strong></div>
+<ul style="">
+<li style="">
+<p>A leadership role where your decisions shape both technical architecture and trading outcomes.</p>
+</li>
+<li style="">
+<p>Opportunities to tackle cutting-edge engineering challenges where performance, scale, and correctness are non-negotiable.</p>
+</li>
+<li style="">
+<p>Ability to mentor and grow a team; influence culture, standards, and technical excellence.</p>
+</li>
+<li style="">
+<p>Excellent compensation, bonuses, and profit-sharing aligned with results and contribution.</p>
+</li>
+<li style="">
+<p>A culture of high trust, where engineers have autonomy and the chance to experiment — and where learning from mistakes is valued.</p>
+</li>
+</ul>
+<div class="h2"> </div>
+<div class="h3"><strong>General: What Makes a Great Fit at Apexver</strong></div>
+<ul style="">
+<li style="">
+<p>You enjoy solving hard problems where edge vs. margin matters.</p>
+</li>
+<li style="">
+<p>You’re curious and love going “under the hood” — whether it’s the OS, hardware, or network layer.</p>
+</li>
+<li style="">
+<p>You take ownership end-to-end: from problem-solving and coding to testing, deploying, and monitoring.</p>
+</li>
+<li style="">
+<p>You thrive in flat, collaborative, fast-moving teams.</p>
+</li>
+<li style="">
+<p>You value clean code, correctness, performance, and pragmatism.</p>
+</li>
+</ul>
+<img src="https://remotive.com/job/track/2069728/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
