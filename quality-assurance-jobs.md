@@ -13,7 +13,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/quality-assurance-analyst-english-punjabi-bobtail-758" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/quality-assurance-analyst-english-punjabi-bobtail-9898" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -85,7 +85,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/sr-software-quality-assurance-engineer-bobtail-6781" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/sr-software-quality-assurance-engineer-bobtail-4161" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
