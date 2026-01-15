@@ -13,7 +13,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-software-engineer-global-contractor-jump-6953" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-software-engineer-global-contractor-jump-3147" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -84,7 +84,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/sr-software-engineer-infrastructure-zora-9164" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/sr-software-engineer-infrastructure-zora-9652" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -169,7 +169,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-full-stack-software-engineer-applied-ai-circle-5831" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-full-stack-software-engineer-applied-ai-circle-7429" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -269,7 +269,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/principal-software-engineer-happyco-2056" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/principal-software-engineer-happyco-7616" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -293,7 +293,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/software-engineer-remote-work-from-anywhere-xapo-bank-6182" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/software-engineer-remote-work-from-anywhere-xapo-bank-7537" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -369,95 +369,13 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/software-engineer-platform-services-supabase-8376" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/software-engineer-platform-services-supabase-5467" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p style="min-height:1.5em">Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth.</p><p style="min-height:1.5em"></p><h2><strong>About the Role</strong></h2><p style="min-height:1.5em">We’re looking for a experienced software engineers to own the control plane that operates the Supabase Cloud offering. This role is ideal for someone who thrives in async, fast-paced environments and is excited about building developer tools that scale to millions.</p><p style="min-height:1.5em"></p><h2>What You'll Do</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Build and maintain the Supabase Control Plane</strong> - Own our <strong>typescript</strong>-based control plane services that manage the lifecycle of million of customer projects across the Supabase Cloud offering</p></li><li><p style="min-height:1.5em"><strong>Architect cloud deployment and change management infrastructure</strong> - Design and implement robust patterns for deploying and maintaining cloud infrastructure at scale</p></li><li><p style="min-height:1.5em"><strong>Ensure operational excellence</strong> - Identify reliability risks, push for automation; build monitoring, alerting, and diagnostic capabilities into the control plane</p></li><li><p style="min-height:1.5em"><strong>Collaborate across teams</strong> - Work with database engineers, product teams, and SREs to deliver a seamless experience for the management of their products and services</p></li></ul><h2>What We're Looking For</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Strong programming skills</strong> - Proficiency in<strong> Typescript and Go</strong>, familiarity with modern tooling (e.g. vitest, zod in ts, or sqlc in go)</p></li><li><p style="min-height:1.5em"><strong>Data persistence -</strong> Strong command of Postgres and relational database design, and experience with optimizing query performance.</p></li><li><p style="min-height:1.5em"><strong>Production operations mindset</strong> - Track record of building reliable, observable, and maintainable systems in public-facing production environments.</p></li><li><p style="min-height:1.5em"><strong>Ownership mindset</strong> - You thrive in being able to operate independently with high-level guidance</p></li><li><p style="min-height:1.5em"><strong>Strong written communication</strong> - You write RFCs, keep runbooks current, and record decisions. You're good at identifying, capturing, and clearly explaining tradeoffs</p></li></ul><h2>Nice to Have</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Experience with building and operating cloud infrastructure using AWS SDKs and IaC tools</p></li></ul><h3><strong>What We Offer</strong></h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Fully Remote</strong></p><p style="min-height:1.5em">We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world.</p></li><li><p style="min-height:1.5em"><strong>ESOP</strong></p><p style="min-height:1.5em">Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together.</p></li><li><p style="min-height:1.5em"><strong>Tech Allowance</strong></p><p style="min-height:1.5em">Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work.</p></li><li><p style="min-height:1.5em"><strong>Health Benefits</strong></p><p style="min-height:1.5em">Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us.</p></li><li><p style="min-height:1.5em"><strong>Annual Off-Sites</strong></p><p style="min-height:1.5em">Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year.</p></li><li><p style="min-height:1.5em"><strong>Flexible Work</strong></p><p style="min-height:1.5em">We operate asynchronously and trust you to manage your own time. You know what needs to be done and when.</p></li><li><p style="min-height:1.5em"><strong>Professional Development</strong></p><p style="min-height:1.5em">Every team member receives an annual education allowance to spend on learning—courses, books, conferences, or anything that supports your growth.</p><p style="min-height:1.5em"></p></li></ul><h3><strong>About the Team</strong></h3><p style="min-height:1.5em">Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love.</p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">180+ team members</p></li><li><p style="min-height:1.5em">40+ countries</p></li><li><p style="min-height:1.5em">15+ languages spoken</p></li><li><p style="min-height:1.5em">$496M raised</p></li><li><p style="min-height:1.5em">430,000+ community members</p></li><li><p style="min-height:1.5em">30,000+ memes posted (and counting)</p></li></ul><p style="min-height:1.5em">We move fast, build in public, and use what we ship. If it’s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support—not replace—existing tools and communities.</p><p style="min-height:1.5em"></p><h3><strong>Hiring Process</strong></h3><p style="min-height:1.5em">We keep things simple, async-friendly, and respectful of your time:</p><ol style="min-height:1.5em"><li><p style="min-height:1.5em">Apply – Our team will review your application.</p></li><li><p style="min-height:1.5em">Intro Call – A short video chat to get to know each other.</p></li><li><p style="min-height:1.5em">Interviews – Up to four calls with:</p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Founders</p></li><li><p style="min-height:1.5em">Future teammates</p></li><li><p style="min-height:1.5em">Someone cross-functional from product, growth, or engineering (depending on the role)</p></li></ul></li><li><p style="min-height:1.5em">Decision – We may follow up with a final question or go straight to offer.</p></li></ol><p style="min-height:1.5em">All communication is remote and we aim to move fast.</p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu</h3>
-                </td>
-                <td width="300">
-                    <code>kubernetes</code><code>python</code><code>golang</code><code>javascript</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/graduate-software-engineer-open-source-and-linux-canonical-ubuntu-canonical-9423" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;p&gt;Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world&#39;s leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.&lt;/p&gt;
-&lt;p&gt;The company is founder led, profitable and growing.&lt;/p&gt;
-&lt;p&gt;We are hiring &lt;strong&gt;2025 and 2026 Graduate Software Engineers&lt;/strong&gt; into engineering teams around the world. As a global platform company we offer a wide range of software engineering challenges, in both open source products and commercial business systems. We have teams that work in a variety of languages, typically Python, Golang, Rust, C/C++, JavaScript and of course... Bash. We work from the very lowest levels of the Linux system - BIOS and boot loaders, firmware, kernel and drivers, all the way up to desktop applications and containers. We work on tiny devices like the Raspberry Pi and new RISC-V boards, all the way up to supercomputers, clouds and Kubernetes clusters. We work on compilers and toolchains, and we work on security, cryptography, performance and documentation. Some of our teams focus on packaging thousands of pieces of software, others focus on deep contributions to a single body of code.&lt;/p&gt;
-&lt;p&gt;If you are excited about the potential that open source has for humanity and the enterprise, you have outstanding results in your academic career, and you are excited to contribute to the open source stack, this is the best way to apply to Canonical. We will work with you to identify teams and projects that would be interesting and a good fit for your skills and motivations. The process is highly competitive, it will require effort and excellence to succeed if you apply here.&lt;/p&gt;
-&lt;p&gt;Most of our engineering teams work from home. We try to align a single team in a single time zone - EMEA (Europe, Middle East and Africa), APAC (Asia Pacific and Indian Ocean), and AMER (North, South and Central Americas). Even though you work from home, we try to ensure you always have colleagues alongside to coach and mentor you, and for the companionship of shared problem solving and pair programming. Larger projects have multiple teams and might span the globe. We work with the open source community and specialize in building teams that work well in the &#39;fishbowl&#39; of open source engineering. This is full time work, five days a week, often solving hard problems with significant responsibility. We don&#39;t generally work weekends and nights and we do enjoy good holidays but we also expect productive and intense engagement Monday to Friday.&lt;/p&gt;
-&lt;p&gt;We bring all our engineering teams together in person twice a year for a deep &#39;sprint&#39; with other teams to stimulate discussion and enable a wide range of career development paths. This is a fantastic way to demonstrate and develop your skill in software, learn about a wide range of technologies, make a meaningful impact to open source, and see some very interesting new cities that you might never otherwise get to visit.&lt;/p&gt;
-&lt;p&gt;If you find the open source stack amazing, and you have been a consistent high-performing student in your school and university, then this will be a challenging and exciting start to your career.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Location: &lt;/strong&gt;This is a Globally remote role.&lt;/p&gt;
-&lt;h3&gt;The role entails&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Shaping the roadmap for your product at global sprints every six months&lt;/li&gt;
-&lt;li&gt;Focusing on design and user experience, even for developer tooling and command line apps&lt;/li&gt;
-&lt;li&gt;Writing high quality, resilient and performant code, potentially serving millions of demanding daily users&lt;/li&gt;
-&lt;li&gt;Working towards mastery of key programming languages and Linux system knowledge&lt;/li&gt;
-&lt;li&gt;Engaging with users and the open source community through code reviews and issue trackers&lt;/li&gt;
-&lt;li&gt;Responding to customer issues as a priority, develop an understanding of enterprise requirements&lt;/li&gt;
-&lt;li&gt;Developing skills and awareness of security in software design and implementation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;What we are looking for in you&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Exceptional academic track record from both high school and university&lt;/li&gt;
-&lt;li&gt;Undergraduate degree in Computer Science, Business Informatics, Mathematics or another STEM discipline with programming courses&lt;/li&gt;
-&lt;li&gt;Confidence to get started and deliver high quality code in one of Python, Rust, C/C++, Golang, JavaScript or Java&lt;/li&gt;
-&lt;li&gt;Experience with Ubuntu or another Linux distribution&lt;/li&gt;
-&lt;li&gt;Track record of going above-and-beyond expectations to achieve outstanding results&lt;/li&gt;
-&lt;li&gt;Result-oriented and organized, with the drive to meet commitments&lt;/li&gt;
-&lt;li&gt;Personal projects in technology and software engineering beyond the curriculum&lt;/li&gt;
-&lt;li&gt;Professional written and spoken English&lt;/li&gt;
-&lt;li&gt;Excellent interpersonal skills, curiosity, flexibility, and accountability&lt;/li&gt;
-&lt;li&gt;Personal responsibility and accountability&lt;/li&gt;
-&lt;li&gt;Thoughtfulness, self-awareness and the ability to reflect and develop&lt;/li&gt;
-&lt;li&gt;Ability to travel internationally twice a year for company events up to two weeks long&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Nice-to-have skills&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Upstream open source contributions&lt;/li&gt;
-&lt;li&gt;Packaging and Linux distribution contributions - Debian, Fedora, Arch, Nix or another&lt;/li&gt;
-&lt;li&gt;Leadership and organization skills&lt;/li&gt;
-&lt;li&gt;Presentation and writing skills&lt;/li&gt;
-&lt;li&gt;Business and commercial interests&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;What we offer colleagues&lt;/h3&gt;
-&lt;p&gt;We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Distributed work environment with twice-yearly team sprints in person&lt;/li&gt;
-&lt;li&gt;Personal learning and development budget of USD 2,000 per year&lt;/li&gt;
-&lt;li&gt;Annual compensation review&lt;/li&gt;
-&lt;li&gt;Recognition rewards&lt;/li&gt;
-&lt;li&gt;Annual holiday leave&lt;/li&gt;
-&lt;li&gt;Maternity and paternity leave&lt;/li&gt;
-&lt;li&gt;Team Member Assistance Program &amp;amp; Wellness Platform&lt;/li&gt;
-&lt;li&gt;Opportunity to travel to new locations to meet colleagues&lt;/li&gt;
-&lt;li&gt;Priority Pass and travel upgrades for long-haul company events&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;About Canonical&lt;/h3&gt;
-&lt;p&gt;Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.&lt;/p&gt;
-&lt;h3&gt;Canonical is an equal opportunity employer&lt;/h3&gt;
-&lt;p&gt;We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. &lt;a href=&quot;https://canonical.com/careers/diversity/identity&quot;&gt;Whatever your identity, we will give your application fair consideration.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;#LI-remote&lt;/p&gt;
                 </details>
                 </td>
             </tr></table>
