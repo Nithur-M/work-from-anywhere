@@ -13,7 +13,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-frontend-engineer-airalo-1636" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-frontend-engineer-airalo-3286" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -37,7 +37,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-front-end-software-engineer-devex-clutch-9763" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-front-end-software-engineer-devex-clutch-5857" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
