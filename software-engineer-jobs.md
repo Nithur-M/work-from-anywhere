@@ -1,137 +1,57 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/2069728/logo" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/6930305?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Apexver</h5>
-                    <h3>Software Engineer C++ (Senior)</h3>
+                    <h5>Xapo Bank</h5>
+                    <h3>Software Engineer (Remote - Work from Anywhere)</h3>
                 </td>
                 <td width="300">
-                    <code>python</code><code>c++</code>
+                    <code>mysql</code><code>redis</code><code>docker</code><code>aws</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/software-engineer-c-senior-apexver-5706" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/software-engineer-remote-work-from-anywhere-xapo-bank-8414" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="h3"><strong>Role Overview</strong></div>
-<p>As a <strong>Senior Software Engineer</strong>, you will take leadership in designing, building, and scaling high-performance trading systems. You will be driving architectural decisions, mentoring others, and ensuring the reliability, latency, and correctness of our production systems.<br>Your role will bridge between quant research, trading operations, and engineering excellence.</p>
-<div class="h3"> </div>
-<div class="h3"><strong>Key Responsibilities</strong></div>
-<ul style="">
-<li style="">
-<p>Lead design, development, and ownership of large, complex C++ systems: engines for order execution, market data ingestion, risk, connectivity, and downstream services.</p>
-</li>
-<li style="">
-<p>Architect systems for low latency, high throughput, fault tolerance, and operational resilience.</p>
-</li>
-<li style="">
-<p>Identify performance bottlenecks across software/hardware layers; lead initiatives to reduce latency, increase capacity, and improve stability.</p>
-</li>
-<li style="">
-<p>Mentor and lead other engineers through code reviews, pairing, and driving best practices in code structure, testing, and performance.</p>
-</li>
-<li style="">
-<p>Liaise closely with quant researchers and traders: influence product and strategy design, ensuring designs satisfy functional, non-functional, and latency constraints.</p>
-</li>
-<li style="">
-<p>Drive infrastructure and tooling improvements: monitoring, observability, deployment pipelines, build systems, profiling frameworks, and latency measurement tools.</p>
-</li>
-<li style="">
-<p>Stay up to date with new technologies and architectures (e.g. kernel bypass, RDMA, NUMA, CPU/GPU/FPGAs) and evaluate them for potential adoption.</p>
-</li>
-</ul>
-<div class="h3"> </div>
-<div class="h3"><strong>Qualifications</strong></div>
-<div class="h3"><strong>Required</strong></div>
-<ul style="">
-<li style="">
-<p>5+ years (often 7+) of experience building production C++ systems, ideally in latency-sensitive or real-time environments.</p>
-</li>
-<li style="">
-<p>Deep expertise in modern C++ (C++17/20/23), templates, metaprogramming, memory management, and allocation strategies.</p>
-</li>
-<li style="">
-<p>Strong understanding of concurrency: multi-threading, lock-free programming, synchronization, hardware caches, and memory fences.</p>
-</li>
-<li style="">
-<p>Proven track record in optimizing performance (latency, throughput); experience profiling and benchmarking at a low level.</p>
-</li>
-<li style="">
-<p>Experience with network programming: TCP/UDP, protocol design, or low-level kernel/OS tuning.</p>
-</li>
-<li style="">
-<p>Familiarity with distributed systems, messaging, resilience under load, and graceful degradation.</p>
-</li>
-<li style="">
-<p>Excellent system-level thinking: balancing trade-offs (latency vs. safety vs. maintainability).</p>
-</li>
-<li style="">
-<p>Strong leadership and communication skills; ability to push standards, mentor juniors, and influence design across teams.</p>
-</li>
-</ul>
-<div class="h3"><strong>Nice to Have</strong></div>
-<ul style="">
-<li style="">
-<p>Prior HFT / proprietary trading / market making experience.</p>
-</li>
-<li style="">
-<p>Deep knowledge of financial market microstructure: order books, matching engines, FIX protocols, exchange connectivity.</p>
-</li>
-<li style="">
-<p>Experience or interest in hardware acceleration (FPGA), kernel bypass, DPDK, RDMA, or similar.</p>
-</li>
-<li style="">
-<p>Exposure to other languages/tools relevant to quant or trading environments: Python, scripting, data processing, GPUs.</p>
-</li>
-<li style="">
-<p>Advanced education (MS/PhD in CS, EE, Physics, Mathematics, etc.) is a plus but not required.</p>
-</li>
-</ul>
-<div class="h2"> </div>
-<div class="h3"><strong>What You’ll Gain</strong></div>
-<ul style="">
-<li style="">
-<p>A leadership role where your decisions shape both technical architecture and trading outcomes.</p>
-</li>
-<li style="">
-<p>Opportunities to tackle cutting-edge engineering challenges where performance, scale, and correctness are non-negotiable.</p>
-</li>
-<li style="">
-<p>Ability to mentor and grow a team; influence culture, standards, and technical excellence.</p>
-</li>
-<li style="">
-<p>Excellent compensation, bonuses, and profit-sharing aligned with results and contribution.</p>
-</li>
-<li style="">
-<p>A culture of high trust, where engineers have autonomy and the chance to experiment — and where learning from mistakes is valued.</p>
-</li>
-</ul>
-<div class="h2"> </div>
-<div class="h3"><strong>General: What Makes a Great Fit at Apexver</strong></div>
-<ul style="">
-<li style="">
-<p>You enjoy solving hard problems where edge vs. margin matters.</p>
-</li>
-<li style="">
-<p>You’re curious and love going “under the hood” — whether it’s the OS, hardware, or network layer.</p>
-</li>
-<li style="">
-<p>You take ownership end-to-end: from problem-solving and coding to testing, deploying, and monitoring.</p>
-</li>
-<li style="">
-<p>You thrive in flat, collaborative, fast-moving teams.</p>
-</li>
-<li style="">
-<p>You value clean code, correctness, performance, and pragmatism.</p>
-</li>
-</ul>
-<img src="https://remotive.com/job/track/2069728/blank.gif?source=public_api" alt=""/>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: 900;&quot;&gt;Work from anywhere, impact everywhere&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Diversity is at the heart of who we are at Xapo Bank. We’re a fully distributed team of over 130 Xapiens that work remotely from 40+ countries around the world.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Our beginning: A world that enjoys economic freedom and wealth protection, no matter where you live or who is running your country.&lt;/p&gt;
+&lt;p&gt;To achieve that, we search the world for the best people for the job. We work hard, think globally, and inspire each other to learn and grow. We are committed to changing the way things are done.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Risk is inherent in all of our business activities and managing risk well is the responsibility of every Xapien. Sound risk management enables us to serve our customers and deliver value for our shareholders, and helps make Xapo a great place to work.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Although we are headquartered in Gibraltar, this is a full time, 100% remote position&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Work from anywhere!&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;What You&#39;ll Do&amp;nbsp;&lt;br&gt;You won’t just be writing code; you’ll be shaping the future. As a Software Engineer at Xapo, you will design, build, and deploy high-impact backend services that are secure, fault-tolerant, and available to millions. You will take full ownership of the services your team creates, from initial design to production operations, all while being mentored by senior engineers.&lt;br&gt;You could join one of our dynamic, business domains:&lt;/div&gt;
+&lt;ul data-list-tree=&quot;true&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
+&lt;li&gt;WMT - Wealth Management Team: responsible for enabling Xapo members to access responsible investment opportunities and grow their wealth with Xapo investment products.&lt;/li&gt;
+&lt;li&gt;FCP - Financial Crime Prevention: team&#39;s purpose is to protect Xapo&#39;s bank members and business from financial crime, while providing a premium banking experience. Their responsibilities include:Customer Due Diligence, Transaction Screening, Compliance Services, Fraud Detection&lt;/li&gt;
+&lt;li&gt;CAR - Customer Acquisition and Retention: team is focused on the entire customer lifecycle, from attracting new members to ensuring that existing, valuable members continue to find value in their Xapo membership.&lt;/li&gt;
+&lt;li&gt;MMM - Member Money Movement: team empowers every Xapo member to interact seamlessly with fiat and crypto in a secure bank environment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;Who You Are&amp;nbsp;&lt;/div&gt;
+&lt;ul data-list-tree=&quot;true&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
+&lt;li&gt;You have a strong foundation in software engineering and are proficient in at least one programming language (we love Python!).&lt;/li&gt;
+&lt;li&gt;You&#39;re a natural collaborator with excellent communication skills who thrives in a team environment.&lt;/li&gt;
+&lt;li&gt;You have a basic understanding of microservices, cloud-native patterns, and container-based applications.&lt;/li&gt;
+&lt;li&gt;You&#39;re familiar with the full software development lifecycle and are keen on CI/CD and automated testing.&lt;/li&gt;
+&lt;li&gt;You are excited by concepts like Event-Driven Architecture and Domain-Driven Design.&lt;/li&gt;
+&lt;li&gt;Most importantly, you have a growth mindset. You&#39;re proactive, eager to learn, and excited to solve complex problems at the intersection of traditional finance and Bitcoin.&lt;/li&gt;
+&lt;li&gt;Our Tech Stack: We build with AWS, Docker, Python (Django, Flask), MySQL, MongoDB, Redis, PostgreSQL, Node.js, and more.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Why work for Xapo?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 500; font-size: 10pt;&quot;&gt;IMPACT GLOBALLY, WORK REMOTELY.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Shape the Future:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Improve lives through cutting-edge technology, work 100% remotely from anywhere in the world.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Great work-life balance:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Build amazing things with a balance of autonomy and collaborative teamwork. Set your own work schedule and make use of a flexible PTO plan when you need to recharge.&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Expect Excellence:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Collaborate, learn, and grow with a high-performance team. Learn&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; how you learn best - from books to conferences, you’ll get a yearly budget for your individual learning and development goals.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;At Xapo, we prioritize consumer protection and adhere to regulatory requirements by ensuring that all Xapiens are accountable for upholding principles of fair treatment, transparency, and ethical conduct in their interactions with customers and stakeholders.&lt;br&gt;&lt;br&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Xapo Device Policy&lt;br&gt;&lt;/span&gt;&lt;/strong&gt;Consultants joining Xapo Bank must comply with the Xapo Device Policy, which governs the use of corporate-approved laptops under Corporate-Owned, Personally Purchased Device (reimbursed up to $1,500) or Corporate-Owned, Personally Enabled Device (personal device with enforced security controls).&lt;br&gt;All devices must meet security requirements, enroll in Xapo’s Mobile Device Management (MDM), and adhere to compliance rules. COPPD devices remain Xapo property with buyback options upon exit. COPED users agree to data control measures, including mandatory corporate data wipes.&lt;br&gt;Compliance with the Xapo Device Policy is mandatory for all consultants, onboarding will not proceed without adherence to the policy.&lt;strong&gt;&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr></table>
