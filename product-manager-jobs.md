@@ -1,6 +1,6 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="google.com/s2/favicons?domain=coinmarketcap.com&sz=128" width="38px" height="auto">
+                    <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://coinmarketcap.com&size=128" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>CoinMarketCap</h5>
@@ -13,7 +13,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-product-manager-coinmarketcap-2933" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-product-manager-coinmarketcap-6889" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
