@@ -1,1 +1,25 @@
-<div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table></table>
+<div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1177267684574208000/54eG3WmW_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>SafetyWing</h5>
+                    <h3>Product Manager Intern </h3>
+                </td>
+                <td width="300">
+                    
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.realworkfromanywhere.com/jobs/product-manager-intern-safetywing-6396" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h2>🧘 Benefits beyond base pay:</h2> <ul><li><!--block-->A great team to learn from and collaborate with, in a fully remote, work-from-anywhere environment 🌏</li><li><!--block-->A fully paid 6-month internship with the opportunity to learn, grow, and make an impact</li><li><!--block-->Paid vacation days</li><li><!--block-->Monthly team meals budget to get to know the team</li><li><!--block-->Udemy subscription for the duration of your internship to support your learning&nbsp;</li><li><!--block-->Book budget for personal development books and recommended readings</li><li><!--block-->Nomad Insurance and Remote health&nbsp;</li></ul><div><!--block--><br></div><div><!--block-->🚀 We look forward to hearing from you!</div> <div><!--block-->At <strong>SafetyWing (YC W18)</strong>, we’re building a global social safety net for remote workers—simple health, insurance, and retirement products designed to replace national welfare systems. Our mission is to remove geographical borders as a barrier to equal opportunity and freedom for everyone. If we succeed, we believe this will be one of the most important tasks of our time.</div><div><!--block--><br></div> <h2>🌎 About this Role</h2>  <div><!--block-->As a Product Manager Intern, you’ll first learn how Remote Health works end-to-end. Once you’re grounded in the product and its operations, you’ll grow into ownership within our Platforms area gradually taking on a high level of responsibility and independence. You’ll help build new and improve existing integrations with partners, working closely with engineering and design to improve how data, pricing, eligibility, and plan selections sync between systems. Your work will help make these integrations more scalable as we grow, and will lay the groundwork for adding new products and add-ons to an increasingly important distribution channel.<br><br>💻<strong> Your responsibilities will include:</strong></div><ul><li><!--block-->Shadowing Product Managers, engineering, and design to understand Remote Health and how our partner integrations work.</li><li><!--block-->Taking ownership of improvements in the Platforms area - including making current integrations more scalable and supporting new partner integrations.</li><li><!--block-->Gradually moving from assisting on tasks to owning a defined product area with increasing independence.</li><li><!--block-->Helping shape and lead the roadmap for Platforms by the end of the internship, working closely with engineering, design, and the broader team.</li><li><!--block-->Additional responsibilities:<ul><li><!--block-->Assisting with bug triage and ensuring timely, high-quality fixes.</li><li><!--block-->Conducting user research and turning insights into actionable product decisions.</li><li><!--block-->Drafting product specs, user stories, and maintaining clear documentation.</li></ul></li></ul> <h2>🧪 We are looking for someone who:</h2> <ul><li><!--block-->Is entrepreneurial and self-driven</li><li><!--block-->Passionate about shaping products that people love</li><li><!--block-->Has a grasp understanding of the Product Management lifecycle</li><li><!--block-->Can take on responsibility for end-to-end processes from product research to implementation</li><li><!--block-->Is committed to dedicating <strong>6 months</strong> to this internship, full time, with an anticipated start date of <strong>April 1, 2026.</strong></li></ul><div><!--block--><strong>😀 We like to work with people who:</strong></div><ul><li><!--block-->Want to help build a global social safety net on the Internet.</li><li><!--block-->Think for themselves instead of copying others.</li><li><!--block-->Are willing to try new things, even with the risk of failure.</li><li><!--block-->Are intellectually curious and open to new ideas.</li><li><!--block-->Are creative and bold in the face of any problems.</li><li><!--block-->Have strong integrity and do the right thing.</li></ul>
+                </details>
+                </td>
+            </tr></table>
