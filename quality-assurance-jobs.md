@@ -4,15 +4,15 @@
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
-                    <h3>SDET Automation Lead (remote-only, worldwide remote)</h3>
+                    <h3>QA Engineer (worldwide remote, work anywhere)</h3>
                 </td>
                 <td width="300">
-                    <code>python</code>
+                    
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/sdet-automation-lead-remote-only-worldwide-remote-cloudlinux-6693" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/qa-engineer-worldwide-remote-work-anywhere-cloudlinux-9464" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
