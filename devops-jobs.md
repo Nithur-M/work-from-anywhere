@@ -4,15 +4,15 @@
                 </td>
                 <td width="300">
                     <h5>Supabase</h5>
-                    <h3>Platform Engineer - Multicloud</h3>
+                    <h3>AWS Tech Lead - Platform Operations</h3>
                 </td>
                 <td width="300">
-                    <code>postgres</code><code>kubernetes</code>
+                    <code>postgres</code><code>kubernetes</code><code>aws</code><code>typescript</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/platform-engineer-multicloud-supabase-5067" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/aws-tech-lead-platform-operations-supabase-3930" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
