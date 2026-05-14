@@ -1,18 +1,18 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100">
-                    <img src="https://avatars.githubusercontent.com/u/24515738?s=200&v=4" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>AssemblyAI</h5>
-                    <h3>Senior Software Engineer, Streaming</h3>
+                    <h5>Supabase</h5>
+                    <h3>Software Engineer: IaC Platform Experience</h3>
                 </td>
                 <td width="300">
-                    <code>llm</code><code>legal</code>
+                    <code>postgres</code><code>typescript</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-software-engineer-streaming-assemblyai-7586" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/software-engineer-iac-platform-experience-supabase-4325" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
