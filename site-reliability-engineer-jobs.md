@@ -4,15 +4,15 @@
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
-                    <h3>Senior Database Reliability Engineer (DBRE) & Architect (worldwide remote)</h3>
+                    <h3>Senior Database Reliability Engineer (DBRE) (worldwide remote)</h3>
                 </td>
                 <td width="300">
-                    <code>sql</code><code>redis</code><code>kubernetes</code><code>aws</code>
+                    <code>sql</code><code>redis</code><code>legal</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-database-reliability-engineer-dbre-architect-worldwide-remote-cloudlinux-26" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-database-reliability-engineer-dbre-worldwide-remote-cloudlinux-7775" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
