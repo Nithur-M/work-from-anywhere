@@ -4,15 +4,15 @@
                 </td>
                 <td width="300">
                     <h5>Camunda</h5>
-                    <h3>Manager, Cloud Infrastructure Engineering</h3>
+                    <h3>Senior Software Engineer, Kubernetes</h3>
                 </td>
                 <td width="300">
-                    <code>kubernetes</code>
+                    <code>kubernetes</code><code>aws</code><code>azure</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/manager-cloud-infrastructure-engineering-camunda-161" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-software-engineer-kubernetes-camunda-7066" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
