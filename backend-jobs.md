@@ -4,15 +4,15 @@
                 </td>
                 <td width="300">
                     <h5>Airalo</h5>
-                    <h3>PHP Developer, Core Network</h3>
+                    <h3>Backend/PHP Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>sql</code><code>aws</code><code>node.js</code><code>php</code>
+                    <code>sql</code><code>redis</code><code>docker</code><code>aws</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/php-developer-core-network-airalo-8064" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/backend-php-engineer-airalo-2023" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
