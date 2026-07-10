@@ -1,35 +1,18 @@
 <div align="center"><h2>SOFTWARE DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100">
-                    <img src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/3979584?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>LiveKit</h5>
-                    <h3>Forward Deployed Engineer </h3>
+                    <h5>Sourcegraph</h5>
+                    <h3>Software Engineer - Platform [IC3]</h3>
                 </td>
                 <td width="300">
-                    <code>python</code><code> rust</code><code>salesforce</code>
+                    <code>kubernetes</code><code>aws</code><code>azure</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/forward-deployed-engineer-livekit-1531" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100">
-                    <img src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>LiveKit</h5>
-                    <h3>Developer Success Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>salesforce</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/developer-success-engineer-livekit-7631" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/software-engineer-platform-ic3-sourcegraph-9613" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
