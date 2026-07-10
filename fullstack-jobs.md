@@ -4,7 +4,7 @@
                 </td>
                 <td width="300">
                     <h5>Circle</h5>
-                    <h3>Senior Full-stack Engineer, Applied AI</h3>
+                    <h3>Senior Full-Stack Software Engineer, Applied AI</h3>
                 </td>
                 <td width="300">
                     <code>mysql</code><code>ruby</code><code>react</code><code>llm</code>
@@ -13,6 +13,6 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-full-stack-engineer-applied-ai-circle-3844" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-full-stack-software-engineer-applied-ai-circle-180" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
