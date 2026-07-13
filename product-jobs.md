@@ -4,7 +4,7 @@
                 </td>
                 <td width="300">
                     <h5>Camunda</h5>
-                    <h3>Senior Product Builder</h3>
+                    <h3>Director, Product Building</h3>
                 </td>
                 <td width="300">
                     
@@ -13,6 +13,6 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-product-builder-camunda-7191" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/director-product-building-camunda-2994" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
