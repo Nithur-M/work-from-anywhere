@@ -4,32 +4,15 @@
                 </td>
                 <td width="300">
                     <h5>Istari</h5>
-                    <h3>Sr. Platform Engineer (Data Platform)</h3>
+                    <h3>Sr. Platform Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>python</code>
+                    <code>python</code><code>golang</code><code>typescript</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/sr-platform-engineer-data-platform-istari-3025" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100">
-                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>DevOps Engineer (worldwide remote, work anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code>sql</code><code>redis</code><code>docker</code><code>kubernetes</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/devops-engineer-worldwide-remote-work-anywhere-cloudlinux-8321" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/sr-platform-engineer-istari-8747" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
