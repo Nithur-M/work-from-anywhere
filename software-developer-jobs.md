@@ -1,69 +1,18 @@
 <div align="center"><h2>SOFTWARE DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100">
-                    <img src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>LiveKit</h5>
-                    <h3>Staff Software Engineer, Distributed Systems</h3>
+                    <h5>Supabase</h5>
+                    <h3>Release Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>kubernetes</code>
+                    <code>postgres</code><code>kubernetes</code><code>aws</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/staff-software-engineer-distributed-systems-livekit-6707" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100">
-                    <img src="https://avatars.githubusercontent.com/u/69215121?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clutch</h5>
-                    <h3>Senior Support Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>sql</code><code>aws</code><code>python</code><code>typescript</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-support-engineer-clutch-8933" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100">
-                    <img src="https://avatars.githubusercontent.com/u/2443838?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Camunda</h5>
-                    <h3>AI Process Forward Deployed Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>java </code><code>react</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/ai-process-forward-deployed-engineer-camunda-7641" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100">
-                    <img src="https://avatars.githubusercontent.com/u/2443838?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Camunda</h5>
-                    <h3>AI Forward Deployed Engineer, EMEA</h3>
-                </td>
-                <td width="300">
-                    <code>java </code><code>react</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/ai-forward-deployed-engineer-emea-camunda-7479" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/release-engineer-supabase-7108" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
