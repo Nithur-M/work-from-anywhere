@@ -4,15 +4,15 @@
                 </td>
                 <td width="300">
                     <h5>Supabase</h5>
-                    <h3>Frontend Engineer</h3>
+                    <h3>SDK Engineer - JavaScript</h3>
                 </td>
                 <td width="300">
-                    <code>typescript</code><code>react</code>
+                    <code>postgres</code><code>javascript</code><code>typescript</code><code>react</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/frontend-engineer-supabase-1538" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/sdk-engineer-javascript-supabase-7934" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
