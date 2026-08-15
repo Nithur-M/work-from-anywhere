@@ -4,15 +4,15 @@
                 </td>
                 <td width="300">
                     <h5>LiveKit</h5>
-                    <h3>Staff Product Manager, Telephony</h3>
+                    <h3>Staff Product Manager, Growth</h3>
                 </td>
                 <td width="300">
-                    <code>salesforce</code>
+                    <code>sql</code><code>salesforce</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/staff-product-manager-telephony-livekit-6929" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/staff-product-manager-growth-livekit-1077" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
