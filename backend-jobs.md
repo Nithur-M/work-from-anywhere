@@ -4,15 +4,15 @@
                 </td>
                 <td width="300">
                     <h5>Camunda</h5>
-                    <h3>Senior Software Engineer, Backend</h3>
+                    <h3>Senior Software Engineer, Backend - Distributed Systems</h3>
                 </td>
                 <td width="300">
-                    <code>docker</code><code>python</code><code>java </code>
+                    <code>java </code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-software-engineer-backend-camunda-4297" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-software-engineer-backend-distributed-systems-camunda-6167" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
