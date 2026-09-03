@@ -4,15 +4,32 @@
                 </td>
                 <td width="300">
                     <h5>Supabase</h5>
-                    <h3>AI Platform Engineer</h3>
+                    <h3>Platform Security Engineer (AMER/APAC)</h3>
                 </td>
                 <td width="300">
-                    <code>postgres</code><code>python</code><code>llm</code>
+                    <code>postgres</code><code>kubernetes</code><code>aws</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/ai-platform-engineer-supabase-3728" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/platform-security-engineer-amer-apac-supabase-2575" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100">
+                    <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Supabase</h5>
+                    <h3>Platform Engineer - Compute Capacity</h3>
+                </td>
+                <td width="300">
+                    <code>postgres</code><code>aws</code><code>python</code><code>typescript</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100">
+                <a href="https://www.realworkfromanywhere.com/jobs/platform-engineer-compute-capacity-supabase-5387" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
