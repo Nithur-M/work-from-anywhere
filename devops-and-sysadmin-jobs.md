@@ -1,35 +1,18 @@
 <div align="center"><h2>DEVOPS AND SYSADMIN JOBS</h2></div><table><tr>
                 <td width="100" height="100">
-                    <img src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/14176906?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>LiveKit</h5>
-                    <h3>Staff Security Engineer</h3>
+                    <h5>Parity</h5>
+                    <h3>SRE Manager</h3>
                 </td>
                 <td width="300">
-                    <code>aws</code><code>salesforce</code>
+                    <code>blockchain</code><code>solidity</code><code>ethereum</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/staff-security-engineer-livekit-7349" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100">
-                    <img src="https://avatars.githubusercontent.com/u/69215121?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clutch</h5>
-                    <h3>Senior Forward Deployment Engineer </h3>
-                </td>
-                <td width="300">
-                    <code>aws</code><code>google cloud</code><code>azure</code><code>node.js</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-forward-deployment-engineer-clutch-6646" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/sre-manager-parity-1127" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
