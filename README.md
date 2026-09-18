@@ -38,10 +38,10 @@
 Can't find what you are looking for? <a href="https://github.com/nithur-m/work-from-anywhere/issues/new/choose">please let me know.</a>
 
 <h2>Are you hiring?</h2>
-Do you want to post a job ad here? <a href="https://www.realworkfromanywhere.com/hiring?utm_source=github&utm_medium=readme&utm_campaign=hiring" target="_blank">Post a job</a> — $299 for 60 days, with bundles for multiple roles.
+Do you want to post a job ad here? <a href="https://www.realworkfromanywhere.com/hiring?utm_source=github&utm_medium=readme&utm_campaign=hiring" target="_blank">Post a job on our site.</a>
 
 <br /><p>Please note that this repository is only for location independent remote (fully work from anywhere) jobs.</p>
 
 <h2>Are you searching for a fully remote job right now?</h2>
 <p>Visit our site here: <a href="https://www.realworkfromanywhere.com/" target="_blank">Real Work From Anywhere</a></p>
-Want the best work from anywhere jobs in your inbox every week? <a href="https://www.realworkfromanywhere.com/newsletter?utm_source=github&utm_medium=readme&utm_campaign=subscribe" target="_blank">Subscribe here</a> — joining 30,000+ remote workers.
+Want the best work from anywhere jobs in your inbox every week? <a href="https://www.realworkfromanywhere.com/newsletter?utm_source=github&utm_medium=readme&utm_campaign=subscribe" target="_blank">Subscribe here.</a>
