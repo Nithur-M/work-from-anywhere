@@ -1,35 +1,69 @@
 <div align="center"><h2>SOFTWARE DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100">
-                    <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://bolt.new&size=128" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/2443838?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Bolt.new</h5>
-                    <h3>Senior Software Engineer - Rails</h3>
+                    <h5>Camunda</h5>
+                    <h3>Senior Software Engineer, Kubernetes </h3>
                 </td>
                 <td width="300">
-                    <code>aws</code><code>node.js</code><code>ruby</code><code>typescript</code>
+                    <code>kubernetes</code><code>aws</code><code>azure</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-software-engineer-rails-bolt-new-4277" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-software-engineer-kubernetes-camunda-5035" align="right" target="_blank">Apply</a>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100">
-                    <img src="https://avatars.githubusercontent.com/u/20427700?s=200&v=4" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/2443838?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Raya</h5>
-                    <h3>DevSecOps Engineer</h3>
+                    <h5>Camunda</h5>
+                    <h3>Senior Software Engineer, Engineering Operations</h3>
                 </td>
                 <td width="300">
-                    <code>redis</code><code>docker</code><code>kubernetes</code><code>aws</code>
+                    <code>docker</code><code>python</code><code>java </code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/devsecops-engineer-raya-3191" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-software-engineer-engineering-operations-camunda-1118" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100">
+                    <img src="https://avatars.githubusercontent.com/u/53057619?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Engineering Manager - App Stores</h3>
+                </td>
+                <td width="300">
+                    <code>python</code><code>golang</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100">
+                <a href="https://www.realworkfromanywhere.com/jobs/engineering-manager-app-stores-canonical-6047" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100">
+                    <img src="https://avatars.githubusercontent.com/u/342708?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>DuckDuckGo</h5>
+                    <h3>Director, Site Reliability Engineering</h3>
+                </td>
+                <td width="300">
+                    <code>docker</code><code>python</code><code>typescript</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100">
+                <a href="https://www.realworkfromanywhere.com/jobs/director-site-reliability-engineering-duckduckgo-1511" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
