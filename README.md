@@ -35,12 +35,11 @@
 + [Software Engineer Jobs](software-engineer-jobs.md)
 + [UI/UX Designer Jobs](ui-ux-jobs.md)
 
-Can't find what you are looking for? <a href="https://github.com/nithur-m/work-from-anywhere/issues/new/choose">please let me know.</a>
+<h2>Looking for remote AI jobs?</h2>
+<p>Check out <a href="https://www.moaijobs.com/remote-ai-jobs?utm_source=github&utm_medium=readme" target="_blank">MoAIJobs</a> — a job board for AI jobs.</p>
 
 <h2>Are you hiring?</h2>
-Do you want to post a job ad here? <a href="https://www.realworkfromanywhere.com/hiring?utm_source=github&utm_medium=readme&utm_campaign=hiring" target="_blank">Post a job on our site.</a>
-
-<br /><p>Please note that this repository is only for location independent remote (fully work from anywhere) jobs.</p>
+You can reach top remote talent globally on our site. <a href="https://www.realworkfromanywhere.com/hiring?utm_source=github&utm_medium=readme" target="_blank">Post a job on our site.</a> <br />
 
 <h2>Are you searching for a fully remote job right now?</h2>
 <p>Visit our site here: <a href="https://www.realworkfromanywhere.com/" target="_blank">Real Work From Anywhere</a></p>
