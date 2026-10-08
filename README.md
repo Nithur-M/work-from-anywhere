@@ -14,7 +14,9 @@
 <h2>🌐 Visit our website: <a href="https://www.realworkfromanywhere.com/" target="_blank">Real Work from Anywhere</a></h2>
 <h2>Why this project?</h2>
 
-<p>When I say work from anywhere, I mean it. My goal with this project is to curate best location independent jobs at one place. <br><br>There are multiple remote job boards out there. But most remote jobs allow the employees to work remotely from only a specific location. That's why I am building this repo. This repo is updated daily.</p>
+<p>Most "remote" jobs only let you work from a specific country or time zone. This repo lists only jobs you can truly do from anywhere.</p>
+
+<p>There are multiple remote job boards out there. But most remote jobs allow the employees to work remotely from only a specific location. That's why I am building this repo. This repo is updated daily.</p>
 
 <p>I used to curate fully work from anywhere remote jobs from feeds like RemoteOk, WeWorkRemotely, etc. But over time, I learned it's huge waste of time for job seekers to hop between multiple sites to apply to jobs, so, I am currently curating jobs directly from company careers pages. Enjoy!</p>
 
