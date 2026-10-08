@@ -20,7 +20,7 @@
 
 <p>I used to curate fully work from anywhere remote jobs from feeds like RemoteOk, WeWorkRemotely, etc. But over time, I learned it's huge waste of time for job seekers to hop between multiple sites to apply to jobs, so, I am currently curating jobs directly from company careers pages. Enjoy!</p>
 
-### Love this project? <a href="https://github.com/nithur-m/work-from-anywhere">Please leave a star⭐️</a>
+#### Love this project? Please leave a star⭐️
 
 <h2>Job Categories</h2>
 
