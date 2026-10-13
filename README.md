@@ -22,6 +22,23 @@
 
 #### Love this project? Please leave a star⭐️
 
+## **Sponsored by Zapply**
+[![Apply to jobs in seconds with Zapply.](assets/apply-faster-banner.png)](https://www.realworkfromanywhere.com/go/zapply)
+
+Explore Zapply’s website and check out:
+- Our Chrome extension, which autofills job applications in seconds.
+- A dedicated job board featuring the latest openings across various roles.
+- User accounts with multiple profiles for different resume types and roles.
+- Job application tracking with streaks and commitment awards.
+
+Experience an advanced career journey with us! 🚀
+
+<p align="center">
+  <a href="https://www.realworkfromanywhere.com/go/zapply">
+    <img src="assets/get-started-button.png" alt="Visit Zapply" width="700">
+  </a>
+</p>
+
 <h2>Job Categories</h2>
 
 + [Backend Jobs](backend-jobs.md)
