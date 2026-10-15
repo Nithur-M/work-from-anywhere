@@ -4,7 +4,7 @@
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
-                    <h3>Full Stack Engineer (Angular/Python) (remote work)</h3>
+                    <h3>Full Stack Engineer (Angular & Python) (remote work)</h3>
                 </td>
                 <td width="300">
                     <code>postgres</code><code>sql</code><code>php</code><code>python</code>
@@ -13,6 +13,6 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/full-stack-engineer-angular-python-remote-work-cloudlinux-3983" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/full-stack-engineer-angular-python-remote-work-cloudlinux-4362" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
