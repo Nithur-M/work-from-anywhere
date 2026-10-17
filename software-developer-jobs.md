@@ -4,66 +4,32 @@
                 </td>
                 <td width="300">
                     <h5>Fingerprint</h5>
-                    <h3>Senior Engineer, Identification</h3>
+                    <h3>Engineering Manager, Automation Intelligence</h3>
                 </td>
                 <td width="300">
-                    <code>sql</code><code>redis</code><code>docker</code><code>kubernetes</code>
+                    <code>redis</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-engineer-identification-fingerprint-7645" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/engineering-manager-automation-intelligence-fingerprint-6132" align="right" target="_blank">Apply</a>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100">
-                    <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="38px" height="auto">
+                    <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://0x.org&size=128" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Supabase</h5>
-                    <h3>FinOps Data Engineer </h3>
+                    <h5>0x</h5>
+                    <h3>Senior Software Engineer, API Products</h3>
                 </td>
                 <td width="300">
-                    <code>sql</code><code>aws</code><code>python</code>
+                    <code>typescript</code><code> rust</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/finops-data-engineer-supabase-8680" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100">
-                    <img src="https://avatars.githubusercontent.com/u/14176906?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Parity</h5>
-                    <h3>Engineering Manager</h3>
-                </td>
-                <td width="300">
-                    <code>blockchain</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/engineering-manager-parity-993" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100">
-                    <img src="https://avatars.githubusercontent.com/u/342708?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>DuckDuckGo</h5>
-                    <h3>Senior C++ Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>c++</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-c-engineer-duckduckgo-7910" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-software-engineer-api-products-0x-555" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
