@@ -1,18 +1,18 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100">
-                    <img src="https://avatars.githubusercontent.com/u/16290369?s=200&v=4" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Python Software Engineer (remote work)</h3>
+                    <h5>Supabase</h5>
+                    <h3>SDK Engineer - Python</h3>
                 </td>
                 <td width="300">
-                    <code>sql</code><code>python</code><code>django</code>
+                    <code>postgres</code><code>python</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/python-software-engineer-remote-work-cloudlinux-2958" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/sdk-engineer-python-supabase-5539" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
