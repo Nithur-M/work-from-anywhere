@@ -4,15 +4,15 @@
                 </td>
                 <td width="300">
                     <h5>Supabase</h5>
-                    <h3>Software Engineer - AI Tooling Infrastructure</h3>
+                    <h3>Senior Developer Relations, Twitter Brand Rep</h3>
                 </td>
                 <td width="300">
-                    <code>postgres</code><code>docker</code><code>node.js</code><code>typescript</code>
+                    <code>postgres</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/software-engineer-ai-tooling-infrastructure-supabase-9837" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-developer-relations-twitter-brand-rep-supabase-3932" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
