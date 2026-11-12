@@ -4,15 +4,49 @@
                 </td>
                 <td width="300">
                     <h5>Supabase</h5>
-                    <h3>Software Engineer - AI Tooling</h3>
+                    <h3>Engineering Manager - Realtime</h3>
                 </td>
                 <td width="300">
-                    <code>postgres</code><code>javascript</code><code>typescript</code>
+                    <code>postgres</code><code>elixir</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/software-engineer-ai-tooling-supabase-5755" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/engineering-manager-realtime-supabase-2551" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100">
+                    <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Supabase</h5>
+                    <h3>Engineering Manager - Pipelines</h3>
+                </td>
+                <td width="300">
+                    <code>postgres</code><code> rust</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100">
+                <a href="https://www.realworkfromanywhere.com/jobs/engineering-manager-pipelines-supabase-9885" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100">
+                    <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Supabase</h5>
+                    <h3>Developer Relations Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>postgres</code><code>javascript</code><code>typescript</code><code>react</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100">
+                <a href="https://www.realworkfromanywhere.com/jobs/developer-relations-engineer-supabase-1117" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
