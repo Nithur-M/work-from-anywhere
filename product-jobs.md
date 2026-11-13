@@ -4,7 +4,7 @@
                 </td>
                 <td width="300">
                     <h5>Kit</h5>
-                    <h3>Senior Product Marketing Manager</h3>
+                    <h3>Senior Product Marketing Manager - Enterprise & Mid-Market</h3>
                 </td>
                 <td width="300">
                     
@@ -13,6 +13,40 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100">
-                <a href="https://www.realworkfromanywhere.com/jobs/senior-product-marketing-manager-kit-2119" align="right" target="_blank">Apply</a>
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-product-marketing-manager-enterprise-mid-market-kit-6108" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100">
+                    <img src="https://avatars.githubusercontent.com/u/10557747?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Kit</h5>
+                    <h3>Senior Product Marketing Manager - Upmarket</h3>
+                </td>
+                <td width="300">
+                    
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100">
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-product-marketing-manager-upmarket-kit-8995" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100">
+                    <img src="https://avatars.githubusercontent.com/u/10557747?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Kit</h5>
+                    <h3>Senior Product Marketing Manager - Scaling Creators</h3>
+                </td>
+                <td width="300">
+                    
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100">
+                <a href="https://www.realworkfromanywhere.com/jobs/senior-product-marketing-manager-scaling-creators-kit-7726" align="right" target="_blank">Apply</a>
                 </td>
             </tr></table>
